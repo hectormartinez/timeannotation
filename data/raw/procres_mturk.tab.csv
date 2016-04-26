@@ -1,4 +1,4 @@
-HITId	WorkTimeInSeconds	Input.globalindex	Input.lemma	Input.lemmaindex	Input.lleftcontext	Input.lheadword	Input.lrightcontext	Input.gs_expert	Answer.Category
+HITId	WorkTimeInSeconds	Input_globalindex	Input_lemma	Input_lemmaindex	Input_lleftcontext	Input_lheadword	Input_lrightcontext	Input_gs_expert	Answer_Category
 2VTDPGFL6VCPJQWQ5SNISV1TPYX5K5	6	-5	examination	0	The doctor's	examination	of the patient was successful.	PROC	Category1
 2VTDPGFL6VCPJQWQ5SNISV1TPYX5K5	17	-5	examination	0	The doctor's	examination	of the patient was successful.	PROC	Category1
 2VTDPGFL6VCPJQWQ5SNISV1TPYX5K5	96	-5	examination	0	The doctor's	examination	of the patient was successful.	PROC	Category1
