@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>8960</ID>
+    <SENTENCE>Gotovo tri godine nakon transplantacije liječnici su sigurni da su uspjeli pronaći lijek za HIV.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8959</ID>
+    <SENTENCE>9. Dođi, sigurno iščekivanje onih koji se imaju spasiti !</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3454</ID>
+    <SENTENCE>Glavni je takmac siguran seks – termin zbog kojeg počinjete cijeniti istinu stare izjave: "Nije li seks s kondomom kao tuširanje u kabanici ?".</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3453</ID>
+    <SENTENCE>Iako pregovaraju s Grantom, u Hajduku nisu sigurni u kojoj bi ulozi bivši Chelseajev trener došao u Hajduk.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3596</ID>
+    <SENTENCE>To je sigurno isplativo i mi bismo sigurno pokrili svoje troškove, no tu je jako mnogo posla.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3542</ID>
+    <SENTENCE>HDZ kao velika stranka nije potpisao taj zahtjev, ali je očito ušao "u zamku da ide za njima i nije sigurno kako će njegovi vijećnici glasovati na sjednici 22. travnja. No većina tih stranaka (HČSP, HKDU, HP, HSP, HSLS i HSP-1861) na idućim izborima najvjerojatnije neće ući ni u Gradsko vijeće i to je" njihov labuđi pjev ", kazao je Jurjević, dodavši da u" njihovim pokušajima ima iracionalnog ponašanja, usamljenih jahača i osobnih osveta ".</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3518</ID>
+    <SENTENCE>Malo sam proguglao i Dell inspiron 150 dolazi i sa 128 MB i sa 256 MB grafickim karitcama, jesi siguran da je taj kojeg si kupio sa 256 mb ?</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3594</ID>
+    <SENTENCE>Osim televizija, sasvim je sigurno da će svoj interes u sudjelovanju na TV-sajmu pronaći i nezavisne producentske kuće, koje će na jednom mjestu svoje sadržaje moći ponuditi televizijama iz regije.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3407</ID>
+    <SENTENCE>Sigurno je da će investitori poduzeti sve potrebne mjere za sprječavanje zagađenja, no industrija u tehnološkim procesima može koristiti i opasne tvari – istaknuo je Leonard Sekovanić, samostalni inženjer u Hrvatskim vodama.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>Sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8915</ID>
+    <SENTENCE>Znači da je mogu biti sigurni da će izgubiti posao ako njihova greška uzrokuje gubitke, ali jednako tako moraju biti sigurni da će dobiti nagradu za ideje koje će dovesti do boljeg poslovanja.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3446</ID>
+    <SENTENCE>Iako je teško profilirati karakterističan tip kupca za ovakav proizvod, gotovo je sigurno da će ponoviti prodajni uspjeh starijeg brata.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3482</ID>
+    <SENTENCE>Planirali su poslati četvrtu lokomotivu iz Labina Dalmatinskog da vide što će se dogoditi, ali to nismo dopustili jer pruga još nije očišćena i nije sigurna – kazao je Nenad Mrgan, predsjednik Sindikata strojovođa.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>149</STARTINDEX>
+    <ENDINDEX>156</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8982</ID>
+    <SENTENCE>Konačno, u dubrovačkoj anonimnoj komediji s kraja 17. stoljeća Džono Funkjelica T. Matić pronašao je izraz "dvije kokoši babunače kosalice", što je sigurno u vezi s kosalište, odnosno s kosao.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8937</ID>
+    <SENTENCE>"Vrata su mu prikliještila skočni zglob pri čemu je slomljena četvrta metastarzalna kost u stopalu. To je vrlo problematična ozljeda i još nismo sigurni koliko će dugo izbivati", rekao nam je Ćiro.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3476</ID>
+    <SENTENCE>Kako bi osigurale siguran prolaz hrani, lijekovima i naoružanju za američke vojnike te organizacije se ne libe od potplaćivanja talibanskih vođa.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3554</ID>
+    <SENTENCE>"Jedina činjenica u koju smo sigurni je to da su do sredine 2002. Mladića čuvali u prostorima koje je kontrolirala vojska. Nakon toga skrivao se u civilnim prostorima." - kazao je.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3435</ID>
+    <SENTENCE>Ukoliko raspolažete viškom novčanih sredstava koja Vam trenutno nisu neophodna, uz konkurentne kamatne stope koje Vam donose sigurnu zaradu, nudimo Vam rokove oročavanja od preko 1 mjeseca do preko 36 mjeseci.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3507</ID>
+    <SENTENCE>Kosor je sigurna kako će Bošnjaković biti uspješan i da će prionuti velikom poslu.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3450</ID>
+    <SENTENCE>Quagliarellu nije obeshrabrio poništeni gol pa je već par minuta kasnije zabio svoj prvi priznati pogodak na utakmici, a onda u 58. minuti još jednom pogodio za 1: 3 i siguran trijumf 'Stare dame'.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+      <SENSEID>A.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>168</STARTINDEX>
+    <ENDINDEX>175</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3558</ID>
+    <SENTENCE>Ruski premijer Vladimir Putin rekao je da spava samo kad je njegov bliski saveznik Dmitrij Medvedev budan kako bi bili sigurni da se zemljom, koja se proteže kroz devet vremenskih zona, uvijek dobro upravlja.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3597</ID>
+    <SENTENCE>Gudelj i Brajković su i nadalje prijetili, da bi u 75. minuti Brajković iz slobodnog udarca u šesnaestercu pronašao Gudelja koji je loptu glavom prenio prema Suraću, a ovaj sigurnim udarcem postigao četvrti zadarski zgoditak.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>173</STARTINDEX>
+    <ENDINDEX>181</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8996</ID>
+    <SENTENCE>DUBROVNIK - Još uvijek nije poznato je li zbog tragične situacije došlo zbog zimskog odmora domaćih stilista ili su pak domaće estradne zvjezdice "čisto onako" odlučile preuzeti stvar u svoje ruke, ali jedno je sigurno - Festa 2009. pamtit će se po najgorim modnim izdanjima ikad viđenima na hrvatskoj estradi.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>211</STARTINDEX>
+    <ENDINDEX>218</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3553</ID>
+    <SENTENCE>Ideja je na pretek, a ako niste sigurne u što da se zamaskirate ove Noći vještica savjetujemo vam da zavirite u našu galeriju i inspiraciju potražite u slavnima !</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3456</ID>
+    <SENTENCE>Tica navodi da se uz gotovo 50.000 izgubljenih radnih mjesta stvara nesigurnost u pogledu primanja te kupci dodatno odgađaju kupnju i čekaju sigurnija vremena.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnija</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>141</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8930</ID>
+    <SENTENCE>Samo je 20 posto anketiranih izjavilo da su gotovo sigurni da neće putovati ove godine, što je znatno manje nego prošle godine kada ih je sigurno bilo 33 posto.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>145</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3546</ID>
+    <SENTENCE>Siguran sam da će svi posjetitelji uživati. ".</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>Siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3513</ID>
+    <SENTENCE>Dolaskom novog predsjednika na vlast Kolumbija se okrenula borbi protiv kartela i kokainske mafije te je sve sigurnije odredište za putovanje.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9000</ID>
+    <SENTENCE>"Jako mi je drago što ću taj vikend u klubu opet vidjeti Patricka Vieiru. Patrick dolazi na gostovanje s Interom i siguran sam da će ga navijači sjajno primiti. Također, s Valencijom nam u goste dolazi i Edu. Uvijek mi je drago kad bivši igrači ostanu u dobrom odnosu s klubom, a kod ove je dvojice to slučaj", zaključuje Wenger.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8968</ID>
+    <SENTENCE>Stanovništvo je privremeno smješteno u škole ili na druga sigurna mjesta, a Kammerer dodaje da je stanje u Duernkrutu dramatično, te da je u ovom trenutku nemoguće popravljati branu.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3595</ID>
+    <SENTENCE>Kolikogod je sigurno da će Sunčeva trilogija privući ljude koji donedavna nisu niti razmišljali o stripu, toliko je sigurno da veliki dio njih neće ostati u svijetu stripa.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3405</ID>
+    <SENTENCE>Ovaj sustav je realiziran upravo s tim ciljem i sigurni smo da će Vam u tome dosta pomoći, baš zbog svoje jednostavnosti i velike fleksibilnosti prilikom uporabe.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3575</ID>
+    <SENTENCE>Naime posve je sigurno da bi Gibonni i bez potpore respektabilnih svjetskih glazbenika poput Manu Katchea, Tonyja Levina, Geoffreyja Oryeme pa i Vlatka Stefanovskog, kao od šale napunio veliku dvoranu.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3547</ID>
+    <SENTENCE>- Iskreno, nisam siguran da će se to dogoditi.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3436</ID>
+    <SENTENCE>Jedan od razloga snimanja ovakvih nekomercijalnih projekata je sigurno i dosta veća pristupačnost tonskim studijima u odnosu na prošla vremena.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3599</ID>
+    <SENTENCE>Staljin bio siguran da će dobiti.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8971</ID>
+    <SENTENCE>"Nisam siguran da su predali formalan odgovor ali je to očito nedostatan odgovor", rekao je novinarima.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8941</ID>
+    <SENTENCE>Premda mu je ovo drugi pokušaj apstinencije od alkohola, kazao je da je više nego siguran da se izliječio zauvijek.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8919</ID>
+    <SENTENCE>Nisam siguran, mislim da ne bih.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3508</ID>
+    <SENTENCE>I kod trećeg zgoditka je bio umijeąan Ćavar - uputio je loptu u ąesnaesterac gdje je Milak neoprezno igrao rukom da bi Trampus bio siguran s bijele točke.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>131</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3510</ID>
+    <SENTENCE>Vrlo tanki kondomi su jednako sigurni kao oni drugi.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3588</ID>
+    <SENTENCE>ZAGREB - Operacija spašavanja ribiča s plutajuće sante leda koja se odlomila u Ohotskom moru na jugoistoku Sahalina, otoka na dalekom istoku Rusije, uspješno je završena u nedjelju i 75 ljudi je na sigurnom, javili su ruski mediji pozivajući se na informacije ministarstva za izvanredne situacije.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>198</STARTINDEX>
+    <ENDINDEX>206</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8958</ID>
+    <SENTENCE>Predsjednica Vlade ima sigurnu potporu, samo mora učiniti sve i i cijela Vlada ima potporu, a da bi svi članovi Vlade imali potporu javnosti, mora ostvariti neke uvjete od kojih sam neke spomenuo u gornjem dijelu mojeg komentara.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3479</ID>
+    <SENTENCE>Za razliku od svoje mlađe sestre, 24-godišnja Tamara, televizijska prezenterica, na nedavnoj je zabavi bila odlično raspoložena, čemu je sigurno pridonijelo prisustvo i njezina dečka, 31-godišnjeg Ga ­ vina De ­ ina.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8920</ID>
+    <SENTENCE>"Problem Ljubljanske banke je tu, on postoji, ali ćemo ga rješavati. A moramo ga riješiti na način slobodnog tržišta, ali i poštovanja obveze prema građanima", kazao je Josipović koji je, kako je kazao, siguran da će Jadranka Kosor pronaći pravi put da se taj problem riješi.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>203</STARTINDEX>
+    <ENDINDEX>210</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8929</ID>
+    <SENTENCE>No, ni njegova fotelja još nije sasvim sigurna, s obzirom da Turci sad očekuju da će s lakoćom poraziti Hrvatsku.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3549</ID>
+    <SENTENCE>Siguran sam, jasno, siguran sam onoliko koliko se u nogometu može biti siguran.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>Siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3465</ID>
+    <SENTENCE>U idućem kolu protiv Hemofarma za pobjedu će sasvim sigurno trebati nešto više, no o tom potom.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3497</ID>
+    <SENTENCE>Raskid ugovora je privremen, na rok od tri mjeseca, i u tom razdoblju možda dođe do novih odluka, ali zasad je Čikeš gotovo siguran da će umjetničku karijeru nastaviti u drugoj sredini.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3535</ID>
+    <SENTENCE>Nismo sigurni prodaje li se majica prema očekivanju trgovca iz Nottinghama, no uvjereni smo da će se pojaviti poneki nezadovoljni kupac.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3505</ID>
+    <SENTENCE>Ukoliko se već bavite trčanjem, sigurni smo da će vam ova predavanja pomoći da usavršite svoje znanje i tehniku.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3504</ID>
+    <SENTENCE>Napisana je za ljude koji su spremni napustiti siguran posao i potražiti vlastiti svijet financijske slobode kroz duboke profesionalne i financijske promjene u životima.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3433</ID>
+    <SENTENCE>Sada sam još sigurniji da si obična budala.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurniji</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8922</ID>
+    <SENTENCE>Sve je teklo odlično do trenutka kada na jednom stageu Franjo nije na "boberu" tresnuo dva "missa" što mu je sigurno odnijelo drugo mjesto Production ukupno.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8932</ID>
+    <SENTENCE>Pokretanjem AMC Autoškole AutoZubak se uključuje u edukaciju i programe osposobljavanja vozača kojoj je osnovni cilj stvaranje sigurnih sudionika u prometu.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8991</ID>
+    <SENTENCE>Hoće li ovaj trend zaživjeti na našim ulicama, ne znamo, ali smo sigurni da će oni koji zapale na Hvar definitivno shvatiti poruku ovoga članka.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3526</ID>
+    <SENTENCE>Međutim, smatra, da li je i kako bilo genocida o tome će se vrlo ozbiljno razmatrati te da javnost mora znati kako rezultat nije sasvim siguran.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>136</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3514</ID>
+    <SENTENCE>10. Kad odlaziš u bar, siguran si da mo &amp; zcaron ; eš trgnuti bar jedno pivo.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3592</ID>
+    <SENTENCE>Stvar je ukusa i o izvornoj seriji možete imati pozitivno ili negativno mišljenje, ali kada znate da na području humorističnih televizijskih uradaka nismo imali prevelikih uspjeha, sama ideja domaćih "Bračnih voda" djeluje kao loša šala, a budimo sigurni, loših fora neće nedostajati.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>247</STARTINDEX>
+    <ENDINDEX>254</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3431</ID>
+    <SENTENCE>Spretno putujte prema odredišto i pismo čuvajte na sigurnom.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3452</ID>
+    <SENTENCE>Možete biti sigurni da će Analytics precizno pratiti podatke o emisiji CO2.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3447</ID>
+    <SENTENCE>Kako drugdje tako i u Panoniji imamo sigurnijih podataka o kršćanstvu iz vremena krvavih progona, osobito za cara Dioklecijana.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnijih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3494</ID>
+    <SENTENCE>Zaprešićani nas respektiraju, u to sam siguran, pa čak imam informacije da nas se boje.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8986</ID>
+    <SENTENCE>Poslovično sigurno i provjereno HP jamstvo koje jamči izlazak servisera na lokaciju korisnika sljedeći radni dan po prijavi kvara i započinjanje popravka, napredni alati za uvid u stanje servera i management na daljinu, Systems Insight Display koji olakšava dijagnostiku kvara koji se dogodio ili bi se uskoro mogao dogoditi (predjamstvo na otkazivanje memorije, diskova i procesora) te iznimne mogućnosti proširenja (do 2 procesora, do 192 GB RAM-a, do 16 2.5 "diskova, redundantno napajanje) čine ovaj server definitivnim best buy izborom za svako SMB, ali i Enterprise okruženje !</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8938</ID>
+    <SENTENCE>Na temelju svog mukotrpnog iskustva siguran sam samo u jedno: ništa nije sigurno.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3458</ID>
+    <SENTENCE>To je sigurno bila jedna od rijetkih scena u povijesti ratovanja, gdje biciklisti ratuju protiv konjanika !</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8928</ID>
+    <SENTENCE>Siguran sam da razabire da kulturu valja štititi prije no što potone na dno.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>Siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8954</ID>
+    <SENTENCE>Stoga se preporučuje svim ženama starijim od 50 godina da najmanje jednom godišnje učine mamografski pregled dojke, kako bi bile sigurne u svoje zdravlje.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8962</ID>
+    <SENTENCE>Budući da se sezona nastupa estradnih zvijezda u "Aurori" već razmahala, Jurić se, naime, pobrinuo za siguran dolazak i povratak svojih gostiju na željeno mjesto.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3583</ID>
+    <SENTENCE>Kako (sigurna sam) i sami već znate da je uživanje alkohola štetno, osobito ako se radi o svakodnevno količinama većim od npr.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3472</ID>
+    <SENTENCE>U svakom slučaju, jednom kada B posjeduje A-ov certifikat, B pouzdano zna da će poruke kriptirane A-ovim javnim ključem biti sigurne.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8965</ID>
+    <SENTENCE>Meriva je također ergonomski dizajnirana tako da su automobil i putnici u neprestanoj učinkovitoj i sigurnoj interakciji.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3460</ID>
+    <SENTENCE>Kada bi me i najpovrsnije poznavala bila bi sigurna kako mi u tom kosu nije mjesto.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3490</ID>
+    <SENTENCE>Ali gotovo sam siguran da jedan od tih stanova pripada njima, i da ga mogu prodati.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3404</ID>
+    <SENTENCE>Dolazak američkog gorostasa još nije sasvim siguran, no organizatori spektakla vjeruju kako Splićani neće biti uskraćeni za ovakvu borilački spektakl.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3581</ID>
+    <SENTENCE>- To je više moguće nego nemoguće, ali još nije potpuno sigurno.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3488</ID>
+    <SENTENCE>Ovakav postupak je nužan prvenstveno zbog zaštite korsinika kako neovlaštene osobe ne bi zatražile brisanje domene, odnosno kako bi bili sigurni u identitet osobe koja je zatražila brisanje.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3574</ID>
+    <SENTENCE>Zahvalila je svim članovima Vlade na potpori te naglasila kako su tim, kako rade kao jedan, kako znaju što im je cilj te kako je sigurna da će tako biti i dalje.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3585</ID>
+    <SENTENCE>Spomenuo je i tvornicu u Kanfanaru koja je sigurno najbolje ekološki opremljena u Europi.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3503</ID>
+    <SENTENCE>Izgubit ću usput neke stvari, jer nisam siguran u postupak.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8963</ID>
+    <SENTENCE>Uslijedio je veliki juriš 'Bluesa' i nakon što je Andrej Ševčenko zabio svoj prvi ovosezonski gol i izjednačio na 1-1, izgledalo je da stvari polaku idu u očekivanom smjeru, tj. sigurnoj pobjedi Chelseaja.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>178</STARTINDEX>
+    <ENDINDEX>186</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3533</ID>
+    <SENTENCE>Ako ste i u takvim uvjetima zamijenili pregorjelu sijalicu, ipak budite sigurni da je pravilno sjela u svoje ležište, inače može svijetliti previše nisko, pa od nje nema velike koristi, ili previsoko pa će te zasljepljivati vozače ispred sebe, koji će vam, budite sigurni, iako to nećete čuti, uputiti one riječi iz našeg bogatog psovačkog folklora.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3586</ID>
+    <SENTENCE>Za sigurno zaustavljanje brinu se űber kočnice s 12 klipnim čeljustima i diskovima mjera 380 x 36 mm sprijeda, a straga šestklipnim čeljustima i 355 x 25 mm diskovima.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>3</STARTINDEX>
+    <ENDINDEX>10</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3572</ID>
+    <SENTENCE>Winona Ryder sigurna je da joj duhovi preminulih članova obitelji pomažu u filmskoj karijeri, a vjeruje i u zagrobni život te tvrdi da je u kontaktu s mrtvima.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8917</ID>
+    <SENTENCE>Ovo vam zapravo nudi potpunu kontrolu brzine veze na svim razinama - nešto što će (sigurni smo) podjednako znati cijeniti klinci koji se bave leechingom, kao i ozbiljni korisnici.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8949</ID>
+    <SENTENCE>Svi mi, sigurna sam, volimo eksperimentirati i isprobavati nove proizvode za njegu lica, kose i tijela.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3516</ID>
+    <SENTENCE>- Znali smo da su Hrvati vrlo sigurni u osvajanje naslova.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3600</ID>
+    <SENTENCE>A što se tiče djelovanja Obamine vlade prema nuklearnim ambicijama Irana, prošloga je tjedna državna tajnica Clinton izjavila pred vanjskopolitičkim odborom Kongresa da je vlada sigurna da će uz pomoć međunarodnih partnera donijeti sveobuhvatne sankcije protiv Irana.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>178</STARTINDEX>
+    <ENDINDEX>185</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3403</ID>
+    <SENTENCE>Bio je siguran u to.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3580</ID>
+    <SENTENCE>Sigurna sam da barem pola uputa liječnika ne čuju ili selektiraju sasvim proizvoljno.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>Sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8914</ID>
+    <SENTENCE>Daklem, s obzirom na to da je prijašnji projekt slaganja novog računala neslavno propao, ovaj je put stvar više manje sigurna (nadam se).</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3540</ID>
+    <SENTENCE>Njihova sjajna i mirna reakcija spasila ih je od možda i sigurne smrti.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3496</ID>
+    <SENTENCE>Pretilost je kompleksan problem za zdravlje, s mnogim posljedicama, koje su sigurno štetnije za organizam u razvoju.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3444</ID>
+    <SENTENCE>Budući da uskoro započinje ogrjevna sezona, Gradska plinara Zagreb d.o.o. i Gradska Plinara Zagreb – Opskrba d.o.o., žele Vam skrenuti pozornost na nekoliko ključnih točaka pravila sigurnog i racionalnog korištenja energenata, koji su ujedno i zakonska obveza svakog potrošača.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>181</STARTINDEX>
+    <ENDINDEX>189</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3466</ID>
+    <SENTENCE>Siguran sam da puno o ? ekuju od taktike.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>Siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8923</ID>
+    <SENTENCE>Jasno, svi vidimo kamo to vodi, ali naše nas globalizirano rukovodstvo, poput lutaka na koncu kojima se igraju negdje u EU, mudrom i sigurnom rukom gura prema Uniji, i to putem popločanim regionalnim dogovorima, kamenima međašima, prijateljskim gestama, stiskanjima ruku, raskošnim osmjesima te pomirljivim izjavama.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3442</ID>
+    <SENTENCE>Samo je Borka Frančišković sigurnom igrom osvojila pola boda, a Valentina Golubenko, Mirjana Medić i Rajna Šargač izgubile su poslije površne igre i grubih previda.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3438</ID>
+    <SENTENCE>'Prije sam se željela ljubiti s Megan Fox, no s obzirom da je ona sada udata žena, nisam više sigurna u to.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3538</ID>
+    <SENTENCE>"U kolovozu igramo s Brazilom, ali ja sam razgovarao s trenerom i neću igrati u tom susretu. Smislit ćemo nešto, siguran sam u to." - kazao je Pršo za stranice Rangersa, a mi nećemo ulaziti u to koliko su webmasteri stranice korektno prenijeli njegovu izjavu.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>113</STARTINDEX>
+    <ENDINDEX>120</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8995</ID>
+    <SENTENCE>"Mi slijedimo strategiju koja štiti našu domovinu, osigurava najopasnija oružja i materijale u svijetu, Al Kaidi uskraćuje sigurno utočište, i gradi pozitivno partnerstvo s muslimanskim zajednicama diljem svijeta", navodi se u strategiji sigurnosti.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>sigurno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3449</ID>
+    <SENTENCE>- To sam se poslijepodne osjećao iznimno loše jer sam bio siguran da bih pogodio da sam bio na terenu.</SENTENCE>
+    <TARGETLEMMA>siguran</TARGETLEMMA>
+    <TARGETWORD>siguran</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+</SET>

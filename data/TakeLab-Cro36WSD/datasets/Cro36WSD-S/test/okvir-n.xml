@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>7069</ID>
+    <SENTENCE>U okviru ovog natječaja financirat će se projekti prekogranične suradnje iz područja ekonomskog i društvenog razvoja (turizam i ruralni razvoj, razvoj poduzetništva, društvena integracija) i održivog upravljanja prirodnim resursima (zaštita okoliša ; očuvanje zaštićenih područja, ekološki zaštićenih područja i kulturne baštine) u iznosu od 11,9 milijuna eura.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7086</ID>
+    <SENTENCE>Latin nije ništa želio komentirati, ali od njemu bliskih izvora doznali smo da će, ako se ne udovolji njegovim zahtjevima, tražiti preraspodjelu na neko drugo mjesto u okviru Informativnog programa u statusu novinara - komentatora koji mu i pripada.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>168</STARTINDEX>
+    <ENDINDEX>174</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10779</ID>
+    <SENTENCE>Tako je, uz izvrstan koncertni groove, nepogrešivu uvježbanost, zanimljivu scenografiju s velikim antiknim okvirima za slike pred kojim je nastupala svaka od pjevačica, publika već u prvih pola sata oduševljeno aplaudirala divasicama.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvirima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10706</ID>
+    <SENTENCE>Domaćin je uputio 23 (pet u okvir) udaraca prema vratima izraelske momčadi, koja je odgovorila s 15 pokušaja (četiri u okvir).</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7013</ID>
+    <SENTENCE>- Tvrtka FMI iz Londona izradila je okvir, pretpostavke i smjernice restrukturiranja.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7027</ID>
+    <SENTENCE>Oko 65 posto od ukupnog broja zaposlenih svoja radna mjesta nalazili su u okviru velikih gospodarskih subjekata kao što su bili Borovo, VUPIK i Vuteks koji su sudjelovali sa 84,7 posto u društvenom proizvodu tadašnje općine Vukovar.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10712</ID>
+    <SENTENCE>Novi aluminijski Mono-Backbone okvir je lakši je i čvršći.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7135</ID>
+    <SENTENCE>Spojivši u iznimno zanimljiv paket intrige svijeta bogatih, slavnih i taštih ; neuroze ljudi koji su se cijeli svoj život pretvarali da su ono što nisu ; prepoznatljive bračne i tinejdžerske probleme te ponešto detalja iz kriminalnog okruženja i zatim upakiravši sve u jednosatni okvir televizijske doktorske drame koju je pomiješao s elementima humorističkih serija, ali i sapunica, slavni autor Ryan Murphy, dotad najpoznatiji po "otkačenoj" teen seriji "Popular" dobio je pravu zlatnu koku.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>280</STARTINDEX>
+    <ENDINDEX>285</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10707</ID>
+    <SENTENCE>U mnogim zemljama još nije potpuno uspostavljen pravni okvir, doprinos NVO je marginalan u mnogim sektorima, a najveći dio njihovih financijskih sredstava dolazi od države.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10757</ID>
+    <SENTENCE>Osnivačka skupština je odredila status Hrvatskih ratnih veterana, koji sa sobom nosi određena prava i benificije, koje ćemo sa svojim radom u okviru naših opredjeljenja i vrijednosti odgovorno provoditi.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>142</STARTINDEX>
+    <ENDINDEX>148</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7044</ID>
+    <SENTENCE>Ista potreba je i u ovom slučaju - potreba da se izmijene materijalni okviri slike: njena površina, okvir, postupak kojim je nastajala.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7091</ID>
+    <SENTENCE>Na upit može li eventualni izlazak Crne Gore iz SR Jugoslavije ugroziti cjelovitost Bosne i Hercegovine i regije, Koštunica je odgovorio kako će cijela regija bit će stabilna "sve dok se držimo u okviru postojećih granica", a ako se jedna granica promijeni onda će to biti kao da smo izvukli ciglu iz jedne građevine koja nije jaka i koja će se početi rušiti.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>196</STARTINDEX>
+    <ENDINDEX>202</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7093</ID>
+    <SENTENCE>Hrvatskoj je u posjet, u okviru regionalnog obilaska zemalja članica Međunarodnog monetarnog fonda (MMF), stigao zamjenik glavnog direktora MMF-a Murilo Portugal, u pratnji izvršnog direktora konstitutivne skupine kojoj pripada i naša zemlja Age F.P. Bakkera i novoimenovanog voditelja misije za Republiku Hrvatsku Costasa Christoua, priopćeno je iz Hrvatske narodne banke (HNB).</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7122</ID>
+    <SENTENCE>U okviru programa prikazana su dva filma o istraživanjima u Jamskom sustavu Velebita i jami Kiti Gaćešini i snimke s vježbe speleološkog spašavanja u jami Kiti Gaćešini.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7072</ID>
+    <SENTENCE>Naravno da se u prikazu koji slijedi dotičemo samo događanja u Hrvatskoj, i to uz ogradu da ih sve zasigurno nećemo ni nabrojati, jer nam je važniji cilj ukazati na stanje i ukupnu društvenu klimu potaknutu ovim, ne samo za slijepe, značajnim jubilejom, nego nabrajati sve, u okviru jubilarne godine, provedene aktivnosti.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>276</STARTINDEX>
+    <ENDINDEX>282</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7060</ID>
+    <SENTENCE>Kao prethodni pobjednici, u okviru nagrade Tadić ove jeseni dobiva šest tjedana profesionalnog boravka u New Yorku, te naknadno, kad se slegnu njujorška iskustva, i samostalnu izložbu u Galeriji Miroslav Kraljević.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7042</ID>
+    <SENTENCE>Ovom prigodom, u okviru programa društvene odgovornosti Društva i nova tora "SIGMA", dodijeljene su Povelje za istaknuto kreativno, znanstveno, i nova tivno i poslovno stvaralaštvo državnim i gradskim institucijama, neprofitnim i profitnim pravnim osobama koje su svojim radom i djelovanjem znatno doprinijele razvoju projekata i programa mladih u 2009. godini.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7121</ID>
+    <SENTENCE>Sraz Istoka i Zapada, po uzoru na najjače svjetske košarkaške lige, po prvi puta održat će se i u okviru našeg regionalnog natjecanja.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10738</ID>
+    <SENTENCE>Zapovjednik SFOR-a, general John Sylvester još se više potrudio izbjeći nazvati akciju pokušajem Karadžićvog uhićenja, nazvavši je, tijekom susreta s predsjednikom RS Mirkom Šarovićem, tek jednom od mnogobrojnih vježbi u okviru mandata Stabilizacijskih snaga.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>221</STARTINDEX>
+    <ENDINDEX>227</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7021</ID>
+    <SENTENCE>Istaknuo je da je temelj izrade homogeniziranoga europskoga kvalifikacijskog okvira, kojemu teži HKO, svijest unutar Europe da zaostaje u razvoju gospodarstva za nekim drugim područjima u svijetu, poglavito za SAD-om, Japanom i državama "azijskim tigrovima".</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvira</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7145</ID>
+    <SENTENCE>"To nije točno. Mi pokušavamo prije svega zbog Hrvatske, koja želi biti pravna država, saznati što je bilo s tim dokumentima. Mislim da na to imamo pravo", istaknula je predsjednica Vlade Jadranka Kosor te ocijenila da je suradnja s Haaškim sudom u okviru Ustavnog zakona o suradnji.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>249</STARTINDEX>
+    <ENDINDEX>255</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7190</ID>
+    <SENTENCE>- Vlada je pritom nastojala, a vjerujemo i uspjela stvoriti zakonodavni okvir za funkcioniranje tijela, posebno kad je riječ o borbi protiv korupcije - ustvrdila je premijerka.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7083</ID>
+    <SENTENCE>Tim povodom delegacija HE Peruča položila je vijence na spomen - obilježje Ante Buljana, jedine žrtve u okviru akcije Peruča, te na grobove Petra i Mirka Hrgovića u Potravlju kao i na spomen - obilježje u Potravlju podignuto na mjestu gdje su srpski okupatori zarobljenog i svezanog Petra Hrgovića mučki ubili.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7090</ID>
+    <SENTENCE>Upitana hoće li se štednja u stranci odraziti i na predsjedničku kampanju Andrije Hebranga, rekla je da se kampanja provodi u okvirima mogućeg, te da jest skromnija nego što bi se očekivalo od velike stranke kao što je HDZ.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvirima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>126</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7101</ID>
+    <SENTENCE>Uz ove osnovne atribute, za definiranje izgleda rubova okvira se mogu još koristiti BORDER, FRAMEBORDER, i BORDERCOLOR.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvira</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10743</ID>
+    <SENTENCE>Budući da korisnici u Centru tijekom obuke borave 24 sata, Centar pruža sve usluge potrebne za normalan život, te kreiranje slobodnog vremena izvan obveza u okviru rehabilitacijskih programa.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>157</STARTINDEX>
+    <ENDINDEX>163</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7016</ID>
+    <SENTENCE>U okviru popratnog programa održat će se izložba "Umjetnost uvijek ima posljedice", koja, smještena u nekadašnju zgradu Muzeja suvremene umjetnosti i Galeriju Novu, obuhvaća dvadesetak umjetničkih pozicija, od dokumentacija i arhiva važnih eksperimenata sedamdesetih do suvremenih radova koji promišljaju umjetničku produkciju kao sredstvo društvene i političke borbe.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10753</ID>
+    <SENTENCE>Kako izvještava Radio Slobodna Europa, na poziv srpskog državnog tajnika za zračni promet, Miodraga Miljkovića iz CA su poručili kako "su već ostvarili strateško povezivanje u okviru udruženja Star Alliance, u čijem su članstvu od 2004. godine".</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>176</STARTINDEX>
+    <ENDINDEX>182</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7008</ID>
+    <SENTENCE>Slijedom navedenog potrebno je na nacionalnoj razini razvijati zakonske okvire za rješavanje problema vezanih uz sintetičke droge, sukladno općem europskom zakonodavstvu.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvire</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10784</ID>
+    <SENTENCE>Ovo je praktički ansambl naših radnika na privremenom radu u Austriji a djelujemo pod krovnom udrugom Austrijsko - hrvatske zajednice za kulturu i sport, a djelovanje smo počeli u okviru katoličke misije u Beču.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>180</STARTINDEX>
+    <ENDINDEX>186</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7058</ID>
+    <SENTENCE>Inspekcijski nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju njega, obavljaju inspektori nadležnih ministarstava i inspektori Državnog inspektorata, svatko u okviru svojih nadležnosti.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>175</STARTINDEX>
+    <ENDINDEX>181</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7153</ID>
+    <SENTENCE>Kako se navodi u istražnom zahtjevu, Kutle je kao većinski dioničar naredio Dioni da njegovim drugim tvrtkama u okviru Globus grupe izda kredite u vrijednosti od 145 milijuna kuna.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7103</ID>
+    <SENTENCE>Nakon ukidanja rajona, 1952., na prostoru Gornje Dubrave egzistiraju dvije općine: Dubrava kao periferna općina u okviru Grada Zagreba i Granešina kao općina u Kotaru Zagreb.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>120</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7171</ID>
+    <SENTENCE>Države članice UN-a, civilno društvo i Ujedinjeni narodi moraju ustrajati u razoružanju i uspostavi pravnog okvira kojim bi se omogućilo preživjelim žrtvama i njihovim obiteljima da ostvare svoja prava i budu produktivni članovi društva. "U Hrvatskoj je, prema podacima Hrvatskog centra za razminiranje (HCR), preostalo još oko 240.000 mina koje su rasprostranjene u 12 županija, odnosno 114 gradova i općina.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvira</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7162</ID>
+    <SENTENCE>Treća knjiga iz serijala Hrvatski ratnici kroz stoljeća bez ideoloških okvira i na znanstveno - popularan način, obrađuje slabo poznatu tematiku oružanih snaga NDH i ostalih hrvatskih postrojbi koje su se tijekom Drugog svjetskog rata borile na strani Osovinskih sila.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvira</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7050</ID>
+    <SENTENCE>U sljedećoj godini Povjerenstvo će se baviti poticanjem građanstva na izlazak na lokalne izbore jer se na taj način, ističu u Povjerenstvu, lokalna zajednica pretvara u zajednicu građana u okviru koje građani iskazuju svoju volju, što je preduvjet za smanjenje korupcije na lokalnoj razini.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>189</STARTINDEX>
+    <ENDINDEX>195</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10787</ID>
+    <SENTENCE>Jedna od važnijih aktivnosti Vijeća lokalnih zajednica u proteklom periodu bili su prijedlozi prema programu CHIRP u okviru pomoći USAID-a, a odnosili su se na elektrifikaciju pojedinih područja, nabavku mehanizacije za potrebe komunalne službe, obnovu društvenih domova, domova zdravlja te popravak vodovoda.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10773</ID>
+    <SENTENCE>Na temelju dugotrajnog iskustva iz prethodna tri programska ciklusa, za Prekograničnu suradnju između država članica i susjednih država kandidatkinja / potencijalnih kandidatkinja, novi financijski okvir Europske unije 2007. - 2013. omogućuje pristup temeljem jednoga instrumenta, odnosno pomoću novoga Instrumenta za pomoć u pretpristupnom razdoblju (IPA).</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>198</STARTINDEX>
+    <ENDINDEX>203</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10730</ID>
+    <SENTENCE>Dva je puta pucao prema golu (oba u okvir), napravio tri prekršaja i zaradio žuti karton.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10764</ID>
+    <SENTENCE>Suglasio se i s planom usklađivanja hrvatskog zakonodavstva s pravnim stečevinama Europske unije u okviru kojega bi ove godne trebao donijeti 40-ak zakona iz "euro - paketa".</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10739</ID>
+    <SENTENCE>"U tijeku je usklađivanje teksta predmetnog Zakona s dostavljenim primjedbama svih relevantnih tijela koja su na njemu radila, a očekujemo da će se Zakon uputiti u redovnu proceduru u rujnu ove godine. Usvajanjem ovog zakona stvorit će se prvi put institucionalni okvir koji će omogućiti svim subjektima na tržištu da se pod jednakim uvjetima bave djelatnošću posredovanja u prometu nekretnina putem transparentnih i jasno propisanih pravila poslovanja to više jer do sada ovo područje nije bilo zakonski uređeno i u okviru kojeg se također javlja veliki broj nepravilnosti, od nelojalne tržišne utakmice pa sve do pojave različitih oblika sive ekonomije kao što su rad na crno i neplaćanje zakonom utvrđenih javnih davanja", doznajemo od Domagoja Vrička, glasnogovornika Ministarstva gospodarstva.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>264</STARTINDEX>
+    <ENDINDEX>269</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7126</ID>
+    <SENTENCE>Nakon obilaska kaznionice, potpredsjednica Adlešić je izjavila kako su uvjeti života u požeškoj kaznionici dobri, ali će se založiti i za sve kvalitetne promjene u okviru mogućnosti koje nudi sustav.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>170</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7131</ID>
+    <SENTENCE>No kako u okviru sadržaja koji si je Barešić nametnuo nije bilo moguće ponoviti takav vrhunac, pravi je finale antiklimaks, mjesto gdje Cyrano / Prospero (više ih ne razlikujemo) pogiba na nepotreban način, a komične ciganske doskočice zamjenjuju meditacija i duhovna kontemplacija.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7149</ID>
+    <SENTENCE>Pucao je Modrić, plasirano, ali nije pogodio okvir gola.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7108</ID>
+    <SENTENCE>U prostorijama HOK-a u tijeku je (od 21. siječnja do 14. veljače) edukacija djelatnika udruženja obrtnika, područnih obrtničkih komora i HOK-a u okviru JIS-a o financijsko – računovodstvenim poslovima te o pripremi financijskih izvješća za tijela Skupštine po jedinstvenoj metodologiji.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7158</ID>
+    <SENTENCE>ZAGREB - Prvi tečaj u okviru projekta stručnog usavršavanja policijskih službenika protueksplozijske zaštite (PEZ) na planu borbe protiv terorizma počinje idućeg tjedna na Policijskoj akademiji u Zagrebu, izvijestili su danas iz MUP-a.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10772</ID>
+    <SENTENCE>Uspješno roštiljanje zahtijeva temperaturu koja je četiri do šest puta veća od one koju pruža pećnica – riječ je o minimalnih 100 ° C. Upravo je visoka toplina pripreme tek djelom zaslužna za jedinstveni okus hrane pripremljene na roštilju, koji je, složit će se mnogi, nenadmašiv u okvirima gastronomskih užitaka.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvirima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>283</STARTINDEX>
+    <ENDINDEX>291</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7154</ID>
+    <SENTENCE>Objavljen je Natječaj za stipendije u okviru Programa bilateralne mobilnosti u visokom obrazovanju za ak. god.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10736</ID>
+    <SENTENCE>Dovoljno je reći kako ovdje u poglavlju dodatne opreme stoje tek dvije premise, jedna za metalik boju, a druga za Premium pack u okviru kojeg je električno upravljan krovni otvor.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7052</ID>
+    <SENTENCE>No, Marić naglašava da za odgodu otplate anuiteta za stambene kredite banke već imaju zakonsku mogućnost, u okviru općih uvjeta poslovanja, ali i financijsku, s obzirom na njihov financijski potencijal i ostvarenu dobit ranijih godina.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7183</ID>
+    <SENTENCE>Stanari tvrde, slovenska vlada je, u okviru humanitarne pomoći, nakon rata dala novac da im se riješi smještaj.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7194</ID>
+    <SENTENCE>Revizija baznog projekta Hidrokreking kompleksa uvjetovana je odlukom o izgradnji novog Koking postrojenja u okviru druge faze projekta modernizacije, koje zbog povećanog kapaciteta iziskuje prilagodbu dizajna ostalih povezanih postrojenja u svrhu usklađivanja njihovih kapaciteta.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7125</ID>
+    <SENTENCE>Utakmicu organiziraju Nogometni klub Varaždin, kao domaćin i Hrvatski nogometni savez, kao organizator, sukladno sklopljenom Ugovoru o poslovnoj suradnji u vezi organizacije međunarodne utakmice reprezentacija Hrvatske i Norveške za igrače do 21 godine u okviru kvalifikacija za Europsko prvenstvo.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>255</STARTINDEX>
+    <ENDINDEX>261</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10761</ID>
+    <SENTENCE>U okviru Grupe OR mogu se osnovati ogranci na teritorijalnom načelu.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7111</ID>
+    <SENTENCE>Prvo ime bila je Ivana Brkljačić (Dinamo-Zrinjevac) čije je kladivo letjelo daleko, sve do 67,31 m, što je i u svjetskim okvirima vrijedno ostvarenje u zimskom dijelu sezone.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvirima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>129</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7150</ID>
+    <SENTENCE>Tvrtka je tu odluku, u okviru koje će u četvrtom tromjesečju otkupiti dionice u vrijednosti barem tri milijarde dolara, donijela samo nekoliko tjedana nakon što je šokantna ostavka izvršnog direktora Marka Hurda snizila vrijednost njezinih dionica.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7167</ID>
+    <SENTENCE>Metalni okvir stola načinjen je od metalnih cijevi 50x25, debljine 1 mm, obojen u mat metalik srebrnu boju.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7164</ID>
+    <SENTENCE>Rezultati rada ogledaju se u četverogodišnjem postojanju i aktivnom radu, u okviru čega imamo trogodišnje apstinente klijente Centra za socijalnu skrb Zagreb-Ured Susedgrad.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7197</ID>
+    <SENTENCE>Jedno takvo krško područje je u okviru PP Papuk.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10797</ID>
+    <SENTENCE>U svjetskim, pa i hrvatskim okvirima, on je marginalac, lik koji je svima smetao, i nitko od njega nije imao nikakvu korist.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvirima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7036</ID>
+    <SENTENCE>Ideje i djelovanje knjiga su sastavljena od deset studija, izrađenih u okviru znanstvenog projekta Zavoda za sociologiju Filozofskog fakulteta, "Socijalnoekološki i modernizacijski procesi u Hrvatskoj".</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10762</ID>
+    <SENTENCE>Webinar "Videoconferences in schools" održan je u okviru ciklusa međunarodnih webinara "Let ’ s learn together" u kojemsje po prvi puta predstavili inovativni hrvatski projekt !</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10740</ID>
+    <SENTENCE>Slika koju serija nudi o OVK donekle se razlikuje od one koju ima prosječni poznavatelj događaja na Kosovu 1999. "Neki od pripadnika OVK nisu se složili s mirnim otporom, niti im je odgovarao status Kosova u okviru Srbije.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>208</STARTINDEX>
+    <ENDINDEX>214</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7104</ID>
+    <SENTENCE>Donesena je Uredba o objavi Dodatka Sporazumima o financiranju između Vlade Republike Hrvatske i Europske komisije o: Programu prekogranične suradnje Hrvatska – Bosna i Hercegovina, Programu prekogranične suradnje Hrvatska – Crna Gora, Programu prekogranične suradnje Hrvatska – Srbija, Programu financiranja sudjelovanja Hrvatske u transnacionalnim programima Europske teritorijalne suradnje Europskog fonda za regionalni razvoj "Jugoistočna Europa" i "Mediteran", u okviru IPA komponente Prekogranična suradnja za 2007. i 2008. godinu.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>468</STARTINDEX>
+    <ENDINDEX>474</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7180</ID>
+    <SENTENCE>I ove godine se očekuje veći broj polaznika dječjih vrtića Zadarske županije koji će se uključiti u organizaciju 7. '' Cvjetnog korza '' Neka riva u cviću pliva '' koji se tradicionalno održava u okviru manifestacije, a nastavlja se i organizacija cvjetne modne revije koja će se održati u sklopu sajma kao i etno prezentacije.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>196</STARTINDEX>
+    <ENDINDEX>202</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7030</ID>
+    <SENTENCE>Bit će to zaključni nastup kulturne manifestacije "Regards croisés - Croatie, Connaissance et Reconnaissance" koja će se održati pod znakom Hrvatske u okviru Frankofonije.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>151</STARTINDEX>
+    <ENDINDEX>157</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7089</ID>
+    <SENTENCE>Na samom početku, predviđeno je praćenje stotinjak parametara u okviru svih podprojekata, a kreću se od uobičajenih osnovnih parametara (npr. salinitet, temperatura) do vrlo specifičnih (npr. parametri biomonitoringa).</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7138</ID>
+    <SENTENCE>Rast tzv. bazne inflacije u prvih sedam mjeseci je 2,8 posto, što je u okviru plana, ali pojedini potezi nagovještavaju kako bi se inflacija mogla oteti kontroli.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7147</ID>
+    <SENTENCE>Zamjenik župana Frano Skokandić je naglasio kako je upoznat s njihovom situacijom i sa činjenicom da im prijeti deložacija, pritom kazavši kako se odluke hrvatskoga sudstva ne smiju preispitivati, ali im Dubrovačko - neretvanska županija u suradnji s Općinom, u okviru svojih mogućnosti, može pomoći kod rješavanja socijalnog aspekta njihovog problema.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>262</STARTINDEX>
+    <ENDINDEX>268</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7082</ID>
+    <SENTENCE>Hrvatska turistička zajednica tradicionalno u okviru projekta "Volim Hrvatsku" provodi i akciju odabira najboljeg djelatnika godine u turizmu.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10708</ID>
+    <SENTENCE>"U pregovaračkim okvirima i u zaključcima summita EU-a crno na bijelom stoji: cilj pregovora s Hrvatskom je punopravno članstvo", izjavio je Sanader.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvirima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7022</ID>
+    <SENTENCE>Uz obrazloženi zahtjev za ostvariva ­ nje povlastice iz stavka 1. ovoga članka, nadležnoj carinarnici prilaže se i preslik isprava kojima se dokazuje da je odnosna roba prim ­ ljena kao dar u okviru međunarodnih odnosa.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>192</STARTINDEX>
+    <ENDINDEX>198</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7001</ID>
+    <SENTENCE>U okviru drugog po redu Business.hr - ovog izbora "gazela" - malih i srednjih poduzetnika koji su u dvogodišnjem razdoblju ostvarili stopu rasta od najmanje 30 posto, u Osijeku je održana svečanost proglašenja "supergazela" i "gazela" Slavonije.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7040</ID>
+    <SENTENCE>Treba li se ponovno početi razmišljati o Dubrovniku u okviru lokalnih i globalnih gradskih rješenja, pa čak i o povratku u vrijeme prije nego je postojala nacija - država, odnosno na grad - državu ?</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7141</ID>
+    <SENTENCE>U Kini se u okviru FAW-Volkwagen Joint Ventures - a, u kojem Audi imao udio od 10 %, proizvodi Audi A6, a od travnja ove godine i Audi A4.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7017</ID>
+    <SENTENCE>HKO treba harmonizirati s Europskim kvalifikacijskim okvirom za cjeloživotno učenje koji su europske zemlje pokrenule 2004. kako bi povećale transparentnost obrazovnih kvalifikacija i potaknule mobilnost građana i cjeloživotno učenje.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvirom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7080</ID>
+    <SENTENCE>U okviru projekta preuređivanja i prometnog rasterećenja Pila lani je postavljen futuristički spomenik dubrovačkim braniteljima.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7166</ID>
+    <SENTENCE>U okviru Kategorija pritisnite kategoriju, a zatim označite ugrađeni oblik koji nalikuje obliku kojeg želite stvoriti.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7078</ID>
+    <SENTENCE>U prostorima Hrvatske gospodarske komore – Županijske komore Virovitica, danas i sutra održava se III. seminar Zajednice za unapređenje intelektualnog kapitala (ZUIK) pri HGK, u okviru projekta "APENIK", čiji je cilj povećanje efikasnosti poslovanja u gospodarskim subjektima.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>178</STARTINDEX>
+    <ENDINDEX>184</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7196</ID>
+    <SENTENCE>Igračem utakmice ipak se može proglasiti golman Medveščaka Robert Kristan, koji je skinuo Austrijancima 47 udaraca u okvir gola (94 %).</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10741</ID>
+    <SENTENCE>Županov na slučaju tretiranja problema umirovljenika u Hrvatskoj pokazuje da sociologija ima raskošan i stimulativan teorijski okvir u koji staju sasvim jasni praktični problemi.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10781</ID>
+    <SENTENCE>U okviru ove rubrike se vrši i izračunavanje relativnog udjela ostvarenih smanjenja generiranja CO2 u odnosu na pretpostavljenu, zadanu količinu smanjenja CO2.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7186</ID>
+    <SENTENCE>Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva raspisalo je natječaj za predlaganje projekata udruga u Republici Hrvatskoj u okviru raspoloživih sredstava državnog proračuna za 2009. godinu.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>144</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7020</ID>
+    <SENTENCE>Ako možete vidjeti svoj modem kao u dijaloškom okviru koji slijedi, znači da je vaš modem već instaliran ; u tom slučaju možete preskočiti instalaciju modema.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7066</ID>
+    <SENTENCE>Politika DOP-a je kao takva i iznad pravnog okvira poslovanja poduzetnika jer ona uključuje vrijednosni konsenzus, ono čemu svi moraju i mogu težiti.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvira</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7184</ID>
+    <SENTENCE>Do kraja siječnja UNDP bi trebao objaviti rezultate natječaja za korisnike sredstava u okviru Programa poticanja zelenog poduzetništva, najavila je direktorica Razvojne agencije Zadarske županije Sanja Peričić navodeći kako je riječ o rezultatima natječaja provedenog u rujnu prošle godine.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10783</ID>
+    <SENTENCE>Naime u posljednih deset godina svaki kalendar bio je prava poslastica za štovatelje fotografske umjetnosti, mode i erotike, a fotografi su se nadmetali tko će napraviti originalniju viziju, ne izlazeći iz zadanih okvira Pirellijeva koncepta: lijepe žene i sofisticirani seksepil.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvira</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>214</STARTINDEX>
+    <ENDINDEX>220</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7005</ID>
+    <SENTENCE>Ministar unutarnjih poslova donosi propise o načinu obavljanja policijskih poslova i provedbene propise u okviru ovlasti utvrđenih zakonom.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7189</ID>
+    <SENTENCE>Istraživanje je provedeno unutar projekta "Mladi na tržištu rada" koji provodi Hrvatski zavod za zapošljavanje u suradnji s njemačkom konzultantskom tvrtkom GOPA Consultants, u okviru Instrumenta pretpristupne pomoći (IPA) Europske unije.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>177</STARTINDEX>
+    <ENDINDEX>183</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7146</ID>
+    <SENTENCE>U okviru projekta, težište pozornosti stavljeno je na kreditnu politiku i praksu banaka, iz dva razloga: (1) već u lipnju 1997., kada je projekt prvi put predložen, bilo je jasno da je u tijeku brz rast kredita.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7018</ID>
+    <SENTENCE>Zbog svojih dobrih termoizolacijskih i akustičnih svojstava pjene se često koriste u dopunskim radovima u okviru toplinske i zvučne izolacije.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10744</ID>
+    <SENTENCE>U okviru priručnika pozornost je posvećena i analizi, klasifikaciji i opisu poslova, te odabiru, ocjenjivanju, nagrađivanju i napredovanju osoblja, s konkretnim prijedlozima za utemeljenje jedinstvenog službeničkog sustava u jedinicama lokalne i područne (regionalne) samouprave.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7123</ID>
+    <SENTENCE>Njegov sportski štih dodatno je naglašen crnom bojom kojom je presvučem okvir, stražnja vilica te ukrasni elementi na agregat u ispušnom sustavu dvokotača.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7026</ID>
+    <SENTENCE>Na površinu jednog zaslona teško bi bilo kvalitetno ugurati i okvir za 24sata TV, koja također ima sve veće ambicije.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvir</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7064</ID>
+    <SENTENCE>Projekt će omogućiti evidenciju i pravovremenu dostavu podataka kroz županijske i regionalne registre, a u okviru pilot projekta ujedno se kontinuirano usklađuju model i protokol prikupljanja i praćenja podataka.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10724</ID>
+    <SENTENCE>Uvijek sam na to odgovarao da se HNB mora držati zakonskih propisa i u okviru njih dati ili uskratiti suglasnost.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7039</ID>
+    <SENTENCE>Slovenska vlada u četvrtak je uvjetno poduprla mehanizme kreditne potpore prezaduženoj Grčkoj u okviru kojih bi Slovenija, kao članica eurozone, u sljedeće tri godine trebala dati 384 milijuna eura, no premijer Borut Pahor upozorio je da zbog opasnosti da i druge europske države dođu u slične poteškoće treba jačati kontrolne mehanizme u okviru Europske monetarne unije (EMU).</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7073</ID>
+    <SENTENCE>Jer, ako je liječnik kvalitetan, ako je doista na visini najboljih uvjeta koji mu se mogu pružiti, i toga je svjestan, onda će vam, u okvirima nekih naših realnih uvjeta, reći: mogu vam pomoći, no rezultati su takvi i takvi, naša statistika je 80 % umjesto 95 %.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okvirima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>142</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7200</ID>
+    <SENTENCE>U svjetlu te strateške odluke Europska je komisija u okviru Petoga okvirnoga programa (5th Framework Programme) tj. globalnoga okvira za organizaciju znanstveno - tehnološko - razvojnih istraživanja u EU, značajan dio svoga proračuna namijenila za potporu Tehnologijama informacijskoga društva (Information Society Technologies, IST).</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7010</ID>
+    <SENTENCE>HEP ESCO će u okviru PERMANENT projekta značajno pridonijeti popularizaciji i prihvaćanju M &amp; V (mjerenja i verifikacije ušteda) te potaknuti sveopće razumijevanje energetskih ušteda i projekata energetske učinkovitosti na području Republike Hrvatske.</SENTENCE>
+    <TARGETLEMMA>okvir</TARGETLEMMA>
+    <TARGETWORD>okviru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+</SET>

@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>7703</ID>
+    <SENTENCE>Na Isofoniko-R se ne lijepe obloge koje je potrebno brusiti kao prirodni kamen ili parket.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7760</ID>
+    <SENTENCE>Index je nedavno posjetio Pokrajca na treningu u Zagrebu gdje brusi tehniku borbe u stand upu sa svojim relativno novim trenerom Goranom Babićem.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1192</ID>
+    <SENTENCE>Prvo se brusi prednji konus, a potom konus na stražnjoj strani leće.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1059</ID>
+    <SENTENCE>Ako se brusi manjim komadima brusnog papira, koji nije na podlozi, a još i paralelno sa sljubnicama ili kružno, učinak je u pravilu nastanak "valova" na pločama, što je, uz ulazak ljepila u spoj ploča, jedan od razloga ocrtavanja obrisa ploča na fasadi.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1145</ID>
+    <SENTENCE>Sve u svemu, gradska vlast neće pasti zbog Vićana čime se stalno brusi SDP, nego zbog Medovića, a malo i zbog Medovićke.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1129</ID>
+    <SENTENCE>– Uh, jedva čekam da se spustim, da se mene pita, mogla bi utrka i danas početi – brusi se Ana Jelušić.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.03</SENSEID>
+      <SENSEID>V.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1103</ID>
+    <SENTENCE>Ekipa koju će Vranković brusiti od 15. srpnja do 28. kolovoza, te na koncu izabrati 12 imena za povratak na svjetsku smotru po prvi put nakon Kanade '94, nema lidera koji se nameće prvi pogledom na popis.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1073</ID>
+    <SENTENCE>Konačni izgled zakona, kako saznajemo, još se brusi, posljednji pregovori između premijerke Jadranke Kosor, koja se zalaže za blažu varijantu, i tvorca sadašnjeg zakona, ministra zdravstva Darka Milinovića, još se vode, pa točne formulacije spornih zakonskih odredbi još nisu poznate.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1160</ID>
+    <SENTENCE>Kod čvrsto zalijepljenog parketa sušenje traje najmanje jedan dan, tek nakon sušenja se parket može brusiti i lakirati.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7712</ID>
+    <SENTENCE>Dasoviću, nemoj opet brusiti atmosferu kontra Dinama i trenera.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1196</ID>
+    <SENTENCE>Niko, navodno svakodnevno (pretpostavljam u trenucima kada nije na turneji) odlazi do svoga ureda u kojem ga čekaju klavir, pepeljara i vjerujem nekakav mini bar, kako bi 8 sati dnevno brusio svoj talent.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>185</STARTINDEX>
+    <ENDINDEX>191</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1016</ID>
+    <SENTENCE>Naravno da romantično njemačko poimanje etničkog i lingvističkog jedinstva svih Južnih Slavena nije bilo u svemu ispravno, a u međuvremenu je cijela Europa uz bol morala iskusiti koliko je u pravu bio Milovan Đilas kada je bijesno izjavio: "Kada se na Balkanu počne diskutirati o jezicima, odmah se počinu brusiti noževi.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>306</STARTINDEX>
+    <ENDINDEX>313</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7734</ID>
+    <SENTENCE>Portsmouth je poražen u posljednjim dvjema prijateljskim utakmicama (2: 0 od Vitorije i 4: 0 od Benfice) što uopće ne brine Harta, koji tvrdi da se tim susretima brusi sprema, a ne pobjednički duh.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>162</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7761</ID>
+    <SENTENCE>Ako finalni proizvod treba biti nubuk, lice se brusi u raznim smjerovima što daje efekt suptilnih dlačica na površini.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1029</ID>
+    <SENTENCE>Premda po zvanju diplomirani ekonomist, oblikovanjem u glini bavi se već dugi niz godina: osnove je stekao 1996. godine, a nakon toga ih brusio sudjelujući i družeći se na likovnim kolonijama s vrsnim keramičarima (keramička kolonija Lubenice / Cres, 2007. godine).</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1136</ID>
+    <SENTENCE>I dok kritika brusi tipkovnice napadajući "Cast Away" kao holivudsku ljigu svi propuštaju primijetiti kako je teško bilo od priče Williama Broylesa napraviti hit.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1111</ID>
+    <SENTENCE>POROTHERM PLAN opeka iznimnih toplinskih karakteristika precizno je brušena s obje strane kontroliranim kompjuterskim procesom.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brušena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1173</ID>
+    <SENTENCE>Masna konzistencija kremaste gustoće, laka za rukovanje, brzo dostiže predviđenu čvrstoću i lako se naknadno brusi.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.01</SENSEID>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1049</ID>
+    <SENTENCE>Premda varljivo jednostavnim, a ipak elegantnim i poetskim stilom autor poziva čitatelje da i sami bruse intuiciju i slušaju glazbu mikrosvijeta oko sebe, tu nije riječ o meditativnoj prozi, jer kao što se punoća i cjelovitost iskazuju uvijek u novim nerješivim proturječnostima, tako se i suptilnost i provokacija prirodno sljubljuju u njegovu djelu u himnu ljepoti.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1085</ID>
+    <SENTENCE>U roku sat vremena može se bušiti, brusiti, bojati, strugati i strojno obrađivati.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1133</ID>
+    <SENTENCE>1. i 2. kolovoza na Emirates kupu u Londonu snage će odmjeriti s Atletico Madridom i Glasgow Rangersima, te će uoči puta u Bjelorusiju golgetersku formu brusiti i protiv Valencije.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>153</STARTINDEX>
+    <ENDINDEX>160</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7730</ID>
+    <SENTENCE>ROGLA - S dolaskom Emiljana Vile, na Roglu, mjesto gdje Dinamo "brusi" formu uoči europskih ispita, stigla je i kiša.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1181</ID>
+    <SENTENCE>Prema zamisli akademika Radmana Mediteranski institut za istraživanje života bi trebao okupiti poznate svjetske znanstvenike, međutim, ono što se drži posebno vrijednim i značajnim jest dogovor da će Institut širom otvoriti vrata mladim znanstvenicima sa Splitskog sveučilišta koji bi u radu s vodećim svjetskim imenima iz područja znanosti brusili svoje istraživačke sposobnosti te gradili znanstvenu karijeru, sprečavajući tako odljev mladih "mozgova" u inozemstvo.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>341</STARTINDEX>
+    <ENDINDEX>348</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1062</ID>
+    <SENTENCE>Njih je na zube potrebno zalijepiti, kaže zubarica: "Na zubnu caklinu i odabrani kristalić nanosi se tanki sloj specijalnog dvokomponentnog lijepila, a čim je kristalić na zubu, dodatno se učvršćuje pomoću ultraljubičastog svjetla. Osim što se pri tom caklina malo" nagrize ", nije porebno brusiti i zubi se ne oštećuju."</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>290</STARTINDEX>
+    <ENDINDEX>297</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7750</ID>
+    <SENTENCE>Dobre su i mogućnosti renoviranja, brusi se 5 do 7 puta.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1154</ID>
+    <SENTENCE>Ako je prvi pristup neuspiješan, onda se primjenjuje takozavni indirektni pristup prilikom kojeg se zubi djelomično bruse i opskrbljuju takozvanim indirektnim restauracijama, napravljenim od "bez metalne keramike".</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.01</SENSEID>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1178</ID>
+    <SENTENCE>Kozniku će brusiti svoje trenersko znanje pa će mu boravak u modrom taboru itekako koristiti.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7775</ID>
+    <SENTENCE>Ponajprije zato, što u slučaju da nedostaje jedan zub, nije potrebno brusiti zdrave, susjedne zube koji bi služili kao nosači mosta.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7757</ID>
+    <SENTENCE>Meštar od kuhanja bio je Vilmo Vidov koji ima više od pola stoljeća iskustva u kuhanju ovog specijaliteta, a uz naučeno u Kalima zanat je brusio i po raznim svjetskim morima.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1116</ID>
+    <SENTENCE>Odmastiti, očistiti sa SikaCleaner ® - om, ili brusiti površinu pločice i temeljito očistiti industrijskim vakuumskim čistačem.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1131</ID>
+    <SENTENCE>Oni su samo dvoje od ukupno šestero optičara koji su se u jesenskom roku prijavili za polaganje majstorskih ispita koje organizira Obrtnička komora Splitsko - dalmatinske županije. Uz članove komisije, vlasnicu Marin i optičara Vladimira Topića, Sandra i Duje su u radionici prvo centrirali leće tjemenim dioptimetrom pa ih onda brusili i ugrađivali.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>329</STARTINDEX>
+    <ENDINDEX>336</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1010</ID>
+    <SENTENCE>Diskografska industrija opet brusi zube na korisnike Interneta koji downloadaju glazbu, a za to big - bossovima ne ostavljaju ni novčića.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.01</SENSEID>
+      <SENSEID>V.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1005</ID>
+    <SENTENCE>Od njih je Vuk 25-godišnjak i svi ostali, osim "tate" Zorana Kastela su dječaci koji bruse sjekutiće, ali će im za sezonu - dvije niknuti i umnjaci, a što li će tek onda biti ?!</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.01</SENSEID>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1087</ID>
+    <SENTENCE>Već kao student počinje profesionalno raditi, bruseći svoj raskošni talent, kroz niz manjih snimateljskih formi, i gradeći suzdržano i samozatajno svoj profesionalni status i ugled.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruseći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1171</ID>
+    <SENTENCE>Stavljanje zubnog nakita na zub nije štetno po zdravlje jer je to nakit napravljen specijalno za to, materijal koji se koristi za postavljanje zubnog nakita se i inače koristi u stomatologiji, a sam postupak stavljanja zubnog nakita na zub je neinvazivan jer se zub ne brusi i nema oštećenja zubne cakline.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>269</STARTINDEX>
+    <ENDINDEX>274</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7786</ID>
+    <SENTENCE>Cilindri su na novo brušeni, klipovi i karike su novi, motocikl još nije napravio ni 500km nakon brušenja.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brušeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7715</ID>
+    <SENTENCE>Redateljica Dennie Gordon ("Ally McBeal ’) i jedna od scenaristica Jenny Bucks (" Seinfeld ’ i "Seks i grad ’) zanat su brusile na televiziji tako da se" Sve što djevojka može poželjeti ’ gleda s lakoćom.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusile</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7767</ID>
+    <SENTENCE>Na turniru u Singapuru na kojem momčadi bruse završnu formu za Olimpijske igre, izabranici Ratka Rudića odigrali su još jednu utakmicu neriješeno.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1060</ID>
+    <SENTENCE>Ako pacijentu nedostaje jedan ili više zuba, to je moguće nadomjestiti klasičnim mostovima kada se bruse susjedni zubi koji služe kao nosači ili ugradnjom implantata koji onda služi kao nosač pojedinačnog zuba ili mosta.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1164</ID>
+    <SENTENCE>Ovom izložbom kao da poručuje kako je ono što je dosad polučio kao punokrvan kolorist samo jedno od lica njegova mnogo1ikog, ali još neiskušana talenta i da neće, poput mnogih naših slikara, biti "dosljedan", kako se u nas naziva beskonačno iskorištavanje od publike dobro primljene i potom u sebe zatvorene paradigme, nego da će, naprotiv, istraživati medij slike i u njemu neprestance iskušavati i "brusiti" svoj istraživački i analitički duh.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>401</STARTINDEX>
+    <ENDINDEX>408</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1117</ID>
+    <SENTENCE>"Svi mi treneri volimo kad igrač igra redovito, kad brusi formu iz utakmice u utakmicu. Inače, mi u stožeru smo s igračima u stalnom kontaktu, analziramo i taj problem. Mišljenja sam da to neće utjecati na njihovu spremnost. To bi bio daleko ozbiljniji problem da mi idemo na nekakav turnir da nas čeka pet utakmica u dvadesetak dana, ali za jednu utakmicu to ne bi smio biti niti problem, niti alibi".</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7756</ID>
+    <SENTENCE>Čuj ne znam keramika stvara jedan tvrdi štit između tarnih dijelova, a taj štit se poteroši za 100 000 km kao i što s emotor troši stoga ne vidim razloga zašto taj štit po potrebi se ne bi dao skinuti strojnom obradom jer tako i tako kad slažeš generalku kvalitetno treba neke dijelove brusiti itd.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>286</STARTINDEX>
+    <ENDINDEX>293</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1034</ID>
+    <SENTENCE>"Odmah je bilo očito da je on pravi, izvorni talent. Odmah je bio dijamant, kojeg je samo trebalo nastaviti brusiti", rekao je Francis de Taddeo, trener koji je radio u juniorskom pogonu Metza.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7722</ID>
+    <SENTENCE>Od danas ponovno kreću s treninzima i u posljednjih će petnaestak dana brusiti formu za utakmicu života s vinkovačkom Cibalijom.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7754</ID>
+    <SENTENCE>Pisanje za novine, osim što vam je neiscrpna riznica onoga što sam rekao da nadilazi sve spisateljske fantazije, zaista brusi disciplinu.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1070</ID>
+    <SENTENCE>Messi je brusio dijamantnu učinkovitost u Barceloni i La Pulgai, no tek mora zasjati u plavo - bijelom dresu.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1075</ID>
+    <SENTENCE>Pri tome kao da zaboravljaju da su se za stručan posao pripremali tijekom dugogodišnjeg školovanja i dodatno brusili kroz praksu, dok o rukovođenju vjerojatno nisu čuli mnogo.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1031</ID>
+    <SENTENCE>Prigodom izrade keramičkih ljuskica štedi se zubno tkivo, budući se djelomično brusi samo prednja ploha zuba.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1028</ID>
+    <SENTENCE>Možda ostanu u Splitu, možda odu na Brač, ali izvjesno je da će formu za susret s Rijekom "brusiti" u Hong Kongu od 3. do 11. veljače.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1191</ID>
+    <SENTENCE>Za što ćemo se odlučiti u potpunosti je preušteno nama. U korist parketa govori činjenica da ga je moguće više puta brusiti, tako da nakon nekoliko godina on opet izgleda kao da je nov.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1176</ID>
+    <SENTENCE>Mnogi talenti brusili su svoj nogometni talent pod njegovom trenerskom palicom.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1134</ID>
+    <SENTENCE>Karijeru je brusio u međunarodnim kompanijama poput Strabaga i Sana.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7772</ID>
+    <SENTENCE>Posljednji detalji posjeta se bruse i na Pantovčaku ne žele otkriti hoće li Josipović odnijeti još jednu hrvatsku pozivnicu poglavaru Katoličke crkve.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7732</ID>
+    <SENTENCE>Koliko humanih fraza u posve drukčijoj zbilji, gdje jedan moćnik na drugoga brusi nož i otima mu tlo ispod nogu !</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7742</ID>
+    <SENTENCE>U prvom posjetu prednja stijenka zuba se brusi, tj. uklanja se vrlo tanak sloj cakline.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1035</ID>
+    <SENTENCE>Po talijanskoj licenci brusimo i poliramo mramor, teraco, mozaik te vodimo i evoluiramo tehnologiju brušenja i poliranja betona.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusimo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1130</ID>
+    <SENTENCE>U listopadu će se ponovno vratiti u Milan i brusiti formu za nastup u Južnoj Africi.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1120</ID>
+    <SENTENCE>Kao srednjoškolac i student nebrojeno sam puta radio oplate za grobnice, brusio grobne okvire i radio oplatu, što mi je omogućavalo dodatni prihod.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1180</ID>
+    <SENTENCE>Nakon što su svoje vještine brusili na nezavisnoj britanskoj rock sceni, sredinom osamdesetih godina prošlog stoljeća izdali su "Screamadelica", album koji se pokazao ključnim za njihovu karijeru - nakon "Sreamadelica" našli su se u središtu alternativne rock scene i započeli, kasnije će se pokazati, jako bogatu karijeru.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1012</ID>
+    <SENTENCE>"Nas nema milijardu i pol kao Kineza, nego tek nešto više od 4 milijuna i kada se pojavi jedan ovakav sportski dragulj, kojeg, istina, još treba puno brusiti, onda moramo svi biti jedinstveni i napraviti sve da tako naderenom sportašu stvorimo optimalne uvjete za rad i napredak," dodao je Čop, napominjući da u rješenju ovog slučaja HOO neće niti u jednoj varijanti zaobići Hrvatski gimnastičarski savez.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>157</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1170</ID>
+    <SENTENCE>Tamo ćemo konačno brusiti naš koncept igre.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1183</ID>
+    <SENTENCE>Osušeni prvi i drugi sloj laka lagano treba prebrusiti brusnim papirom br. 150 ručno, ili brusnim papirom br. 240-280 ako se brusi ručnim brusilicama.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7792</ID>
+    <SENTENCE>Williams će morati izvući najbolje iz sebe, jer se Cleese i Atkinson već bruse za živi nastup i obećavaju "nešto vrlo posebno".</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7708</ID>
+    <SENTENCE>U svojoj povijesti Komisija Hrvatske biskupske konferencije Iustitia et pax dosad nikad nije tako brzo sročila jednu svoju izjavu i u rekordnom vremenu reagirala na neko dnevno - političko pitanje. Njezine izjave bruse se mjesecima, a ova, s očitim rukopisom njezina člana Nevena Šimca i potpisom biskupa Vlade Košića, stigla je gotovo preko noći s ultimativnim zahtjevom da Hrvatska ništa ne potpisuje, makar i po cijenu nove blokade pristupnih pregovora za Europsku uniju.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>213</STARTINDEX>
+    <ENDINDEX>218</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1199</ID>
+    <SENTENCE>To je ono o čemu se u ovoj igri radi i to je ono što su ovih godina najviše "brusili" na Euphoria engineu, koji je stvarno priča za sebe.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7733</ID>
+    <SENTENCE>Aglas je pomoću alata i strojeva za obradu metala i tvrdo drvo moguće piliti, glodati, tokariti, bušiti, brusiti i polirati.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7759</ID>
+    <SENTENCE>SPLIT - Splitski pijanist Nikica Lesić koji je karijeru brusio u Armeniji i SAD-u, nastupit će pred splitskom publikom 21. kolovoza ispred crkve sv. Nikole na Marjanu na koncertu Razbijena tišina najavljenom za 21 sat.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7702</ID>
+    <SENTENCE>Svi kristalni artikli brušeni su ručno u gustom, rijetkom, te unikatnom dezenu pojedinačno ili u cijeloj seriji.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brušeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1043</ID>
+    <SENTENCE>Zaprljana područja se mogu brusiti sve dok drvo ponovno ne poprimi prirodnu boju.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1081</ID>
+    <SENTENCE>Ali, znam da je bilo uvjetovanja prije velikih natjecanja kada neki bruse formu, za što taktički ima razloga.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7752</ID>
+    <SENTENCE>Kompletirali smo se prošli tjedan i tek se bruse forme tako da smo još u fazi "porođajnih muka".</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1140</ID>
+    <SENTENCE>Pletikosa se ne sprema na povratak u Split već je brusio formu uoči utakmica reprezentacije.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1177</ID>
+    <SENTENCE>Premda Indexe, one "stare" iz vremena kreativnih vrhunaca, kada su cijelo jedno ljeto na tadašnjoj terasi "Vinalka" brusili svoju osebujnu inačicu progresivnog rocka i "kuruze", pamti zacijelo još samo Mosor i tkogod od njegovih nostalgijom ozračenih vršnjaka, Split i negdašnje megazvijezde jugoslavenske pop scene imale su mnogo čvrstih veza.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1147</ID>
+    <SENTENCE>Stječete dojam kako je autorica uložila znatan trud pri uobličavanju svoga izričaja, bruseći rečenice i dotjerujući stilske figure, razrađujući ekonomičnost izričaja, potanko promišljajući svoj "protok" riječi u kojem se naslućuje bujica koja je neprestano obuzdavana nekim velikim branama - da ostanemo u primjerenom okružju goleme mitske rijeke i njezinih simboličnih naplavina.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruseći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1064</ID>
+    <SENTENCE>Bandić je dugo bio itekako željeno dijete SDP-a i proizveo je kroz godine na vlasti i sam mnogo slične "djece ’ koja su umrežena sitnim interesima bilo kroz grad ili kroz stranku, a neka od te" djece ’ su uredno pretrčala od svog zaštitnika Bandića na drugu stranu i sada bruse zube na dojučerašnjem mentoru.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.01</SENSEID>
+      <SENSEID>V.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>272</STARTINDEX>
+    <ENDINDEX>277</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1096</ID>
+    <SENTENCE>1. "LFC Langenfeld" 12. - 17.12. Pras s njima trenira i dokazuje kvalitetu za Ligu &amp; brusi formu za Nizozemsku.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1036</ID>
+    <SENTENCE>Dok u Čatežu izbornik Otto Barić brusi dobitnu kombinaciju za Andoru i Belgiju, u Rusanovoj ulici se jučer održala sjednica administrativnog krila Hrvatskog nogometnog saveza, nakon 55 dana pauze održana je sjednica Izvršnog odbora HNS-a.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1092</ID>
+    <SENTENCE>Ali ovo čekanje ne znači i prestanak rada na sebi: svoje "oružje" uvijek treba brusiti i nadograđivati.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1089</ID>
+    <SENTENCE>Kvaliteta je brušena na 180 prototipova, kojima je prijeđeno dva milijuna kilometara.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brušena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7739</ID>
+    <SENTENCE>Tko bi sada pronašao upravo tu ploču, posebice jer nije bila ispisana što je kradljivcu olakšalo posao jer je ne mora brusiti kako bi uništio prijašnja slova - kaže Lovaković, dodajući kako već nekoliko godine nije bilo sličnog slučaja, ali zato su razmjerno česte krađe stalaka za svijeće ili kamene vaze.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1200</ID>
+    <SENTENCE>Istodobno, navijači kod kuće i u Austriji bruse rekvizite za večeras.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.01</SENSEID>
+      <SENSEID>V.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1118</ID>
+    <SENTENCE>Bugari se strahovito bruse na utakmicu s Hrvatima i zasigurno već nakon drugog kola žele posjedovati šest bodova i time uvelike trasirati put za Lisabon.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1067</ID>
+    <SENTENCE>Na proizvodnju noževa, koje nikad ne treba brusiti, nadahnuli su ih morski ježevi, čiji su zubi tako jaki da mogu jesti kamenje.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7788</ID>
+    <SENTENCE>Prema posljednjim podacima čak 80 posto dragulja danas se brusi u Indiji.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7728</ID>
+    <SENTENCE>Prije zadnjeg lakiranja uvijek međuslojno se brusi (mrežica) uz naknadno uklanjanje prašine.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1027</ID>
+    <SENTENCE>INDEX je posjetio hrvatske košarkaše koji u spokoju slovenskih Alpi bruse posljednje djeliće forme uoči odlaska u Peking.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1121</ID>
+    <SENTENCE>Umjesto od stručnjaka im predloženog učenja i osmišljavanja pravog društvenog oporavka koji ne uključuje uporabu oštrog alata, oružja i oruđa, oni u slobodno vrijeme uporno bruse svoje kuhinjske noževe i škare i glačaju svoja tirkizna kirurška odijela i ogrtače, pišući usput brodske dnevnike.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>173</STARTINDEX>
+    <ENDINDEX>178</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1137</ID>
+    <SENTENCE>Od 1100. godine na otoku Muranu staklo su počeli bojati i od njega raditi umjetnost, ali istovremeno i brusili, rezali, puhali te na sve moguće načine eksperimentirali, tako da su oni sa svojim izumiteljima zaslužni za neke od najvećih izuma, poput teleskopa i mikroskopa, ali i ogledala, čija je proizvodnja bila državna tajna.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.01</SENSEID>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1044</ID>
+    <SENTENCE>Ne znam, da sam bio na Barićevu mjestu, svakako bih ga poveo ; mlade igrače treba brusiti.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7724</ID>
+    <SENTENCE>Granit se lako polira, brusi i daljnje obrađuje.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1083</ID>
+    <SENTENCE>Louis van Gaal se "brusio" prije utakmice, "brusili" su se i nogometaši Bayerna, no u konačnici i ostali nedorečeni u pokušaju da po peti puta postanu najbolja momčad Europe.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1055</ID>
+    <SENTENCE>Da bi se postigle glatke površine, položene betonske ploče se bruse vlažne.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1090</ID>
+    <SENTENCE>Bambusov parket se primjerice može više puta brusiti i ponovno lakirati.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1068</ID>
+    <SENTENCE>Rooney je, kao i on sam, karijeru počeo brusiti u gradu Liverpoolu, ali u redovima Evertona, a od 2004. godine je član Manchester Uniteda.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7777</ID>
+    <SENTENCE>Stoga se nadam da se više nećemo trebati 'brusiti' na pomalo zastarjele elektroničare kao što je bilo prošlo ljeto s The Prodigyem i Stereo MC 's, već da će mlade snage dobiti bolje i elitnije termine na ljetnim festivalima, posebno iz tog razloga što dosad još uopće nisu razočarali (tu ipak najviše mislim na genijalni nastup grupe !!! od prije godinu i pol).</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1188</ID>
+    <SENTENCE>Današnji uspjeh klape Intrade izrasta iz vremena dok su pjevali u formi "a capella", kad su s puno truda brusili svoje glasnice da bi u ljetnim večerima na Omiškoj "pjaceti" dosezali do nagrada najprestižnijeg klapskog natjecanja.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1088</ID>
+    <SENTENCE>Dolaze nam gosti, primjerice iz vladinih institucija, s burze i brojnih hrvatskih tvrtki a studenti nakon toga bruse svoj zanat obrađujući te zadatke kao novinarske teme pa tako kroz studij stječu pravo novinarsko iskustvo.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>bruse</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1163</ID>
+    <SENTENCE>Nakon polaganja se mozaik parket, kao i sve druge vrste parketa, brusi i lakira, kako bi izdržao što više habanja.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7796</ID>
+    <SENTENCE>Minimalno povećanje cijena, vjeruju u Mladosti, ne bi trebalo spriječiti ljubitelje leda da dođu na klizanje te ih pozivaju da već sada počnu brusiti svoje klizaljke.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>142</STARTINDEX>
+    <ENDINDEX>149</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1102</ID>
+    <SENTENCE>To vam ne bi preporučio jer iz osobnog iskustva znam da je na skijalištu politika (puno brusi, malo krpaj) pa se na taj način značajno smanjuje vijek same skije, razlog je da se veliki dio oštećenja ne vari plastikom, već se samo brusi.</SENTENCE>
+    <TARGETLEMMA>brusiti</TARGETLEMMA>
+    <TARGETWORD>brusi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+</SET>

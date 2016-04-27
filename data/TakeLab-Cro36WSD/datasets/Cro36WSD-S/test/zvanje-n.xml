@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>4113</ID>
+    <SENTENCE>10. Daj mi, molim te, da ustrajem u svome zvanju, i da zadobijem njegove blagodati i za života i u času smrti !</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4111</ID>
+    <SENTENCE>Četvrta vazmena nedjelja, nedjelja Dobroga Pastira, dan je kada Crkva posebno moli za svećenička i redovnička zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4130</ID>
+    <SENTENCE>- Ako bi vrijedila retorika Andrije Hebranga, onda je mjerodavniji stav zastupnika s doktoratom psihologije kakav sam ja, nego onaj zastupnika sa zvanjem radiologije kakav je Hebrang - poručio je Radin.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanjem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>153</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4133</ID>
+    <SENTENCE>Prijava iz stavka 1. ovoga članka sadrži: osnovne podatke o kandidatu (ime i prezime, datum i mjesto rođenja, adresa stanovanja), naziv zvanja i specijalnosti za koje se prijava podnosi, podatke o završenoj školi ili fakultetu i o stečenom stručnom zvanju, podatke o radnome mjestu i ustanovi zaposlenja, te pri ­ jedlog teme stručnog rada, odnosno predmeta praktičnog rada i ime i prezime mentora.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>136</STARTINDEX>
+    <ENDINDEX>142</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4152</ID>
+    <SENTENCE>Prof. dr. sc. Ivan Pavić predložio je da se provede rasprava o naknadama za professore emerituse koje iznose 20 % od bruto iznosa plaće redovitog profesora u trajnom zvanju, jer je bio dogovor da ta sredstva osigura Ministarstvo.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>166</STARTINDEX>
+    <ENDINDEX>172</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4110</ID>
+    <SENTENCE>Druga važna tema bilo je pitanje brige za duhovna zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4056</ID>
+    <SENTENCE>Izabire se dr. sc. Milena Žic Fuchs u znanstveno - nastavno zvanje izvanrednog profesora za znanstveno područje humanističkih znanosti, polje jezikoslovlje, grana anglistika na Katedri za engleski jezik u Odsjeku za anglistiku.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4191</ID>
+    <SENTENCE>Upisuje u Zagrebu Fakultet kemijskog inženjerstva i tehnologije na kojem diplomira u travnju 2002. Tijekom studija prima stipendiju Sveučilišta u Zagrebu za najbolje studente, a od lipnja 2002. godine radi kao znanstveni novak u suradničkom zvanju asistenta na Fakultetu kemijskog inženjerstva i tehnologije na Zavodu za reakcijsko inženjerstvo i katalizu.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>241</STARTINDEX>
+    <ENDINDEX>247</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9289</ID>
+    <SENTENCE>U zvanje docenta izabran je 1997. godine, a 2002. u zvanje izvanrednog profesora.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9201</ID>
+    <SENTENCE>U molitvi vjernika mladi su, između ostalog, molili za njihovu ustrajnost u vjeri, velikodušno predanje mladih za duhovna zvanja te snagu u svladavanju poroka današnjice poput droge, alkohola i nemorala.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>128</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9235</ID>
+    <SENTENCE>Pristupnici obvezno dostavljaju priloge i popise radova, te ostale dokaze o ispunjavanju uvjeta natječaja sukladno članku 10. Pravilnika o izborima u zvanja i o izborima na radna mjesta na Prirodoslovno - matematičkom fakultetu Sveučilišta u Zagrebu, koji se nalazi na internet stranicama PMF-a www.pmf.hr.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>156</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9246</ID>
+    <SENTENCE>U svojoj knjizi Putovi živoga Boga poznati francuski teolog, dominikanac Yves Congar, piše ovo: "Crkva ima za svoju misiju reproducirati i nastavljati Isusa Krista ; to zvanje čitavog tijela Crkve također je zvanje svakoga od njezinih udova ; no kako je Isus Krist jedini savršen, sveci imaju zvanje reproducirati, svaki od njih, naročito jedan vid, nastavljati na osobit način jedno od njegovih velebnih djela.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>208</STARTINDEX>
+    <ENDINDEX>214</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4031</ID>
+    <SENTENCE>Pod vodstvom iskusnih predavača studenti se osposobljavaju za rad u područjima programiranja, računalnih sustava i mreža, izrada baza podataka i web stranica, te projektiranja informacijskih sustava, a po završetku studija stječe se zvanje stručnog prvostupnika informacijskih tehnologija.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>233</STARTINDEX>
+    <ENDINDEX>239</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9284</ID>
+    <SENTENCE>No da je on baš u najobičnijem životu pokazao veličinu duha, to pokazuju njegova načela i maksime u kojima je na jezgrovit i lapidaran način zacrtao svoj stav prema Bogu, prema Družbi i redovničkom zvanju, prema poglavarima i subraći, prema obdržavanju redovničkih pravila i zakonu svladavanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>198</STARTINDEX>
+    <ENDINDEX>204</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4096</ID>
+    <SENTENCE>Posljedica toga mogao bi biti kroničan manjak kvalitetnog kadra i svođenje slavnog zvanja na nekoliko tisuća pomoraca u nacionalnoj plovidbi - zaključuje Malger.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9205</ID>
+    <SENTENCE>Popis posade sadrži: ime i zastavu broda, ime i prezime člana posade, državljanstvo, datum i mjesto rođenja, zvanje i dužnost, broj i mjesto izdanja pomorske knjižice, luka i datum dolaska broda.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4072</ID>
+    <SENTENCE>17. listopada 2002. izabrana je u znanstveno - nastavno zvanje izvanredni profesor.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4084</ID>
+    <SENTENCE>MIROSLAV ŠOVANJ, sudac Vrhovnog suda RH, prije 11 godina dok je radio u općinskom sudu u Vukovaru, je prema pisanju Jutarnjeg lista, donio rješenje kojim je Kristijanu Skibi priznao srednju obućarsku školu i zvanje KV radnika.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>208</STARTINDEX>
+    <ENDINDEX>214</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9209</ID>
+    <SENTENCE>1914., nakon mature, Ivan bez vojničkog zvanja za volju roditelja polazi u Vojnu akademiju u Bečko Novo Mjesto, gdje ostaje samo tri mjeseca.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4159</ID>
+    <SENTENCE>Smatram da gubimo tri stvari koje u Međugorju ponovno dobivamo: pokora, obraćenje i zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9269</ID>
+    <SENTENCE>Nije se javio nakon onog njenog bezuspješnog pokušaja zvanja, ali sad iz čista mira, u kasne večernje sate, kao grom iz vedra neba.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4139</ID>
+    <SENTENCE>U zvanje znanstvenog suradnika izabran je 1991. godine, višeg znanstvenog suradnika 1997. godine, a znanstvenog savjetnika 2002. godine, a u znanstvenog savjetnika u trajnom zvanju 2007. godine.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>174</STARTINDEX>
+    <ENDINDEX>180</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4029</ID>
+    <SENTENCE>Nakon toga upisujem izvanredni studij na višoj ekonomskoj školi Sveučilišta u Splitu, gdje sam diplomirala i stekla zvanje ekonomista.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4144</ID>
+    <SENTENCE>Federation Internationale del 'Art Photographique dodjeljuje mu titulu Artist FIAP iste godine, a 1967. i najviše zvanje - Exellence FIAP.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>120</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9257</ID>
+    <SENTENCE>Ondašnja vlasnica obrta Mara Milošić shvativši potrebu za izobrazbom učenika za zvanje konobar i kuhar počela je primati učenike na praktičnu nastavu i to od 2000. godine, dakle punih 11 godina.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9237</ID>
+    <SENTENCE>U slučaju ozljede na radu za koju Poslodavac ne dokaže da je nastala zbog namjernog samoozljeđivanja, Poslodavac je dužan isplaćivati Pomorcu naknadu za bolovanje do stupnja izliječenja koje Pomorcu omogućava ponovni ukrcaj na Brod u zvanju u kojem je plovio prije ozljeđivanja, odnosno do trenutka kada se utvrdi da je takvo izliječenje nemoguće, jer je Pomorac trajno nesposoban za pomoračko zvanje.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>234</STARTINDEX>
+    <ENDINDEX>240</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9287</ID>
+    <SENTENCE>Imenuje se stručno povjerenstvo za davanje mišljenja o ispunjavanju uvjeta predloženika za izbor u znanstveno - nastavno zvanje redovitog profesora za znanstveno područje društvenih znanosti, polje psihologija, u Odsjeku za izobrazbu učitelja na Učiteljskoj akademiji Sveučilišta u Zagrebu (kandidat: dr. sc. Ana-Mira Čudina Obradović).</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4026</ID>
+    <SENTENCE>Tome je zvanju davao prednost pred monaškim govoreći da je između jednoga i drugoga tako velika razlika kao "između položaja podanika i cara".</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9291</ID>
+    <SENTENCE>5.1. Izvještaj stručnog povjerenstva za izbor dr. sc. Ivana Ivasa u znanstveno - nastavno zvanje izvanrednog profesora za znanstveno područje humanističkih znanosti, polje jezikoslovlja, grana fonetika, na Katedri za estetsku fonetiku i ortoepiju hrvatskog jezika, u Odsjeku za fonetiku.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4007</ID>
+    <SENTENCE>Pučki pravobranitelj ocjenjuje ukupno postupanje tijela odvjetničke komore u tom postupku neprimjerenim i nepravilnim, ali i zlouporabom vrlo značajne javne ovlasti da odlučuje o pravu na obavljanje odvjetničkog zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>212</STARTINDEX>
+    <ENDINDEX>218</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4097</ID>
+    <SENTENCE>Neka djeca otvoreno negoduju, redovito burno reagiraju kod rastajanja od roditelja, plaču, ne prihvaćaju i protestiraju vrištanjem, zvanjem mame ili tate, bacanjem na pod, agresijom usmjerenom na stvari, drugu djecu ili odgajatelja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanjem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4035</ID>
+    <SENTENCE>Doša svečenik ili ne doša ista stvar, svečenici su ljudi koji su se odredili za to zvanje a nikakvi božji poslanici.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9292</ID>
+    <SENTENCE>Daje se pozitivno mišljenje za izbor mr. sc. Aleksandre Kitarović-Koščec u nastavno zvanje predavača i mr. sc. Željke Štefan u nastavno zvanje višeg predavača, a negativno mišljenje za izbor Irene Benčik, za znanstveno područje humanističkih znanosti, polje jezikoslovlje, grana romanistika, kolegij Talijanski jezik, na Fakultetu za turistički i hotelski menadžment u Opatiji.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4033</ID>
+    <SENTENCE>Da dobra je fora sa odnošenjem zamolbe za posao osobno u firmu ! Osim što će imati priliku osobno te upoznati prije ikakvog zvanja na razgovor ostavlja se dojam da ti je stalo do posla i da ti nije teško donijeti zamolbu u firmu ! Užasno je kada prođemo neke godine i kada se poslodavci ponašaju kao da smo pobjegle iz staračkog doma pa sad tražimo posao ! A kada spomeneš melu djecu ili eventualno proširenje obitelji - reakcije su gotovo uvijek negativne i za nas porazne !</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4093</ID>
+    <SENTENCE>Da Čehok ispunjava uvjete za napredovanje iz zvanja znanstvenog asistenta u zvanje izvanrednog profesora, procijenilo je stručno povjerenstvo koje su činili profesori zagrebačkog Filozofskog fakulteta - Žarko Puhovski i Ante Čović, te Milan Polić s Učiteljskog fakulteta.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9230</ID>
+    <SENTENCE>Ako ovaj Zakon ili propisi koji su važili prije njegova stupanja na snagu za zatečena zvanja ili radna mjesta zahtijevaju reizbor ili izbor u više zvanje, reizbor ili postupak izbora u isto zvanje provest će se u roku koji predviđa propis prema kojemu je izbor izvršen.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>153</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4164</ID>
+    <SENTENCE>Kratki je to sadržaj kratkog filma u kojem glavne uloge igraju splitski bogoslovi, studenti teologije, budući svećenici, prikazujući svoje zvanje na potpuno drukčiji način.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>139</STARTINDEX>
+    <ENDINDEX>145</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4167</ID>
+    <SENTENCE>S obzirom na mnogo dobra koje redovnice čine u društvu, potaknuo ih je da brigu posvete i pomlatku jer i kod redovnica se osjeća manjak duhovnih zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9295</ID>
+    <SENTENCE>Želja je mlade potaknuti na molitvu za duhovna zvanja i posvjestiti misijsko poslanje Crkve, koje se ostvaruje putem zauzetih vjernika, angažiranih laika ili osoba koje su prepoznale i prihvatile duhovni poziv.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4165</ID>
+    <SENTENCE>Iz toga zauzeta apostolskoga rada nicala su i duhovna zvanja za Družbu.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9207</ID>
+    <SENTENCE>Kao kaznu, Odvjetništvo traži i da vrate nezakonito oduzetu imovinu te da im se zabrani obavljanje liječničkog zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9215</ID>
+    <SENTENCE>Bila je to prava eksplozija duhovnih zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9214</ID>
+    <SENTENCE>Za nositelja je određen Fakultet organizacije i informatike u Vara  dinu, jer je imao najveći broj izabranih znanstvenika u znanstveno - istra  ivačko zvanje znanstvenog suradnika i vi  e, a za nositelja izvedbe Referalni centar Sveučili  ta u Zagrebu.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>153</STARTINDEX>
+    <ENDINDEX>159</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4125</ID>
+    <SENTENCE>Od 1. veljače 2008. zaposlena na suradničkom radnom mjestu i u suradničkom zvanju asistenta u svojstvu znanstvene novakinje u Odsjeku za povijest hrvatske književnosti HAZU na znanstvenom projektu "Hrvatski književni povjesničari" (0101038) voditelja prof. dr. sc. Tihomila Maštrovića.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9286</ID>
+    <SENTENCE>Izabire se mr. sc. Suzana Glavaš Chieppa u nastavno zvanje višeg lektora za znanstveno područje humanističkih znanosti, polje jezikoslovlje, grana talijanistika, na Katedri za talijanski jezik Odsjeka za talijanistiku.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9206</ID>
+    <SENTENCE>1966. / 67., od 1977. u zvanju izvanrednog profesora, od 1984. do uključivo 1992. / 93. u zvanju redovitog profesora u dopunskom radnom odnosu.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9297</ID>
+    <SENTENCE>Istraživanje je sprovedeno u vrijeme dok se još očekivalo izglasavanje novog zakona u kojem su promjenjeni nazivi knjižničarskih zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4053</ID>
+    <SENTENCE>Zvanja u arhivskoj struci za koja se polaže stručni ispit su: arhivski tehničar, viši arhivski tehničar i arhivist.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>Zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4124</ID>
+    <SENTENCE>U isto vrijeme održao sam i promotivno predavanje na splitskom Medicinskom fakultetu u procesu izbora u zvanje izvanrednog profesora.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4017</ID>
+    <SENTENCE>Diplomirani pravnik i stručnjak za lovno pravo iz Splita Mladan Vidović, predsjednik Zajednice lovačkih udruga Splitsko - dalmatinske županije, član županijskog Povjerenstva za lovstvo i ravnatelj Pučkog otvorenog učilišta "Hubert" - Split, koje ima licenciju za edukaciju građana za zvanja lovca i lovočuvara, drži da takve priče ne drže vodu.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>284</STARTINDEX>
+    <ENDINDEX>290</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4138</ID>
+    <SENTENCE>Odsjek može predložiti za počasno zvanje profesore koji će s 30. rujnom 2003. otići u mirovinu ili profesore koji su otišli u mirovinu zadnjih 2-3 godine.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4129</ID>
+    <SENTENCE>Danas je, međutim, potpuno jasno da je Đikićevo namješteno napredovanje imalo samo jedan cilj, a to je da mu se na sveučilištu u inozemstvu gdje je radio njegova titula iz Hrvatske automatski prevede u isto to zvanje u inozemstvu, jer titulu izvanrednog profesora bilo u Njemačkoj ili Švedskoj ne bi dobio tijekom sljedećih petnaest godina.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>210</STARTINDEX>
+    <ENDINDEX>216</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4002</ID>
+    <SENTENCE>Daje se pozitivno mišljenje za izbor dr. sc. Pavla Vežića u znanstveno - nastavno zvanje izvanrednog profesora za znanstveno područje humanističkih znanosti, polje povijest umjetnosti, grana povijest i teorija likovnih umjetnosti, arhitekture, urbanizma i vizualnih komunikacija, za predmete Osnove arhitekture i Zaštita spomenika kulture, na Filozofskom fakultetu u Zadru.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4170</ID>
+    <SENTENCE>Imenuje se stručno povjerenstvo za davanje mišljenja o ispunjavanju uvjeta predloženika za izbor nastavnika u znanstveno - nastavno zvanju docenta, izvanrednog profesora ili redovitog profesora, ili nastavnom zvanju predavača, višeg predavača ili profesora visoke škole za znanstveno područje humanističkih znanosti, polje jezikoslovlje, za predmet Metodika hrvatskog jezika na Visokoj učiteljskoj školi u Petrinji (pristupnice dr. sc. Kata Lučić i Božica Vuić, prof.).</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>209</STARTINDEX>
+    <ENDINDEX>215</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4176</ID>
+    <SENTENCE>Žarka Paića u nastavno zvanje višeg predavača i mr. sc. Zdravka Lučića u nastavno zvanje predavača i negativno mišljenje za izbor Darka Duila u nastavno zvanje predavača za znanstveno područje društvenih znanosti, polje sociologije, za grupu kolegija iz sociologije na Tekstilno - tehnološkom fakultetu u Zagrebu.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>153</STARTINDEX>
+    <ENDINDEX>159</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4134</ID>
+    <SENTENCE>Prvi susret ove godine započeo je u subotu 13. siječnja svetom misom u ranim jutarnjim satima u varaždinskoj katedrali koju je predvodio vlč. Antun Štefan, povjerenik za duhovna zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>178</STARTINDEX>
+    <ENDINDEX>184</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4153</ID>
+    <SENTENCE>Prije odlaska na studije i zaređenja u svećeničko zvanje, u razdoblju od 1991. do 1995. godine bio je dragovoljac Domovinskog rata, pripadnik 4. gardijske brigade i sudjelovao u vojnoj akciji Oluja i obrani Hrvatske.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9212</ID>
+    <SENTENCE>Četrdeset svećenika, redovnika i redovnica iz svih hrvatskih biskupija i BiH razmatralo je "plime i oseke", molilo za plodnost i snagu rada za zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>143</STARTINDEX>
+    <ENDINDEX>149</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4102</ID>
+    <SENTENCE>Sa zvanjem se nije šalila.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanjem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>3</STARTINDEX>
+    <ENDINDEX>10</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4169</ID>
+    <SENTENCE>Karate zvanja se dijele na učenička i majstorska.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4028</ID>
+    <SENTENCE>Diplomirala na Arhitektonskom fakultetu u Zagrebu 1985. Znanstveno zvanje Magistra znanosti iz područja Tehničkih znanosti znanstvenog polja Arhitektura i urbanizam stekla 2000. na istom Fakultetu.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4010</ID>
+    <SENTENCE>Predstavnici vlasti kazali su za WAFF-TV da je ženska članica osoblja sveučilišta saznala na sastanku fakulteta biologije da neće dobiti profesorsko zvanje, nakon čege je izvukla pištolj i počela pucati po kolegama.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>149</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4041</ID>
+    <SENTENCE>A je li zvanje Dodika u Zagreb bila pogreška ?</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4073</ID>
+    <SENTENCE>U zvanje izvanrednog profesora izabrana je u ožujku 2004. godine.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9293</ID>
+    <SENTENCE>U svibnju 2010. izabran je u zvanje izvanrednog profesora.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4189</ID>
+    <SENTENCE>Taj izgon iz Cresa izazvao je dugotrajne traume kod hrvatske i slovenske subraće, a sjećanje na pokladni utorak 1919. godine postalo je svojevrsni spomendan na jedan bolni rastanak, čije su posljedice srećom urodile dobrim rezultatom: širenjem franjevaca konventualaca u kontinentalne hrvatske strane, što je bila prigoda za priljev novih zvanja i brojčano povećanje tada još malobrojne zajednice.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>339</STARTINDEX>
+    <ENDINDEX>345</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4150</ID>
+    <SENTENCE>U zvanje restauratora - konzervatora proglašeni su: Ratka Alač, Ivana Čapeta, Evelin Jurić i Ivana Muratti.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4092</ID>
+    <SENTENCE>I dobro bi bilo da se svaki od nas najozbiljnije zapita kako ostvaruje tu svoju temeljnu relaciju - zvanje: roditelji i djeca u obitelji ; župnik i vjernici u župi, nastavnici i učenici u školi.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4062</ID>
+    <SENTENCE>Na temelju kvota koje su određene na razini Sveučilišta za dodjelu počasnih zvanja za petogodišnje razdoblje Fakultet ima na raspolaganju još 4 mjesta za popunu.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4179</ID>
+    <SENTENCE>Od 1998. zaposlen kao mlađi asistent u Institutu za povijest umjetnosti u Zagrebu (od 2002. u zvanju asistenta ; od 2007. u zvanju višeg asistenta ; od 2008. u zvanju znanstvenog suradnika).</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>160</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4094</ID>
+    <SENTENCE>Krivima su optužene 22 osobe, a prvooptužena Jasenka Sili osuđena je na godinu i 9 mjeseci zatvora i 2 godine zabrane obavljanja zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4154</ID>
+    <SENTENCE>Uputit će se zahtjev Ministarstvu znanosti i tehnologije da dâ tumačenje moraju li se stručna povjerenstva pridržavati već dane klasifikacije radova ili kod razvrstavanja i analize radova u postupku izbora kandidata u određena zvanja mogu radove prekvalificirati.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>227</STARTINDEX>
+    <ENDINDEX>233</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4107</ID>
+    <SENTENCE>Antun Štefan, predstojnik Ureda za pastoral duhovnih zvanja, kojemu je, zajedno sa suradnicom vjeroučiteljicom Snježanom Mališa, povjerena zadaća praćenja i formiranja animatora u Varaždinskoj biskupiji, nastojao je potaknuti sudionike na što cjelovitiju duhovnu izgradnju te trajno i neprestano predanje Isusu Kristu.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9238</ID>
+    <SENTENCE>Daje se pozitivno mišljenje za izbor Nade Karačić i Mirele Landsman-Vinković, a negativno mišljenje za izbor Lidije Eterović, u nastavno zvanje predavača za znanstveno područje humanističkih znanosti, polje jezikoslovlje, grana germanistika, za predmet Njemački jezik, na Fakultetu političkih znanosti Sveučilišta u Zagrebu.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4086</ID>
+    <SENTENCE>Posvećeni život, naprotiv, svjedoči izobilje ljubavi koja potiče na gubljenje života kao odgovor na izobilje Gospodinove ljubavi, koji je poradi nas prvi izgubio svoj život, istaknuo je papa Benedikt XVI. u homiliji na Večernjoj molitvi u bazilici Sv. Petra na blagdan Gospodinova prikazanja, 2. veljače, kada se u čitavoj Crkvi moli za zvanja posvećenoga života.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>337</STARTINDEX>
+    <ENDINDEX>343</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9282</ID>
+    <SENTENCE>U optužnici je predloženo produljenje pritvora protiv Golemovića, dok je protiv ostalih osmero okrivljenika predložena primjena sigurnosne mjere zabrane obavljanja zvanja, djelatosti ili dužnosti.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>170</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4182</ID>
+    <SENTENCE>Izvješćujemo Vas kako je Športski karate klub "ICTUS" Vinkovci po završetku polugodišnjeg ciklusa treninga dana 19. lipnja 2010. godine s početkom u 09,00 sati, na Izletištu Sopot u Vinkovcima, upriličio polaganje za pojaseve za ukupno 27 članova koji su predano trenirali tijekom prethodnog razdoblja te uspješno usvojili planirani program i time ostvarili preduvjete za pristupanje polaganju i koji su svi položili za više zvanje.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>425</STARTINDEX>
+    <ENDINDEX>431</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4014</ID>
+    <SENTENCE>Izabrana je u istraživačko zvanje asistentice 1998. Od 2000. sudjeluje u nastavi kolegija Povijest arhitektonskog oblika.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4140</ID>
+    <SENTENCE>Zakon je izričit u određivanju uvjeta za stjecanje arhivskih zvanja (i zvanja u odgovarajućim drugim strukama zaposlenih u arhivu na poslovima zaštite gradiva) kao uvjeta uopće za obavljanje stručnih arhivskih poslova te preciziranju obveza vježbeničke prakse i polaganja stručnog ispita, sve do prestanka rada u arhivu u slučaju ne polaganja stručnog ispita.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4024</ID>
+    <SENTENCE>Do kraja nije usuglašena ni odredba kojom će se ukinuti ograničenje obvezatnog školovanja na osnovnu školu, budući da vladajući predlažu da se Ustavom tek utvrdi da je opće obrazovanje jednako dostupno, dok oporba traži da se propiše obveza obrazovanja do stjecanja prvog zvanja ili državne mature.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>272</STARTINDEX>
+    <ENDINDEX>278</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9233</ID>
+    <SENTENCE>Tom prilikom su predstavnici Zaklade "Marko Brkić" i Zdravstvenog učilišta potpisali ugovor o poslovnoj suradnji koji predviđa ustupanje na korištenje ovih modela Zdravstvenom učilištu pri školovanju učenika oštećenog vida, ali i videćih učenika, za zvanje fizioterapeut.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>250</STARTINDEX>
+    <ENDINDEX>256</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9254</ID>
+    <SENTENCE>"Natječaj za ponovni izbor u zvanje i odgovarajuće radno mjesto redovitog profesora (trajno zvanje) raspisuje se najranije šest mjeseci prije isteka roka od pet godina od prvog izbora.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4070</ID>
+    <SENTENCE>U živoj raspravi u kojoj su sudjelovali i prisutnici redovnici i redovnice, pokušalo se dokučiti zašto opada broj zvanja, tj. što konkretno mlade (ne) privlači u redovnički život.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>120</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4120</ID>
+    <SENTENCE>Naime, za učenike srednjih škola mjesečna stipendija iznosi 300 kuna, za studente koji studiraju u mjestu prebivališa ona mjesečno iznosi 800 kuna, za studente koji studiraju izvan mjesta prebivališta stipendija je 1.000 kuna te za studente koji se školuju za deficitarna zvanja mjesečna stipendija također iznosi 1.000 kuna.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>272</STARTINDEX>
+    <ENDINDEX>278</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4142</ID>
+    <SENTENCE>Izgrađivati i učvršćivati iskreno, otvoreno i javno kršćansko življenje i svjedočenje u poslu, zvanju, obitelji, t.j. u društvu i u Crkvi.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9211</ID>
+    <SENTENCE>Liječnik može obavljati svoje zvanje samo u okviru svoje izobrazbe određene odobrenjem za samostalan rad.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4141</ID>
+    <SENTENCE>U tom se surječju na sastanku govorilo o realizacija programa u Godini duhovnih zvanja s posebnim osvrtom na programe na dekanatskoj razini ; potom o propisima, brizi i odgovornosti o gradnji crkvenih objekata, uređenju interijera te postavljanju slika i kipova ; iznijeti su prijedlozi o eventualnom izdanju, potrebi i koristi mogućeg župnog Priručnika kod oltara te o osnivanju Kaštelanskog dekanata.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4021</ID>
+    <SENTENCE>Sud Komore odlučuje o povredama dužnosti i ugleda zvanja medicinskih biokemičara u prvom i drugom stupnju.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4001</ID>
+    <SENTENCE>Nadalje, Dumanić je upozorio da prema sadašnjim pravilima zvanje kapetana ne postoji, već se oni nazivaju zapovjednici broda, no udruga će ipak koristiti naziv kapetan za svoje članove.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9234</ID>
+    <SENTENCE>"Blaženi Ivan Merz" jest mladi hrvatski katolički intelektualac koji je uzdignut na čast oltara zahvaljujući svom vjernom življenju evanđelja, u svom svakodnevnom životu, u svom profesorskom zvanju.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>191</STARTINDEX>
+    <ENDINDEX>197</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4082</ID>
+    <SENTENCE>Naime, predaja kaže da su potekli od Jakova koji je "učio za fratra", ali je napustio zvanje, oženio neku bogatu udovicu te se odselio u Bosnu.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9277</ID>
+    <SENTENCE>Njegovo zvanje pripada još u doba izraelskog kralja Ahaba, zbiva se dakle prije 853. pr.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9281</ID>
+    <SENTENCE>Danom stupanja na snagu ovoga pravilnika peestaje vrijediti Pravilnik o utvrđivanju zvanja učitelja i stručnih suradnika u osnovnim školama te postupku, načinu i uvjetima njihova stjecanja ("Narodne novine", broj 59/90. i 27/93.) i Pravilnik o postupku, načinu i uvjetima ocjenjivanja i napredovanja nastavnika srednjih škola i učeničkih domova ("Narodne novine", br. 19/92., 26/93., 27/93. i 11/94.).</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4071</ID>
+    <SENTENCE>Prvotna odluka je donesena 17. rujna nakon interne procedure koja je ocijenila etičke aspekte Bernasconijeva djelovanja kao psihoterapeuta koji je radio bez akademskog zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>168</STARTINDEX>
+    <ENDINDEX>174</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4106</ID>
+    <SENTENCE>Ovdje donosimo Litanije Isusa Krista, Svećenika i Žrtve koje su posebno prikladne za molitvu pred Presvetim, kao osobna molitva svećenika i kao molitva zajednice za svećenike i za duhovna zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>188</STARTINDEX>
+    <ENDINDEX>194</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4195</ID>
+    <SENTENCE>Najviše zaposlenih u ovoj godini, njih više od 40.000, završilo je srednju školu u trajanju do tri godine ili imaju KV ili VKV zvanja.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanja</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>133</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4038</ID>
+    <SENTENCE>Diplomirao je na Filozofskom fakultetu u Zadru i stekao stručno zvanje: Diplomirani turistički komunikolog.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4197</ID>
+    <SENTENCE>ZAGREB – Studenti i profesori Rudarsko - geološko - naftnog fakulteta iz Zagreba pripadaju skupini entuzijasta koji brižno njeguju tradiciju i ceremoniju primitka novih članova u zvanje rudara.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>185</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4037</ID>
+    <SENTENCE>Terapeut se nema pravo miješati ili nagovarati pacijenta da odustane od terapije koju mu je liječnik propisao ili mu sam određivati medikamente po vlastitom nahođenju (osim ukoliko nije i sam po zvanju liječnik), ne smije ga odgovarati od drugih oblika terapija ili liječenja koje mu je liječnik propisao.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanju</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>195</STARTINDEX>
+    <ENDINDEX>201</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4027</ID>
+    <SENTENCE>Ovoga puta svi zainteresirani moći će se educirati za zvanje voćara i ekološkog poljoprivrednog gospodarstvenika, a po završetku obuke stečeno zvanje će se upisati u radnu knjižicu.</SENTENCE>
+    <TARGETLEMMA>zvanje</TARGETLEMMA>
+    <TARGETWORD>zvanje</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+</SET>

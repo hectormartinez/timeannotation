@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>142</ID>
+    <SENTENCE>Podatak je to koji bi svakako trebao razveseliti Danijela Jusupa jer dugo je tražio širinu u svojoj momčadi, a sudeći po sinoć prikazanom, izgleda kako ju je napokon i pronašao.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>168</STARTINDEX>
+    <ENDINDEX>176</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>30</ID>
+    <SENTENCE>Nakon prestanka opskrbe iz rovinjske tvornice, Kutle je sredinom 1998. kratkoročno rješenje pronašao u cigaretama iz Tvornice duhana Zagreb, koja je opskrbljivala Tisak svojim proizvodima premda je Kutle i TDZ-u dugovao astronomske iznose zbog dugogodišnjih neplaćenih računa za cigarete, što je ujedno i slabilo financijsku moć TDZ-a.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7281</ID>
+    <SENTENCE>Dapače, jaknu u stilu čupavca za kauč iz 80-ih teško da uopće možete pronaći.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>12</ID>
+    <SENTENCE>Glavna rola, ipak, pripada doktoru Kajfešu – on je jedna od onih jeftinih replika Kena kakve se i danas dadu pronaći na pijačnim štandovima, negdje u hrpi plastičnih pištolja, sunčanih naočala, bižuterije i loše otisnutih dresova nogometnih klubova, a, da stvar bude gora, još mu je i odlijepljeno lijevo oko, desnu mu je ruku izgrizla vlasničina mala rodica, dok mu je na tjeme kapnuo kreč.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>59</ID>
+    <SENTENCE>Međutim, isti taj Stazić, u pratnji glavnog tajnika SDP-a Igora Dragovana, spremno je pozirao na prosvjedu novinara na Kamenitim vratima, organiziranom zbog inertnosti policije koja već četiri mjeseca nije uspjela pronaći napadače na Dušana Miljuša.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>214</STARTINDEX>
+    <ENDINDEX>221</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7259</ID>
+    <SENTENCE>BRITANSKA policija očajnički pokušava pronaći Tracy Gough, 29-godišnjakinju koja je u subotu iza 22 sata pala u jamu uz cestu nakon što se izgubila na području Shropshirea.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>54</ID>
+    <SENTENCE>Uplašena starica utočište je pronašla kod susjeda.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7256</ID>
+    <SENTENCE>Vodstvo Hrvatske narodne stranke u kojoj je Mesić svojedobno pronašao azil, pokušalo se tijekom 2002. afirmirati kao racionalna građanska alternativa desnopopulističkome HDZ-u, centropopulističkome HSS-u i agresivno adaptabilnome SDP-u.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>176</ID>
+    <SENTENCE>15-godišnji Afganistanac otkriven je sklupčan u poziciji fetusa unutar kofera, dok je njegov 17-godišnji brat pronađen u podnožju vozila, dobro sakriven dekama.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>92</ID>
+    <SENTENCE>Producent serijala Yoshinori Ono mišljenja je da Super Street Fighter IV za PC ipak neće biti objavljen, premda je u osnovi ta verzija gotovo pred dovršetkom zbog automata (arkada) osim ako u dogledno vrijeme ne pronađu adekvatnu zaštitu kojom će se suprotstaviti piratima.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađu</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>212</STARTINDEX>
+    <ENDINDEX>219</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>37</ID>
+    <SENTENCE>Sve male kompanije koje su pronašle svoj razvojni put, naime, nakon osamostaljenja stvaraju inovativne IT proizvode, koje uspješno prodaju zahtjevnim klijentima na domaćem i međunarodnom tržištu.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašle</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7201</ID>
+    <SENTENCE>Majka je kasnije donijela dva prazna paketa žvakaćih guma koje je pronašla u torbi svog sina.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>175</ID>
+    <SENTENCE>Ipak, kip je pronađen.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7245</ID>
+    <SENTENCE>Pronašao je Vahida Halilhodžića koji se u Maksimiru nametnuo autoritetom znanja.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>Pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7254</ID>
+    <SENTENCE>Neslužbeno saznajemo da je u Cabahiji pronađen molotovljev koktel, a navodno je u subotu netko i provalio u kafić, te ispraznio aparate za gašenje.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7234</ID>
+    <SENTENCE>BRITANSKI su stručnjaci pronašli dva nova čimbenika rizika kod alergije na kikiriki i druge arašide koja je glavni uzročnik smrti od alergije na hranu u Velikoj Britaniji, a i u Francuskoj raste broj alergičnih osoba, objavljeno je u New England Journal of Medicine.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>177</ID>
+    <SENTENCE>Istodobno, poslodavcima je pružena prilika da iskažu svoje potrebe i poteškoće, te u suradnji s HZZ-om pronađu prikladno rješenje u pronalaženju i odabiru kadrova koji po znanjima i vještinama odgovaraju traženima.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađu</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7297</ID>
+    <SENTENCE>6 - Pralija je idealno s desne strane pronašao Bulu, koji je mogao pitati Kalu u koji će kut pucati, no zadarski je vratar na kraju opravdao visoku ocjenu koju nosi u ovom prvenstvu.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>11</ID>
+    <SENTENCE>Pronađena su i dva obezglavljena tijela, no policija još nije utvrdila identitet ubijenih osoba.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>Pronađena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7221</ID>
+    <SENTENCE>Na području Vukovara, između sela Pačetin i Bobota, prekjučer su pronađene razbacane ljudske kosti za koje se sumnja da potječu iz Domovinskoga rata.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađene</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>118</ID>
+    <SENTENCE>Većina ljudi može se pronaći u svakom komunikacijskom stilu, no neki će se pronaći isključivo u jednom, a manji broj neće se moći pronaći ni u jednoj kategoriji.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>66</ID>
+    <SENTENCE>Safić je 15 sati nakon pljačke pronađen uz cestu pretučen, zavezan i s vrećicom na glavi, no sumnja o njegovom mogućem sudioništvu u pljački i dalje je postojala, pa je nakon liječničke pomoći doveden u policiju na kriminalističku obradu, koja je na kraju pokazala da je on žrtva, a ne pljačkaš.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>40</ID>
+    <SENTENCE>U našoj ponudi možete pronaći prepoznatljive slavonske specijalitete, razna jela ispod peke, jela s roštilja, razne riblje specijalitete, jela po narudžbi, razne deserte i sve to uz bogatu vinsku kartu.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>56</ID>
+    <SENTENCE>Također, u automobilu su pronađeni i mobiteli obiju nestalih osoba, pa policija nije imala previše problema oko pronalaska imena njihovih vlasnika.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>108</ID>
+    <SENTENCE>Tek što mu je novac stavila u ruku, rekao joj je kako je pronašao sitan novac i dao joj 40 kuna, te ju tražio da mu vrati novčanicu od 500 kuna.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7214</ID>
+    <SENTENCE>Znanstvenici su navodno pronašli način da krumpir učine još zdravijim - dovoljno ga je samo 'zdrmati' strujom.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7284</ID>
+    <SENTENCE>- Na temelju objavljenih fotografija u Večernjem listu pronašli smo 44-godišnjeg Zagrepčanina i uručili mu prekršajni nalog od (samo - op. a.) 300 kuna - rekla je glasnogovornica PU zagrebačke Aleksandra Ljuba, koja je zahvalila i čitatelju i našem listu na pomoći.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7218</ID>
+    <SENTENCE>Iako Ante tvrdi kako u njoj nije pronašao novu Simonu, planovi s Lanom prilično nalikuju na one koje je imao sa Simonom prije raspada njihova braka.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>61</ID>
+    <SENTENCE>Nalogodavac atentata na Ivu Pukanića još nije pronađen, pa se Mirjana boji kako bi i sama mogla biti u opasnosti.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>119</ID>
+    <SENTENCE>Ma ja sam zapravo osoba koja pokušava pronaći mjeru.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7278</ID>
+    <SENTENCE>U ovom referalnom centru pronaći ćete sustavan pristup oblikovanju i dizajnu obrazovnih hipertekstualnih materijala.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7235</ID>
+    <SENTENCE>U našem dvoetažnom izložbeno - prodajnom salonu na 500m ² pronaći ćete puno ideja za uređenje Vaše kupaonice, stana ili kuće.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3</ID>
+    <SENTENCE>Policija Des Moinesa obavijestila je medije kako na mjestu gdje je pronađen nema tragova nasilja, ali da će se za potpuno izvješće morati pričekati rezultat autopsije.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8</ID>
+    <SENTENCE>Kalinić je povratnom loptom u kaznenom prostoru pronašao Ibričića, a ponajbolji akter dvoboja smireno je sa 14 metara pogodio lijevi kut vratara Butine.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>165</ID>
+    <SENTENCE>To, međutim, ne znači da su pronađeni dokazi o životu na tome planetu, ali upućuje na to da se život mogao razviti kao što se razvio na Zemlji, naglasio je Weiler.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>106</ID>
+    <SENTENCE>Detalje kako su se tražili crib - ovi možete pronaći ovdje.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>122</ID>
+    <SENTENCE>Profesorica Carle Pieters s Brown Universityja na Rhode Islandu i njezini pregledali su podatke indijske misije Chandrayaan-1 i pronašli su spektrografske dokaze da voda zaista postoji te da se čini kako je zaista ima više bliže polovima.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>156</ID>
+    <SENTENCE>Na taj način bilo tko koga zanima ovaj pojam može ga lako pronaći i pratiti.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>166</ID>
+    <SENTENCE>Također sam pronašao rješenja za glavne probleme kluba, ali je realizacija tih rješenja bila sprječavana.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>188</ID>
+    <SENTENCE>Više informacija o Interbrandu možete pronaći na www.interbrand.com.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>147</ID>
+    <SENTENCE>Za to bi u državnoj blagajni trebalo pronaći dodatnih 20 milijuna kuna, a to je pravi sitniš u odnosu na iznose koji su se pronalazili kada je do nečega bilo stalo SDP-u, ustvrdila je nedavno Đurđa Adlešić, ukazavši na državno jamstvo Viktoru Lencu, koji je nakon toga isplatio velike dividende.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>95</ID>
+    <SENTENCE>No, tada je izvadio pištolj i uz pomoć 25-godišnaka oteo Safića i kombi s novcem, izvijestila je policija nakon što je uhitila dvojicu razbojnika, pronašla novac i Safića oslobodila sumnje da je povezan s pljačkom blindiranog kombija u zagrebačkom naselju Zapruđe.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>144</ID>
+    <SENTENCE>Uz malo novinarske snalažljivosti i puno upornosti uspjela sam pronaći tajnu lokaciju puba koji je televizijska mreža Sky odabrala za premijerno gledanje utakmice u 3D prijenosu.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>57</ID>
+    <SENTENCE>Ali GENeco je pronašla način da stvar upali (uz malu pomoć mikroba - bakterije u anaerobnoj okolini proizvode metan ; iz njega se zatim izdvaja ugljični dioksid kako bi se povećala ekološka učinkovitost) pa sad tvrdi kako je u posjedu najkvalitetnijeg goriva za automobile koje će u skoroj budućnosti biti iznimno isplativo.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>79</ID>
+    <SENTENCE>Skrio se u drveću, međutim brzo je pronađen.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>191</ID>
+    <SENTENCE>Douglas je pronađen na podu uz kauč u dnevnom boravku.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>70</ID>
+    <SENTENCE>Arheolozi su nedavno u blizini hrama pronašli groblje s nekoliko pozlaćenih mumija što naznačuje da se u blizini nalaze grobovi kraljevske obitelji.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>149</ID>
+    <SENTENCE>Dok su evakuirani iz bolnice prevoženi iz vojarne JNA, na Ovčari je buldožerima kopana rupa dovoljno velika da može primiti 200 tijela, koliko ih je i pronađeno kod ekshumacije, kazao je Moore, te naglasio da tijela 64 ubijena na Ovčari još nisu pronađena i vode se kao nestali.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>246</STARTINDEX>
+    <ENDINDEX>255</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>97</ID>
+    <SENTENCE>"Svjesni toga, zahvaljujemo Bogu što smo danas ovdje zajedno s katoličkim muževima nama bliskih naroda Austrije, Slovenije i Mađarske. Molimo dobrog Boga da u zajedništvu nove europske obitelji, koja se još stvara, upravo ove duhovne vrijednosti pronađu svoje mjesto i na baštini kršćanstva svi zajedno kao braća izgrađujemo Europu koja će biti zajednički dom svim ljudima i narodima našeg kontinenta", naglasio je biskup pozvavši okupljene da ustraju u vjeri u Boga, ali i da snagom Božjeg Duha ustraju u nadi i vjeri u budućnost.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađu</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>246</STARTINDEX>
+    <ENDINDEX>253</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>123</ID>
+    <SENTENCE>Bogat grobni inventar (među ostalim pronađene su staklene boce s inicijalima V D, Q P., pribor za pisanje voskom s cjedilom i držalom, pravokutni brončani pečat s reljefnim obrnutim natpisom AQVILIAE L. F. OCLATINAE, metalne i zlatne narukvice i prstenje s gemama, naušnice, zlatne ogrlice s poludragim kamenjem, ogrlice staklenih perli, minijaturne pastozne medaljice sa suprotno postavljenim likovima muškarca i žene i dr.) pokazuje viši društveni položaj pokojnika, koji su od I. do VI. st. nastavali antičko - kasnoantički građevinski kompleks na poluotoku.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađene</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>157</ID>
+    <SENTENCE>Pomoći možete i lobiranjem ako vjerujete u ovakav sustav, ako ste u srcu pronašli razlog, ako vjerujete da svaka osoba zaslužuje život dostojan čovjeka.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>129</ID>
+    <SENTENCE>Pokušaji da se pronađe lijek za HIV, virus koji uzrokuje AIDS, propadali su zbog toga što taj virus stalno mutira.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>34</ID>
+    <SENTENCE>Točnije, zanima nas možemo li pronaći neki interval godina vozača u kojem je vjerojatnost nesreće najveća.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7238</ID>
+    <SENTENCE>Nakon ispitivanja policija je pretresla stan i ured uhićenog blogera, kako bi pronašla eventualne dokaze.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>74</ID>
+    <SENTENCE>Istražujući sumnjive podatke iz popisa birača, Rakar je pronašao da su u nekim selima upisani ljudi za koje tvrdi da sasvim sigurno ne žive u tim mjestima.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>19</ID>
+    <SENTENCE>Među civilima koji su uspijeli pobjeći bilo je tek oko 700 vojnika, ali i većinu njih na putu prema Beču čekala je tragična sudbina - Crvena armija koja je već zauzimala velik dio teritorija uskoro ih je pronašla.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>204</STARTINDEX>
+    <ENDINDEX>212</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7272</ID>
+    <SENTENCE>Brazilsko zrakoplovstvo objavilo je da su pronađena dva ljudska tijela i ostaci zrakoplova iz nestalog zrakoplova Air Francea.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>130</ID>
+    <SENTENCE>Uz put je pronađena još jedna jama nazvana PT 7 u koju su ušli Bakša i Ena.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7279</ID>
+    <SENTENCE>Lopta je došla do Dragana Vaclaveka u sredini terena koji je na rubu 16-terca pronašao Pleića koji vara istrčalog vratara Šepovića, no prije nego je uspio pogoditi prazan gol, s leđa ga ruši Egredžija i sudac Krmpotić opravdano pokazuje na "kreč", a sigurni realizator bio je D. Vaclavek.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>131</ID>
+    <SENTENCE>SPLIT - Nakon obdukcije leša 29-godišnjeg Amerikanca hrvatskog podrijetla Seana Bogdanovicha koji je pronađen mrtav na Visu, jasno je tek jedno - nema ozljeda koje bi uzrokovale njegovu smrt.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>111</ID>
+    <SENTENCE>Kada pronađete nešto što oni ne rade, dobro iskoristite to kao razlikovno svojstvo.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađete</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>5</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>195</ID>
+    <SENTENCE>Pa taj čovjek ne može pronaći youtube na Internetu !!!</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7226</ID>
+    <SENTENCE>Tako ćete za svaku vrstu pronaći pravilne postupke i najbolje vrijeme za rezidbu.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>94</ID>
+    <SENTENCE>U džepovima umrlog pronađeno je 2,2 eura i naljepnica s kofera na kojoj je pisalo ime zračne kompanije Virgin Nigeria.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađeno</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7225</ID>
+    <SENTENCE>Agrumi su primarni izvor vitamina C, a vitamin E se može pronaći u biljnome ulju, lješnjaku i integralnome žitu.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>24</ID>
+    <SENTENCE>Ako i kad se članica odluči uključiti u sustav, treba pronaći u svojim redovima suradnike koji će se ovlastiti za održavanje pojedinih sadržaja.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>146</ID>
+    <SENTENCE>Dala bi se pronaći i poneka sličnost i s The Strokesima koji su i pokrenuli cijelu lavinu 'the bendova', ali za razliku od The Strokesa, koji su bili razbarušeni, punkerski nabrijani na garažno - rockerske podloge, The Courteeners zvuče kao štreberski momčići s vrlo čistim melodijama koje kao da nikad nisu vidjele garažu i mukotrpno treniranje.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>152</ID>
+    <SENTENCE>Idućeg dana je u jutarnjim satima uhićen je i drugo 32-godišnjak. Policija je kod njega pronašla 0 grama heroina i 0,8 grama marihuane, dok je prilikom pretrage njegova stana pronađeno 8,1 grama heroina, 0,2 grama marihuane te digitalna vaga.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađeno</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>175</STARTINDEX>
+    <ENDINDEX>184</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>60</ID>
+    <SENTENCE>Već u 16. minuti Maksimir je eksplodirao nakon što je Zahora udarcem iz kuta pronašao glavu Milinovića, a ovaj prebacio do Da Silve koji je iz neposredne blizine zatresao protivničku mrežu.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>32</ID>
+    <SENTENCE>Sreću je, navodno, pronašla u zagrljaju novosadskog manekena Vladimirom Cvetkovićem Cveletom.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>39</ID>
+    <SENTENCE>Utvrđeno je da su pronađeni posmrtni ostaci 49-godišnjeg Waltera Aleksandra, 61-godišnjeg Miljenka Bartolića i 68-godišnjeg Zvonka Keleka, ali ne 63-godišnjeg Gerda Govejšeka.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7241</ID>
+    <SENTENCE>Te je cigarete Matas prije toga kupio od nepoznate osobe na TTTS-u, a one su na kraju završile u rukama policije koja ih je pronašla tijekom pretrage njegova stana.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>27</ID>
+    <SENTENCE>AOL 30 dana skladišti podatke o pretraživanju prema kojima se može pronaći korisnika.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>23</ID>
+    <SENTENCE>Natpis je pronađen nekoliko dana poslije rastrgan na tri dijela.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>190</ID>
+    <SENTENCE>Iako je danas pronađen oko 11,46 sati, pretpostavlja se da je preminuo još noćas.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7270</ID>
+    <SENTENCE>Istina, časopis je koncem godine često bio u deficitu zbog neurednih pretplatnika, ali bi izdavač uvijek pronašao mogućnost da pokrije razliku.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>141</ID>
+    <SENTENCE>Pronađen je u svim rudama cirkonija.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>Pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>25</ID>
+    <SENTENCE>– Da izbjegne ukidanje županijskih bolnica, Milinović je rješenje pronašao u Zagrebu, a da pritom nije pitao građane pa predlažemo da se otvori rasprava i u vijećima gradskih četvrti – istakao je Davor Bernardić, šef zagrebačkog SDP-a.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>140</ID>
+    <SENTENCE>Haenesovci su pitali kako je moguće da je početna cijena 2,9 milijuna kuna te kako će se pronaći kupac za nešto što je poslovalo s gubitkom i uz dotacije grada.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7202</ID>
+    <SENTENCE>Znanstvenici s londonskog sveučilišta Imperial College pronašli su nekoliko desetaka vrlo pretilih ljudi i ustanovili da im nedostaju isti geni, njih tridesetak.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7262</ID>
+    <SENTENCE>Pištolj sa streljivom pronašao je skitnica A. T. (41) dok je s prijateljem S. P. (56) tražio plastične boce.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2</ID>
+    <SENTENCE>No, kriminalistička obrada pokazala je da je čist. Konačno, nakon 80 dana traganja tijelo Viere Malovikove je 17. siječnja na hridima otočića Veliki Vinik nadomak Murtera slučajno pronašao mještanin koji je čistio masline.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>180</STARTINDEX>
+    <ENDINDEX>188</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7207</ID>
+    <SENTENCE>Izgorjelo tijelo nesretne Kristine pronađeno je na zelenoj površini, tik uz šetačku stazu parka Thomashöhe.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađeno</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>80</ID>
+    <SENTENCE>"Sada je već potpuno nemoguće pronaći preživjele", ocijenio je regionalni čelnik kolumbijske agencije za izvanredna stanja John Rendon, dok spasioci uz pomoć pasa tragača pretražuju teren na mjestu gdje je došlo do klizanja tla, na autocesti između Medellina i Uraba, u blizini grada Giraldo u provinciji Antioquia.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>150</ID>
+    <SENTENCE>Trebalo je te sve pjesme i pronaći jer sam bio i aljkav po tom pitanju, a osam novih pjesama stvarao sam nešto više od pola godine.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>186</ID>
+    <SENTENCE>Pretragom vozila i osoba pronađeno je osam novčanica u apoenima od 500 kuna koje su nalik na krivotvorene.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađeno</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7233</ID>
+    <SENTENCE>Kako ne možemo pronaći podatke da li je Ivo Josipović sudjelovao u debatama koje su popularan način dokazivanja na Pravnom fakultetu, pretpostavit ćemo da se radi jednostavno o čovjeku koji se izražava jasno i direktno.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>62</ID>
+    <SENTENCE>Ivan Živko se u Warhammeru pronašao krajem fakluteta.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7204</ID>
+    <SENTENCE>"Za vrijeme moje dugogodišnje uspješne karijere vrhunskog atletičara koristio sam različite proizvode. Sada sam sretan jer sam konačno pronašao PANACEO, prirodni proizvod, koji ubrzava regeneraciju i otklanja umor i iscrpljenost nakon napornih treninga."</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>18</ID>
+    <SENTENCE>Teško je pronašla izdavača i recenzenta, a potpora liječničke struke potpuno je izostala.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7248</ID>
+    <SENTENCE>No nisu ih pronašli - ispričao je otac Tomislav (39) i dodao da se Chanelina prijateljica (15) javila sestri i rekla da se motaju po Zagrebu.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>75</ID>
+    <SENTENCE>Policija im je još pronašla i oduzela gotovo dvije tisuće eura i nešto manje od 28. tisuća kuna za što se sumnja da je zarađeno od "dilanja".</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>26</ID>
+    <SENTENCE>Švicarac Roger Federer pobijedio je Srbina Novaka Đokovića 7-6 (3), 7-5, 7-5 u polufinalnom meču US Opena kojem bi i najžešći kritičari teško mogli pronaći bilo kakvu zamjerku.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>105</ID>
+    <SENTENCE>Mjesto na kojem je vozilo pronađeno nije objavljeno, kao ni je li pritom netko uhićen, javlja saudijska novinska agencija.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađeno</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>41</ID>
+    <SENTENCE>Bivši igrač Varteksa poentirao je nakon prodora Željka Kovačevića po desnoj strani koji ga je odlično pronašao u sredini nakon što je prohujao pored Đikića.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronašao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>185</ID>
+    <SENTENCE>Datira ga se na prijelaz 9. u 10. stoljeće, a pronađen je u crkvi Sv. Petra u Rapovini.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>196</ID>
+    <SENTENCE>U napuštenoj zgradi tvrtke Hypo consulting u Zagrebačkoj aveniji jučer oko 13.30 sati pronađeno je mrtvo tijelo muškarca.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronađeno</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>64</ID>
+    <SENTENCE>Na jednom mjestu možete pronaći brojna austrijska izletišta, nacionalne parkove, skijališta te razne kulinarske poslastice koje morate isprobati prije nego siđete s Alpa.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>199</ID>
+    <SENTENCE>Većina korisnika nadogradnju Firefoxa je već dobila putem ugrađene funkcije za automatsku nadogradnju, a više detalja o ispravama može se pronaći na Mozillinim službenim stranicama.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>145</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>135</ID>
+    <SENTENCE>Prema predviđanjima 24 milijuna muškaraca teško će pronaći suprugu 2020. godine, poglavito muškarci s niskim primanjima.</SENTENCE>
+    <TARGETLEMMA>pronaći</TARGETLEMMA>
+    <TARGETWORD>pronaći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+</SET>

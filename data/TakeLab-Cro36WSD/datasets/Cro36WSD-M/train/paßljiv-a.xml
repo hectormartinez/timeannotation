@@ -1,0 +1,3010 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>8600</ID>
+    <SENTENCE>Pažljiva analiza vremena kad je ubojica napadao pokazuje da je to bilo – osim u jednom slučaju – ili rano ujutro ili kasno navečer, iz čega su istražitelji zaključili da je vjerojatno riječ o čovjeku koji je danju na svom radnom mjestu, pa tada ne može napasti, ali to može ujutro prije posla, te navečer nakon posla, kad se vraća kući.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2632</ID>
+    <SENTENCE>Donji dio biskvita vratiti u kalup u kojem se pekao, pažljivo po njemu uliti kremu i poklopiti gornjim dijelom biskvita.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2716</ID>
+    <SENTENCE>Molimo da prije upotrebe portala pažljivo pročitate Uvjete korištenja jer ste pristupom na stranice ili korištenjem bilo kojeg dijela portala Profitiraj.hr, njegova sadržaja ili usluge suglasni s Uvjetima korištenja i obvezani njima.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2614</ID>
+    <SENTENCE>Premda ga koji put i ne zanima sve što mu govorite, on će vas pažljivo slušati i pokušavati vam pomoći.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2792</ID>
+    <SENTENCE>Pažljiv dodir korišten u Shiatsuu pomaže kao obarač u procesu samoizliječenja.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8520</ID>
+    <SENTENCE>Sve ostatke masnoće moramo odstraniti vrlo pažljivo jer često užegne i uzrokuje kvarenje salama.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2649</ID>
+    <SENTENCE>Jer, ja pouzdano znam da Ante Perković može biti neopisivi glupan, bezosjećajni gad, sebično đubre, obična seljačina, pažljivi prijatelj, vrhunski intelektualac, dobar pisac, šarlatan, primitivac, pristojan gost i još gomilu toga.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2747</ID>
+    <SENTENCE>Prije upotrebe pažljivo pročitati uputu o lijeku.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2770</ID>
+    <SENTENCE>Praktična primjena Jave kod ugradbenih mrežnih servera uveliko ovisi o razumijevanju i pažljivom odabiru kompromisa između memorijskog otiska, performansi i prilagodljivosti.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8531</ID>
+    <SENTENCE>Sv. Leon misli da je korizma za svakog kršćanina povoljan trenutak za pažljiv ispit o svojim nutarnjim raspoloženjima i nagnućima.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2719</ID>
+    <SENTENCE>U davanju informacija, posebno dok je predmet još u kriminalističkoj obradi, treba biti pažljiv da se ne bi ponovila situacija kao u slučaju "Grupo", kad su neke informacije prerano dospjele u javnost.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2626</ID>
+    <SENTENCE>Sada kada je pitanje ZERP-a riješeno, neke članice EU, pogotovo one koje imaju epitet 'velikih prijatelja Hrvatske' poput Austrije, upozoravaju Hrvatsku da bude pažljiva i da ne otvara nove probleme u odnosima s nekim državama.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>161</STARTINDEX>
+    <ENDINDEX>169</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2611</ID>
+    <SENTENCE>Pažljivo raščešljavajte češljom sa širokim zupcima počevši od krajeva.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2694</ID>
+    <SENTENCE>Ugasite uređaj, te ga ponovno upalite i pažljivo upišite 7. kod prije upisivanja PIN-a.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2800</ID>
+    <SENTENCE>Zato moram biti pažljiv ', rekao je nagrađeni arhitekt.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8570</ID>
+    <SENTENCE>Pažljivo čitajte ovaj nastavak tutorijala jer sam "uhvatio" puno screenshots korak po korak radi boljeg razumijevanja.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2785</ID>
+    <SENTENCE>Pri slikanju iz bliza treba biti osobito pažljiv i ne raditi trzave pokrete.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2669</ID>
+    <SENTENCE>Hvala mu što je teksaškim rendžerima omogućio takvu slavu i to putem portreta iskonskog rendžera, osobe koja je pažljiva, pedantna i časna u svakom pogledu ", rekao je teksaški guverner Rick Perry.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>120</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2624</ID>
+    <SENTENCE>Koristite kreme sa zaštitnim faktorom, birajte pažljivo doba dana kad ćete se sunčati i nakon svakog tuširanja obvezno 'napojite' kožu hidratantnim mlijekom ili losionom za tijelo.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2668</ID>
+    <SENTENCE>Znači slušati, biti zaista pažljiv i aktivan.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8540</ID>
+    <SENTENCE>Vodite računa da je ne zamijenite s lozinkom za spajanje na mrežu i da je pažljivo upisujete imajući na umu razliku između velikih i malih slova.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2787</ID>
+    <SENTENCE>Pažljivim pregledom vlasišta lako se uoče uši ili njihove gnjide.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2698</ID>
+    <SENTENCE>Velika i ugledna globalna tvrtka Cemex, jedan od svjetskih lidera u proizvodnji građevinskih materijala, unijela je u hrvatsku cementnu industriju visoke kriterije u poslovanju, ali i u razvoju svijesti o održivom razvoju, štednji i pažljivom korištenju energije.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>233</STARTINDEX>
+    <ENDINDEX>242</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2690</ID>
+    <SENTENCE>Trenutno najpopularnija dijeta u Hrvatskoj temelji se na pažljivom kombiniranju svježih i usvajanju zdravih prehrambenih navika, kao primjerice redovito konzumiranje svježeg voća.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2738</ID>
+    <SENTENCE>Pažljiv odabir ponuđenih tkanina dati će konačan vizualni dojam ovim krevetima, a time i prostoru za koji su odabrani.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2683</ID>
+    <SENTENCE>Stanemo li i pogledamo dovoljno pažljivo i duboko u ovu krizu, nužno ćemo u njoj vidjeti sebe.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2681</ID>
+    <SENTENCE>Važno je biti strpljiv i pažljiv.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2675</ID>
+    <SENTENCE>Isto tako, dugotrajno nanošenje na kožu može izazvati alergijske reakcije, stoga treba biti pažljiv kod doziranja.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2720</ID>
+    <SENTENCE>S dirigentom ili sami, sličnim radom kao svojedobno s Janigrom (kada su probe počinjale ljestvicama), ponovnim promišljanjem i postavljanjem skladbi "starog" repertoara, stvarnim uvažavanjem nasljeđa — što je iskustvo starijih kolega, ali i njihova otvorenost mlađim članovima, osvještavanjem kriterija — vrijednost i razlog ansambla je kvaliteta njihova sviranja (u tom smislu treba poslušati stare snimke), pažljivim izborom gostiju, smislenosti koncertnih programa, selektivnosti pri izboru turneja, gostovanja, diskografskih ili televizijskih projekata kao i mnogim drugim načinima koje četrnaest muzičara sasvim sigurno zna, pitanje je na koje nije jednostavno odgovoriti.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>409</STARTINDEX>
+    <ENDINDEX>418</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2765</ID>
+    <SENTENCE>Prešao je malo kilometara, uz pažljivu vožnju te je vrlo dobrom stanju.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8505</ID>
+    <SENTENCE>Prije nego što se uhvatite tih "dijetnih" proizvoda, pažljivo pročitajte njihov nutricijski sadržaj i sastojke.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2741</ID>
+    <SENTENCE>Ovu odluku donijeli su nakon pažljivog ocjenjivanja tržišta tijekom protekle godine te razmatranja različitih čimbenika u duljem razdoblju.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2713</ID>
+    <SENTENCE>Sankcije luksuznom robom su "pažljivo promišljenje i brižno naciljane", hvale se Ameri.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8594</ID>
+    <SENTENCE>"Bit borbe protiv rasta cijena je pažljiva i efikasna potrošnja", poručio je premijer, dodavši kako u te mjere spada i pokrivanje razlike u cijeni plavog dizela za poljoprivrednike i ribare, koja će za njih biti do pet kuna po litri.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2673</ID>
+    <SENTENCE>Svi imamo koristi od velikog broja proizvoda i usluga koji su nam dostupni upravo zahvaljujući pažljivoj upotrebi radioaktivnih materijala.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2631</ID>
+    <SENTENCE>No, model koji mi zastupamo, tzv. pažljiva obnova, nešto je kompliciraniji, on traži zalaganje gradske uprave, metodološko osmišljavanje, a i tehnika provedbe ne bi bila jednostavna.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8587</ID>
+    <SENTENCE>Takav slučaj se još nije dogodio u povijesti Eurolige i u glavnom uredu u Barceloni će sigurno pažljivo razmotriti situaciju i donijeti pravilo koje će vrijediti i za eventualne kasnije recidive.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8589</ID>
+    <SENTENCE>Izoliranost otoka pomogla je sačuvati relativno zdravu populaciju. ograničenja postoje unutar ekotipa u odnosu na preživljavanje legla, reducirane spolne alele i nekonzistentnu boju prstenova, ipak ove činjenice uzgajači matica mogu većinom prevazići pažljivom selekcijom matičnih kolonija i matica, križanjem s divljom populacijom s otoka kako bi učvrstili varijabilnost populacije.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>251</STARTINDEX>
+    <ENDINDEX>260</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8557</ID>
+    <SENTENCE>"Osim što je dosadna, HNS-ova kampanja obiluje i čudnovatim spotovima koji su potpuno nejasni i da bi čovjek shvatio zašto Vesna Pusić na kraju kaže hvala, mora pažljivo i pomno pogledati cijelu reklamu" ocjenjuje Tanta.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>161</STARTINDEX>
+    <ENDINDEX>169</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2791</ID>
+    <SENTENCE>Kako biste lakše razumjeli koje informacije prikupljamo i kako koristimo te informacije od Vas se traži da pažljivo pročitajte ovu Izjavu.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8539</ID>
+    <SENTENCE>Trebamo biti pažljivi da ne postanemo uskogrudni i s pogledom samo prema unutra ; podignimo oči i pogledajmo veću sliku u Crkvi i svijetu.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2766</ID>
+    <SENTENCE>Sa MotoSkin toolsom možeš mijenjati sve u skinu (boje, oblik analognog sata, ikonice i sve drugo) pa zato pažljivo.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2732</ID>
+    <SENTENCE>Cooler se skida pažljivim okretanjem baze.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2651</ID>
+    <SENTENCE>Ona, naime, ukazuju na niz problematičnih točaka našega društvenog života, ali koje upravo zato traže pažljivo promišljanje ravnoteže između individualnoga i socijalnog.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8519</ID>
+    <SENTENCE>Pažljivim proučavanjem karakteristika i razlika francuske i američke prehrane istraživači su zaključili da je jedina značajna razlika bila unos crnoga vina.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2712</ID>
+    <SENTENCE>Policija, koja je bila vrlo korektna i pažljiva, sve je popisala.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8566</ID>
+    <SENTENCE>'Zovu me svako malo na telefon, pitaju me šta je to, mislim, ni mi ne znamo detalje, ali mi ćemo vrlo pažljivo pratit tijek događanja', rekao nam je Mladen Bekavac iz Sindikata metalaca Hrvatske u Željezari.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2739</ID>
+    <SENTENCE>Pažljivim izborom vapnenca, blagim i ravnomjernim pečenjem, potpunim gašenjem, te finim separiranjem proizvodi se voluminozni, bijeli, fini vapneni hidrat.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2606</ID>
+    <SENTENCE>Pažljive su i beskrajno aktivne.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljive</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8559</ID>
+    <SENTENCE>Tjednik piše kako su neki od urednika većih hrvatskih medija bili "nagrađivani" za "suradnju" i pažljiv tretman Sanadera u svojim prilozima.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8521</ID>
+    <SENTENCE>Neprestana i pažljiva analiza profesionalnih zahtjeva na tom području, kombinirana s preko 20 godina iskustva, čvrsta su osnova iz koje Eltech crpi svoju inspiraciju i posvećenost razvoju novih tehnologija, koje se susreću s točnošću i učinkovitošću, te novim trendovimau ovoj medicinskoj profesiji.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2775</ID>
+    <SENTENCE>Seager i dr. Mann nas uče kako otkriti laž u govoru tijela, a kako pri pažljivom slušanju drugih.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2609</ID>
+    <SENTENCE>Ne samo u ruke školovanih stilista i pažljivih frizera, već i onih kojima je pomoć najpotrebnija.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2794</ID>
+    <SENTENCE>Ovu reformu treba provesti vrlo pažljivo, a vremena više nemamo ', rekla je, dodavši kako se za sada ne razmatra smanjenje broja županija.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8533</ID>
+    <SENTENCE>Nakon pažljivog povratka natrag i pokopčavanja svega, i dalje se nije ništa događalo samo se sada monitor više nije palio.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8517</ID>
+    <SENTENCE>Nije poseban ljubitelj seksa na brzinu, nježan je i pažljiv ljubavnik, ali nije sklon eksperimentima niti je veliki zavodnik.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2780</ID>
+    <SENTENCE>Pažljivoj i preventivnoj njezi nogu ne postoji alternativa.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2760</ID>
+    <SENTENCE>U Čudu u Poskokovj Dragi, dosad najkompleksnijem autorovom ostvarenju, umješno se izmjenjuju elementi vodvilja, stare holivudske komedije, trilera, romana ceste i komedije zabune, sve pažljivo izvagano i skuhano, da bismo dobili humoristički roman koji jednostavno vapi za čitanjem.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>184</STARTINDEX>
+    <ENDINDEX>192</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8599</ID>
+    <SENTENCE>Imao je dvostruki život: smatrao se pažljivim suprugom, ali i nježnim ocem i djedom.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8584</ID>
+    <SENTENCE>FMRI koristi magnetsko polje za mjerenje protoka krvi u mozgu i može pokazati koji su dijelovi mozga aktivniji od drugih, ali je za to potrebna pažljiva interpretacija.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>144</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2742</ID>
+    <SENTENCE>Jako sam pažljiv prema damama - izjavio je Kerum.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2635</ID>
+    <SENTENCE>Pažljiv odabir pojedinaca također je bio priličan uspjeh tako da se odmah na početku skupila odlična ekipa.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2661</ID>
+    <SENTENCE>Za to će poslužiti obična vata (najbolje ona u jednom, većem komadu) koju možete pažljivo raširiti i istanjiti, pa selotejpom poljepiti gdje god vam to odgovara.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2728</ID>
+    <SENTENCE>Zbog toga bi svatko, pogotovo ako je odrasla osoba, trebao jako pažljivo pristupati komunikaciji na internetu i paziti na osjećaje druge osobe baš kao da se sve odvija u stvarnosti.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2603</ID>
+    <SENTENCE>Na fejsu je naime puno više djevojaka nego u ijednoj knjižnici, klubu, ili kafiću, a nudi vam se i mogućnost pažljivog odabira riječi i zavođenje duhovitim opaskama.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2726</ID>
+    <SENTENCE>Pažljivim promatranjem pokreta može se uvidjeti da su pokreti i kretnje određenih Kata vrlo slični što ukazuje na zajedničko porijeklo – isti izvor koji seže daleko u povijest.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8547</ID>
+    <SENTENCE>Petnaest godina stariji, Ljubomir Čučić osvojio je tada 26-godišnju Magali svojim šarmom i samouvjerenošću uspješnog poslovnog čovjeka: "Prije braka bili smo vrlo kratko u vezi, tek devet mjeseci, ali je on prema meni sve vrijeme bio neobično pažljiv i nježan", prisjeća se ona.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>243</STARTINDEX>
+    <ENDINDEX>250</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8503</ID>
+    <SENTENCE>Djeca koja su već u predškolskoj dobi navikavana na obavljanje različitih malih poslova i imala svoja stalna zaduženja, mnogo će lakše prihvatiti obavezu svakodnevnog odlaska u školu, pažljivog praćenja nastave, pisanja domaće zadaće i učenja.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>184</STARTINDEX>
+    <ENDINDEX>193</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8560</ID>
+    <SENTENCE>Ovaj zaštićen UNESCOV spomenik (od 1997. g.) već je gotovo pet decenija svoje povjerenje poklonio Pučkom otvorenom učilištu Poreč, koje pažljivim odabirom koncerata i priznatih umjetnika predstavlja glazbena dostignuća domaćih i inozemnih autora, čuvajući pažljivo pri tome integritet i slavu ovoga vrijednoga spomenika kulture – te kao jednom od svojih najvažnijih zadaća, spaja samo najbolje sa najboljim.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>136</STARTINDEX>
+    <ENDINDEX>145</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2613</ID>
+    <SENTENCE>Taj pripovjedački narcizam više bi upadao u oči da je piščev stil slabiji ; naime njega vadi pažljiv jezik, koncentriranost na detalje i puna kontrola priče.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8585</ID>
+    <SENTENCE>U rješavanju takvih dvojbi Ustavni sud rukovodio se načelom razmjernosti, što znači pažljivog vaganja koristi i štete od pojedine odredbe.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2707</ID>
+    <SENTENCE>Pa zašto se ne darovati pažljivo, upakirano i sa stilom ?</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2637</ID>
+    <SENTENCE>Oni opisuju stereotipne ideje koje nisu potvrđene sustavno prikupljenim podacima ; ustvari, pažljivo zapažanje pruža široki spektar slučajeva koji jasno proturječe stereotipima.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2618</ID>
+    <SENTENCE>Ako je pažljivo oblikujete, štitit će statvu i otvorene rubove oplate.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8555</ID>
+    <SENTENCE>Nijedan motor nije tako hladan i tih u radu kao Minn Kota zbog izuzetno pažljive i kvalitetne konstrukcije riba praktički neće ni znati da ste tu !!!....... Saznajte više !</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljive</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2648</ID>
+    <SENTENCE>Na kraju se upozorava da su analizirane samo neke najvažnije postavke dok se ostale mogu prepoznati pažljivim čitanjem teksta Nacrta Kaznenog zakonika i naročito njegova obrazloženja.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8565</ID>
+    <SENTENCE>"Koliko ja znam tri su igrača iz Šahtara sigurna u prvoj momčadi. Vratar Pyatov, stoper Čigrinski i lijevi bek Ševčuk. Sve su to vrlo kvalitetni igrači i moramo biti vrlo pažljivi. Oni su po meni jedna disciplinirana momčad te iako nisu tehnički na razini imaju veliko samopouzdanje i vjeruju kako mogu pobijediti Hrvatsku", odgovorio je Srna.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>171</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2769</ID>
+    <SENTENCE>Cijene opreme ovise od proizvođaća i mogu se razlikovati do 5 X, pa je potrebno "visiti" po Reef forumima i pažljivo čitati što i kako.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2629</ID>
+    <SENTENCE>Tri do četiri lista stavite na dno namaštene široke posude, zatim na njih složite nekoliko slojeva kriški kuhane šunke posute ribanim sirom, sve zamotajte u štrucu, pažljivo je zavežite i na kraju premažite uljem.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>173</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2627</ID>
+    <SENTENCE>Pažljivo oguliti masni papir (ili najlon).</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2717</ID>
+    <SENTENCE>Nastavite je redovito pažljivo zalijevati i prihranjivati cijelo vrijeme dok biljka cvate.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8572</ID>
+    <SENTENCE>Rješenje nije uvijek u pažljivom planiranju.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2735</ID>
+    <SENTENCE>Osoba koju volite sada nastoji ispuniti gotovo svaku vašu želju, brižna je i pažljiva.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2674</ID>
+    <SENTENCE>To se ostvaruje kroz pažljivu analizu podataka testa.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2619</ID>
+    <SENTENCE>Za pražnjenje špajze pune špeka potrebno je stvoriti kalorijski deficit, pomoću nekoliko planskih radnji i pažljivog odabira namirnica.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2665</ID>
+    <SENTENCE>Sve je tu pažljivo sakriveno, zakukuljeno i zamumuljeno da naš nesmiljeni i pravdoljubivi državni odvjetnik nema što prigovoriti, a biskupi će se čak drznuti i napraviti blesavi, pa reći da nam Marko Perković Thompson zapravo poje o Bogu, domovini i obiteljskim vrijednostima.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2771</ID>
+    <SENTENCE>Ostavio je dojam pažljivog đaka koji je došao slušati i odgovarati na pitanja.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2754</ID>
+    <SENTENCE>Ljubo je, kažu, bio iznimno pažljiv, svakoga je poslijepodneva igrao nogomet sa sinom u kvartu i šetao s kćeri.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2664</ID>
+    <SENTENCE>Signal je jasan: nepuna 24 sata nakon što je Zdravko Tolimir uhićen, povjerenik Unije za proširenje Olli Rehn je na tiskovnoj konferenciji u petak, nakon završetka sastanka sa srbijanskim predsjednikom Borisom Tadićem u Berlinu priopćio: "Nakon vrlo pažljivog i opsežnog razmatranja Komisija može obnoviti pregovore o stabilizaciju i pridruživanju sa Srbijom. Odredit ćemo datum prvog kruga pregovora nakon povratka glavne tužiteljice Haaškog suda Carle Del Ponte iz Beograda i nakon što čujemo njezine ocjene".</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>250</STARTINDEX>
+    <ENDINDEX>259</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2748</ID>
+    <SENTENCE>Želite automobil koji će vam biti savršen partner - prekrasnog izgleda, uslužan, pažljiv i osjetljiv na sve vaše zahtjeve, a ujedno i upadljivog izgleda ?</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2777</ID>
+    <SENTENCE>Dakle, pažljivo pročitajte iznos kalorija, jer 0 posto masnoća ne znači 0 kalorija.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8550</ID>
+    <SENTENCE>Izbjegavajte trgovačke poslove i budite vrlo pažljiv sudionik u prometu.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2672</ID>
+    <SENTENCE>Pažljivo čitajte naljepnice i pametno birajte hranu.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8583</ID>
+    <SENTENCE>Zatim se dodaje razmrvljeni crni kruh, i to pažljivo, da tučena masa ne bi splasnula.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8525</ID>
+    <SENTENCE>Po projektu poznatog zagrebačkog arhitekta i sveučilišnog profesora Branka Kincla nakon tri godine pažljive rekonstrukcije upravo je završena uspješna replika originalnog Kulmerovog dvorca u Šestinama, sada u vlasništvu obitelji Todorić.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljive</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2670</ID>
+    <SENTENCE>Smatra se da u bolesnika s alergijskim rinitisom, a bez astme, pažljivo liječenje rinitisa može spriječiti nastanak ili barem ublažiti njezin tijek.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2783</ID>
+    <SENTENCE>Na Facebooku je puno više djevojaka nego u bilo kojoj knjižnici, klubu ili kafiću, a nudi vam se i mogućnost pažljivog odabira riječi i zavođenja duhovitim opaskama, čak i ako spontanost i smisao za humor baš i nisu vaše najjače točke.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2654</ID>
+    <SENTENCE>Kako bi volonteri, stručni djelatnici – edukatori pokrivali problematiku u području u kojem žive, pretpostavka je da uglavnom poznaju ili će lako upoznati moguće korisnike psihosocijalne skrbi za uspješnu provedbu projekata. Uz pažljiv odabir volontera potrebno ih je stručno osposobiti do razine prepoznavanja, oblikovanja i razvrstavanja poteškoća u pripadnika branitelja i stradalnika domovinskog rata, više razina potreba, zadovoljavat će se u postojećim ustanovama i institucijama, uz pomoć udruga i savjetovališta za socijalnu pomoć.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>228</STARTINDEX>
+    <ENDINDEX>235</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2622</ID>
+    <SENTENCE>Većina naknadno fotografiranih radova nastala je naime pažljivim konstruiranjem crteža u prostoru koji se samo iz jednog očišta transformiraju u "ispravnu" trodimenzionalnu sliku prepoznatljivih predmeta poput kutija, sjedalica ili stalka s mikrofonom.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8569</ID>
+    <SENTENCE>Međutim moramo biti pažljivi u upotrebi modela.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8542</ID>
+    <SENTENCE>Smještena je u centralnom dijelu naselja Čibača na udaljenosti od 700 metara od obalne linije što, uz već postojeće poslovne sadržaje, prejudicira pažljiv odabir i planiranje novih sadržaja poslovne i čiste djelatnosti koje ne zagađuju okolni prostor.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2730</ID>
+    <SENTENCE>Jako sam pažljiv prema njoj, imala je tešku prometnu nesreću.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8541</ID>
+    <SENTENCE>Beilock tvrdi da je najbolja strategija duboko udahnuti, očistiti um, a zatim pažljivo analizirati problem - tek onda krenite s rješavanjem.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8558</ID>
+    <SENTENCE>Pažljiv odabir riječi bit će ključan u procesu pregovora.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8548</ID>
+    <SENTENCE>To postižemo pažljivim odabirom lokacija na kojima ćete se oglašavati te Vas savjetujemo kako razviti reklamno rješenje koje će ostvariti željeni učinak.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8534</ID>
+    <SENTENCE>Ribe se pažljivo očiste, izvade kosti, meso opere, ocijedi i obriše čistom krpom.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2789</ID>
+    <SENTENCE>Pažljivom restauracijom te izlaganjem svega što blista u dubini njezina trezora, ako već nije definitivno uništeno zubom vremena ili rukom medijskih jahača apokalipse u devedesetima, Hrvatska televizija dobila bi materijal za bitku s komercijalnim televizijama jači nego što se umišlja da su "Trikvartača", "Po ure torture" ili neka slična polovnjača od emisije.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8506</ID>
+    <SENTENCE>Budući da si jako mlada, mislim da će biti vrlo pažljivi i da će te doktori zapravo najbolje savjetovati što trebaš i kad.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2641</ID>
+    <SENTENCE>Osim što je pravi gospodin, kada su dame u pitanju on je, kako kaže, pažljiv suprug, brižan otac i vlasnik Sokol Marića, najveće zaštitarske tvrtke u Hrvatskoj.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8523</ID>
+    <SENTENCE>Pažljivo čitanje može iznenaditi kad to najmanje očekujemo.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8564</ID>
+    <SENTENCE>Stoga je za uspješno odvijanje nastave iz ovog kolegija izuzetno bitno provesti pažljivu pripremu kako studenata samih, tako i organizacije i projekata na kojima će studenti raditi.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2758</ID>
+    <SENTENCE>Ovu taktiku koristite vrlo pažljivo, jer vi ćete još dugo za njih biti špijun na štiklama ubačen u njihove redove.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2755</ID>
+    <SENTENCE>Najvažnije je biti vrlo pažljiv pri bilo kakvim hodanjima i daljnjim istraživanjima iza preronjenog sifona jer i manja ozljeda koja vani ne bi bila bitna, na takvom mjestu onemogućava izlazak iz objekta.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2656</ID>
+    <SENTENCE>Radna odijela za zanimanja raznih profila imaju različite potrebe, tako da se za svakog klijenta prilagođavaju određena rješenja i to na temelju stečenih saznanja zbog pažljivog osluškivanja tržišta i samih klijenata.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>168</STARTINDEX>
+    <ENDINDEX>177</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2723</ID>
+    <SENTENCE>Pažljiv odabir slike za stegosliku vrlo je bitna stvar.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2679</ID>
+    <SENTENCE>Pažljivim iščitavanjem proračuna točno se vidi iz kojih zaselaka dolaze gradski vijećnici vladajuće koalicije i članovi Poglavarstva, zaključio je Antešić.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8588</ID>
+    <SENTENCE>Izbjegavajte trgovačke poslove, raspravljanje i budite vrlo pažljiv sudionik u prometu.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2752</ID>
+    <SENTENCE>Ali, za neustrašivog i pažljivog čitatelja, 98.6 je nezaboravan.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2778</ID>
+    <SENTENCE>Vježbam vježbe za stezanje vaginalnih mišića ali to očito nije dovoljno. naime moj dragi više ne može svršiti prilikom seksa jer kaže da me ne osjeća. jako je pažljiv i obziran i trudi se, vidim da mu je ponekad i teško ali ne ide. a čim ga uzmem u ruke ili usta svrši odmah. probali smo sve moguće poze kod nekih je malo bolje ali ni blizu onoga prije nego sam rodila.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>159</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2798</ID>
+    <SENTENCE>Iako je poznat i vrlo popularna usporedba s mirisom mora, svaka vagina je cvijet za sebe i svaka uz pažljivu higijenu ima nadasve zavodljiv i erotski miris.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2659</ID>
+    <SENTENCE>Crnogorski premijer Milo Đukanović rekao je da će izvješće EK o napretku Crne Gore biti pažljivo razmotreno te je obavijestio Maurera da će odgovori na Upitnik o spremnosti Crne Gore za članstvo u Europskoj uniji u sljedećih mjesec dana biti dostavljeni Bruxellesu.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2604</ID>
+    <SENTENCE>3. linijski uzgoj – način uzgoja koji obećava uspjeh, ali koji je povezan sa incestom gdje je potrebno veliko stručno znanje, koje se temelji na pažljivom izboru uzgojnih životinja po ujednačenim obilježjima i osobinama i umjereni incest uz pozornost od temperamenta, vitalnosti i plodnost.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2734</ID>
+    <SENTENCE>Potencijalna je ministrica jako pažljiva osoba.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8596</ID>
+    <SENTENCE>Svjedoci su izjavili da je Pitt bio jako pažljiv prema supruzi, a navodno su cijelo vrijeme vodili intimne razgovore i zabavljali se.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2646</ID>
+    <SENTENCE>Presudna je pažljiva selekcija bolesnika kojima će se propisati ovi lijekovi.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2647</ID>
+    <SENTENCE>Meteorolozi upozoravaju kako kretanje uragana treba pratiti vrlo pažljivo, kako bi se stanovništvo toga područja, a posebno država Sjeverna Karolina i Maine, na vrijeme pripremilo za njegov dolazak.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2634</ID>
+    <SENTENCE>Premda nije bila posebno brojna, iznimno je pažljiva publika u ponedjeljak navečer u Zajednici Talijana prisustvovala promociji knjige Maura Sambija "L 'alloro di Pound", koja je netom objavljena u izdanju Edita.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8529</ID>
+    <SENTENCE>Potragu za nekretninom kao i provjeru dokumentacije vezane uz nekretninu svakako olakšava agent za posredovanje u prometu nekretninama, a ukoliko ste u tom procesu sami, obavezno pažljivo i dobro proučite svu dokumentaciju vezanu uz nekretninu.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>187</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2601</ID>
+    <SENTENCE>Ako su mrlje previše vidljive, a koža izgleda prljavo, pokušajte ih odstraniti vodikovim peroksidom nanesenog na komadić vate, pri čemu trebate biti naročito pažljivi.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>158</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2753</ID>
+    <SENTENCE>Istucite čvrsti snijeg od bjelanjaka s malo soli i vrlo pažljivo umiješajte u čokoladnu kremu.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2702</ID>
+    <SENTENCE>Uz vrlo pažljivu njegu oleandar može već iste godine procvasti, no veća je vjerojatnost da će cvasti iduće godine.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2714</ID>
+    <SENTENCE>Jurilj se u Međuvremenu poprilično povukao iz političkih voda, a nakon što nam je spomenuta brošura, u kojoj je nesuđeni načelnik izlagao svoja obećanja, ponovno dospjela u ruke, pokušali smo je pažljivo pročitati i proanalizirati.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>195</STARTINDEX>
+    <ENDINDEX>203</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2697</ID>
+    <SENTENCE>Vitamini u prehrani predstavljaju nezaobilazan sastojak važan za zdravlje, a pažljivo unošenje vitamina u organizam može pospješiti izlječenje mnogih bolesti i smanjiti stres, koji je postao nezaobilazan pratitelj današnjeg načina života.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2677</ID>
+    <SENTENCE>Samo pažljivo slušajte i pratite pokrete tijela.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>5</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8574</ID>
+    <SENTENCE>Najvažnije je biti pažljiv i aktivan na satu jer se jezik ne može naučiti bez aktivnog korištenja.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2708</ID>
+    <SENTENCE>Nije slučajnost da mjesto podsjeća na morsku obalu jer brojne okamine školjaka, puževa i drugih morskih organizama koji se mogu uočiti samo pažljivim promatranjem dokazuju da je ovo mjesto nekada bitno drugačije izgledalo.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>140</STARTINDEX>
+    <ENDINDEX>149</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2685</ID>
+    <SENTENCE>A u tome kakva će ona biti, mnogo više će pridonijeti ljubazan i pažljiv domaćin kojemu se onda može i oprostiti neki nedostatak, nego svi milijuni eura uloženi u turizam koji je izgubio svoje najvrjednije obilježje — ljudsko lice.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8575</ID>
+    <SENTENCE>Glavni likovi su nestrpljivi otac Fred i njegova pažljiva supruga Vilma kao i njihovi simpatični susjedi Barney i Betty.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8578</ID>
+    <SENTENCE>Upornost, vjera i volja za ozdravljenjem kod pacijenta i potpuna posvećenost i pažljiv rad terapeuta koji neprestano osluškuje i prati svaki refleks dovest će do rezultata vrlo brzo.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2786</ID>
+    <SENTENCE>Moramo biti pažljivi i dobro procijeniti situaciju jer financijski ne stojimo dobro.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2724</ID>
+    <SENTENCE>Pažljivom oku nije promaklo kako su na premijeri filma prošli tjedan u New Yorku izmjenjivali nježnosti.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8577</ID>
+    <SENTENCE>Svaka biljka je priča za sebe pa ćete pažljivim odabirom supstrata kao i vremena presađivanja doći do najboljih rezultata.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2729</ID>
+    <SENTENCE>Tamošnje kompanije vrlo pažljivo i dosta unaprijed planiraju svoju kadrovsku politiku, te nije neobično da student odmah nakon završetka svoje ljetne prakse zna gdje će se zaposliti po završetku studija.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2759</ID>
+    <SENTENCE>Osnovne su promjene: (1) pomak od univerzalne socijalne sigurnosti i osiguranja "s vrha" države prema iskorištavanju lokalnih mogućnosti (sada su programi tržišta rada lokalno organizirane obveze umjesto državom garantirana prava) i (2) pomak od skrbi, temeljene na pravima za sve (univerzalizam kao princip prema kojima su socijalne službe ponuđene svim građanima) prema skrbi, temeljenoj na pažljivoj procjeni potreba.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>393</STARTINDEX>
+    <ENDINDEX>402</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8563</ID>
+    <SENTENCE>Neprilike je moguće smanjiti pažljivim postupanjem, pa se smirite i ne svađajte, a pogotovo ništa nemojte mijenjati !</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8514</ID>
+    <SENTENCE>Potom slijedi ulazak u stan i pažljiva procjena koliko je tijekom proteklih desetljeća ulagano u prostor.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8522</ID>
+    <SENTENCE>O: Zajedno s tri druge riječke radne organizacije financiramo već tri godine stalna i pažljiva istraživanja ispitivanja zagađenosti u Rijeci.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2700</ID>
+    <SENTENCE>Uspon na sv. Vid s te strane je blaži, ali teren je izrazito kraški i potrebno je pažljivo hodati po dobro markiranoj stazi.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8571</ID>
+    <SENTENCE>Boyd Willat tvrdi da "pažljiv odabir predmeta kojima se svakodnevno služimo može uvelike unaprijediti kvalitetu našeg života." Dakako da je pri tome u pravu, a Sensa je to samo potvrdila.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2774</ID>
+    <SENTENCE>Pomalo tvrda tekstura slika mjestimice podsjeća na odjeke enformelnih iskustava evropskih slikara, ali i očito posebnu potrebu slikara da pažljivo raščlanjuje metijerske i emotivne razine elaboriranja slike.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2715</ID>
+    <SENTENCE>Pažljiv čitatelj sjetit će se da sam u jednom od ranijih Tifloglobusa predstavio gospodina Colina Browna, čovjeka čiji je posao da pripremi radne kolege neke slijepe osobe da se upoznaju s njenim mogućnostima, načinima komunikacije i slično te da ih upozori što trebaju a što, pak, ne trebaju pitati slijepu osobu.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8502</ID>
+    <SENTENCE>Osim što se hormonalnom terapijom može utjecati na zdravlje, Johanes Wagner iz klinike u Abtseeu, koja nudi tjedne programe pomlađivanja, tvrdi da se s hormonima treba biti vrlo pažljiv.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>178</STARTINDEX>
+    <ENDINDEX>185</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2680</ID>
+    <SENTENCE>Autori nas uče kako otkriti laž u govoru tijela, a kako pri pažljivom slušanju drugih.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2666</ID>
+    <SENTENCE>Bio je pažljiv otac i beskrajno ponosan na svoju djecu.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8507</ID>
+    <SENTENCE>Montaža, pažljiv izbor i kvalitetni materijali.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2655</ID>
+    <SENTENCE>Osoba koju volite nastoji ispuniti svaku vašu želju, brižna je i pažljiva.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8579</ID>
+    <SENTENCE>Umjetnici danas tvrde da je medijska hajka bila zasnovana isključivo na želji za skandalom te da je projekt bio krivo predstavljen u javnosti, stoga njegovu zagrebačku varijantu otpočetka žele vrlo pažljivo i postupno prezentirati.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>198</STARTINDEX>
+    <ENDINDEX>206</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2644</ID>
+    <SENTENCE>Tek nakon pažljivog i upornog promatranja uočit ćemo razlike među jedinkama i početi ih raspoznavati.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2704</ID>
+    <SENTENCE>Stoga Vas molimo da pažljivo proučite naše Opće uvjete poslovanja s građanima.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8591</ID>
+    <SENTENCE>Redatelju se pritom mora priznati da mu se čak i najsporedniji glumci ponašaju kao da su autentični sudionici tih događaja, a dojam još više pojačava vrlo pažljiva evokacija pomorskog življenja početkom 19. stoljeća.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>155</STARTINDEX>
+    <ENDINDEX>163</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2763</ID>
+    <SENTENCE>U zajedničkoj izjavi za medije su naveli kako su svoj brak odlučili okončati nakon "dugog i pažljivog razmatranja".</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2686</ID>
+    <SENTENCE>Ona kasnije urezuje u svježu boju i razotkriva podslikanu podlogu pokazujući da ispod vidljive površine postoje i one jedva vidljive, skrivene priče i zapisi koje neće promaknuti pažljivom promatraču.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>188</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8511</ID>
+    <SENTENCE>Bush je kazao kako pažljivo prati što se događa u San Franciscu gdje istospolni parovi dobijaju dozvole za vjenčanja unatoč kalifornijskom zakonu koji definira brak kao zajednicu muškarca i žene i kako je zabrinut onim što vidi.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8576</ID>
+    <SENTENCE>Uspješan spoj atraktivnog korpusa kuhinje s uređajima i opremom, u zadanim prostornim gabaritima i instalacijskim priključcima, rezultat je pažljivog projektiranja i odabira odgovarajućih elemenata.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>140</STARTINDEX>
+    <ENDINDEX>149</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8508</ID>
+    <SENTENCE>Prema Anette Sharp je tijekom "dvoboja" također bio pažljiv ; kad je pala odmah je sišao s bicikla i pomogao joj da ustane, te joj zavrnuo nogavicu da provjeri je li ozlijedila koljeno.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2662</ID>
+    <SENTENCE>Dodajte mu uz pažljivo miješanje maslinovo ulje, usitnjeni peršin, celer i luk.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8561</ID>
+    <SENTENCE>Raditi u kiosku smještenom u centru ovako velikog grada znači stalno biti pažljiv i budan, plaću nije lako zaraditi, posebno u noćnim smjenama, kad iz mraka izviru likovi spremni ukrasti svoj primjerak novina.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8597</ID>
+    <SENTENCE>Pozivam Vas i da još jednom pažljivo pročitate moj navodno sporni tekst, pa ćete se moći i podsjetiti na razloge zašto smo ga objavili.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8510</ID>
+    <SENTENCE>Po obrambenom bedemu koji izgleda kao prsten, vitica (lat. corona) dobije ime, pažljivim promatranjem bedem je vidljiv i danas.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8544</ID>
+    <SENTENCE>Pažljivim promatranjem majka može opaziti i učestaliji broj djetetovih pokreta kao odgovor na kretanje.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2768</ID>
+    <SENTENCE>Penelope, začuđena pažnjom koju je njezina uloga u "Nineu" izazvala među američkim novinarima osvrnula se na svoju novu ulogu: "Stalno sam padala s užeta i bila sam puna modrica. Plesala sam u mraku, sa samo jednim izvorom svjetlosti i morala biti jako pažljiva. Međutim, kad jednom počnete padati, nakon sto puta, više ne osjećate fizičku bol".</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>253</STARTINDEX>
+    <ENDINDEX>261</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8527</ID>
+    <SENTENCE>U svakom slučaju pažljivi promatrač uspjeti će izdvojiti iz mnoštva detalja onaj koji će savršeno sjesti u njegovom vrtu.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2607</ID>
+    <SENTENCE>Trenirani su u pažljivom predstavljanju sebe kao kupaca zainteresiranih za određeni proizvod / uslugu, a da pri tome ne odaju svoj pravi identitet.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2657</ID>
+    <SENTENCE>Tako se nikad nije razvila, pa ni danas ne postoji potreba za pažljivim izborom zaposlenika.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2658</ID>
+    <SENTENCE>Intrigantan, ali pažljiv detalj su kombinezoni koji u formi kompletnog looka najavljuju teženje kreativnog tima Jolie Petite za stvaranjem kolekcije potpune dnevne i večernje garderobe.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2653</ID>
+    <SENTENCE>Namatati treba pažljivo i uredno kako bi se dobilo što više navoja.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2725</ID>
+    <SENTENCE>Premda to zvuči cool, treba reći da sintetizirani glas Nokije 5500 hrvatski govori prilično slabo, pa ćete u prvom trenutku misliti da govori neki ugrofinski jezik, a tek pažljivim slušanjem ćete shvatiti da je to zaista hrvatski.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>171</STARTINDEX>
+    <ENDINDEX>180</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2625</ID>
+    <SENTENCE>Osnovni su principi odijevanja u poslovnoj sredini: umjerenost, pažljiv odabir boja, kvalitete, i krojeva odjeće, urednost, čistoća i prikladnost.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8554</ID>
+    <SENTENCE>Gorivo je jedna od najvećih stavki kućnog budžeta, ali može se uštedjeti pažljivom vožnjom.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2671</ID>
+    <SENTENCE>Ona će o tomu vrlo pažljivo razmisliti i možda se posavjetovati s roditeljima ili prijateljicama.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2773</ID>
+    <SENTENCE>U emotivnom nastupu uživo Oprah Winfrey je objavila da je, nakon puno molitve i mjeseci pažljivog razmišljanja, odlučila završiti s emitiranjem svoje emisije nakon 25. sezone.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2731</ID>
+    <SENTENCE>Osoba koju volite nastojat će ispuniti svaku vašu želju, bit će brižna i pažljiva.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiva</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2705</ID>
+    <SENTENCE>No, dok vam ti ljudi pričaju, ako pažljivo slušate možete zaključiti da su sami ljudi krivi zbog takve pseće reakcije.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8590</ID>
+    <SENTENCE>"Riječ o vrlo delikatnom kaznenom djelu. Naime, to je i razlog zašto se moj klijent branio šutnjom budući da je potrebno pažljivo pripremiti obranu. Istražni zahtjev stiže tek sutra, pa ćemo onda vidjeti što ćemo dalje", istaknuo je za Novi list, odvjetnik Ljubo Kostič koji zastupa Branka Rogića kojem prijeti pet godina zatvora.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>129</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2750</ID>
+    <SENTENCE>Kako biste zaštitili mlade, a naročito djecu, potrebno je pažljivo nadgledati njihove aktivnosti na internetu.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2692</ID>
+    <SENTENCE>Wiki tehnologiji, a to znači da svatko može koristiti zajednici svojim prilogom, dodavati materijale, ispravljati ih (i svoje i tuđe !), ali pri tome zaista treba biti pažljiv i obziran.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>168</STARTINDEX>
+    <ENDINDEX>175</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8553</ID>
+    <SENTENCE>Ako je prema vama jako pažljiv, a pri tome loše tretira konobara očekujte da će se tako ponašati i prema vama za nekoliko mjeseci.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2623</ID>
+    <SENTENCE>"Ovih osam ključnih pokazatelja mogućeg karcinoma smo identificirali pažljivim proučavanjem i analiziranjem 25 studija provedenih u Velikoj Britaniji, Americi, Nizozemskoj, Belgiji, Australiji, Danskoj i Njemačkoj", pojasnio je znanstvenik Mark Shapley.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2767</ID>
+    <SENTENCE>Pritom ne treba zavarati što njegov sadržaj nije posve nov, kao što se najavljivalo: možda je čak i bitnije da se godinama nagrđivan i zloupotrebljavan materijal polako ali sigurno, uz pažljiv i detaljan rad, dovodi u red.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>185</STARTINDEX>
+    <ENDINDEX>192</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8595</ID>
+    <SENTENCE>Pažljivo odabrano vino doprinosi općem ukusu i zadovoljstvu, a osjetilni receptori u ustima reagiraju na različite okuse različito.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8518</ID>
+    <SENTENCE>Ako ne želite da vaša kuja bude skotna, morate je pažljivo nadgledati dok se tjera.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2667</ID>
+    <SENTENCE>Rabljena oprema je također vrlo tražena pa pažljivim odabirom proizvoda zadovoljavamo i taj dio sve većeg tržišta.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8501</ID>
+    <SENTENCE>Zeleni dijelovi ove biljke otrovni su te treba biti pažljiv da bjelkasti sok koji biljka ispušta ne dođe u dodir sa sluznicom.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2696</ID>
+    <SENTENCE>"Nastojao sam jasno iznositi svoje stavove, braniti ih argumentima ali i pažljivo slušati i uvažavati i druge, tuđe argumente. Obaveze zastupnika u prošlom mandatu odradio sam korektno i profesionalno. Iako nas je u Klubu formalno bilo 11, u radu sam mogao računati samo na tri - četiri kolege", nastavio je.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2617</ID>
+    <SENTENCE>Za dijete u razvoju potrebno je doista pažljivo odabirati pisaći stol, kako bi on odgovarao visini, ali i tjelesnom razvoju djeteta u razdoblju koje slijedi.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2612</ID>
+    <SENTENCE>Bez obzira koliko vi imali povjerenja u svojeg tinejdžera ili čak on u vas, seks je tema o kojoj se ne govori olako, te morate biti vrlo pažljivi kako ćete pristupiti tom razgovoru.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>145</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8581</ID>
+    <SENTENCE>Ne mogu opisati tu sreću koju osjećam kad vidim mog malog Leonea kako je pažljiv i obziran prema seki.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljiv</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8568</ID>
+    <SENTENCE>Pažljivo pročitajte uvjete korištenja usluge, te ukoliko se slažete s njima pritisnite PRIHVAĆAM UVJETE KORIŠTENJA USLUGE.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>Pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8543</ID>
+    <SENTENCE>"Hrvatska očekuje da će nakon žalbe Tužiteljstva Žalbeno vijeće pažljivo proučiti presudu i djelovati u skladu s jasnim mandatom određenim od Vijeća sigurnosti UN-a", naglasio je Sanader.</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2630</ID>
+    <SENTENCE>Za solidan nastup u Kini koji, međutim, nije završio boljim plasmanom Schumacher je nakon utrke "optužio" upravo gume, točnije prerani prelazak na zadnji set guma: "Bilo je nekoliko dobrih trenutaka, poput borbe s Lewisom, ali i dosta loših. Gume su mi zasad velika nepoznanica, posebno intermedije. Sada je s gumama tog tipa potrebno vrlo pažljivo postupati kako bi se dovoljno sačuvale i to je razlog zbog čega sam u završnici utrke izgubio nekoliko pozicija."</SENTENCE>
+    <TARGETLEMMA>pažljiv</TARGETLEMMA>
+    <TARGETWORD>pažljivo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>340</STARTINDEX>
+    <ENDINDEX>348</ENDINDEX>
+  </INSTANCE>
+</SET>

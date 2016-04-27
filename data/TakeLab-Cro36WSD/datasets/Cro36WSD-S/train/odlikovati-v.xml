@@ -1,0 +1,3003 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>10574</ID>
+    <SENTENCE>Godine 1995. dodijeljen mu je počasni doktorat Sveučilišta u Rijeci, a 1997. počasni doktorat Sveučilišta Josip Juraj Strossmayer u Osijeku. Godine 1990. dobio je nagradu Božidar Adžija za značajnu znanstvenu djelatnost, 1994. dobio je Nagradu grada Senja, 1996. odlikovan je za znanstveni rad Ordenom Danice hrvatske s likom Ruđera Boškovića, a 1998. dobio je Hrvatsku državnu nagradu za životno djelo.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>263</STARTINDEX>
+    <ENDINDEX>272</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6777</ID>
+    <SENTENCE>Ovi saveznici jetre obiluju klorofilom koji je poznati "čistač jetre", a kupusnjače se ujedno odlikuju sadržajem fitokemikalija koje povećavaju sposobnost jetre da neutralizira toksične tvari.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6772</ID>
+    <SENTENCE>Film Vicka Ruića odlikuje se iznimnom vizualnom ljepotom (kamera Silvija Jesenkovića), osobito u scenama na otoku, ali i na manje atraktivnim lokacijama, poput ruševne vojne ludnice.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6709</ID>
+    <SENTENCE>Jer, osim što je ukusan, krumpir se odlikuje hranjivošću.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6766</ID>
+    <SENTENCE>Osim hvalevrijedne glume, film se odlikuje i fenomenalnim vizualnim identitetom za koji su ponajprije zaslužni poznati scenografi i kostimografi Rick Heinrichs i Colleen Atwood.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10502</ID>
+    <SENTENCE>Koncept se odlikuje značajkama koje pripadaju 100 % svijetu automobilskih natjecanja, kao što je uvođenje elemenata od karbona i specifične opreme proizašle iz navedenog svijeta.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6750</ID>
+    <SENTENCE>Drvo se kao materijal može odlično iskoristiti za izradu stilskog namještaja, koga odlikuje specifična obrada i mnoštvo zaobljenih ploha, ali i modernog minimalističkog, koga karakteriziraju pravilne geometrijske forme.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6692</ID>
+    <SENTENCE>Mnogi koji su natovarili svoje džepove u ovih 20 godina slobode, još su za to i odlikovani.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovani</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6781</ID>
+    <SENTENCE>Za osobite zasluge u kulturi 1998. godine je odlikovana Redom Danice hrvatske sa likom Marka Marulića.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovana</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10538</ID>
+    <SENTENCE>Sva četiri proizvoda odlikuju se inovacijama u tehnologiji i dizajnu što je i glavni kriterij za dobivanje ove nagrade.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6792</ID>
+    <SENTENCE>Enes Felić, čije ime je objavio kaportal.hr, poznat je Karlovčanima, jer je tijekom ratnih godina igrao bitnu ulogu na području Grada Karlovca, a za svoj doprinos odlikovan je više puta.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>163</STARTINDEX>
+    <ENDINDEX>172</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6740</ID>
+    <SENTENCE>Odlikuju se sposobnošću sinteze i lučenja estrogena kao i granuloza tumori, pa su i simptomi dosta slični, a istodobna pojava raka sluznice maternice čak je i veća.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6799</ID>
+    <SENTENCE>"Ne sumnjam da bi predsjednik Mesić prihvatio takav prijedlog, samo ne znam kojim bi veleredom odlikovao Rončevića", rekao je Stazić, koji je želio predložiti i da Hrvatska Rončevića preporuči za pomoćnika glavnog tajnika NATO-a za nabavku.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6679</ID>
+    <SENTENCE>Samci bi u nekoliko navrata mogli ući u vezu, a pravu će vezu odlikovati prateća želja da sretnu vijest razglasite čim prije, i to na sva zvona.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6659</ID>
+    <SENTENCE>Ovaj program odlikuje mogućnost generiranja stotina različitih neovisnih fotorealističnih likova, koji se kreću i bore uz pomoć umjetne inteligencije integrirane u sam softver.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10554</ID>
+    <SENTENCE>Prijenosno računalo Compaq Presario dolazi s 15,6-inčnim zaslonom HP BrightView i formatom slike 16: 9 te se može pohvaliti otmjenim dizajnom ostvarenim tehnologijom Imprint kojeg odlikuje sjajna, crna površina, a dostupan je po cijeni od 4141 kuna.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>180</STARTINDEX>
+    <ENDINDEX>188</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6763</ID>
+    <SENTENCE>Rad pod nazivom "arahnofobija" odlikuje se svojom jednostavnošću i posebnošću oblikovanja te obrade materijala.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6793</ID>
+    <SENTENCE>Ludi Šeks je mislio da treba odlikovati novinare (Jaca je novinar iz podruma i dragovoljac).</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6648</ID>
+    <SENTENCE>Silviju Luks francuski će veleposlanik sutra odlikovati Ordenom Viteza za nacionalne zasluge.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6720</ID>
+    <SENTENCE>Odlikovan je Brončanom zvijezdom jer je tijekom bitke u Ardenima, riskirajući život, dvojicu ranjenika odnio na sigurno.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10544</ID>
+    <SENTENCE>Predsjednik Republike Stjepan Mesić uručio je majci Ane Rukavine odličje Reda Danice hrvatske s likom Katarine Zrinske kojim je posmrtno odlikovao Anu za zasluge za zdravstvo, socijalnu skrb i promicanje moralnih i društvenih vrednota.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6612</ID>
+    <SENTENCE>Akvarij ima besprijekornu dramaturgiju koju odlikuje ritam i istančan smisao za finu karakterizaciju likova.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6676</ID>
+    <SENTENCE>Bio je to svakako odličan potez, jer danas nakon više od stotinu godina, ovaj brand odlikuje prije svega vrhunska kvaliteta proizvoda, ali i odličan dizajn.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6669</ID>
+    <SENTENCE>Sav sir potreban umjetnici, osigurao je britanski proizvođač Low Low sira koji se izrađuje od poluobranog mlijeka te se odlikuje smanjenim udjelom masnoće.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>128</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6619</ID>
+    <SENTENCE>Obje tehnologije odlikuje visoka tehnološka zrelost, jednostavna uporaba te mogućnosti samostalnog korištenja i korištenja u distribuiranim sustavima.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6735</ID>
+    <SENTENCE>Zasad je pilot McLaren-Marcedesa odlikovan titulom člana.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6639</ID>
+    <SENTENCE>Predsjednik Republike Hrvatske Stjepan Mesić primio je u oproštajni posjet ambasadora Crne Gore Branka Lukovca te mu zahvalio na dosadašnjem radu i na doprinosu što ga je dao unapređivanju hrvatsko - crnogorskih odnosa, zbog čega ga je i odlikovao Redom kneza Trpimira s ogrlicom i Danicom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>238</STARTINDEX>
+    <ENDINDEX>247</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6635</ID>
+    <SENTENCE>Predsjednik Stjepan Mesić odlikovat će ga posthumno Redom Petra Zrinskog i Frana Krste Frankopana zbog iznimne hrabrosti.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovat</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6764</ID>
+    <SENTENCE>TOSHIBA prijenosno računalo Satellite L500 namjenjen je svakome tko želi u potpunosti iskusiti današnji digitalni životni stil, a odlikuje se prihvatljivom cijenom i svenamjenskim mogućnostima.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6686</ID>
+    <SENTENCE>On sam se odlikuje četverokutnim glavnim trgom kojim dominira venecijanski dvorac i skupina lijepo očuvanih starih kuća koje uključuju lođu iz 18. stoljeća i župnu crkvu iz 16. stoljeća.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10596</ID>
+    <SENTENCE>Namijenjen je sektoru općeg uredskog poslovanja te malih i kućnih ureda, a odlikuje se kompaktnim, privlačnim kućištem u elegantnoj crnoj izvedbi.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6694</ID>
+    <SENTENCE>Giulietta je građena na potpuno novoj modularmoj platformi koju Talijani jednostavno nazivaju 'compact', a koju odlikuje potpuno neovisni ovjes s arhitekturom Mcpherson sprijeda te multilink straga.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>120</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6739</ID>
+    <SENTENCE>Hrvatski predsjednik je podsusedsku 1. Samostalnu satniju odlikovao Redom hrvatskog trolista, a njenog zapovjednika Ratkovića Redom hrvatskog pletera.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10562</ID>
+    <SENTENCE>Novi najveći model nosi oznaku 58PFL9955H i odlikuje se zaista ogromnim mogućnostima.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6682</ID>
+    <SENTENCE>Jednostavnost koja odlikuje Shrek zauvijek 3D gledateljima daje samu izvornu narav originala kakav smo gledali i osjećali 2001. godine.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6696</ID>
+    <SENTENCE>Pjesma, pokliči i ljubaznost odlikovali su njihove navijače.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10556</ID>
+    <SENTENCE>Bez puno pametovanja: to su folk - pop pjesme koje odlikuje odrasla, pametno složena lirika i među kojima se kriju pravi mali hitoidni biseri.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10503</ID>
+    <SENTENCE>Halogeno svjetlo odlikuje se svojim sjajem i savršenom primjenom i u općoj i u akcentnoj rasvjeti.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10577</ID>
+    <SENTENCE>Godine 1965. odlikovan je Ordenom rada sa zlatnim vijencem "za istaknute zasluge tijekom niza godina rada na području znanosti, kulture i prosvjete, kao i za rezultate dobivene u odgoju stručnih i znanstvenih kadrova".</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6664</ID>
+    <SENTENCE>Osim brojnih inozemnih odlikovanja, u suverenoj Hrvatskoj odlikovana je Spomenicom Domovinskog rata, Redom hrvatskog trolista i Redom Danice Hrvatske s likom Blaža Lorkovića.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovana</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10507</ID>
+    <SENTENCE>Sustav odlikuje jednostavna primjena i potpuna autonomaija rada u ovisnosti o drugim sustavima u pogonu pasterizacije.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6665</ID>
+    <SENTENCE>Odlikuje se osebujnim reljefom krša u kojemu se pojavljuju vrtače, škrape, strmine i kameni blokovi.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6741</ID>
+    <SENTENCE>"Za to krivim našu poklonsku diplomaciju. Navest ću vam primjer Medačkog džepa gdje je cijela jedna bojna kanadske vojske odlikovana za najveću bitku kanadske vojske od Korejskog rata. Pa ta bitka uopće nije postojala ! Bio sam pet godina u kanadskoj vojsci i kažem vam, to je kod njih razvikano kao najveća bitka, cijela bojna je odlikovana, a ta bitka uopće nije postojala.", kazao je Glasnović te negodovao zbog toga što hrvatska diplomacija nije poslala niti prosvjednu notu zbog tog "povijesnog falsifikata."</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovana</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6794</ID>
+    <SENTENCE>Uređaj odlikuje jednostavnost korištenja, smanjenje vremena potrebnog za naplatu, te povećanje broja brzih transakcija.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10504</ID>
+    <SENTENCE>Umjetnički obrti su obrti koji se odlikuju proizvodima i uslugama visoke estetske vrijednosti, dizajnom, likovnim i drugim rješenjima uz naglašenu kreativnost i individualnost majstora obrta – umjetnika.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6610</ID>
+    <SENTENCE>Mrežnica, jedna od četiri karlovačke rijeke i njezina okolica doista se odlikuje čudesnom ljepotom prirode, a prava je sreća i blagodat da ta iskonska čar koja nadahnjuje iskrene ljubitelje i štovatelje izvornog okoliša još nije zagađena i uništena ljudskim nemarom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10576</ID>
+    <SENTENCE>LJUBLJANA — Slovenski predsjednik Milan Kučan u četvrtak je dodijelio najviše državno odličje nekadašnjem predsjedniku Predsjedništva tadašnje SR Slovenije Janezu Stanovniku, izazvavši prosvjed oporbe koja je ustvrdila da je odlikovao čovjeka koji je prije 13 godina bio protiv samostalnosti slovenske države.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>225</STARTINDEX>
+    <ENDINDEX>234</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6675</ID>
+    <SENTENCE>Zajednički ga je razvilo pet kompanija, ovaj filmski sustav odlikuje se jednostavnim radom, novim slikovnim formatom (16 x 30 mm) kao i mogućnošću odabira ukupno tri formata.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6726</ID>
+    <SENTENCE>Okupljenim novinarima predstavljen je novi DeskJet 990Cxi koji nasljeđuje dosadašnji 970 (detaljan opis tog pisača možete vidjeti u novom Bugu) a odlikuje se nevjerojatnom brzinom ispisa, standardno isporučenom jedinicom za obostrani ispis te integracijom IrDA priključka i sl.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10543</ID>
+    <SENTENCE>Sve INGRINE projekte odlikuje kvaliteta i usvajanje modernih tehnoloških rješenja u graditeljstvu, Dvori Lapad nastavljaju takav trend INGRINIH projekata nudeći budućim stanarima i korisnicima najmodernija tehničko tehnološka rješenja.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10568</ID>
+    <SENTENCE>Kao dušobrižnik odlikuje se jasnoćom stavova, beskompromisnošću i odlučnošću.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6725</ID>
+    <SENTENCE>- Kvalitativni kriterij - '' Manjina '' se razlikuje od '' većine '', odnosno ima svoja specifična obilježja u odnosu na većinu, koja se najčešće odlikuju u različitoj nacionalnoj ili etničkoj pripadnosti tj. porijeklu, različitoj vjerskoj pripadnosti, jezičnim i kulturnim različitostima i slično.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6707</ID>
+    <SENTENCE>Oni koji sami nisu bili korumpirani, ali ih odlikuje grijeh mlitavosti, nedjelovanja, prilagođavanja svemu, pa i potplaćenom kolegi s kojim se ide na kavu i ćaska o vremenu.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6699</ID>
+    <SENTENCE>Najveća online trgovina na internetu odlikuje se izvrsnom informacijskom arhitekturom vlastitih mrežnih stranica koju prati odlična programka podrška i jednostavna grafička rješenja.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10531</ID>
+    <SENTENCE>Ima izvanredne osobine prostranosti i stila, odlikuje se praktičnošću i visokim performansama karavana, a peta vrata s automatskim otvaranjem te veliki prostor pruža odličan izbor za obiteljske praznike, avanturističke vikende, a sa najvećim prtljažnim prostorom u ovoj klasi vozila od 1.657 litara zadovoljava sva Vaša očekivanja.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10537</ID>
+    <SENTENCE>May je toliko sretan da poštenog nalaznika namjerava nagraditi, a Hamiltona će odlikovati i policija na posebnoj ceremoniji.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6660</ID>
+    <SENTENCE>Klasičnu, univerzalno crvenu nijansu Color Intrigue Effects ruža odlikuje kremasta tekstura i hidratantna svojstva triju vitamina (A, C i E) u kombinaciji s aloe verom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6683</ID>
+    <SENTENCE>Električna energija odlikuje se brojnim pogodnostima u odnosu na ostale oblike energije.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10569</ID>
+    <SENTENCE>Dragovoljce odlikuju izuzetne domoljubne i ratne kreposti.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10552</ID>
+    <SENTENCE>Zanimljivo je da je general bio odlikovan i Danicom reda Blaža Lorkovića koja se dodjeljuje za osobite zasluge u gospodarstvu.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6674</ID>
+    <SENTENCE>Svaka od tih grupacija odlikuje se svojim biološkim i morfološkim karakterističnostima, što uvjetuje raznolikost, šarenilo i iznimnu ljepotu fitosfere koja se odlikuje u izmjenjivanju istih u vrlo naglim prijelazima i na maloj površini.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6677</ID>
+    <SENTENCE>Prvo predstavljen kao koncept Chevrolet Beat, peterovratni Chevrolet Spark odlikuje svježa mladenačka vanjština i unutrašnjost koja se odražava u izboru materijala i boja.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6737</ID>
+    <SENTENCE>Tehničko savršenstvo koje se odlikuje još većom sigurnošću i još lakšom obradom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6671</ID>
+    <SENTENCE>Carnegie stadij 10 odlikuje početak spajanja neuralnih nabora i nastajanje neuralne cijevi s dva otvora – prednjim i stražnjima neuroporusom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6688</ID>
+    <SENTENCE>Klinika za ortopediju odlikuje se publiciranjem velikog broja radova iz područja ortopedije i u suradnji sa srodnim strukama.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6736</ID>
+    <SENTENCE>Nema grandioznih scena i megalomanskih troškova kojima se odlikuju neke domaće serije već samo ideja.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10532</ID>
+    <SENTENCE>Njegov se pristup odlikuje znanstvenom analitičnošću i objektivnošću te potpunim odsustvom ideologiziranih vrijednosnih sudova.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10536</ID>
+    <SENTENCE>SAŽETAK PROJEKTA Područje Grada Dubrovnika se osim izvrsno očuvane tradicionalne arhitekture, te bogate i nadaleko poznate kulturno - povijesne baštine, odlikuje i visokim prirodnim vrijednostima koje je također potrebno vrednovati na odgovarajući način.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>153</STARTINDEX>
+    <ENDINDEX>161</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10508</ID>
+    <SENTENCE>Album su odlikovali društvena kritika, ali i osobne teme, ispričane iskreno i uvjerljivo.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6681</ID>
+    <SENTENCE>Inaće, vjerojatno je da se igrica, kao i svi nastavci NFS-a, ne odlikuje nikakvom realnošću, pa ulazak u zavoj pod 90 stupnjeva sa 120 na sat postaje realnost.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10501</ID>
+    <SENTENCE>Inženjeri nisu imali jednostavan zadatak, jer smanjiti masu za 100 kg automobilu kojeg odlikuje lagana konstrukcija nije rutinski posao.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6746</ID>
+    <SENTENCE>Predsjednik George W. Bush odlikovao ga je 2003. medaljom slobode, najvišim državnim civilnim odličjem.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6771</ID>
+    <SENTENCE>CanoScan 9000F nasljednik je modela Canon CanoScan 8800F, a odlikuje se brojnim novim i poboljšanim značajkama kojima se povećava njegova produktivnost.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6701</ID>
+    <SENTENCE>Ovaj vrhunski hotel odlikuje se s besprijekornom uslugom, gourmet istarskom kuhinjom i velikim brojem holističkih wellness tretmana od kojih se, kao posebno zanimljiv i jedinstven u Hrvatskoj, ističe tretman ljepote vinom, odnosno vinoterapija.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10523</ID>
+    <SENTENCE>Svi ispravljači koje nudimo su isprobani u praksi imaju odličnu električnu karakteristiku, odlikuju se velikom stabilnosti u radu i izuzetnom mehaničkom čvrstoćom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6611</ID>
+    <SENTENCE>Ove ograde odlikuju se iznimnom čvrstoćom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10567</ID>
+    <SENTENCE>Postoji podatak da je jedan Arianit odlikovan talijanskim odlikovanjem 1927. godine.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6609</ID>
+    <SENTENCE>Stražnji dio odlikuju jednostavnije i elegantnije linije zahvaljujući kojima je napušten '' klinasti '' oblik prethodnika.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6651</ID>
+    <SENTENCE>Izgradile su ju sestre milosrdnice, a kao najmoderniju medicinsku ustanovu toga doba odlikovao ju je car Franjo Josip i tu povelju možete vidjeti u našem Ravnateljstvu.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6744</ID>
+    <SENTENCE>Objektiv s optičkim zumiranjem od 4x dizajnirala je i proizvela tvrtka Canon u skladu s visokim standardima kojima se odlikuje cijeli njezin asortiman fotografske opreme.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6673</ID>
+    <SENTENCE>Nudimo stakla izrađena u tiffany tehnici, zrcala različitih oblika i dizajna, ornament stakla, pjeskarena stakla s različitim motivima, taljena stakla, satinirana stakla (stakla s mat površinom dobivena jetkanjem kiselinom, odlikuju se posebnom finoćom i izgledom) te sigurnosna stakla.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>224</STARTINDEX>
+    <ENDINDEX>232</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10506</ID>
+    <SENTENCE>General Zagorec odlikovan je čak 13 puta, a u Mesićevu uredu rekli su nam kako će mu oduzeti osam odličja.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6641</ID>
+    <SENTENCE>Lijepo je znati da su sestrama mnogi zahvalni za njihovo služenje, da su čak i odlikovane za svoj rad od samog Svetog Oca, no još je ljepše znati da ih prava nagrada tek čeka – ondje na nebesima.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovane</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6627</ID>
+    <SENTENCE>Odlikuju ga i HSDPA podrška, te pet megapikselna kamera, a s prednje strane je i VGA kamera za video pozive.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6637</ID>
+    <SENTENCE>Slovenski premijer Borut Pahor odlikovao je u Ljubljani slovenske policajce koji su prošli petak na graničnom prijelazu Dobovi svladali hrvatskog državljanina Josipa Zagajskog naoružanog bombama te im dodijelio i simboličnu novčanu nagradu.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6658</ID>
+    <SENTENCE>Mirage liniju karakteriziraju visoka kvaliteta izrade, anatomski kroj te pažnja prema detaljima što odlikuje i druge modele iz SubCraftove ponude.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6713</ID>
+    <SENTENCE>Svaki od ovih naroda odlikuje se drugačijom taktikom i različitim za svaki narod specifičnim jedinicama.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6703</ID>
+    <SENTENCE>Dogodilo se to 2002., a godinu kasnije ga je za zasluge u engleskom nogometu odlikovala i engleska kraljica.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6680</ID>
+    <SENTENCE>Posmrtno je odlikovan spomenicom Domovinskog rata i Redom Petra Zrinskog i Frana Krste Frankopana s pozlaćenim pleterom kao časni znak vječnog spomena poginulima za hrvatsku državu u Domovinskom ratu.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6743</ID>
+    <SENTENCE>Motor je razvijen u R &amp; D centru u Namyangu, a odlikuje ga visoka učinkovitost.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6630</ID>
+    <SENTENCE>Odlikuju se nekonvencionalnim pristupom, humorom, obiljem korisnih podataka koje treba znati svaki učenik, ali i mnoštvom zanimljivosti koje je nemoguće pronaći u školskim udžbenicima.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10548</ID>
+    <SENTENCE>KM-1635 i KM-2035, nasljednici modela KM-1620 i KM-2020, odlikuju se učinkovitim funkcijama za kopiranje te mogućnošću dodavanja funkcija za ispis, mrežno povezivanje i različite načine završne obrade dokumenata.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6634</ID>
+    <SENTENCE>Zrno je izrazito duboko, žute boje te se odlikuje povećanim sadržajem proteina (oko 9 %) i visokim hektolitrom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10541</ID>
+    <SENTENCE>LG E90 odlikuje se, osim skromnim gabaritima, LED pozadinskim osvjetljenjem, razlučivošću od 1920x1080 piksela (na 21,5-inčnom modelu), 250 nita svjetline, kontrastom od 10.000.000: 1 te vremenom odaziva od dvije milisekunde.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10579</ID>
+    <SENTENCE>U usporedbi s vozilom koje je sudjelovalo na natjecanjima prošle zime, najnovije verzija Dacia Duster "Ice" se odlikuje brojnim poboljšanjima, uključujući motor koji nudi veći raspon korištenja, nove amortizere i dorađeni sustav upravljanja na četiri kotača.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>119</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6761</ID>
+    <SENTENCE>Redom kneza Branimira s ogrlicom za promicanje međunarodnog položaja i ugleda RH odlikovani su Dragutin Haramija i Petar Pirker (posthumno).</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovani</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6617</ID>
+    <SENTENCE>Drvena kuća Newport odlikuje se jednostavnim ali lijepim dizajnom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6715</ID>
+    <SENTENCE>Novije generacije televizora iscrtavaju sliku čak 100 puta u sekundi (100 Hz) te se zbog toga odlikuju iznimno mirnom slikom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6613</ID>
+    <SENTENCE>Iako se odlikuje naprednim rješenjima, poput širokouganog objektiva i 4 x optičkog zuma, te vrlo velikim LCD monitorom od 2.7 ", zahvaljujući naprednim tehnologijama iz Pentaxa, poput one" Sliding Lens System ", kućište je mjestimice tanko i do 16 mm, a aparat teži svega 110g. Uz ostale dimenzije, 97x54x21.5 mm, čini ga idealnim fotoaparatom za korisnike koji traže onakav" koji stane u džep ".</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10550</ID>
+    <SENTENCE>Kad Oršuš polemizira s "objektivnim okolnostima" sustava gdje volja pojedinaca koji obnašaju vlast, ponekad i krajnje hirovito, ima neusporedivo veću važnost od samih zakona ili potreba, tu djelatnost ne odlikuje velika akribija pedanta lirskih iskri, no kapricama priproste osebujnosti ne nedostaje pravi kult činjenica, specifičnog elektriciteta koji rasute upadice pretaljuje u spoznaju.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>204</STARTINDEX>
+    <ENDINDEX>212</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10545</ID>
+    <SENTENCE>Odlikuje ih vidljivo visa kvaliteta slike.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6623</ID>
+    <SENTENCE>Najjači novi Sunov poslužitelj Blade 800 odlikuje se modularnim dizajnom, te relativno malim zauzećem prostora uz nisku potrošnju energije.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10549</ID>
+    <SENTENCE>Tarantino je filmaš kojeg odlikuju redateljsko majstorstvo, stilska dotjeranost cjelina, spretno poigravanje narativnim i oblikovnim segmentima, sustavan (auto) ironičan odmak i pažljivo odabrani glazbeni hitovi u soundtracku.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10513</ID>
+    <SENTENCE>Color Sensational ruževi odlikuju se kremastom strukturom, visokim sjajem i nježnom formulacijom, a sve zahvaljujući mikropigmentima koji zadržavaju vlažnost i sprečavaju brzo nestajanje boje s usana.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10565</ID>
+    <SENTENCE>Šef hrvatske Direkcije ekonomskih istraživanja Raiffeisen banke Zdeslav Šantić naglašava da hrvatski bankovni sustav odlikuje visoka stabilnost i sigurnost, što je jedan od glavnih razloga zašto za sada nismo zabilježili smanjenje kreditnog rejtinga.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10509</ID>
+    <SENTENCE>Montažni armiranobetonski objekti se odlikuju povoljnom cijenom i brzom izvedbom, a zbog tehnologije proizvodnje visokom kvalitetom izvedbe te malim troškovima održavanja.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6784</ID>
+    <SENTENCE>Prvi put odlikovat ćemo zajednički najboljega svjetskog nogometaša FIFA-inom Zlatnom loptom već u siječnju sljedeće godine - kazao je Blatter.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovat</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10573</ID>
+    <SENTENCE>Izuzetno plodan, autor nekih tridesetak knjiga, Lovrak je nekoliko desetljeća zabavljao i odgajao mlade čitatelje izrazom koji svjedoči o vremenu, a odlikuje se maštovitošću i humorom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>149</STARTINDEX>
+    <ENDINDEX>157</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6756</ID>
+    <SENTENCE>Odlikuje ga i Touch screen visoke rezolucije u 256.000 boja te potpuna alfanumerička tipkovnica.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10586</ID>
+    <SENTENCE>Kazalište Mala scena odlikuje najviša razina profesionalnosti i uspješnosti kako na umjetničkom, tako i na poslovnom i organizacijskom planu.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10559</ID>
+    <SENTENCE>Redom Danice hrvatske s likom Katarine Zrinske odlikovani su Ivan Sršen te Gioko V. Ruzio, a Redom hrvatskog pletera Ranko Ćetković, Zdravko Ebling, Zvonko Erak, Dean Kontić, Bože Šimleša, Mihovil Španja, Ivan Čupić, Josip Valčić te Tonči Valčić.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovani</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6625</ID>
+    <SENTENCE>Vanjskim izgledom Hyundai i20 prati europski trend "i" game vozila, a zahvaljujući raskošnim dimenzijama, te inteligentnom dizajnu i rasporedu elemenata u interijeru, i20 odlikuje nevjerojatno mnogo prostora, te ergonomija najviše razine.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>171</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6697</ID>
+    <SENTENCE>Odlikuje ih jasna vizija vrlo velika osobna energija i sposobnost upravljanja sljedbenicima (obično su izvrsni govornici koji lako prenose poruke na okolinu).</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6734</ID>
+    <SENTENCE>U obrazloženju za nagradu Goranov vijenac ocjenjuje se da se pjesništvo Petra Gudelja odlikuje strasnom, klasičnom i modernom slikovnošću.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6657</ID>
+    <SENTENCE>Kapela se odlikuje svojom nenametljivošću i skromnošću.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6745</ID>
+    <SENTENCE>Najčešće se primjenjuje klasična glazba, a osobito djela Mozarta koja se odlikuju balansiranim ritmom, melodijom i frekvencijskim spektrom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10521</ID>
+    <SENTENCE>Naš web shop se odlikuje bogatom i preglednom ponudom, jednostavnim načinom naručivanja i vrlo brzom dostavom u roku 24-48 sati u gotovo sve dijelove Hrvatske.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6728</ID>
+    <SENTENCE>Vođenje Registra u elektronskom obliku odlikuje se jednostavnošću, posjednici goveda mogu ga lako savladati, u čemu će im pomoći i detaljne upute za korištenje programa, koje se dobiju prilikom instalacije.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6653</ID>
+    <SENTENCE>Obje predstave odlikuju snažne glumice i slabašni tekstovi.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6780</ID>
+    <SENTENCE>Osim virtuoznih, eksplozivnih gitarističkih pasaža ove se izvedbe odlikuju posebnom vedrinom i duhom, te ponekad duhovitošću, kao primjerice u "Singin 'In The Rain" u kojoj zviždi, a na kraju i pjeva temu, tek toliko da se poigra njome i zabavi slušatelja.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6646</ID>
+    <SENTENCE>No, kad malo zagrebemo pod površinu 'Brazdi', vidimo da Vrdoljakov rad odlikuje kronološka istančanost i zavidna analitičnost, tj. vrednote koje malo pomalo isčezavaju.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6722</ID>
+    <SENTENCE>Termoelektrane su, s druge strane, izvori struje koje odlikuje stabilnost, ali i inertnost u špicama potrošnje.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6642</ID>
+    <SENTENCE>Nju krase jaka intuicija i imaginacija, a ova knjiga dokazuje da je odlikuje i iznimni spisateljski dar.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10522</ID>
+    <SENTENCE>Gerila marketing odlikuje originalnost i iznenađenje, a cilj oglašivaća je da potaknu pažnju potrošaća koji zatim sami prenose informacije o brandu.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6662</ID>
+    <SENTENCE>Opis: Poučna staza vodi kroz kanjon Vele (Vranjske) drage koji se odlikuje slikovitim vapnenačkim stupovima i stijenama izuzetne geomorfološke vrijednosti.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6795</ID>
+    <SENTENCE>Model SX800 odlikuje se Canonovim projektorskim objektivom sa zumom od 1,5x, u koji su ugrađeni novi 0,55-inčni reflektivni LCD (LCOS) plošni zasloni.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6698</ID>
+    <SENTENCE>DS3 odlikuju značajne karakteristike u pogledu kontrole težine vozila koje se temelje na novoj shemi razvoja, što je dokaz robusnosti vozila.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>4</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10547</ID>
+    <SENTENCE>Predsjednik Tuđman 1996. odlikovao je Valentića Redom hrvatskog pletera za osobit doprinos razvitku i ugledu Republike Hrvatske i ugledu njezinih građana.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6719</ID>
+    <SENTENCE>Članci od lijevanog željeza odlikuju se dobrom sposobnošću prijenosa topline te predstavljaju pouzdan temelj za sigurno i udobno grijanje.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6604</ID>
+    <SENTENCE>Svaka epoha, čitamo u članku Doba slike svijeta (Heidegger 1994, 75), ima svoj "metafizički temelj", a on vlada "svim pojavnostima kojima se to doba odlikuje.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>149</STARTINDEX>
+    <ENDINDEX>157</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6655</ID>
+    <SENTENCE>Naime, mjenjač s kojim smo se družili na testu nije se odlikovao krajnjom preciznošću pri bržim izmjenama stupnjeva prijenosa, no takvo što se od njega zapravo niti ne očekuje.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6607</ID>
+    <SENTENCE>Za razliku od sličnih proizvoda koji se odlikuju monolitnom strukturom, troslojne rigidur - ploče nude potpuno nov način obrade i ugradnje, a odlikuje se i vrhunskim tehničkim osobinama.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>142</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6760</ID>
+    <SENTENCE>Danas Krist od vas izričito traži da uzmete Mariju "k sebi", da je primite "među svoja dobra" kako bi naučili od nje, koja "u sebi pohranjivaše sve te događaje i prebiraše ih u svome srcu" (Lk 2,19), nutarnju raspoloživost za slušanje i stav poniznosti i velikodušnosti kojom se odlikovala kao prva Božja suradnica u djelu spasenja.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>279</STARTINDEX>
+    <ENDINDEX>289</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6624</ID>
+    <SENTENCE>Konstruiran s Citizen kvalitetom uz povoljnu cijenu, dinamičan i robustan CLP-8301 termo - transfer printer odlikuje se visokom 300 dpi rezolucijom pri brzini tiska od 102 milimetra u sekundi.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10558</ID>
+    <SENTENCE>Varpor EPS ima zatvorenu ćelijastu strukturu (u 1 m3 ima 98 % zraka i 3-6 milijuna zatvorenih ćelija) što ga odlikuje vrlo malom vodoupojnošću, relativno velikim otporom difuziji vodene pare i malom toplinskom vodljivošću.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6800</ID>
+    <SENTENCE>Odlikuje se Qualcommovim procesorom starije generacije kojemu je radni takt 600MHz, ekranom od 3.2 inča standardne HVGA rezolucije (32 x 480), te Androidom 2.2 i naravno HTC-ovim Sense sučeljem.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6621</ID>
+    <SENTENCE>Konkretno, kad je riječ o junaštvima, premda ga nitko nikad nije vidio s puškom na bojištu, Vladimir Zagorec je odlukom predsjednika Tuđmana 26. svibnja 1995. prvo odlikovan Redom kneza Domagoja s ogrlicom za pokazanu osvjedočenu hrabrost i junaštvo u ratu, a samo nekoliko mjeseci poslije 20. rujna 1996. odlikovan je Redom Nikole Šubića Zrinskog za junački čin u ratu.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>306</STARTINDEX>
+    <ENDINDEX>315</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10572</ID>
+    <SENTENCE>Ova samonikla biljka naših krajeva odlikuje se uskim gotovo trnastim listovima koji su skupljeni u rozete i tvore zaobljene jastučaste forme koje narastu do 30 cm u širinu i iz kojih izviruju po 20 cm visoke cvjetne stapke na kojima se nalaze cvjetovi skupljeni u kuglaste cvasti bijelo - ružičaste ili crveno - purpurne boje, promjera do 2 cm.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10526</ID>
+    <SENTENCE>Canon EOS 1D Mark IV je razvijen uz pomoć povratnih informacija dobivenih od profesionalnih fotografa, a odlikuje se novim Canonovim APS-H CMOS senzorom od 16,1 MP te potpuno novim sustavom automatskog fokusiranja (AF) s izoštravanjem u 45 točaka i 39 križnih točaka osjetljivosti f / 2,8, zahvaljujući čemu nudi mnoštvo preciznih područja fokusiranja u čitavom kadru.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6631</ID>
+    <SENTENCE>Odlikuje se velikom tvrdoćom, ali je prilično krt, pa se relativno lako drobi.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6776</ID>
+    <SENTENCE>Statusom Superbrand statusom odlikovani su i glazbenici Josipa Lisac i Zlatan Stipišić Gibonni.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovani</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10528</ID>
+    <SENTENCE>Taj gradić primjer je venecijanskog stila arhitekture, a odlikuje se renesansnom tvrđavom i kućama koje podsjećaju na palače.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6752</ID>
+    <SENTENCE>Upravo izvedba koju odlikuje vrsna uravnoteženost i odmjerene (premda entuzijastične) četvrtinke razlog su da se ubrzana izmjena registara doima zaigrano, pa ni u kojem trenutku ne pomišljamo na tehničku zahtjevnost ovakvih ritmičkih bravura i prezentirane tankoćutnosti.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6645</ID>
+    <SENTENCE>Moderni interijer odlikuje se ergonomskim konceptom s vrlo kvalitetnim materijalima.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10599</ID>
+    <SENTENCE>Prije svega, na njemu se našla dybe: bolic feat. egoboo. bits Linux distribucija, koja je u svojoj biti multimedijalna jer se odlikuje nizom istih takvih aplikacija.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>126</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10534</ID>
+    <SENTENCE>Hrvatski nogometni reprezentativac odlikovan je zajedno sa svojim trenerom Mirceom Lucescuom, kome je pripala nagrada u konkurenciji struke.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10535</ID>
+    <SENTENCE>Hrvatski veleposlanik u Austriji Zoran Jašić uručio je u srijedu, na prigodnoj svečanosti u veleposlanstvu RH u Beču, austrijskom sakupljaču umjetnina Alfredu Brogyanyiju odličje Red Danice Hrvatske s likom Marka Marulića, kojim ga je za njegove zasluge u promicanju hrvatske likovne umjetnosti u Austriji te jačanje kulturnih veza između Austrije i Hrvatske odlikovao hrvatski predsjednik Ivo Josipović.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>359</STARTINDEX>
+    <ENDINDEX>368</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6789</ID>
+    <SENTENCE>Tada još nije bila ovladala tečnošću književnog izričaja kojim se odlikuje djelo Tajni nauk.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10563</ID>
+    <SENTENCE>Sad ga je nedavno i Mesić odlikovao jer ga je Đikić uvjerio da je postao iscjelitelj (poput onoga Marokanca).</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6640</ID>
+    <SENTENCE>Digital IXUS 90 IS odlikuje se 3-inčnim zaslonom, dok Digital IXUS 85 IS ima zaslon dijagonale 2 inča.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6727</ID>
+    <SENTENCE>Lokacija se odlikuje odličnom prometnom povezanošću i osiguranim parkirnim mjestima.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10583</ID>
+    <SENTENCE>Za rad na čelu ECOSOC-a, jednog od najvažnijih operativnih tijela UN-a, odlikovan je francuskom Legijom časti.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6770</ID>
+    <SENTENCE>Ovakvu kuhinju ne odlikuje samo moderan izgled već i maksimalna učinkovitost.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6723</ID>
+    <SENTENCE>Kod odluke za ugradnju prirodnog kamena često pomaže činjenica da je kamen prirodni materijal, koji se ne odlikuje samo svojom trajnošću, već i lijepim izgledom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10592</ID>
+    <SENTENCE>S najnovijom predstavom, Baltazar ili potraga za čudesnom kapljicom, redatelj Dolenčić vraća se bajci, oslanjajući se ovaj put na pisani tekst u stihu i prozi Ane Tonković Dolenčić, koji pak slijedi i nadahnjuje se motivima i likovima popularnoga crtanog serijala Profesor Baltazar Ante Zaninovića, Borisa Kolara i Zlatka Grgića, a uz vrlo uspješnu suradnju sa scenografkinjom Dinkom Jeričević i kostimografom Goranom Lelasom te skladateljem Davorom Roccom tu predstavu odlikuje nadasve studiozan nastup glumaca.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>470</STARTINDEX>
+    <ENDINDEX>478</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6765</ID>
+    <SENTENCE>Uz plan zadržavanja zaposlenih unatoč recesiji, ove kompanije odlikuje pozitivan odnos prema zaposlenicima i u drugim segmentima pa su njihovi zaposlenici primjerice među najbolje plaćenima u svojoj branši.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10518</ID>
+    <SENTENCE>Riječ je o filmu, koji se odlikuje krajnje originalnim vizualnim i narativnim izrazom ; o jednom poetskom, potresnom ostvarenju koje, baveći se pitanjem ljubavi, govori o duhovnom aspektu nasih života.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6729</ID>
+    <SENTENCE>Sustavi koji su po vrlo povoljnim cijenama već sada dostupni u Hrvatskoj, odlikuju se svojom kompatibilnošću integracije s postojećom infrastrukturom instalacija u objektu.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6685</ID>
+    <SENTENCE>PREDSJEDNIK Stjepan Mesić odlikovao je devetoricu vijećnika Prvog zasjednja ZAVNOH-a Redom hrvatskog pletera u povodu 60. obljetnice zasjednja, od kojih troje nisu bili nazočni današnjoj svečanosti uručenja odlikovanja u Uredu Predsjednika.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10511</ID>
+    <SENTENCE>Za oblaganja okućnica ne koriste se visoko kvalitetni obojeni mramori koji se odlikuju visokom estetskom vrijednošću.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6721</ID>
+    <SENTENCE>Iako se odlikuje naprednim rješenjima, poput širokokutnog objektiva i 4 x optičkog zuma, te vrlo velikim LCD monitorom od 2.7 ", zahvaljujući naprednim tehnologijama iz Pentaxa, poput one" Sliding Lens System ", kućište je mjestimice tanko i do 16 mm, a aparat teži svega 110g. Uz ostale dimenzije, 97 x 54 x 21.5 mm, čini ga idealnim fotoaparatom za korisnike koji traže onakav" koji stane u džep ".</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6691</ID>
+    <SENTENCE>Riječ je o najsuvremenijem sustavu sportske rasvjete vodećeg svjetskog proizvođača Philipsa koji oprema i osam od ukupno dvanaest novih stadiona za Svjetsko prvenstvo u Njemačkoj 2006. Sustav se odlikuje izuzetnom energetskom štedljivošću i umjesto uobičajenih 200 reflektora, stadion se osvjetljuje sa svega 122 visoko precizna reflektora osiguravajući tako mogućnost igranja utakmica i u UEFA klupskim natjecanjima.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>195</STARTINDEX>
+    <ENDINDEX>203</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10564</ID>
+    <SENTENCE>Njihov dvadesetominutni nastup, odsviran još za vrijeme danjeg svijetla i pred malobrojnom pristiglom publikom, nije se odlikovao samo svojom kratkoćom, već i bitnom kvalitativnom inferiornošću ispred nadolazećih izvođača.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>129</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10588</ID>
+    <SENTENCE>Đikić, koji je odlikovan Redom kneza Branimira s ogrlicom za osobite zasluge stečene promicanjem međunarodnog položaja i ugleda RH na području znanosti, rekao je novinarima kako je ponosan na dobiveno odlikovanje te što se znanost prepoznaje kao tako vrijedna disciplina.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10530</ID>
+    <SENTENCE>I onda bu Rončević trebalo odlikovati za "dobro obavljen posao" s kamionima kak je to predložil uvaženi Andrija II. Hebrang, Beograđanin sa srpsko - hrvatskim državljanstvom i kandidat za hrvatskog predsjednika.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6731</ID>
+    <SENTENCE>Predsjednik Mesić odlikovao ih je Redom bana Josipa Jelačića, najvišim priznanjem koje jedna postrojba može dobiti.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10514</ID>
+    <SENTENCE>Novi Citroenov dragulj odlikuje se velikim međuosovinskim razmakom, što je već postala tradicija kod francuskih proizvođača automobila, ali i izrazito niskim profilom tako da mu je koeficijent otpora zraka 0.29 Cd.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10517</ID>
+    <SENTENCE>Crtić je relativno oskudno animiran ali se odlikuje interaktivnošću i pruža mogućnost da ga odgledate poput igre.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10582</ID>
+    <SENTENCE>Odlikuje se hot swap zamjenom MMC kartica, ima poboljšan vijek trajanja baterije, bolje kontrole upravljanja, te integriran Bluetooth.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10598</ID>
+    <SENTENCE>Umjesto performansi važnije je reći kako se sve izvedbe odlikuju niskim troškovima vlasništva, koji uključuju servisne intervale od 30.000 km.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6716</ID>
+    <SENTENCE>Ovih je dana izdan novi katalog koji se odlikuje svojom originalnošću i predivnom izgledu, ali i funkcionalnošću.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10505</ID>
+    <SENTENCE>Treba znati da se Državna opera u Beču odlikuje nizom osobitosti kao što su vrlo naglašena odanost tradiciji i svim tipičnostima, ukopanima još u samim fundamentima.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6714</ID>
+    <SENTENCE>Za osobite zasluge u kulturi 1997. godine odlikovan je Redom Danice hrvatske s likom Marka Marulića, a za knjigu Hrvati i Karolinzi 2001. godine dijeli kolektivnu nagradu Josip Juraj Strossmayer.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6732</ID>
+    <SENTENCE>Odlikuje je jednostavno rukovanje te diskretan smještaj.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6798</ID>
+    <SENTENCE>No, osim poslovnog uspjeha, ovu jedinstvenu tvornicu u Tangeru odlikuje i posebna humana dimenzija, kakvu je inače teško naći u pogonima ove sjevernoafričke zemlje: Ferid i Gordana svojim su radnicima osigurali kantinu, ambulantu, košarkaško i malonogometno igralište, predivan park u dvorištu tvornice i, ono najvažnije, uredno plaćanje regularnog i prekovremenog rada.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6730</ID>
+    <SENTENCE>Nagrađen je za animaciju u obje predstave koje, doduše, odlikuje različitost u vrsti lutaka, ali istovjetnost u njegovanju tradicionalnih vrijednosti.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6786</ID>
+    <SENTENCE>Predstavu odlikuje živi i aktualni govor današnjih mladih čefurja, tzv. čefurština, koja je mješavina slovenskog, zatim srpsko - hrvatskog i uličnog slenga, prepunog sočnih psovki.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6711</ID>
+    <SENTENCE>Ovog vrijednog, ali prilično samozatajnog zaljubljenika u Split i kulturne vrijednosti, nedavno je predsjednik Stjepan Mesić odlikovao poveljom Republike Hrvatske.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10591</ID>
+    <SENTENCE>Šetnja uključuje razgled sljedećih mjesta: gradića Moste s najvećom crkvom na Malti, Mdine - "Tihi grad" nekadašnjeg glavnog grada Malte koji se odlikuje iznimnim mirom, razgled katedrale i multimedijalnog showa Mdina Experince, Rabata i špilje Sv. Pavla, te botaničkog vrta Sv. Antuna.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>153</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6757</ID>
+    <SENTENCE>Novi se zaslon odlikuje kutom gledanja od 160 stupnjeva te je učinkovit čak i na jakom svjetlu.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6785</ID>
+    <SENTENCE>Modnu karijeru prekinuo je 2002., a za svoj rad je odlikovan i ordenom Legije časti.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovan</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6647</ID>
+    <SENTENCE>Vladimir Šeks, potpredsjednik HDZ-a i Sabora te predsjednik Odbora za Ustav, poslovnik i politički sustav, predložio je predsjedniku Stjepanu Mesiću da odlikuje premijerku Jadranku Kosor visokim odličjem Velereda kralja Petra Krešimira IV. s lentom i Danicom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>152</STARTINDEX>
+    <ENDINDEX>160</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6626</ID>
+    <SENTENCE>Ovo vino svijetlo zelenkasto - žute boje odlikuje se izvanredno bogatom aromom koja podsjeća i na bazgu.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10593</ID>
+    <SENTENCE>U ovoj studiji primijenjena je vrlo suvremena Common-Rail - turbodizelska tehnologija najnovije generacije, koju odlikuje snažna vuča i niska potrošnja.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>113</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6620</ID>
+    <SENTENCE>Snimljena u jednom kadru, iz 50-i-nekog pokušaja i nakon tri dana proba, reklama se odlikuje zapanjujućom produkcijom kojom bi čak mogla konkurirati kultnim Chanelovim - gledamo nevjerojatno koncentriranog Mustafu bez majice, ali s dobro nabildanim egom kako prelazi iz kupaonice na brod, pa na konja, pa na plažu.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6654</ID>
+    <SENTENCE>Tivat je mali prijatni grad čija rivijera se odlikuje razuđenom obalom i mnogobrojnim plažama od kojih je najpoznatija Plavi Horizonti.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10578</ID>
+    <SENTENCE>HPS ga je 1995. odlikovao plaketom, a u 2000. g. proglasio najboljim plan. dužnosnikom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6733</ID>
+    <SENTENCE>Naši zaposlenici su odlučni i kreativni, s jakom radnom etikom, odlikuju se pozitivnim stavom i željom za dobro obavljenim poslom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6661</ID>
+    <SENTENCE>Da je npr. predsjednik Srbije Vojislav Koštunica odlikovao tzv.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10553</ID>
+    <SENTENCE>Interijer odlikuje prostranost, praktičnost i materijali koji nadmašuju standarde segmenta.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10566</ID>
+    <SENTENCE>Ovi se telefoni odlikuju jednostavnom upotrebom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6667</ID>
+    <SENTENCE>Nova studija pokazala je da genetski čimbenici čine 56 posto rizika za razvoj anoreksije nervoze, poremećaja koji se odlikuje nezadovoljstvom zbog tjelesnog izgleda, bolesnim strahom od pretilosti i odbijanjem da se održi najmanja normalna tjelesna težina.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10546</ID>
+    <SENTENCE>Zajedno s Merkurom, Venerom i Marsom, tvori skupinu stjenovitih planeta (terestrički planeti), koji se odlikuju relativno velikom prosječnom gustoćom i malom veličinom.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6791</ID>
+    <SENTENCE>Ovaj Talijan rođen u Modeni 12. listopada 1935. odlikovao se iznimnim glasom, a nastupao je na najvećim svjetskim pozornicama, od milanske Scale do newyorške Metropolitan Opere.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikovao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6650</ID>
+    <SENTENCE>Najmodernije klima uređaje odlikuju sljedeće kvalitete: vrlo su tihi, imaju malu potrošnju električne energije i ekološki prihvatljiv freon, filtriraju zrak te griju, hlade, vlaže i odvlažuju.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6615</ID>
+    <SENTENCE>Proizveden s ciljem da ekološki napredni automobili postanu dostupni svima, Honda Insight s IMA hibridnim sustavom odlikuje se malom emisijom C02, niskom potrošnjom goriva te nudi udobnost i praktičnost obiteljskog automobila.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10519</ID>
+    <SENTENCE>I vizualni rezultati ovih likovnih istraživanja odlikuju se uspostavljanjem korelacije između mikro i makrokozmosa.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10590</ID>
+    <SENTENCE>Mediji ih često uspoređuju ne samo zbog egzotične jedinstvene ljepote koja ih odlikuje, već i zbog sličnih uloga koje su ih proslavile.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10561</ID>
+    <SENTENCE>Odlikuje se većom preciznošću od standardnog mjerenja svjetla centralne točke kadra.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>Odlikuje</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6747</ID>
+    <SENTENCE>Kyocerini pisači ECOSYS odlikuju se dugovječnim komponentama, a jedini su potrošni materijal toneri.</SENTENCE>
+    <TARGETLEMMA>odlikovati</TARGETLEMMA>
+    <TARGETWORD>odlikuju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+</SET>

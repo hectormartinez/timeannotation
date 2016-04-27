@@ -1,0 +1,2856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>6565</ID>
+    <SENTENCE>Možete ih se, a i ne morate striktno pridržavati ili, poput mene, ako dozvoljavate digresiju, uzimati ih s debelom rezervom, jer u najmanju ruku znaju biti površne, a često i prepovršne.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6401</ID>
+    <SENTENCE>Hormon rezerve jajnika, FSH, tijekom tog vremena u obje je grupe jednako rastao (5.1-7.2 IU / L u pacijentica i 5.2-7.9 IU / L u kontrola), a i vrijednosti estradiola, broja antralnih folikula i volumena jajnika ostale su usporedive među grupama.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6493</ID>
+    <SENTENCE>Tim bi potezom bila povučena 2,1 milijarda kuna kunske likvidnosti, a mjera se počinje primjenjivati od 8. rujna, Ne bude li to dovoljno, guverner je jučer najavio da će povećati i opću stopu devizne rezerve sa 19 na 22 posto, čime bi imobilizirao još oko dvije milijarde kuna.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>200</STARTINDEX>
+    <ENDINDEX>207</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6411</ID>
+    <SENTENCE>Moglo bi biti izuzetno burno, jer su rezerve prema ovom konzervativnom Zakonu izrazili i vladini koalicijski partneri.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6530</ID>
+    <SENTENCE>Fernandes je odbacio tvrdnje da će mjesto dati vodećem malezijskom vozaču Fairuzu Fauzyju, ali bi viceprvak Formule Renault 3.5 mogao prisustvovati testiranjima i biti u rezervi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>170</STARTINDEX>
+    <ENDINDEX>177</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10420</ID>
+    <SENTENCE>Zato bi Slovenija - umjesto da ističe političke razloge u svojim rezervama – ubuduće trebala više upozoravati na propuste koje Hrvatska ima u primjeni reformi, navodi analitičarka Kocbek.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6435</ID>
+    <SENTENCE>Smatram da će iduća godina biti osjetno teža od 2008. g., no kad se sjetimo što je sve hrvatsko stanovništvo uspjelo prebroditi (od stečaja i loše privatizacije u devedesetima, propasti banaka i štedionica, razne novčarske piramide itd.) mislim da smo još uvijek stabilno gospodarstvo s određenim rezervama.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>297</STARTINDEX>
+    <ENDINDEX>306</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10437</ID>
+    <SENTENCE>U odnosu na momčadskog kolegu Danija Sorda Raikkonen je bio osjetno sporiji, ali njegove rezultate treba uzeti s debelom dozom rezerve obzirom da je bivšem Ferrarijevom F1 pilotu ovo bio prvi nastup za upravljačem WRC automobila.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6560</ID>
+    <SENTENCE>Ističe se mogućnosteksploatacije i ovih rezervi, čime bi se vijek rudnika produžiodo 2007. godine.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6557</ID>
+    <SENTENCE>No Igor Dekanić, profesor na zagrebačkom Rudarsko - geološko - naftnom fakultetu, smatra da Surgutove demantije treba uzeti s određenom rezervom.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>136</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10436</ID>
+    <SENTENCE>Guverner Hrvatske središnje banke Željko Rohatinski obećao je održati stabilnost tečaja kune te koristiti obilne valutne rezerve za suočavanje s deflacijskim pritiscima.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>128</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6495</ID>
+    <SENTENCE>Mnogi među socijalistima još uvijek imaju rezerve prema Hrvatskoj, a to se može neutralizirati samo većim prisustvom i jasnijim, kvalitetnijim predstavljanjem.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6600</ID>
+    <SENTENCE>Isto tako su, dodatno, sve marke od Livna, Busovače, Kreševa do Mostara i Ravnog, otišle za pokriće hrvatskih deviznih rezervi i vjerojatno nikamo drugdje.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10466</ID>
+    <SENTENCE>Saudijska Arabija najbogatija je zemlja u svijetu po rezervama sirove nafte, potvrdilo je najnovije statističko izvješće kompanije British Petroleum o rezervama svjetske energije, objavljeno u ponedjeljak.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6481</ID>
+    <SENTENCE>U dopisu temeljenom na napisu Jutarnjeg lista, koji potpisuje predsjednik ove nevladine udruge Zlatko Zeljko, iskazuje se velika rezerva prema vijesti da je sudac Radman donio osuđujuću presudu u rekordnom roku, znajući da sporovi u Hrvatskoj u prosjeku traju nekoliko tisuća puta duže.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6509</ID>
+    <SENTENCE>Upravo je ta tvrtka zatražila izmjene na osnovu županijskog Prostornog plana, kako bi joj bila omogućena eksploatacija do iscrpljivanja postojećih rezervi i postavljanje postrojenja za razvoj novih proizvoda.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6563</ID>
+    <SENTENCE>U vezi utvrđivanja cijene plina za kućanstva, Popijač je kazao kako će Ministarstvo gospodarstva danas razgovarati s predstavnicima distributera te u sklopu toga "mogućnostima posizanja za određenim rezervama u okviru njihovih raspoloživih potencijala".</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>199</STARTINDEX>
+    <ENDINDEX>208</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6572</ID>
+    <SENTENCE>Uzmite to s rezervom, ali govori se o grubo zaokruženom broju dana njene borbe za život nakon što je ostala paralizirana.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6586</ID>
+    <SENTENCE>Ruske vlasti ranije su obećale ubrizgati 44 milijardi dolara na tržišta kako bi vratile poljuljano povjerenje ulagača, a središnja banka je objavila da je smanjila obveznu rezervu za banke za četiri posto.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>172</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6562</ID>
+    <SENTENCE>Električna grijuća patrona uključivala se naknadno, samo kao rezerva.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6523</ID>
+    <SENTENCE>Sudan, zemlja s ogromnim naftnim rezervama oko dvije trećine nafte prodaje Pekingu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10404</ID>
+    <SENTENCE>Razlog - velike naftne rezerve i naftnog koridora.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6537</ID>
+    <SENTENCE>Ruske rezerve pale su za 171,6 na 426 milijardi dolara od kolovoza 2008. Ruska MosPrime stopa, prosječna kamata koju banke naplaćuju za međusobne zajmove, porasla na 12 posto, najvišu dvomjesečnu razinu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6466</ID>
+    <SENTENCE>S jedne strane ubacivanjem energetskih rezervi, a s druge strane dovoljno dobrim stanjem, kvalitetom i organizacijom europske elektroenergetske mreže koja je podnijela ulijevanje 600 MW struje u sustav.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6599</ID>
+    <SENTENCE>Zapravo se u prosječnoj međuljudskoj komunikaciji jako rijetko čuje nešto što možemo bez rezerve prihvatiti kao istinu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6430</ID>
+    <SENTENCE>Zato sve njegove analize treba uzeti s velikom rezervom.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6553</ID>
+    <SENTENCE>Međutim, zahvaljujući američkoj administraciji i dobrim pripremama naše vlade, novac se danas nalazi na računima NBS-a, tako da ta svota uvećava naše devizne rezerve na ukupno 2,4 milijarde dolara ", rekao je guverner NBS-a.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>158</STARTINDEX>
+    <ENDINDEX>165</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6594</ID>
+    <SENTENCE>Za kupnju zlata u visini jednogodišnje proizvodnje Kina bi potrošila "malih" 5 posto svojih deviznih rezervi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6450</ID>
+    <SENTENCE>Ruskom Lukoilu je, prema prije potpisanom ugovoru sa Saddamovom vladom, trebalo pripasti 68 posto konzorcija zapadna Kurna-2, koji bi eksploatirao istoimeno nalazište s procijenjenim rezervama od osam do deset milijardi barela nafte.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>183</STARTINDEX>
+    <ENDINDEX>192</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6449</ID>
+    <SENTENCE>Rezerve mineralnih sirovina razvstavaju se u klase i kategorije prema propisima o jedinstvenom načinu utvrđivanja, evidentiranja i prikupljanja podataka o rezervama mineralnih sirovina i o bilanci tih rezervi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>155</STARTINDEX>
+    <ENDINDEX>164</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10407</ID>
+    <SENTENCE>Na prvom od dva slobodna treninga Čolak je zauzeo tek 20. mjesto, ali je već na drugom treningu krenuo znatno bolje i na koncu odvozio najbrži krug s vremenom 1: 36.573. Najbrži na drugom treningu bio je Augusto Farfus u BMW-u s vremenom 1: 35.771. Naravno, slobodni trening vozači su mogli iskoristiti i za isprobavanje različitih strategija i postavki automobila, pa Čolakov plasman na peto mjesto ipak treba uzeti s dozom rezerve.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>425</STARTINDEX>
+    <ENDINDEX>432</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10445</ID>
+    <SENTENCE>Kako prenosi specijalizirana europska informativna agencija Agence Europe, Francuska je na nedavnom zasjedanju posebnog odbora za poljoprivredu, uz potporu nekolicine članica EU – među kojima su Poljska, Njemačka i Češka – izrazila rezervu prema hrvatskim zahtjevima u sektoru proizvodnje šećera, odnosno utvrđivanja proizvodne kvote koja će biti dodijeljena budućoj članici.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>232</STARTINDEX>
+    <ENDINDEX>239</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10440</ID>
+    <SENTENCE>Nakon prvog poluvremena Zenit je imao posjed lopte gotovo 80 posto i to je nešto čime se Rusi možda najviše ponose: "Pokazalo se da Spaletti zaista ima 24 kvalitetna igrača i da nominalne rezerve mogu dominirati i na gostujućim utakmicama", piše se.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>188</STARTINDEX>
+    <ENDINDEX>195</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10478</ID>
+    <SENTENCE>Nadalje, predlaže se da se ostatak dobiti u iznosu od 10.559.626,20 kuna, zajedno s revalorizacijskim rezervama iz prethodnih godina od 4.338.423 kuna, što ukupno iznosi 14.898.050,20 kuna, raspodijeli za isplatu dividende dioničarima od 5 kuna po dionici, a ostatak u zadržanu dobit.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6480</ID>
+    <SENTENCE>Slovenija po njegovim riječima već duže vremena prati situaciju u svijetu oko svinjske gripe, u kontaktu je sa odgovarajućim svjetskim i europskim ustanovama, a raspolaže i dovoljnim brojem doza tamiflua u državnim rezervama za slučaj pandemije.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>215</STARTINDEX>
+    <ENDINDEX>224</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6465</ID>
+    <SENTENCE>Jedan od razloga zbog kojih Rusija i Njemačka grade plinovod Sjeverni tok ispod Baltičkog mora jest crpljenje sibirskih plinskih polja, čije rezerve premašuju 600 milijardi prostornih metara plina.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>141</STARTINDEX>
+    <ENDINDEX>148</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6561</ID>
+    <SENTENCE>U usporedbi s krajem prošle godine ukupna je aktiva porasla s 1,66 na 1,77 milijardi kuna, a kapital i rezerve porasle su sa 181,18 na 190,33 milijuna kuna.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10475</ID>
+    <SENTENCE>Mislim da bi presudo o tome trebao donijeti nekakvi nepristrani sud, a novinska razglabanja i frustracije Hrvata - "drž 'te lopova", uzimam s rezervom.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>142</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6555</ID>
+    <SENTENCE>U današnje vrijeme pojačane proizvodnje i potrošnje nafte te bi njezine rezerve sada mogle pokriti tek 1 - 2 % svjetske proizvodnje pa su postale nedostatne za bitno utjecanje na odnose na tržištu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6559</ID>
+    <SENTENCE>Treća satnija u rezervi i djeluje po potrebi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10447</ID>
+    <SENTENCE>Uslijedila je kupnja nekoliko osiguravajućih kompanija a potom i pametne investicije njihovih novčanih rezervi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6549</ID>
+    <SENTENCE>"A ukoliko stvari budu takve morat će se razgovarati s MMF-om jer mi dugujemo više od 40 milijardi eura, a oko 11 milijardi dospijeva za otplatu glavnice i kamata. Ujedno, 9 milijardi eura imamo od kojih je 7 milijardi blokirano kao naša rezerva, imamo još nešto mobilnog novca, ali trebamo poći od toga da se još skupi ostatak do 11 milijardi skupi, što je oko 8 do 9 milijardi i to država mora da bi ostala solventna", dodao je.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>238</STARTINDEX>
+    <ENDINDEX>245</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10410</ID>
+    <SENTENCE>Uključile su se Hrvatska narodna banka smanjenjem stope obvezne rezerve banaka sa 14 na 11 posto, čime bi se trebalo osloboditi do 10 milijardi kuna, te Hrvatska banka za obnovu i razvitak s dodatnim sredstvima za sufinanciranje zajmova s poslovnim bankama, čime će se, kako se procjenjuje, osloboditi dodatne dvije milijarde kuna.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6500</ID>
+    <SENTENCE>Glazbeni barok u Zagrebu više definitivno nije akademsko, muzejsko razgledavanje fosilnih ostataka glazbene prošlosti, nego prava raskošna zabava vrlo živim, duhovitim i iznenađujućim glazbenim oblicima kakve su nam sinoć pokazali maestro Niquet i Hrvatski barokni ansambl, za koji nakon ovakvog otvaranja sezone možemo bez rezerve tvrditi da je jedan od najboljih zagrebačkih glazbenih sastava.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>324</STARTINDEX>
+    <ENDINDEX>331</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6506</ID>
+    <SENTENCE>U trećem nazvanim "Ne obraćajte pažnju na ljude iza kulise" objašnjava kako rade federalne rezerve, privatna ustanova koja štampa novac za SAD.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6478</ID>
+    <SENTENCE>Britanska bi vlada bi mogla umjesto toga odlučiti dozvoliti elektranama na ugljen koje ostanu otvorene u 2020. godine da rade jedan ograničeni period ili odlučiti da ih drži u rezervi kako ne bi došlo do nestanka električne energije.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>176</STARTINDEX>
+    <ENDINDEX>183</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6415</ID>
+    <SENTENCE>Guverner Hrvatske narodne banke Željko Rohatinski upozorava na odgovornost fiskalne i politike ukupne potrošnje javnog sektora u kriznim razdobljima, a ocjenjuje da traženje pomoći od MMF-a ne bi bilo dobro iz bar dva razloga - prethodno bi ostali bez značajnog dijela deviznih rezervi, a zahtjevi MMF-a u suštini ne bi bili različiti od onog što i sami znamo da treba poduzeti.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>278</STARTINDEX>
+    <ENDINDEX>285</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10481</ID>
+    <SENTENCE>Iako je središnja vlast bila planirala smanjenje stope obvezne rezerve, u ovoj godini u tom pogledu neće se ništa moći učiniti, kazao je Martić, dodajući da su u pripremi i druge nepopularne mjere ako to budu zahtijevali pritisci na tečaj.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6524</ID>
+    <SENTENCE>Izmjene je načelno podržao i potpredsjednik Vlade Slobodan Uzelac (SDSS) koji je, pak, rezerve izrazio jer bi se, kako je rekao, moglo dogoditi da zbog uvođenja retroaktivnosti u odredbe o nezastarjevanju kaznenih djela netko sutra zatraži retroaktivnost za djela u nekom drugom području.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6408</ID>
+    <SENTENCE>U bankarskom sektoru potrebno je pak stvarati rezerve kapitala u dobrim vremenima kako bi se lakše preživjelo u lošim.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6442</ID>
+    <SENTENCE>- Imam ugovor još ovu sezonu, iako mi je ponuđena još jedna godina ugovora, ali uzeo sam malo rezerve.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10479</ID>
+    <SENTENCE>Američke Savezne rezerve smanjile su svoju kamatnu stopu, ali taj potez ipak nije ojačao povjerenje potrošača, piše BBC.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6550</ID>
+    <SENTENCE>Međutim, usporavanje rasta BDP-a kao i nezvijesno kretanje u segmentu zapošljavanja odnosno nezaposlenost, mogli bi negativno utjecati i na poslovanje banaka i njihov kapital zbog potrebe za višim rezervama u slučaju gubitaka u gospodarstvu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>197</STARTINDEX>
+    <ENDINDEX>206</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6584</ID>
+    <SENTENCE>Tako je jutros u 7 sati sa švicarskog aerodroma Payerne ovaj golemi zrakoplov raspona krila preko 80 metara i građen u brodogradilištu (dobro ste pročitali) krenuo u zrak, a cilj mu je do večeri se popeti na nekih 8.500 metara i onda se tijekom noći s rezervama energije spremljenim u baterijama, polako spuštati natrag kako bi taman do 7 sati u četvrtak ujutro ponovo dodirnuo pistu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>252</STARTINDEX>
+    <ENDINDEX>261</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6598</ID>
+    <SENTENCE>Kontinuirano crpljenje ovih rezervi je ono što bodybuilderima daje onako zavidan "izrezan" izgled.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10438</ID>
+    <SENTENCE>Podsjećamo, Sharbini je tijekom priprema U-21 reprezentacije u Umagu otišao razočaran time što je bio jedina rezerva na treningu uoči utakmice s BiH.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10463</ID>
+    <SENTENCE>Rohatinski će možda tražiti mekaniju varijantu (za koju je i ekonomski savjetnik predsjednika Republike, Dubravko Radošević), kako bi spasio stabilnost kune i visinu deviznih rezervi HNB-a, uz održivu socijalnu (ne) ravnotežu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>175</STARTINDEX>
+    <ENDINDEX>182</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10488</ID>
+    <SENTENCE>Panika nije zahvatila ni MMF, jer je hrvatski dug pod kontrolom, a pokriven je deviznim rezervama Hrvatske narodne banke u visini od 80 posto.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6532</ID>
+    <SENTENCE>O ovim temama, ali i o tome zašto raste cijena benzina, kolike su rezerve nafte, koje su prednosti i nedostaci iskorištavanja biogoriva možete pročitati u temi Promet i energetika.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10422</ID>
+    <SENTENCE>Cijepljen od bilo kakvih političkih poentiranja, osobito zamagljivanjem željezne ekonomske logike, Rohatinski je svoj stav obrazložio znanstvenički hladno: "U 2004. i 2005. godini dospijeva na naplatu glavnica inoduga na razini od oko 8 posto BDP-a, što će zajedno s obvezama financiranja tekućeg deficita platne bilance zemlje iznositi barem 10 posto BDP-a. Do tih deviznih sredstava država može doći na četiri načina: prihodima od privatizacije, izravnim stranim ulaganjima, novim zaduživanjem ili smanjenjem deviznih rezervi."</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>520</STARTINDEX>
+    <ENDINDEX>527</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6460</ID>
+    <SENTENCE>Ipak, iz Ine su nam to demantirali i usput napomenuli da su ovaj tjedan Handi platili naknadu za obvezne rezerve u iznosu 10 milijuna kuna.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6427</ID>
+    <SENTENCE>NBS je povećao obvezne rezerve poslovnim bankama na 50 posto, a građanima kod zaduživanja uveo obvezu polaganja depozita od 20 posto.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6414</ID>
+    <SENTENCE>Što se tiče stanja kapitala, krajem rujna hrvatske su banke imale ukupno 49,4 milijarde kuna kapitala, od čega se 28,3 milijarde kuna odnosi na dionički kapital, dok se na statutarne i ostale kapitalne rezerve odnosi 10,3 milijarde kuna, stoji u izvješću.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>202</STARTINDEX>
+    <ENDINDEX>209</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10494</ID>
+    <SENTENCE>Neke članice imaju određene rezerve prema otvaranju pregovora s Hrvatskom u poglavlju Pravosuđe i temeljna prava zbog određene dokumentacije iz Oluje koje tužiteljstvo traži od Zagreba, a vezani su uz suđenje Gotovini, Čermaku i Markaču.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10401</ID>
+    <SENTENCE>S obzirom na rastuću svjetsku potražnju za plinom i goleme prirodne rezerve tog energenta koje Rusija posjeduje, nije teško predvidjeti kako će Gazpromov utjecaj jačati.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6575</ID>
+    <SENTENCE>Dolar je pomalo gubi ulogu sigurne investicije nakon što je ruski predsjednik Medvedev izrazio potrebu za kreiranjem nove svjetske rezervne valute, što su analitičari protumačili kao signal da bi Rusija mogla smanjiti udio dolara u svojim deviznim rezervama.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>248</STARTINDEX>
+    <ENDINDEX>257</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6433</ID>
+    <SENTENCE>Slovenski ustavni suci o arbitražnom su sporazumu krajem siječnja već održali preliminarnu raspravu, a sudac - izvjestitelj Ernest Petrič pribavio je radi izricanja konačne ocjene ustavnosti sporazum i različita pravna mišljenja istaknutih slovenskih pravnih stručnjaka, pa i onih koji su i javno o njemu izricali velike rezerve.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>321</STARTINDEX>
+    <ENDINDEX>328</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6463</ID>
+    <SENTENCE>Javlja se i kritičarska tendencija da se, slijedom provokativnog "engleskog rječnika o kultnoj književnosti", Topola prepozna kao autora "kultnih romana", koji sukladno tome, priznatu, visoku književnost uzima s rezervom, prema njoj izražava stanoviti revolt, koji se svjesno odlučuje za književnu periferiju u nakani da ne dijeli općepriznati građanski ukus.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>212</STARTINDEX>
+    <ENDINDEX>220</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6581</ID>
+    <SENTENCE>Takav potez u dobrom je dijelu javnosti ipak protumačen kao rezultat pritiska od Vlade jer je iz Banskih dvora nedvosmisleno poručeno kako se od Ine očekuje da eventualna nova poskupljenja izbjegne koristeći se unutarnjim rezervama.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>222</STARTINDEX>
+    <ENDINDEX>231</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6419</ID>
+    <SENTENCE>Iako je bilo brojnih čestitki i ohrabrenja nakon neočekivane dodjele Nobelove nagrade za mir američkom predsjedniku, neki su iznijeli rezerve, a tri ranija dobitnika, među kojima Lech Walesa, otvoreno su iznijeli svoje neodobravanje ocjenjujući da mu je dodijeljena za "ništa ’.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6496</ID>
+    <SENTENCE>Prije ulaska na sastanak, koji je počeo nešto iza 16 sati, HSS-ovac Božidar Pankretić ustvrdio je da će rebalans proračuna koji je Vlada najavila zbog referenduma morati obuhvatiti i štetu od poplava, ali je dodao da ne zna kolika je, odnosno sigurno je veća od 30 milijuna kuna, koliko Ministarstvo poljoprivrede ima u rezervi za takve situacije.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>320</STARTINDEX>
+    <ENDINDEX>327</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6526</ID>
+    <SENTENCE>Iako su primjerice Mozambik i Madagaskar opustošeni poplavama, a u Etiopiji je glad sve veća, te države i zadnje devizne rezerve troše da bi kupile osnovno pješačko naoružanje i velike količine streljiva.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>128</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6588</ID>
+    <SENTENCE>Nakon što se dolar u petak ponešto oporavio od prethodnog snažnog pada, jutros je ponovno pod pritiskom nakon izvješća kineskih medija da će tamošnja središnja banka u svojim deviznim rezervama povećati zalihe eura i jena.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>184</STARTINDEX>
+    <ENDINDEX>193</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6404</ID>
+    <SENTENCE>Suglasnost na prošlogodišnje revidirane financijske izvještaje jučer je dao i Nadzorni odbor Petrokemije, a prema tim materijalima Uprava i Nadzorni odbor predložit će glavnoj skupštini da se gubitak iz prošlogodišnjeg poslovanja u iznosu 267,6 milijuna kuna, većim dijelom, oko 159 milijuna kuna, pokrije iz zadržane dobiti, ostalih i zakonskih rezervi, a nepokriveni gubitak od 108,7 milijuna kuna prenese u 2010. godinu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>346</STARTINDEX>
+    <ENDINDEX>353</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6425</ID>
+    <SENTENCE>Kina se, naime, žali da je dominacija dolara pogoršala globalnu krizu i zabrinuta je da bi račun za američki oporavak mogao predstavljati inflacijski rizik za kineska dolarska sredstva koja čine 70 posto službenih valutnih rezervi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>223</STARTINDEX>
+    <ENDINDEX>230</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6585</ID>
+    <SENTENCE>Nakon prvobitnog šoka, jer to je sada sasvim druga dijagnoza u 3 dana, odlučili smo ovu dijagnozu uzeti s rezervom jer je pas bio sasvim normalan još do prije par dana.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6511</ID>
+    <SENTENCE>Kupola rezerve, vrtjela se svugdje okolo, sa strane, srećom nikad ispod mene, češka rezerva, volim te, molim te, izdrži !</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10413</ID>
+    <SENTENCE>Pad je zabilježen u uvozu strojeva i transportnih uređaja iz sektora međunarodne trgovine, u ukupnim likvidnim sredstvima, u deviznim rezervama poslovnih banaka, u gotovom novcu te u štednim i oročenim depozitima poslovnih banaka iz monetarnog sektora, kao i u nekonsolidiranim prihodima državnih, županijskih i općinskih proračuna iz fiskalnog sektora.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6520</ID>
+    <SENTENCE>Također Vas molimo da sve informacije koje pronađete ovdje shvatite prvenstveno informativno i uzmete s rezervom te da se svakako konzultirate s Vašim liječnikom oko primjene bilo kakvih lijekova ili tretmana.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10471</ID>
+    <SENTENCE>Premda dužnosnici američke administracije naglašavaju da se još nisu počeli razmatrati pitanje iračke nafte, američke i strane naftne tvrtke već su počele s manevrima za zadobijanje dijela u ogromnim iračkim naftnim rezervama koje prelaze 112 milijardi barela sirove nafte, najviše iza Saudijske Arabije.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>216</STARTINDEX>
+    <ENDINDEX>225</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10461</ID>
+    <SENTENCE>"Ne bih se upuštala u to, jer samo istražni radovi mogu potvrditi nešto tako. Ali s obzirom da su istraživani radovi jako mali, teško je kalkulirati tolikom količinom nafte. Za takve su procjene potrebna seizmička snimanja i istražna bušenja, i dokle god se to ne potvrdi može se govoriti samo o potencijalnim, a ne potvrđenim rezervama", kaže Karasalihović, dodajući "ali, možda su se provodila nekakva istražna bušenja za koja ja nisam čula. Tko zna ?"</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>327</STARTINDEX>
+    <ENDINDEX>336</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6504</ID>
+    <SENTENCE>Uz sve poduzete organizacijske napore i aktivirane rezerve izvođača radova, ravnatelj Lučke uprave Zadar Ivica Burić procjenjuje da bi gat na zapadnom vrhu Poluotoka, vrijedan 32 milijuna kuna, prve brodove mogao prihvatiti najranije u drugoj polovici lipnja.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6548</ID>
+    <SENTENCE>Marčinković i Šarlija imaju prvo veliku rezervu da bolje i kvalitetnije rade, a onda će biti bliže igranju.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10490</ID>
+    <SENTENCE>Definitivno je vozila s velikom rezervom, što je i razumljivo, jer se nakon onako teške ozljede nije lako vratiti.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6492</ID>
+    <SENTENCE>U bilo koje vrijeme poslije obavještavanja o takvom spisku, svaka stranka može putem pisane obavijesti vladi depozitaru izraziti rezervu u odnosu na bilo koju vrstu ili dio ili derivat i sve dok se takva rezerva ne povuče ta država će se smatrati državom koja nije stranka ove Konvencije u odnosu na trgovinu predmetnom vrstom ili dijelom ili derivatom.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>204</STARTINDEX>
+    <ENDINDEX>211</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10459</ID>
+    <SENTENCE>Njemački su mediji takvu Soldinu najavu dočekali s rezervom budući da bivši vratar Hajduka 'Rambo Junior' u dvije godine koliko je u Kölnu nije odigrao nijednu jedinu službenu utakmicu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10452</ID>
+    <SENTENCE>Prema najnovijim prebrojavanjima kineske valutne, tj. devizne rezerve oborile su još jedan rekord po ukupnom iznosu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6516</ID>
+    <SENTENCE>Lošem raspoloženju pridonijela je stoga odluka kineske središnje banke o novom podizanju stope obvezne rezerve za pola postotna boda, počevši od 29. studenoga.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6405</ID>
+    <SENTENCE>Dobro poslovanje prati i Vladina odluka da podrži program financijskog restrukturiranja ACI-ja u kojem postoje unutrašnje rezerve, samo je potrebno u svakoj marini uspostaviti bolji nadzor.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>129</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10453</ID>
+    <SENTENCE>Cijenu diže i bojazan da će SAD objaviti pad zaliha nafte u svojim rezervama.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6424</ID>
+    <SENTENCE>MMF posjeduje treće po veličini zlatne rezerve na svijetu, nakon SAD i Njemačke.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10403</ID>
+    <SENTENCE>Grčić za smanjenje duga Ekonomski strateg SDP-a Branko Grčić veli da ovaj trend slabljenja kune nakon turističke sezone nije ništa neuobičajeno, a budući da su devizne rezerve HNB-a na značajnoj razini, u kratkom roku nema opasnosti za tečaj.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>168</STARTINDEX>
+    <ENDINDEX>175</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10419</ID>
+    <SENTENCE>Žbogar nije pojasnio sadržajne razloge za rezerve na poglavlja Vanjska, sigurnosna i obrambena politika, Okoliš i Ribarstvo, ali je dodao da Slovenija ima pravo izricati sadržajne rezerve na pojedina poglavlja kao i svaka ravnopravna članica EU-a budući da se potpisivanjem arbitražnog sporazuma nije odrekla tog prava.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>180</STARTINDEX>
+    <ENDINDEX>187</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10485</ID>
+    <SENTENCE>Dodik je podsjetio na istraživanja o mogućim rezervama nafte na teritoriju BiH provedena prije tridesetak godina koja potvrđuju opravdanost ulaganja ruskih naftnih tvrtki.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6418</ID>
+    <SENTENCE>Radi toga da bi hrvatska mirovinska reforma bila uspješna mora se definirati odgovor i postići nacionalni konsenzus o sljedećim pitanjima: financijskim rezervama, razini mirovina, dobi odlaska u mirovinu, atipičnim oblicima rada, odnosu između rada i kapitala, načinu obračunavanja i usklađivanju mirovina.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>152</STARTINDEX>
+    <ENDINDEX>161</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10423</ID>
+    <SENTENCE>Najvažniji razlog optimizma je u kineskom rastu u prvom tromjesečju koji je unatoč uvođenju restriktivnih mjera (povećanje obvezne stope rezerve) ostvario rast iznad očekivanja.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10457</ID>
+    <SENTENCE>'Ne bih imao rezerve prema bankama, no Rohatinski očito drukčije razmišlja i jasno je stao na stranu interesa stranih banaka u Hrvatskoj.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6470</ID>
+    <SENTENCE>Glavni savjetnik guvernera Hrvatske narodne banke Zdravko Rogić je na konferenciji za novinare podsjetio kako je hrvatska Vlada privremeno obustavila proceduru ratifikacije sporazuma zbog toga što je razlika sredstava deviznih rezervi koja su trebala biti raspodijeljena među državama sukcesorima prema potpisanom Ugovoru o suckesiji u Beču 2001. godine 58 milijuna dolara u odnosu na sredstva prezentirana u Ugovoru zbog čega Hrvatska inzistira da se dozna kako su ta sredstva nestala s računa Narodne banke Jugoslavije.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>227</STARTINDEX>
+    <ENDINDEX>234</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6437</ID>
+    <SENTENCE>Sam, izoliran nalaz u ejakulatu, bez kliničkih znakova bolesti, trebate uzeti s rezervom, jer postoji i mogućnost da se radi o '' kontaminaciji uzorka ''.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6556</ID>
+    <SENTENCE>Tako jedini čisti sukcesijski posao ostaje podjela zlatnih rezervi i dionica u Međunarodnoj banci za poravnanje u Baselu, što je uredno i uz suglasnost svih zemalja sljednica podijeljeno.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6490</ID>
+    <SENTENCE>Depoziti komitenata iznose 65,7 milijardi kuna i u odnosu na kraj prethodne godine veći su za 1,6 milijardi kuna, pri čemu su depoziti stanovništva povećani za 1 milijardu kuna, a depoziti pravnih osoba za 58 milijuna kuna. Kapital i rezerve Grupe iznose 16 milijardi kuna.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>234</STARTINDEX>
+    <ENDINDEX>241</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6473</ID>
+    <SENTENCE>Prema prijedlogu Uprave i Nadzornog odbora, prvo bi temeljni kapital Ingre na skupštini u drugoj polovici prosinca bio smanjen sa 300 milijuna kuna na 150 milijuna kuna pri čemu se temeljni kapital smanjuje prijenosom sredstava dobivenih smanjenjem u rezerve kapitala, bez isplate dioničarima.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>251</STARTINDEX>
+    <ENDINDEX>258</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6541</ID>
+    <SENTENCE>Čago, jeli više saniran ili će ostati vječna rezerva.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10496</ID>
+    <SENTENCE>Kako taj prirez može biti povećan na 15 posto, i on ostaje potencijalna rezerva za vraćanje tog novca za obveznice, premda sam uvjeren da to nećemo morati iskoristiti.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6505</ID>
+    <SENTENCE>Monopol na stvaranje primarnog novca centralnoj banci omogućava obavljanje ostalih funkcija koje se odnose na reguliranje novčanog sistema, kao što su kontrola ponude novca i kredita u bankarskom sustavu, održavanje stabilne vrijednosti novca, upravljanje tečajem domaće valute u odnosu na svjetske valute, upravljanje deviznim rezervama zemlje, održavanje stabilnosti domaćeg bankarskog sustava, obavljanje platnog prometa među bankama, držanje računa državnih organa te druge.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>328</STARTINDEX>
+    <ENDINDEX>337</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6429</ID>
+    <SENTENCE>Na sastanku je izražena spremnost da se izraze rezerve prema mogućem razvodnjavanju problematike koja je naciju podigla na noge.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6441</ID>
+    <SENTENCE>Na Arktiku bi se moglo "nalaziti gotovo 20 posto svjetskih rezervi plina i nafte koje tek treba otkriti", ističe EP, upozoravajući da ta regija još nije regulirana nikakvim normama ili multilateralnim ugovorom.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6582</ID>
+    <SENTENCE>Ministar financija izjavio je da je Hrvatska zainteresirana za dogovor s MMF-om, pri čemu je prostor razgovorima otvoren, jer Hrvatskoj nije nužan zajam zbog velikog iznosa deviznih rezervi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>182</STARTINDEX>
+    <ENDINDEX>189</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6423</ID>
+    <SENTENCE>Kako na prvi pogled u financijskim izvještajima uočiti lažiranja (računovodstvo "velikog čišćenja", rezerve u "kasici", izglađivanje dobiti, agresiju u računovodstvu) ?</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6451</ID>
+    <SENTENCE>Spasivši AIG koji je bankama diljem svijeta odobrio trilijune dolara za osiguranje kredita, Federalne rezerve tvrde da su spasile svijet od širenja financijske zaraze i negativnog utjecaja na širu ekonomiju te zaštitile interes američke države i poreznih obveznika.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10500</ID>
+    <SENTENCE>Zlatne i devizne rezerve Rusije su ove godine porasle za ogromnih 22 posto.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6569</ID>
+    <SENTENCE>Roubini smatra kako središnje banke danas nemaju neke veće količine zlata u svojim rezervama te da taj odnos 40 ili 50 prema jedan na štetu zlata.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6591</ID>
+    <SENTENCE>No, on je iznio jasne rezerve o suradnji s Haagom navodeći da samo treba biti "reaktivirano ono što je već postojalo - ured Haaškog suda".</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6542</ID>
+    <SENTENCE>Djetetove želje trebalo bi poštovati, no često i uzeti s rezervom jer riječ je o malim ljudima koji su još uvijek pod jakim utjecajem onih koji ih odgajaju.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6439</ID>
+    <SENTENCE>Dosadašnja proizvodnja plina iz podmorja sjevernog Jadrana pokazala se vrlo isplativom, a ispituju se i rezerve plina u sjevernom i u srednjem Jadranu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6554</ID>
+    <SENTENCE>Slovenija se Sporazumom obvezuje otkloniti svoje rezerve glede otvaranja i zatvaranja pregovaračkih poglavlja tamo gdje je prepreka povezana s ovim sporom.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6573</ID>
+    <SENTENCE>Međutim, Todorić je navodno žitarice izvezao, devize prodao Ini, a državne je rezerve naknadno djelomično napunio pšenicom kupljenom u Vojvodini.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6421</ID>
+    <SENTENCE>"Jučer sam rekao predsjedniku Hu Jintau da se naftne rezerve Venezuele neprestano povećavaju", rekao je Chavez na konferenciji za novinare posljednjeg dana posjeta Kini, obilježenog jačanjem bilateralne energetske suradnje.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6578</ID>
+    <SENTENCE>Zbog male potrošnje meda, te pojačanog uvoza jeftinog meda, stvorene su velike zalihe domaćeg kvalitetnog meda, te pčelari predlažu da med bude na popisu artikala državnih robnih rezervi i da Ministarstvo poljoprivrede, šumarstva i vodnog gospodarstva subvencionira izvoz tržnog viška meda i da proizvođači dobiju državnu subvenciju 3 – 4 kn / kg meda.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>186</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6428</ID>
+    <SENTENCE>Dow je rastao ukupno 4.7 posto u zadnja četiri dana trgovanja, nakon što je priopćenje Federalnih rezervi (FED) u srijedu otklonilo strahove da bi američka središnja banka uskoro mogla podići kamatne stope.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10430</ID>
+    <SENTENCE>– Iznajmili smo 90 posto, a 10 posto smo ostavili kao stratešku rezervu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6498</ID>
+    <SENTENCE>"Imamo rezerve koje nisu ni istražene ni razvijene, a ovo okružje visokih cijena energenata predstavlja veliku priliku", kaže Charles Davidson, predsjednik uprave Noble Energyja iz Houstona.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6458</ID>
+    <SENTENCE>Naime, najčešće je dovoljno promijeniti samo pacijentovu lijevu klijetku, što je dobro, jer ako dođe do nekakvih komplikacija, ostaje vam vlastito srce kao svojevrsna rezerva.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>167</STARTINDEX>
+    <ENDINDEX>174</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10474</ID>
+    <SENTENCE>"Da Knut živi u divljini, to ne bi bio problem - on bi skladištio masne rezerve za zimu", rekao je veterinar u zoo - u Andreas Ochs u utorak.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10411</ID>
+    <SENTENCE>– Grad je već dao stotinjak tisuća kuna jednokratne pomoći, a iz proračunske rezerve ide još 300 tisuća kuna.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10424</ID>
+    <SENTENCE>Obvezne rezerve su postoci oblika prikupljenih sredstava pomnoženi iznosom sredstava prikupljenih u određenoj kategoriji.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6413</ID>
+    <SENTENCE>Južna Koreja, koja je trenutačno na čelu G-20, zagovara mehanizme financijskih sigurnosnih mreža koje bi trebale spriječiti masovni odljev kapitala poput onoga koji se dogodio u zemljama u razvoju za vrijeme nedavne financijske krize, ali i Azijske krize u kasnim 1990-tima. Ovo uključuje jačanje postojećih mehanizama osiguranja Međunarodnog monetarnog fonda (MMF) kako bi se odvratile zemlje u razvoju od akumuliranja prekomjernih deviznih rezervi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>442</STARTINDEX>
+    <ENDINDEX>449</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6420</ID>
+    <SENTENCE>Detalji projekcije nisu navedeni, ali pretpostavlja se da HNB neće povećavati količinu novca u optjecaju jer banke imaju velike rezerve.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6417</ID>
+    <SENTENCE>Slikovito rečeno, organizam u tom slučaju dobiva upozorenje da je nestašica hrane i stoga pokušava sačuvati dio hrane u rezervi za crne dane.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6576</ID>
+    <SENTENCE>Tržišta BRIC-a prirodno se nameću kao prilike hrvatskim tvrtkama s izvoznom orijentacijom ; Brazil, kao industrijska i poljoprivredna sila iznimnih prirodnih bogatstava, Rusija kao energetski div s velikim deviznim rezervama i konstantnim suficitom u robnoj razmjeni, Indija kao jedna od najvećih svjetskih demokracija i lider u softverskoj i IT industriji te Kina kao zemlja s najvećim deviznim rezervama te visokim ekonomskim rastom.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>215</STARTINDEX>
+    <ENDINDEX>224</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10489</ID>
+    <SENTENCE>Imao je smanjenu renalnu rezervu, a bolovao je i od kolelitijaze.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10439</ID>
+    <SENTENCE>"U trenutku kad se Hrvatska počela brzo zaduživati, HNB je donijela propise o pričuvi tog zaduživanja i spremala rezerve. Kad je došla kriza, mi smo u rezervama imali dovoljnu količinu novca da izdržimo prvi udar", objašnjava Jurčić.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>151</STARTINDEX>
+    <ENDINDEX>160</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10480</ID>
+    <SENTENCE>Taj je prijedlog obrtnicima blizak i zbog saznanja da su proizvođači u tom scenariju spremni vratiti cijene na prethodnu razinu, a troškove financirati iz vlastitih rezervi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>172</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6513</ID>
+    <SENTENCE>Nadalje, primjenjuju se različiti iznosi plaćanja po hektaru za livade i pašnjake te ostalo poljoprivredno zemljište, zadržava se osam vrsta proizvodnih plaćanja u biljnoj i stočarskoj proizvodnji, uvodi se nacionalna rezerva za osjetljive sektore te posebna prava plaćanja za farme bez zemlje u sektoru mlijeka, goveđeg mesa, ovaca i koza.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>218</STARTINDEX>
+    <ENDINDEX>225</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10468</ID>
+    <SENTENCE>Odjedanput otkrivamo, zaprepašćujemo se, postiđujemo i gnušamo nad ljudima pored kojih smo prolazili bez slutnje o njihovim pravim rezervama.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>131</STARTINDEX>
+    <ENDINDEX>140</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6583</ID>
+    <SENTENCE>Naposljetku, nemojte zaboraviti na sigurnosnu opremu, punu bateriju mobitela, kit za prvu pomoć, kao i baterijsku lampu, rezervu pitke vode te nešto tople odjeće.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>128</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10473</ID>
+    <SENTENCE>Fernandez priželjkuje osvetu Hrvatima, ističući kako je ona utakmica bila susret rezervi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6508</ID>
+    <SENTENCE>Devizne rezerve uvećane su za 6 milijuna eura kreditom dobivenim od europske investicijske banke.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10462</ID>
+    <SENTENCE>Njezine su devizne rezerve 9,3 milijarde eura, što znači da su praktički veće nego u jeku recesije, u siječnju 2009. godine, kada su bile 8,7 milijardi eura.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6592</ID>
+    <SENTENCE>U financijskoj perspektivi za razdoblje 2000-2006. glavne su kategorije rashoda (poznate kao "rubrike"): poljoprivreda, strukturne politike, unutarnje politike, vanjsko djelovanje, uprava, rezerve i pretpristupna pomoč.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>189</STARTINDEX>
+    <ENDINDEX>196</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10428</ID>
+    <SENTENCE>1. Ovaj Sporazum stupa na snagu prvoga dana trećega mjeseca nakon dana kojega je najmanje sedam obalnih država područja Sporazuma ili regionalnih organizacija ekonomske zajednice, čije su najmanje dvije članice iz podregije Crnoga mora i najmanje pet iz podregije Sredozemnoga mora te susjednoga atlantskog područja, bez rezerve glede ratifikacije, prihvata ili odobrenja potpisalo ili položilo svoje isprave o ratifikaciji, prihvatu ili odobrenju, sukladno s člankom XIII. ovoga Sporazuma.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>321</STARTINDEX>
+    <ENDINDEX>328</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6476</ID>
+    <SENTENCE>Gazprom ima najbogatije prirodne resurse plina na svijetu, sa 17 posto svjetskog i 60 posto ruskog udjela u ukupno istraženim rezervama plina.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>126</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6540</ID>
+    <SENTENCE>Ne znam kakve su promjene uvedene, pa ovo sto ja pisem uzimajte s rezervom.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6568</ID>
+    <SENTENCE>Cili život se šverca ka demokrat, ka naprednjak koji bi za istinu i poginija, a svo to vrime je u rezervi ima onoga koljača i razbojnika.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10431</ID>
+    <SENTENCE>I sad kad se zna uzrok krize (pogrešna monetarna regulacija i stvaranje dugova bez osnove za vraćanje) tada se zna i rješenje: Onemogućiti multiplikaciju novca u bankama (obavezna rezerva preko 50 %) i uvesti državnu emisiju novca (Kennedy - ev način) od 3,5-5 % ukupne novčane mase svake godine kojom će se pokriti deficit u proračunu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>180</STARTINDEX>
+    <ENDINDEX>187</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6566</ID>
+    <SENTENCE>Riječ je o upravljanju sredstvima povučenim iz državnih rezervi tako da se suvereno diverzificiraju unutar raznih wealth fondova država kako na vlastitom, tako i na međunarodnom teritoriju.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6501</ID>
+    <SENTENCE>U prvom modelu zajednički sudjeluju Vlada, poslovne banke i Hrvatska narodna banka (HNB), koja bi trebala spustiti stopu obvezne rezerve za jedan posto, čime bi se poslovnim bankama oslobodilo tri milijarde kuna.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6545</ID>
+    <SENTENCE>Herpoel je bio rezerva De Wildeu na utakmici Hajduka i Anderlechta (2: 1) u Ligi prvaka prije 12 godina, a vi niste baš bili oduševljeni činjenicom da zbog njega staroga selite na klupu ?</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6521</ID>
+    <SENTENCE>Budući da se više puta pokazalo da je "država loš gospodar", sadašnja vlast namjerava ukiniti Državne robe rezerve, odnosno preoblikovati ih u posebnu agenciju za tržišno natjecanje, koja bi se među ostalim bavila i uništavanjem viška poljoprivrednih prehrambenih proizvoda da ne dođe do znatnijeg poremećaja cijena na tržištu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6533</ID>
+    <SENTENCE>Bez obzira na urod u Lumbardi je omiljena uzrečica "Ove su godine dobro rodile, ali neće dogodine" koja je i stvorila običaj ostavljanja ulja za rezervu, pak se tako ponašaju i danas, gdje svoje ulje zovu tekuće žuto zlato, prepoznatljivo po ljepoti, okusima, mirisima i zdravlju maslinova ulja.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10460</ID>
+    <SENTENCE>Sporazum omogućuje Norveškoj da produži svoje naftno blagostanje budući da se rezerve nafte u norveškom dijelu Sjevernog mora polako iscrpljuju.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6494</ID>
+    <SENTENCE>Upravni odbor Origina odbio je prijašnji sporazum s BG Groupom nakon što je kompanija zabilježila povećanje svojih plinskih rezervi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6528</ID>
+    <SENTENCE>I kod objave informacija o rezervama ima špekulacija, jer podaci o rezervama također kreiraju cijenu na otvorenom tržištu, pa se naravno izbjegava isticanje podataka o velikim rezervama.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10402</ID>
+    <SENTENCE>Iako je na prvenstvo došao u kategoriji rezerve, Lippi je pokazao koliko mu vjeruje.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6440</ID>
+    <SENTENCE>Imali smo mehanizme i rezerve koje smo mogli aktivirati, odnosno trošiti tijekom ove krize.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6483</ID>
+    <SENTENCE>Bez svih tih, ali i brojnih drugih njenih iskaza, sada su ostali tužitelji i – ako nemaju neke dodatne svjedoke i dokaze u rezervi – put će im biti jako otežan.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6416</ID>
+    <SENTENCE>Dođe do pol tanka (po kazaljci) kad napravim oko 250km, i onda je na rezervi dok si reko keks, a imam tek (ukupno) 350 km.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10448</ID>
+    <SENTENCE>MMF još uvijek raspolaže s približno 9 milijardi dolara u rezervama zlata i novcu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10434</ID>
+    <SENTENCE>Mirovinski fondovi mogli bi državi posuditi najviše 1,8 milijardi kuna, jer moraju ostaviti i neku rezervu za vlastito poslovanje.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6474</ID>
+    <SENTENCE>SAD je s Irakom zaratila i za manje od 25 posto svih rezervi nafte i plina, a Arktik obiluje ne samo crnim zlatom već i dijamantima i ribom te je strateški vrlo važan za pomorsku trgovinu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10406</ID>
+    <SENTENCE>"Naftne rezerve su tu, međutim ako ne uložite novce u njihovo korištenje, nafta neće doći na tržište", rekao je de Margerie, prenosi BBC.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6484</ID>
+    <SENTENCE>U srijedu je Uprava za energetske informacije izvijestila da su prošloga tjedna ukupne komercijalne naftne rezerve u SAD-u pale za 11.9 milijuna barela, što je u donjem segmentu prosjeka za ovo doba godine, i može pridonijeti daljnjem rastu cijene nafte.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10451</ID>
+    <SENTENCE>Također, izvori s Pantovčaka dodaju da Bandić nije ni stigao zatražiti podršku predsjednika tijekom njihova posljednjeg susreta u Uredu predsjednika, jer je susret protekao hladno i s određenom ko ­ ličinom rezerve s predsjedni ­ kove strane.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>207</STARTINDEX>
+    <ENDINDEX>214</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10497</ID>
+    <SENTENCE>Potom bi slijedilo i povećanje opće stope obvezne rezerve s 19 na 22 posto, a na koncu i uvođenje beskamatnog depozita na sva financijska zaduženja u inozemstvu u visini 30 posto iznosa zaduženja.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6447</ID>
+    <SENTENCE>Američke Savezne rezerve već su se odlučile za financijsku pomoć bankama.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6468</ID>
+    <SENTENCE>I upravo su te rezerve korištene potkraj 2008. i početkom 2009. godine i neposredno doprinijele da gospodarski pad ne bude još veći od onoga što jest - smatra Jelaš.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6522</ID>
+    <SENTENCE>Zanimljivo je kako su mnogi najavljivali sasvim otvorenu kampanju u kojoj će bez rezerve govoriti o sebi i ostalim kandidatima.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6438</ID>
+    <SENTENCE>No zabila je i Baselova rezerva, švicarski Turčin derdyok.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6488</ID>
+    <SENTENCE>Dodaje da je vrijednost deviznih rezervi BiH, koje sada iznose 3,1 milijardu eura, manja za oko 100 milijuna eura u odnosu na kraj prošle godine, no zbog toga nije zabrinut.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10450</ID>
+    <SENTENCE>Mnogi su znanstvenici ideju prihvatili s rezervom ; jedni su kvarkove shvatili kao apstraktni koncept koji će privremeno poslužiti za objašnjenje drugih koncepata, a drugi su bili uvjereni da su kvarkovi fizički entitet.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6547</ID>
+    <SENTENCE>Prema riječima dužnosnika, trebat će 36 i više sati nakon pokretanja sustava plinovoda da on opet postane operativan i da plin stigne do Europe, čiji su pojedini djelovi bili prisiljeni racionalizirati rezerve plina domaćinstvima i industriji zbog problema u opskrbi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>202</STARTINDEX>
+    <ENDINDEX>209</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10455</ID>
+    <SENTENCE>Zato, ovakve kritike treba prihvaćati s rezervom, iako smatram da bi se trebali više potruditi, ako želimo veće prihode od turizma.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10482</ID>
+    <SENTENCE>Smijenjen je cijeli tvrtkin menadžment jer se dokazalo da su precjenjivali svoje naftne rezerve za čak 20 posto.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6471</ID>
+    <SENTENCE>Tako da vozači ako kojim slučajem ostanu bez goriva primjerice pokraj tunela, u Tunelu Sv. Rok, nedajbože, ili pak negdje drugdje na cesti, morat će, ako nisu na dobroj rezervi, zaprašiti pješice prema zasad jedinoj, osamnaest kilometara od Tunela Sv. Rok udaljenoj benzinskoj "oazi" koja se nalazi iznad bistroa Ličko selo.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>169</STARTINDEX>
+    <ENDINDEX>176</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10498</ID>
+    <SENTENCE>Odvojeno je banka u godišnjem izvješću objavljenom u srijedu konstatirala da je euro preživio 2009. godinu financijskih previranja u dobrom stanju kao još uvijek druga po redu valuta svjetskih deviznih rezervi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>202</STARTINDEX>
+    <ENDINDEX>209</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6579</ID>
+    <SENTENCE>Međutim, samo Hrvatska ima izgleda da se u dogledno vrijeme pridruži EU-u, dok u pogledu daljnjeg širenja postoje rezerve kod pojedenih zemalja.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6436</ID>
+    <SENTENCE>Poslije nekoliko slabih pokušaja da se trajno riješi pitanje efikasnosti i sigurnosti kreditnih plasmana, financijski moćni krugovi i Federalne rezerve (FED je središnja emisijska banka SAD-a, op. p.) jednostavnn su promijenili uvjete kreditiranja, izazvali deflaciju dugova i svjetsku dužničku krizu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>144</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10416</ID>
+    <SENTENCE>Iz činjenice kako se u svijetu proizvede prilično više nafte no što biva potrošeno, stručnjaci zaključuju kako neki, a vjerojatno je riječ o bogatim državama, upravo "stokiraju" goleme količine nafte kao stratešku rezervu.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>214</STARTINDEX>
+    <ENDINDEX>221</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6499</ID>
+    <SENTENCE>Tako smo došli do četvorice (plus dvojice "rezervi").</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10409</ID>
+    <SENTENCE>Europski parlament pozvao je u četvrtak da se usvoji međunarodni ugovor o zaštiti Arktika, koji ugrožava sve veći pomorski promet i interes za potencijalne rezerve nafte i plina.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>156</STARTINDEX>
+    <ENDINDEX>163</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10442</ID>
+    <SENTENCE>Naime kako je u tom trenu bila riječ o prekretnici u HP proizvodnom programu, o novom iskoraku, onda se jedan takav uređaj dizajnira sa određenom rezervom, ili je 100 % predimenzioniran.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10414</ID>
+    <SENTENCE>Napravio sam taj dan trokut preko 70 km u Baranji pa kod repetitora na Banovom brdu okrenuo kući al vidim, fali mi brzine, pa kod Darde otpustio trimere i dobio dodatnih 5 km ali i veći gas te potrošnju jer po mojem proračunu bio sam već na debeloj rezervi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>249</STARTINDEX>
+    <ENDINDEX>256</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6515</ID>
+    <SENTENCE>2. Svaka država ili regionalna organizacija ekonomske zajednice može prilikom polaganja svojega instrumenta ratifikacije, prihvata, odobrenja ili pristupa, izraziti posebnu rezervu u odnosu na navođenje bilo koje migratorne vrste u Dodatku I. ili Dodatku II. ili u oba, te se neće smatrati strankom u odnosu na predmetnu rezervu sve do devedeset dana nakon objave depozitara o primitku obavijesti o povlačenju te rezerve.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>413</STARTINDEX>
+    <ENDINDEX>420</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10415</ID>
+    <SENTENCE>'' O svakoj banci ovisi u kojim valutama će držati rezerve, no Japan pozdravlja odluku Rusije da svojim rezervama doda jen '', naglasio je Omi.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6444</ID>
+    <SENTENCE>Pod stare dane, Madonna je napokon izbjegla sudbinu sjedenja na klupi za rezerve i "čekanje" pretvorila u tri dobitka, a do tada je bila nominirana čak osam puta, osvojivši samo nagradu za videospot 1991., što je zapravo redateljska nagrada.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6574</ID>
+    <SENTENCE>Novi LAN kabel smo ostavili za rezervu, jer smo skužili da nije do kabela nego do porta na tikovima.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6552</ID>
+    <SENTENCE>Opadanje razmjera refinanciranja dospjelog vanjskog duga ili pojava drugih financijskih pritisaka na CAD, mogli bi dodatno zaoštriti gospodarsko opadanje i / ili smanjiti devizne rezerve, potkopati tečaj, povećati troškove servisiranja duga i negativno se odraziti na kreditnu sposobnost, navodi Fitch.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>186</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10486</ID>
+    <SENTENCE>Naravno, ako se geocache nalazi na planini ili nekom sličnom mjestu (što nije rijedak slučaj), potrebno se odgovarajuće pripremiti - što uključuje karte, rezervu vode, odgovarajuću odjeću i obuću ; sve to nema veze s geocachingom, ali ima s uobičajenim pravilima za boravak u planini.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>154</STARTINDEX>
+    <ENDINDEX>161</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10484</ID>
+    <SENTENCE>Ali bankarstvom sa 100 % rezervom, a ne kao danas na bazi djelomične rezerve.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10443</ID>
+    <SENTENCE>Riječ boluju uzmimo s rezervom, jer u to stanje ovi sisavci sebe dovode namjerno.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezervom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6457</ID>
+    <SENTENCE>Na području Osječko - baranjske županije postoji velika rezerva u razvoju te se može iskoristiti kroz plansko navodnjavanje, što je i pokrenuto zbog ekstremnih kiša i suša.</SENTENCE>
+    <TARGETLEMMA>rezerva</TARGETLEMMA>
+    <TARGETWORD>rezerva</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+</SET>

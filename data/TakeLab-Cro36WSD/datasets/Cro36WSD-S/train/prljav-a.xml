@@ -1,0 +1,2528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>6010</ID>
+    <SENTENCE>Nada je, kao što svi znate, prljava, pokvarena, odvratna drolja kojoj nitko normalan ne smije vjerovati.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6093</ID>
+    <SENTENCE>I od obavještajnih bih službi tražio da otkriju puteve prljavog novca jer je to najbolji način za suzbijanje korupcije.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10238</ID>
+    <SENTENCE>Njezinoj cijeni svakako ne idu u prilog prijašnje prljave igrice pod okriljem politike.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6180</ID>
+    <SENTENCE>Osim što je koketirala i plesala, striptizeta umjetničkog imena Ferari, sjedila je u krili napaljenih farmera i pobudila im prljavu maštu.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6136</ID>
+    <SENTENCE>Iako zasada čine većinu na Farmi, djevojke nisu pokazale previše damskog ponašanja čemu svjedoči i nedavna Aleksina izjava kojom opisuje Hanu kao "prljavu Bosanku".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6168</ID>
+    <SENTENCE>Čistite samo prljava mjesta, a ostala je dovoljno prebrisati vlažnom krpom.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6029</ID>
+    <SENTENCE>Ako su se zasitili običnog seksa ili ako im njihov partner ili partnerica nisu dovoljno privlačni, ako ne mogu običnim putem postići adekvatno seksualno uzbuđenje, mnogi će otvoriti ladicu i izvaditi vibrator, lutku na napuhavanje, lisice ili možda čak i bič, a neki će jednostavno posegnuti u poseban pretinac svoje mašte i zamisliti nešto dovoljno romantično ili pak prljavo da ih dodatno uzbudi.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>369</STARTINDEX>
+    <ENDINDEX>376</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6064</ID>
+    <SENTENCE>Preko SAD-a se trebao prati prljavi novac i ulagati ga u čiste poslove kao što su graditeljstvo, trgovački centri i dionice na burzama.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10272</ID>
+    <SENTENCE>Arlacchi tvrdi milanskom listu kako studije Ujedinjenih naroda tvrde da samo tri posto te svote čini prljavi novac, zarađen ilegalnom trgovinom oružjem, drogom i ljudima.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10220</ID>
+    <SENTENCE>Ipak, zato će im trebati puno vremena kako bi uvjerili pučanstvo Podbablja u svoje dobre namjere jer s prljavim prozivkama to neće postići, kaže Vuksan.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6190</ID>
+    <SENTENCE>Ako dođem kući i ako je prljavo, neću leći, nego ću prvo počistiti.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10245</ID>
+    <SENTENCE>Starica je umrla iste večeri kad je Jackson primljen, i to na odjelu potpuno neprimjerenom za vrstu bolesti koju je imala, a sve zbog Michaelovih prohtjeva, za kojeg je ustvrđeno da je u bolnicu došao samo kako bi se odmorio od "iscrpljujućeg i prljavog suđenja".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>245</STARTINDEX>
+    <ENDINDEX>253</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6014</ID>
+    <SENTENCE>Njoj su prije svega doprinijele izjave njihovih bliskih suradnika koji su iznosili prljavo rublje zlatnog para na vidjelo.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10248</ID>
+    <SENTENCE>Čini se da je prljavi Voldemort prisilio izdavačku Warner Bros na nepopularan potez.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10297</ID>
+    <SENTENCE>Mislim, može ona poživit još koju godinicu, ali će zasigurno biti debela, sa celulitom, grintava, prljava, zapuštena u svakom pogledu.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6158</ID>
+    <SENTENCE>Mali broj vlasnika klima uređaja upoznat je s opasnostima koje prijete od prljavih uređaja te od servisera na vrijeme traže da im uređaje očiste i pripreme za sezonu hlađenja.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6154</ID>
+    <SENTENCE>Nas smo se tri kao preplašene grlice nacrtale u pola 9 pred Mimarom, strahujući da je za prisustvovanje događaju možda potrebna pozivnica, uopće se ne usuđujući gledati ljude oko sebe nadajući se da ni oni ne gledaju u naše prljave patike, masnu kosu, zgužvane tunike (pegla je totalno demode, osim one za ravnanje kose: -), nepočupane obrve i ostale posljedice zamornog studentskog "učim učim učim, ma jel 'uopće dišem ?" života.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>224</STARTINDEX>
+    <ENDINDEX>231</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6058</ID>
+    <SENTENCE>Čeprka se po prljavom rublju, traže se skandali, istražuje intima, otkrivaju se pojedinosti koje su obično dio privatnoga života pojedinca.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10204</ID>
+    <SENTENCE>Nakon što mu je malo popustio bijes prema Mesiću zbog objavljivanja podataka o britanskom špijunskom angažmana u Hrvatskoj, i nakon što mu se vjerojatno Mesić kleo da on za tu tajnu operaciju nikome nije rekao ni riječ – što nažalost i nije, a tomu ne služi pretjerano na čast da bude pokriće za tako prljave špijunske akcije – Sanader je ipak počeo razmišljati i u najužem krugu istomišljenika razglabati o vanstranačkom kandidatu kojega bi podržao HDZ.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>301</STARTINDEX>
+    <ENDINDEX>308</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6063</ID>
+    <SENTENCE>Veli naš službeni slušatelj o novom Ludacrisovom albumu - "Ludacris je jedan od najpoznatijih repera koji se svrstava u momke" prljavog zvuka s juga ’.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6050</ID>
+    <SENTENCE>HHO stoga poziva vladu da preispita prijeporni zakon i spriječi, kako kažu, mafijašku korupciju i legalizaciju prljavih poslova na štetu Hrvatske.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>119</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6034</ID>
+    <SENTENCE>Mi Srbi i vi Hrvati jako se jako (s) ličimo, makar po istoj prljavoj drogi, koju koriste naša djeca.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6062</ID>
+    <SENTENCE>Za bivšeg ministra vanjskih poslova Miomira Žužula rekao je da je "čovjek prljavih korupcionaških poteza", vezan uz sve veće afere, poput Bechtela, Imostroja, Plive, Enrona i drugoga.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6127</ID>
+    <SENTENCE>Na pitanje hoće li kampanja biti poštena ili prljava, Josipović je rekao - Iskustvo iz moje kampanje je pokazalo da prljavština ne pobjeđuje.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6109</ID>
+    <SENTENCE>Bazen nije kada iz koje samo ispustimo prljavu vodu nakon što smo se okupali.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6134</ID>
+    <SENTENCE>A što je učinila kad je stranka taj novac, taj prljavi novac u buntovima po sto novčanica, krenula uplatiti na bankovni račun, samo da bi banka odbila tu transakciju jer se novcu nije moglo ustanoviti legalno porijeklo ?</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10228</ID>
+    <SENTENCE>Slatina je u tijeku procesa odbacio navode iz optužnice tvrdeći da je u borbenim letovima sudjelovao, ali da je sve akcije sabotirao, namjerno promašujući ciljeve, jer je od prvog dana, kako je govorio pred sudom, bio protiv nepravednog i prljavog rata i napada na Hrvatsku.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>239</STARTINDEX>
+    <ENDINDEX>247</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6132</ID>
+    <SENTENCE>Ali nisu ogledala kriva što su lica prljava.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10219</ID>
+    <SENTENCE>Ako je problem čistoća dvorane, odnosno parketa ne vidim odgovorniju osobu od nje sto se djeca vračaju kući "prljava".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10251</ID>
+    <SENTENCE>Hrvatske nikako ne smije dozvoliti da se na tako prljav, licemjeran način predstavnici srpske manjine poigravaju s dubokim osjećajima i ranama Vukovaraca i drugih domoljubnih Hrvata.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6162</ID>
+    <SENTENCE>Glavom, bradom, repom i prljavim mislima koje sigurno uključuju analni seks i Tarika Filipovića koji je sinonim za bludne radnje.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6019</ID>
+    <SENTENCE>No, samo šest minuta kasnije su se brojčano izjednačile momčadi na travnjaku kada je Franck Ribery zaradio drugi žuti (prljavim startom na gležanj suparnika).</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6200</ID>
+    <SENTENCE>Muškarac iz snova svake žene na svijetu ne pita zašto ovo ili ono, on uskače "u vatru" i sklanja: prljave tanjure nakon jela, svoju iznošenu odjeću, dječje igračke po podu, hvata usisavač kad zatreba, a ne može gledati ni prljave prozore.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10278</ID>
+    <SENTENCE>Holbrookova knjiga nudi konkretno priznanje da su SAD iskoristile Hrvate za obavljanje prljavog posla.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10262</ID>
+    <SENTENCE>Engleska kraljica Elizabeta I. govorila je da se kupa jednom mjesečno, bila prljava ili ne.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10291</ID>
+    <SENTENCE>Njen seksipil, očito, potječe od njenih nesumnjivo nepraktično velikih grudi, koje ne bi bile toliko čudne da Lara uz njih nema tako malen struk (i žene imaju unutarnje organe, prljavi seksisti iz Eidosa !).</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>177</STARTINDEX>
+    <ENDINDEX>184</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6126</ID>
+    <SENTENCE>Nakon što su Teenu Maguire, pred očima vlastite kćeri, silovali i ostavili da umre na podu prljavog spremišta, započinje priča o ljubavi i mržnji, tamnim i svijetlim stranama života u mirnom američkom gradiću.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10217</ID>
+    <SENTENCE>Previše je taj njegov zanat bio prljav, preveć je crna ta pasta za postole za novi urbanizam, tako bijel i blještav.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10295</ID>
+    <SENTENCE>U višesatnom iskazu Kanađanin raspoređen u tim civilne policije za pretraživanje terena opisao je i susret s grupom hrvatskih vojnika koji su, kako je rekao, izgledali drugačije od ostalih neurednih i prljavih vojnika.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>201</STARTINDEX>
+    <ENDINDEX>209</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10293</ID>
+    <SENTENCE>Ništa prljavo, organski, toplo, razuzdano ili spontano nije našlo svoje mjesto na prvom Kevinu i jednako toliko seksualnog života mu želim.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6082</ID>
+    <SENTENCE>Ne znam koji je točan opis njegovog radnog mjesta, ali pustio sam prljavoj mašti na volju.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10294</ID>
+    <SENTENCE>Kupite na primjer neki playgirl časopis ili prljavu video snimku, što je onda možete pogledati zajedno, prokomentirati i zabavljati se.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6089</ID>
+    <SENTENCE>Ako provodi sate i sate u kupaonici, možda ima prljavu tajnu - samoljublje.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6038</ID>
+    <SENTENCE>Ipak, najveći broj ljudi ne pere kosu zato što je masna ili prljava, već da bi bila zdravija, jača i sjajnija.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10296</ID>
+    <SENTENCE>Maček je istaknuo kako HDZ neće voditi "prljavu kampanju poput SDP-a".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6012</ID>
+    <SENTENCE>Ovakvi slučajevi za Nenada Puhovskog su dokaz da u Hrvatskoj vlada diskriminacija: "Hrvatski ateisti i agnostici svojevrsna su manjina, koja ni na koji način nije zaštićena. Na primjer, kad netko napiše 'prljavi židovi', na noge se digne pola liberalne Hrvatske, ali kad Zlatko Sudac napiše kako su ateisti lijeni, bahati i oholi, ne samo da javnost šuti nego ne postoji ni sustav pravne zaštite protiv takvih uvreda jer zakon ne regulira ovakve situacije."</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>204</STARTINDEX>
+    <ENDINDEX>211</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10300</ID>
+    <SENTENCE>"I to je ljubav ? To okrutno, brutalno vlasništvo, to ludilo kojim muškarac zadovolji svoju strast za ženom životinjskom mahnitošću ? Meni je to prljavo i mrsko", ogorčeno je ispunjavala stranice.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6133</ID>
+    <SENTENCE>Njemačka je zbog prekoračenja kvote dozvoljenog zagađivanja, prema sporazumu iz Kyota, veliki dio prljave industrije prebacila u Češku.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6164</ID>
+    <SENTENCE>Mi smo bili u jednoj prljavoj i neodržavanoj sobi i netko je rekao, jao brale što je šporko fale samo pantagane, netko je svirao Marleya u tom trenutku, i onda sam ja rekao – Pantagana '.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10261</ID>
+    <SENTENCE>Poručio je Šuici kako "neće biti prljavih igara ni osveta".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10254</ID>
+    <SENTENCE>Počastili su nas burekom na rudarski način, prljavim rukama.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6159</ID>
+    <SENTENCE>Vuna naših ovaca je prljava, puna trine, stoklasa, a zna se naći i oštrijeg pa onda iz mašine sjevaju varnice.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6119</ID>
+    <SENTENCE>Mnogima su ipak najdraži pseudoprozni zapisci, uglavnom okupljeni u "Zabilješkama prljavog starog pokvarenjaka", tekstovima koje je pisao za novine "Open City".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6156</ID>
+    <SENTENCE>Trine su porijeklom otpadak od sijena koji se protresanjem sijena skupi na najčešće prljavom dnu sjenjaka.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10231</ID>
+    <SENTENCE>Iako su dobro rasploženi, svađu je izazvalo prljavo rublje koje stoji u umivaoniku.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6027</ID>
+    <SENTENCE>Mašina je Roland MC-505, zvuk je prljav i jednostavan, a nadopunjava ga prepoznatljiv Monofonični vokal koji podjednako koristi engleski i hrvatski vokabular.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10288</ID>
+    <SENTENCE>On je pijanac prljave odjeće koji zlorabi svoje veze s vlašću da bi posjedovao sve te žene.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6188</ID>
+    <SENTENCE>Zadataka na kojima smo moji kolege i ja često nazivani prljavim, ružnim i zlim.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6107</ID>
+    <SENTENCE>Glavaš: prljava, zlobna, beskrupulozna njuška kakva se rijetko rodi.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6011</ID>
+    <SENTENCE>Seks je prljav samo ako je učinjen ispravno.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6143</ID>
+    <SENTENCE>No, poslije godinu dana prljave kampanje sve se može promijeniti.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10247</ID>
+    <SENTENCE>"Seks i grad i prljava politika, tako bih opisala Hrvatski bog Merkur, a Kuljiš koliko nas u publicistici mori faktografijom, toliko je stvaran u fikciji.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10239</ID>
+    <SENTENCE>Marx je "Kapital" pisao guščjim perom, a prljavi kapitalisti su mi omogućili da ga javno ismijavam na laptopu.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10279</ID>
+    <SENTENCE>Kao malu mrlju na kraju spomenut ćemo i prljavu kampanju za predsjednika Hrvatskog nogometnog saveza.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6101</ID>
+    <SENTENCE>Nisam se htio s prljavim i neuglednim koferom pojaviti na visokopozicioniranom sastanku.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6021</ID>
+    <SENTENCE>Još nešto što može jako frustrirati su higijenske navike - najčešće je on taj koji ne zatvara zubnu pastu ili ostavlja prljavo rublje na podu.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10234</ID>
+    <SENTENCE>Suprotivo očekivanjima, treće "bacanje kocke" donijelo je glatku pobjedu uigranu triju Clooney-Pitt - Damon te njihovoj družini "prljavih, pokvarenih prevaranata".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6139</ID>
+    <SENTENCE>Budući da prljava industrija, kakva je zasigurno reciklaža otpadnih guma i plastike, o čemu u vrijeme davanja jamstva i ugovaranja posla nitko iz nadležnih državnih institucija nije vodio računa, troši puno električne energije, nabavljena su i dva plinska agregata, što je navodno znatno jeftiniji način proizvodnje električne energije, koja su stajala oko milijun eura.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6137</ID>
+    <SENTENCE>Višnjićevo prljavo rublje izišlo je u javnost zahvaljujući, navodno, babici iz rodilišta Opće bolnice Šibenik kojoj se Mirela povjerila nakon poroda.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6151</ID>
+    <SENTENCE>Jednog dana, bježeći od policijske racije kroz kanalizacijski sustav u kojem rade ilegalni useljenici, Tietou spašava inspektora Kitana od utapanja u prljavoj vodi.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>158</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10215</ID>
+    <SENTENCE>Knjiga je namjerno pisana u baroknom stilu, kroz dva vremenska razdoblja ; veoma je samopopustljiva (i da sam ja urednica, vjerojatno bih izbacila najmanje 200 stranica) ; veoma je nasilna, prljava i zbunjujuća, i iako sam se dobro zabavila pišući je, pitam se što su (ako su išta mogli) čitatelji vidjeli u njoj u to vrijeme.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>190</STARTINDEX>
+    <ENDINDEX>197</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6037</ID>
+    <SENTENCE>"SDP se duboko ne slaže sa svime što se događa u vezi sa smjenom u Zračnoj luci Zagreb i smatramo da je to još jedna politička smjena i HDZ-ova prljava rabota.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>144</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10235</ID>
+    <SENTENCE>Kako drukčije tumačiti priopćenje koje je Nova dala, a koje Tironija denuncira kao čovjeka "protiv kojeg se vode sudski postupci vezano za drogu", nego kao prljavi udarac nedostojan bilo kakvog fair - playa ?</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>156</STARTINDEX>
+    <ENDINDEX>163</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6090</ID>
+    <SENTENCE>Istina je, doduše, da ako se osoba više znoji, veća je šansa da će imati miris po odstajalom znoju, ali se odgovarajućim mjerama poput adekvatne higijene, nošenjem odjeće od prirodnih materijala i učestalim mijenjanjem prljave odjeće može preduhitriti stvaranje neugodnih mirisa.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>219</STARTINDEX>
+    <ENDINDEX>226</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6142</ID>
+    <SENTENCE>Na okruglom stolu nastupaju ugledni gosti i stručnjaci iz Hrvatske i Europske unije, a nazočnima se obratio i zamjenik šefa kabineta potpredsjednika EK Siima Kallasa, koji je rekao kako lobiranje ne smatra prljavim poslom, te istaknuo kako su u lobiranju potrebni stručni ljudi.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>206</STARTINDEX>
+    <ENDINDEX>214</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6199</ID>
+    <SENTENCE>Gotovo kao i u Posljednjem tangu u Parizu, ili ako hoćete kao u korejskom filmu Gojtimal, u kojemu su se ljubavnici tukli letvama i njuškali si prljave stražnjice.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>144</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10299</ID>
+    <SENTENCE>Prljave ruke - prezirat će vas.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>Prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6047</ID>
+    <SENTENCE>Ironija je bila tim veća jer su upravo Japanci optuživali Australce za prljavu igru, a sada je Schwarzer u nevjerici sjedio na travi dok su se Japanci radovali nakon nesportski postignutog pogotka, a egipatski djelitelj nepravde pokazivao na centar.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6088</ID>
+    <SENTENCE>Gospodarske programe zasad su zasjenila prepucavanja, međusobne optužbe i iznošenje prljavog rublja.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6184</ID>
+    <SENTENCE>Željko će se sa svime time bolje nositi nakon izbora, jer je kampanja uistinu bila prljava.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6189</ID>
+    <SENTENCE>Začudit ćete se koliko drugačije će izgledati i kako će krpa biti prljava !</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6059</ID>
+    <SENTENCE>Naime, Tužiteljstvo Republike Makedonije dobilo je od strane makedonske Direkcije za sprečavanje '' pranja novca '' povjerljiv izvještaj 11. prosinca 2006. godine. u kojem je opisan način na koji su vlasnik produkcije '' AWARD '', Lasto Nikolovski-Laki, njegova supruga Maja te menadžerica Ljiljana Petrović – '' prali '' prljavi novac iz Kuvajta.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>322</STARTINDEX>
+    <ENDINDEX>329</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6030</ID>
+    <SENTENCE>Osim toga, 90 % žena radije bi da muškarci misle da je zaista "prljava" u krevetu, nego da je dosadna.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6033</ID>
+    <SENTENCE>Ako nemate perilicu za suđe, ostavite dovoljno mjesta za plastičnu posudu u koju ćete stavljati prljavo posuđe.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10268</ID>
+    <SENTENCE>Richter je bio posve zarastao, prljav i neuredan, nokti na nogama i rukama bili su mu dugi nekoliko centimetara a smrad koji se širio oko njega bio je užasan.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6095</ID>
+    <SENTENCE>No ima li se na umu činjenica da Općinski odbor HDZ-a prvi put na takav način, dakle, javno, zahtijeva utvrđivanje odgovornosti jednog direktora, dok u isto vrijeme prešućuje, na primjer, rad pojedinih upravnih odbora i direktora u nekim livanjskim poduzećima u kojima je ne samo policija, nego i sud utvrdio da se kralo i pljačkalo, a da pojedini akteri tih prljavih rabota i dalje nesmetano rade svoj posao, dovoljan je pokazatelj ozbiljnosti situacije u kojoj se našao Zrno.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>359</STARTINDEX>
+    <ENDINDEX>367</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10229</ID>
+    <SENTENCE>Naime, novi gazde mogli bi čeprkati i po papirima, gledati gdje se i kako odlijevao novac ranije, a to je opasno za aktere prljavih igara.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10274</ID>
+    <SENTENCE>I nakon onako prljave i lažljive HDZ-ove kampanje, ne mogu čestitati Ivi Sanaderu.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6112</ID>
+    <SENTENCE>Moj svijet nisu anonimna pisma i prljave obavještajne podvale i teorija da svijet ne razumije što se događa u Hrvatskoj.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10240</ID>
+    <SENTENCE>U centru su potvrđivali da dijete živi u jako lošim uvjetima, "u kući koja nije za svakodnevno obitavanje, opasnoj za dijete, koja je prljava, zapuštena i lagano zaudara", da Mirela ne pije tablete "jer smatra da joj više nisu potrebne", da je dijete traumatizirano, da Ana "deset dana nije mogla imati stolicu, da šuti i da se privija majci", da joj roditelji brane kontakt s drugom djecom, da "nigdje u kući nema nikakvih igračaka", ali da se Mirela u međuvremenu i udala za Juru, da je "sve pod nadzorom" i "treba slijediti proceduru".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6092</ID>
+    <SENTENCE>Kojim se to poslom bavi naša policija. Sada je važno tko je objavio krnji registar branitelja, e da ne ispliva sav prljavi veš s time u vezi, a tko je primio mito za kamione i još koješta, to je manje važno.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10226</ID>
+    <SENTENCE>Iskoristit će njezin prljavi novac da pomognu onima kojima je to najpotrebnije.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10212</ID>
+    <SENTENCE>U protivnom, Kaptol bi prešutno priznao i prihvatio svoju prljavu ulogu u "Aferi Hypo", a posljedice takvog ponašanja bile bi uistinu nesagledive.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6195</ID>
+    <SENTENCE>Pogledamo li pak malo u povijest vidjet ćemo da je ljudetina zapravo oduvijek bila vrlo jeftina, da se otkako je izmišljena prva materijalna vrijednost ljudskom životu oduvijek pretpostavljalo nešto drugo, neka vrsta moći, bilo politička, religijska ili kupovna i da je za realizaciju takve moći veći dio čovječanstva neprestano krvario kao što krvari i danas po prljavim bolnicama Trećega svijeta.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>363</STARTINDEX>
+    <ENDINDEX>371</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6065</ID>
+    <SENTENCE>Kako se ovaj ovlaživač često prodaje u varijanti da pročišćuje zrak od prljavih čestica i cigaretnog dima pa ćete i udisati zdraviji zrak.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6053</ID>
+    <SENTENCE>Iako u samom značenju riječi nema ništa prljavo, pažljivo čitanje Evanđelja nam pokazuje da se već u Isusovo vrijeme Božja logika upravljanja domaćinstvom (pa i državom) uvelike razlikuje od one koju ima većina ljudi.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6001</ID>
+    <SENTENCE>Špekulira se kako je zabrana rada nedjeljom bio ustupak Markova trga prema Kaptolu, a vlada Ive Sanadera na sve napade trgovaca da ukine zabranu odgovarala je da riječ o prljavoj predizbornoj kampanji.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>170</STARTINDEX>
+    <ENDINDEX>178</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10257</ID>
+    <SENTENCE>Iako ih to možda pali, za vrijeme 'prljavih' razgovora muškarci se panično boje da ne bi rekli nešto pogrešno te sve uništili.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10223</ID>
+    <SENTENCE>Ili je to potajna nada da ću otkriti neku tajnu nedostupnu drugim turistima ružičaste kože, smiješnih kratkih hlača i straha u očima od prosjaka koji će ih dodirivati svojim prljavim, gubavim prstima.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>174</STARTINDEX>
+    <ENDINDEX>182</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10264</ID>
+    <SENTENCE>Svaki kontejner ima 2 sklopive police, koje kad su preklopljene prema dolje, čine kolica idealnim za transport prljavog rublja i vreća sa rubljem.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>119</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6198</ID>
+    <SENTENCE>Međutim, sad kad ih je taj isti HDZ-ov vlasnik zamijenio bivšim feralovcem, samozvani ljevičari pobunili su se i počeli pisati o "zavisti, zlobi, ambicijama bez pokrića", o "gaženju novinara kao gnjida", o "redakcijskim kreaturama, prljavim i zlim egzekutorima".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>232</STARTINDEX>
+    <ENDINDEX>240</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6032</ID>
+    <SENTENCE>Zvonimir Boban nije želio nepripremljen zaroniti u prljavu vodu hrvatskog nogometa, smatrajući da je na tom putu najvažnije u rukama imati utjecajni medij.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10263</ID>
+    <SENTENCE>"Argentinska reprezentacija je poput prljavog Rolls Roycea, potrebno joj je čišćenje", dodao je jedan od najboljih nogometaša svih vremena, čija bi prva utakmica za kormilom "gaučosa" trebala biti 19. studenog protiv Škotske u Glasgowu.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6075</ID>
+    <SENTENCE>Činilo se da je prljavi Australčev trik isprovocirao Argentinca i ostavio traga na igri, ali je nakon 2: 0 u setovima uslijedio njegov povratak.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10256</ID>
+    <SENTENCE>Neodgovorni vlasnici ne čiste za svojim ljubimcima pa je Carera često prljava.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10290</ID>
+    <SENTENCE>Toksoplazmoza se ne prenosi ogrebom već ingestijom, što znači da toksoplazma hranom, vodom ili prljavim rukama mora dopsijeti do usta preko kojih ulazi u organizam.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6025</ID>
+    <SENTENCE>U uređenijim demokracijama, najveći je strah političara da neka njihova prljava tajna, ne govorimo ovdje o privatnim tajnama, već kršenju zakona u bilo kojem obliku, ne dođe do novinara.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6123</ID>
+    <SENTENCE>Inače, Nicholas Dockray je student druge godine filozofije i povijesti, a kazneno djelo distribucije dječje pornografije počinio je između 15. prosinca 2002. i 15. kolovoza 2003, a zanimljivo je da kod kuće uopće nije imao računalo, nego je svoju prljavu rabotu obavljao iz jednog Internet caffea u Glasgowu.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>247</STARTINDEX>
+    <ENDINDEX>254</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6084</ID>
+    <SENTENCE>Nakon što život provedu u malenim prljavim kavezima, životinje budu ubijene gušenjem plinom, elektrokucijom, davljenjem, trovanjem te lomljenjem vratova.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6181</ID>
+    <SENTENCE>Sva individualna pranja rublja u domovima za starije, kao i kolica za sortiranje / skupljanje prljavog rublja u bolnicama moraju se smjestiti u pojedinačne vreće za prljavo rublje prema različitim metodama i duljini pranja.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6060</ID>
+    <SENTENCE>Ivo Sanader je bio apsolutni gospodar HDZ-a, ali stranka se koristila kao sredstvo prljavog ovladavanja državom.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6117</ID>
+    <SENTENCE>Ovakvim i sličnim porukama, s brojevima mobitela, ispisani su trošni, prljavi zidovi javnog zahoda, kojim se širi smrad mokraće, u podrumu zagrebačkoga Zapadnog kolodvora, mjesta homoseksualne prostitucije.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6103</ID>
+    <SENTENCE>Rove je obožavan među republikancima i prezren među demokratima zbog prljavog vođenja politike zbog kojeg se više puta nalazio pod raznim istragama.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6042</ID>
+    <SENTENCE>Tada može biti prljavo i neuredno.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6078</ID>
+    <SENTENCE>Ako je toalet često prljav i neodržavan, nemojte misliti da je u kuhinji išta bolje.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6193</ID>
+    <SENTENCE>Ali to ne može jer je Dražen čisti Bog, a Bandić je prljavi lopov !</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6039</ID>
+    <SENTENCE>Dio tog prljavog poslao odvijao se i u divu drvne industrije iz Bjelovara "Česma".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6051</ID>
+    <SENTENCE>Desnica, a s njom i HDZ, koristila je jumbo - plakate za prljavu kampanju: poput Pinokija s dugim nosom i oglasa o cijenama goriva prije i nakon trećeg siječnja 2000. godine.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6131</ID>
+    <SENTENCE>On govori o prljavoj igri SDP-a i nervozi u vašoj stranci.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6007</ID>
+    <SENTENCE>FPO je jedina značajna stranka koja se tome otvoreno protivi i putem globaliziranih medija se stvara hajka kojom ih se nastoji povezati s "prljavim poslovima na Balkanu" da bi ih se politički diskreditiralo.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>139</STARTINDEX>
+    <ENDINDEX>147</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6006</ID>
+    <SENTENCE>Ukoliko se punjenje kade vrši preko odvodne i prelivne garniture, ili ukoliko je nivo vode niže od 20mm nego rub kade, mora se ugraditi cijevni prekidač, s kojim se sprječava povrat prljave vode s čistom vodom.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>182</STARTINDEX>
+    <ENDINDEX>189</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6023</ID>
+    <SENTENCE>Taj je argument nemoguće pobiti: presuda Branimiru Glavašu uistinu je jedan od onih događaja koji idu u prilog ugledu Domovinskog rata, koji ga naprosto čiste od prljavih nakupina.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>162</STARTINDEX>
+    <ENDINDEX>170</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6069</ID>
+    <SENTENCE>Pa da, možda je to ipak prljava montaža sračunata na njegovu i diskreditaciju svega što je hrvatsko.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6085</ID>
+    <SENTENCE>Obećanja koja su dali kandidati uoči nedjeljnih izbora sugeriraju kako je BiH još uvijek duboko podijeljena po etničkim crtama, dok se na izborima ponovno najviše šansi daje strankama nacionalnih predznaka, a cijela kampanja je, kao i mnogo puta dosad, protekla u nacionalističkom tonu s dosta prljavih igara.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>294</STARTINDEX>
+    <ENDINDEX>302</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10276</ID>
+    <SENTENCE>"'Tako su pričali izmišljotine o čistkama na televiziji dok sam bio direktor. Nađite mi jednoga tko je dobio otkaz ! Nitko. Ako nije otišao u četnike", kaže nekadašnji Tuđmanov ljubimac, jedan od najvećih medijskih manipulatora i propagandista Hrvatske u intervjuu objavljenom 10. svibnja 2010. godine ", navodi Radoja, dodajući da je Vrdoljakov jezik" još uvijek prljav i uklapa se u repove nacionalističke retorike kojom se devedesetih služio Tuđmanov režim ".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>364</STARTINDEX>
+    <ENDINDEX>370</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10201</ID>
+    <SENTENCE>Njih dvoje uskoro saznaju da je banka International prvi izbor mnogih kriminalnih i špijunskih organizacija koje tim putem peru enormne količine 'prljavog' novca.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6041</ID>
+    <SENTENCE>Apple igra neku prljavu igru s Adobeom kojemu (za sada) ne dopušta da se Flash instalira.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10246</ID>
+    <SENTENCE>Na taj ćete način lakše zamijeniti pijesak kad se zaprlja, samo povučete ručke vrećice i sav prljavi pijesak izvučete zajedno s vrećicom.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10259</ID>
+    <SENTENCE>Daljnji tijek romana odvija se između prljavih gostionica u kojim se sastaju senzibilni intelektualci intrigantne skupine "Treće Nebo" te bordela u kojima pleše prelijepa i zagonetna Antilija.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6140</ID>
+    <SENTENCE>Ono što će uzbuditi vašeg partnera ili partnericu je dodirivanje, milovanje, grljenje, grickanje, otvoreno maštanje, ispunjenje fantazija, upotreba "igračkica", vezanje, lagano škakljanje, fotografiranje, pričanje "prljavih" pričica.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>215</STARTINDEX>
+    <ENDINDEX>223</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10207</ID>
+    <SENTENCE>Nisam niti ću voditi prljavu kampanju, naš je pristup konstruktivan i pozitivan i ljudi su to i prepoznali - rekao je Dobroslavić, obraćajući se na konferenciji za novinare.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10287</ID>
+    <SENTENCE>Tada saznajemo da je kao mladić prodao ženu i kćerku za vrećicu zlata, s tim je prljavim kapitalom poslje sagradio svoje lokalno kraljevstvo, a najzad ga žena na samrti dolazi moliti da zbrine njihovo jedino dijete.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6177</ID>
+    <SENTENCE>Zaštitar, kojem nije otkriveno ime, kazao je i kako glumicu uopće ne smeta masna i prljava kosa.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6116</ID>
+    <SENTENCE>Prljava, vlažna i uznojena odjeća ima slabija zaštitna svojstva.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>Prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10265</ID>
+    <SENTENCE>U jednoj od najgenijalnijih scena svojih amaterskih, satiričnih života sjede tako Boris Šprem Brico i Davor Bernardić Postolar na prljavom zagrebačkom asfaltu, ulijepile im se rastopljene žvakaće gume za dupe, džabe će sjebati nova odijela ako im dragi Bog i mrska policija ne usliše molbe i ne potrpaju ih u maricu, zajedno s ovim prljavim hipijima koje žandari utovaruju u policijski kombi kao vreće krumpira.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>332</STARTINDEX>
+    <ENDINDEX>340</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10211</ID>
+    <SENTENCE>Stoga su se za "razvaljenu kuću", odnosno "mjesto gdje je prije bila kuća" pojavili novi izrazi — kući (n) ština, odnosno kućište, dok je kosao sve više značio "prljava kuća", "prljava ruševina" i, konačno, bunjište, smetlište i sl.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>161</STARTINDEX>
+    <ENDINDEX>168</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6149</ID>
+    <SENTENCE>Zbog prljavih poslova i licemjerja vladajuće stranke, ta koncepcija nikada nije zaživjela.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>5</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6079</ID>
+    <SENTENCE>Budući da je kolekcija inspirirana prljavim stihovima skupine Semi Precious Weapons, nije čudo što su neki modeli zaplesali u toplesu.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10280</ID>
+    <SENTENCE>Moći će čitati novine pune prljavih detalja o sukobima urednika i novinarima, štrajkovima i promašenim potezima.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6135</ID>
+    <SENTENCE>Ako je vrlo prljav, treba ga prijeći snijegom od bjelanjka s nekoliko kapi octa (ali ne vinskog), ostaviti da se osuši, te potom ulaštiti komadom svile.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6035</ID>
+    <SENTENCE>Prljavu odjeću smjestite u košaru za prljavo rublje.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>Prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6179</ID>
+    <SENTENCE>Zahtjevu Europske Unije da Hrvatska u procesuiranje visokorangirane korupcije uključi i progon prljavog financiranja političkih stranaka i predizbornih kampanja Mladen Bajić mogao bi relativno lako udovoljiti.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10203</ID>
+    <SENTENCE>Iako se za tu funkciju vodila prava prljava kampanja pa se neke kandidate nastojalo diskvalificirati zbog "godine proizvodnje, umora materijala, jer su fah idioti", u HAK-u tvrde da na samoj sjednici nije bilo disonantnih tonova, već je protekla u "demokratskoj atmosferi".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6022</ID>
+    <SENTENCE>Jako se uvrijede kada im kažete da su prljavi ili zmazani i da je teško podnijeti njihov smrad, pogotovo ako se voze vlakom ili autobusom i to je za njih velika uvreda.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6052</ID>
+    <SENTENCE>Vojnicima u koloni, iscrpljenima od žeđi - a žeđ je teže podnositi od gladi - i ta prljava voda bila je dobra.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6174</ID>
+    <SENTENCE>Irene je nedužna no momci u plavom žele saznati što zna o prljavim poslovima policije i organiziranom kriminalu.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10243</ID>
+    <SENTENCE>Osim što je govorio o počecima HDSSB-a i prisjetio se kako je osnivao stranku, još jednom se žestoko obrušio na HDZ, a prozvao je i Jadranku Kosor čija je predsjednička kampanja, kaže, financirana prljavim novcem iz korupcijskih afera.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>197</STARTINDEX>
+    <ENDINDEX>205</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10269</ID>
+    <SENTENCE>Winona Ryder i Pamela Anderson dijele šesto mjesto zbog kleptomanije i iznošenja prljavog rublja u javnosti.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6191</ID>
+    <SENTENCE>Iako se to dogodilo prije jedanaest godina, kad god se pojavi ime Slavena Bilića, oni uredno iz "košare s prljavim rubljem", izvlače baš taj komad.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10258</ID>
+    <SENTENCE>Ta toboznja medunarodna "pravda" je prljava igra sa malima i nista drugo.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6096</ID>
+    <SENTENCE>Za čitavo to vrijeme vodila se i prljava kampanja u medijima, a najviše me boli to, da se ono što je možda upitno ili sporno, rješavalo na ulici, a ne unutar ove kuće.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6120</ID>
+    <SENTENCE>Čim je Josip Jelenu zamolio da mu opere nekoliko pari prljavih čarapa i gaća, Jelena se bez pogovora prihvatila posla, te je čak izrekla šalu na svoj račun: 'Baš sam kao prava pralja.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6020</ID>
+    <SENTENCE>(Naravno, autorica se ne pita o načinima življenja u izolaciji i prljavoj tajnovitosti !) "Oni hoće da to rade pred nama - reakcija je običnog čoveka koji je gotovo skloniji motkama i pesnicama govoriti na tu temu nego argumentovanim razgovorom.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10253</ID>
+    <SENTENCE>U dokumentarcu pod naslovom "Pod krinkom - prljave nogometne tajne" tvrdi se da je 18 sadašnjih i bivših trenera u Premier ligi sudjelovalo u nezakonitim radnjama, odnosno da su od menadžera raznih nogometaša primili mito kako bi ubrzali transfere igrača iz kluba u klub.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6024</ID>
+    <SENTENCE>Čehok je ujedno istaknuo kako je njegova najava nadstranačke, građanske liste izazvala mali psihološki šok, ali je negirao da postoje veći problemi odnosno zamjeranja unutar njegove stranke. Za kraj je najavio kako će kampanja biti skromna i afirmativna, no, s druge strane, od političkih konkurenata, očekuje prljavu kampanju.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>310</STARTINDEX>
+    <ENDINDEX>317</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6138</ID>
+    <SENTENCE>Vera Petrovna, koja je jednom bila kod njega, nije mogla vjerovati svojim očima: u stanu je imao samo stol i krevet s prljavim madracem koji su ostavili bivši stanari.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10241</ID>
+    <SENTENCE>Steve Jobs ne voli optiku, za njega je to previše "prljava" i mehanička solucija - rekao je: "Kome još treba Blu-Ray kada sada i YouTube podržava full-HD ?".</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6141</ID>
+    <SENTENCE>Updateova sam novi softver al ista stvar a leća kamere nije prljava.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6046</ID>
+    <SENTENCE>U svojoj naivnosti možda ste mislili da to znači svakodnevno se boriti s njegovim napornim navikama kao što je ostavljanje prljavog rublja sve po svuda.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10298</ID>
+    <SENTENCE>S njom sam se već susrela dva puta i svaki put ide na tu prljavu stranu, što ja uopće ne volim.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10275</ID>
+    <SENTENCE>HDZ je javno čist, a mi smo njegov ili ne znam čiji prljavi servis ", kazao je Bogišić.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10213</ID>
+    <SENTENCE>Mesićevi savjetnici smatraju da je niz novinskih natpisa o tome kako je Hrvatska vojska pred potpunim organizacijskim, kadrovskim i materijalnim kolapsom samo predigra za prljavu igru koju će HDZ voditi protiv njihova šefa u predizbornoj kampanji.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>171</STARTINDEX>
+    <ENDINDEX>178</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10277</ID>
+    <SENTENCE>Ovom tiskovnom konferencijom željeli smo se osvrnuti na početak prljave izborne kampanje HDSSB-a koja lažima i obmanama želi oblatiti gospodina Vladimira Šeksa koji stalni i svakodnevno brine o napretku Slavonije, Baranje pa tako i naše Virovitičko - podravske županije imputirajući mu ono što je prenio na tiskovnoj konferenciji 02.03.2005. na upit novinara u povodu početka proljetnog zasjedanja Sabora.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljave</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6018</ID>
+    <SENTENCE>"Međunarodna zajednica savršeno je sakrila svoje prljavo rublje iz misije u BiH i ne vjerujem da ćemo ikada biti u prilici uhititi generala Lewisa MacKenzieja." - dodao je Čavka.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6094</ID>
+    <SENTENCE>Odlučilo se da se prljavi dio tvornice premjesti u Gračac (obrada sirove kože).</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavi</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10233</ID>
+    <SENTENCE>Pitala sam veterinara da li netko tamo dolazi šetati te pse on je rekao da nitko tamo ne dolazi niti ih šeta niti čisti niti ništa ! Zatim sam pitala da li bi ja i moja priajteljica mogle volontirati kada nitko neće il i ne smije. On mi je rekao da bi to trebala pitati direktora te stanice. Ja sam ga htjela pitati ali ga nije bilo. Veterinar je rekao da ga nazovem radnim danom. I tako dok direktor ne da da netko volontira ti psi žive u groznim uvjetima. Bilo bi bolje da su na cesti nego u šinteraju po mom mišljenju. Tamo unutra stoji voda (prljava) i neka hrana u posudama no psi imaju prazne zdjelice.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>546</STARTINDEX>
+    <ENDINDEX>553</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6073</ID>
+    <SENTENCE>Prljava bomba je termin za radiološko oružje, tj. nenuklearnu bombu koja raspršuje radioaktivni materijal koji se nalazi unutar bombe.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>Prljava</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6165</ID>
+    <SENTENCE>Dok se susjedi s istoka naguravaju u prljavim tramvajima i trolejbusima, Zagrepčani muku muče s čudima tehnike u našim tramvajima jer ne znaju kako poništiti tramvajsku kartu.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6081</ID>
+    <SENTENCE>Upozorite dijete da mora prljavu odjeću odlagati u košaru za prljavo rublje.</SENTENCE>
+    <TARGETLEMMA>prljav</TARGETLEMMA>
+    <TARGETWORD>prljavo</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+</SET>

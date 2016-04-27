@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>8433</ID>
+    <SENTENCE>Rezultati su bili kristalno jasni: Volvo sigurnosni pojas u tri točke je pružio daleko najbolju zaštitu za sve putnike u vozilima.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8481</ID>
+    <SENTENCE>U području gospodarskog pojasa Hrvatska bi imala ekskluzivno pravo gospodarenja morem i podmorjem, te zaštite morskog okoliša.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2526</ID>
+    <SENTENCE>Prema riječima dalmatinskih vatrogasnih operativaca, Tomislava Vuke, Dražena Glavine, Ante Sanadera i Felicija Parčine, teškoće u borbi s plamenom se često javljaju uz granicu s BiH, ali nedavno potpisani sporazum sa susjednom državom jamči uspješno gašenje požara u tom pojasu.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>271</STARTINDEX>
+    <ENDINDEX>277</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2574</ID>
+    <SENTENCE>Radi se o osobi krupnije građe koja na sebi ima dvodijelno ronilačko odijelo "neopren" sivo s crnim, a oko struka pojas s olovom.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>119</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2516</ID>
+    <SENTENCE>Mišljenja su još uvijek podijeljena tko je tada zaslužio pojas, no suci su ga ostavili prvaku Machidi.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2545</ID>
+    <SENTENCE>U pravilu se više ne smije dozvoljavati nikakva ni društvena ni individualna, ni privredna ni stambena izgradnja na samoj obali, a nova turistička, hotelska i slična iz gradnja mora biti dovoljno povučena od obale da se osigura širok i kontinuirani javni rekreacijski i ozelenjeli pojas uzduž svih do sada još neizgrađenih obala mora.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>281</STARTINDEX>
+    <ENDINDEX>286</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2487</ID>
+    <SENTENCE>Drže se kao kod običnog kola za tkanice ili pojaseve.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojaseve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2443</ID>
+    <SENTENCE>Tenkovi su i oko grada Dir el Balaha te izbjegličkog kampa Bureij u središnjem dijelu pojasa, dok se sukobi vode u rubnim dijelovima grada Gaze.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2573</ID>
+    <SENTENCE>Zaštićeni pojas jedna je od važnijih tema pregovora HDZ-a, HSS-a i HSLS-a o formiranju koalicijske vlade, s obzirom na to da su HSS i HSLS tijekom predizborne kampanje inzistirali na neodgodivoj primjeni ZERP-a.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8439</ID>
+    <SENTENCE>Podsjetio je da je Sabor, nakon rasprave o HSP-ovom prijedlogu o proglašenju gospodarskog pojasa 2001., Vladu zadužio da u roku od devet mjeseci pripremi odluku o proglašenju gospodarskoga pojasa.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>189</STARTINDEX>
+    <ENDINDEX>195</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2465</ID>
+    <SENTENCE>Energija potrebna za brigu oko tog pojasa – kao i svih ostalih – dobivat će se iz čistih izvora, poput zraka i vode.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.03</SENSEID>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2541</ID>
+    <SENTENCE>VIŠE od 100.000 osoba očekuje se u nedjelju na prosvjedu u Jeruzalemu gdje će izraziti nezadovoljstvo planom izraelskog premijera Ariela Sharona o jednostranom povlačenju iz pojasa Gaze, kaže se u priopćenju što ga je u srijedeu objavila glavna izraelska doseljenička organizacija Yesha.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>174</STARTINDEX>
+    <ENDINDEX>180</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8453</ID>
+    <SENTENCE>Veliko prostranstvo i veliko bogatstvo A da se i ne govori o morskom gospodarskom pojasu koji Hrvatska, vjerojatno iz posebnih razloga, još nije proglasila.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8431</ID>
+    <SENTENCE>Studija je također otkrila da se globalne emisije ugljičnog dioksida zbog deforestacije smanjile za više od 25 posto od 2000. godine u odnosu na 1990-te godine, pretežno zbog smanjenja emisija CO2 uslijed deforestacije u tropskom pojasu.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>230</STARTINDEX>
+    <ENDINDEX>236</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2590</ID>
+    <SENTENCE>Reljef karakterizira vrlo razvedena obala, širok pojas zaleđa primorsko - dinarskog krša Zagore, brdsko - planinski prostor sa zavalom Plavno i plodnim poljima u kršu, Kninsko, Kosovo i Petrovo polje te sjevernom zaravni Bukovica s Prominom, kanjonom rijeka Krke i Čikole te Miljevcima.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2470</ID>
+    <SENTENCE>U međuvremenu, ratno stanje se još nije potpuno primirilo, pa pripadnici Fataha i Hamasa znaju izmijeniti vatru na ulicama gradova u pojasu Gaze i na Zapadnoj obali.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2511</ID>
+    <SENTENCE>Veleposlanih Hrvatske u Italiji, Tomislav Vidošević rekao je da o Zaštićenom ekološko - ribolovnom pojasu vodimo dijalog na središnjoj razini između vlada.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2420</ID>
+    <SENTENCE>Prilazimo im, zadižem donji dio pancir košulje i vadim CZ99 i stavljam ga sebi za pojas, zgodan trofej.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2469</ID>
+    <SENTENCE>Naslon sjedalice omogućava da se za to predviđenim utorom namjesti gornji dio pojasa vozila preko ključne kosti djeteta te pruža dodatnu zaštitu u slučaju sudara sa strane.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2570</ID>
+    <SENTENCE>Sistem za zaštitu od pada treba minimalno sadržavati jedan pojas za zaštitu od pada i jedan sistem za zaštitu od pada.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2483</ID>
+    <SENTENCE>Palestinski premijer Ismail Haniya, proglasio je tri dana nacionalne žalosti na području čitave zapadne obale i pojasa Gaze.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8492</ID>
+    <SENTENCE>Ova tri sustava nadopunjuju opremu prošlog Accorda koja uključuje sigurnosni pojas i limitator težine, dva prednja zračna jastuka, vozačev i suvozačev bočni zračni jastuk, zračne zavjese u potpunoj dužini i ISOFIX priključak i ograničenje za sigurnost dječjeg sjedala postavljenog na svim mjestima.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2584</ID>
+    <SENTENCE>Koncesija ima i uvjet - ustupanje dijela pojasa uz more za izgradnju javne šetnice što je zahtijevala Općina Lovran.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2431</ID>
+    <SENTENCE>Pojas Gaze pripada nečemu što baš i nije država, ali ima vladu, diplomatska predstavništva, čak i mjesto u Ujedinjenim narodima: Palestinskoj autonomiji.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>Pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8499</ID>
+    <SENTENCE>Na odlagalištu otpada iza protupožarnoga pojasa mora se urediti visoki zeleni pojas.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2509</ID>
+    <SENTENCE>Korištenje pojasa za trudnice također pruža veću udobnost u vožnji.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2523</ID>
+    <SENTENCE>- "Ne mogu, vilo, pojas mi je od majke."</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8443</ID>
+    <SENTENCE>Smatra se da najviše tehnički dostupne energije imaju pustinje u ekvatorskom pojasu u kojem se nalazi i sjeverni dio Afrike.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.03</SENSEID>
+      <SENSEID>N.004.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8444</ID>
+    <SENTENCE>Čuvari reda voze se bez svjetla, bez pojasa i s mobitelom u vožnji.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2561</ID>
+    <SENTENCE>Đapić navodi kako su "srećom", 2001. godine, kad je Hrvatska umjesto isključivog gospodarskog pojasa proglasila ZERP, kao dio gospodarskog pojasa, "UN i Vijeće sigurnosti to protumačili kao ` slabo poznavanje engleskog jezika ` pa je u katastar UN-a hrvatski ZERP zapravo upisan kao isključivi gospodarski pojas".</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>306</STARTINDEX>
+    <ENDINDEX>311</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2476</ID>
+    <SENTENCE>Vidjeli smo da razlozi zbog kojih Venecija nikad nije htjela opskrbiti dugi obalni pojas istočnog Jadrana solidnim cestama, nisu bili u inače poznatoj škrtosti i štedljivosti njenih duždeva.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2583</ID>
+    <SENTENCE>Zamljište u Ružićima, 10-tak km udaljenom od Labina, nalazi se uz asfaltnu cestu, a neposredno uz granicu parcele se proteže zeleni pojas.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2478</ID>
+    <SENTENCE>Fisher je rekao kako bi te razlike mogle pomoći znanstveniciam da doznaju više o pojasu, ali i da će možda morati preispitati svoje izračune.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.01</SENSEID>
+      <SENSEID>N.004.03</SENSEID>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.08</SENSEID>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2562</ID>
+    <SENTENCE>"Abdullah je pozvao međunarodnu zajednicu da preuzme svoje pravne i moralne obveze prema palestinskom narodu i zatraži od Izraela prestanak agresije na pojas gaze", kaže se u jordanskom priopćenju.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>152</STARTINDEX>
+    <ENDINDEX>157</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2412</ID>
+    <SENTENCE>Osim činjenice da je vrijedna šuma u priobalnom pojasu prodana po cijeni od svega 60 kuna za metar četvorni, insinuacije o sumnjivu poslu dodatno podgrijava okolnost da se nagodba dogovorila, navodno, mimo znanja lokalnih općinskih vlasti, te da je kupac tog zemljišta tvrtka kojoj je vlasnica supruga vječno suspektnog Blaža Petrovića, poslovnog čovjeka poznatijeg po svojim navodnim vezama sa zagrebačkim podzemljem, koji je, nota bene, nedavno od Zagrebačke banke u sudskom sporu "utjerao" pozamašnu svotu.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8452</ID>
+    <SENTENCE>- "A da gdje si ostavila zlatan pojas i križić na crvenoj vrpci ?" upita Relja, a oči mu se krijese.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8425</ID>
+    <SENTENCE>Za 7. Kup (viši žuti) pojas položili su: Maja-Marija Krčmar i Karlo Miloš.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8418</ID>
+    <SENTENCE>Sljedećeg vikenda judašima JK Zadar predstoji polaganje za učeničke pojaseve i s time će završiti prvi dio natjecateljskog perioda koji je bio dosta uspješan usprkos financijskim problemima koji su klub pratili tijekom cijele godine.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojaseve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.01</SENSEID>
+      <SENSEID>N.004.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2522</ID>
+    <SENTENCE>- Djes se, ba, tuc s Hasom, jadan bio, znas da on ima crni pojas peti dan ?</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2581</ID>
+    <SENTENCE>Pojasi možda označavaju područja u kojima se plinovi iz gornjih slojeva atmosfere počinju spuštati u donja, toplija područja, što za posljedicu ima isparavanje svijetlih oblaka, nakon čega do izražaja ponovno dolaze tamni oblaci.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>Pojasi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2419</ID>
+    <SENTENCE>Sustav FlexDoors je posebno praktičan za roditelje koji se moraju nagnuti u kabinu kako bi pričvrstili dječju sjedalicu ili zavezali djetetu sigurnosni pojas.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>152</STARTINDEX>
+    <ENDINDEX>157</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8497</ID>
+    <SENTENCE>Unutrašnjost automobila može se pohvaliti profiliranim trkaćim sjedalima opremljenim s križnim sigurnosnim pojasevima.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasevima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2462</ID>
+    <SENTENCE>S druge strane, mi u HSP-u vjerujemo kako će upravo novi potezi EU-a: opsežna reforma ribarstva unutar zemalja EU-a, ograničenja izlova ribe za čak 60 % te poticanje obalnih zemalja EU-a na proglašenje tzv. vanjskog pojasa (dodatnih 12 milja ispred 12 milja širokog teritorijalnog mora) radi boljeg nadzora ribarstva – biti dovoljno poticajni i za hrvatsku Vladu da podupre hitno proglašenje hrvatskoga gospodarskog pojasa u Jadranu.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>216</STARTINDEX>
+    <ENDINDEX>222</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8490</ID>
+    <SENTENCE>Nepotrebnim drži i korištenje pojasa prilikom vožnje u Gradu.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8493</ID>
+    <SENTENCE>Ta tri strateška položaja bila su utvrđena tijekom II. svjetskog rata od Talijana i Njemaca, koji su ih osigurali širokim miniranim pojasom.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2448</ID>
+    <SENTENCE>"Držim da je sad vrijeme da Hrvatska proglasi gospodarski pojas, za mlakost više nema mjesta u vanjskoj politici", zaključila je Adlešić.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2550</ID>
+    <SENTENCE>Cijene nafte skočile su u ponedjeljak za 12 posto nakon što je Izrael pokrenuo zračnu ofenzivu u pojasu Gaze, no brzo su kliznule nazad, te analitičari smatraju da postoji vrlo mali rizik da će sukob poremetiti opskrbu naftom iz Perzijskog zaljeva.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2566</ID>
+    <SENTENCE>Mladić iza sebe ima debeo prekršajni dosje koji sadrži 19 prijava: šest za brzu vožnju, pet za vožnju pod utjecajem alkohola, tri za vožnju bez vozačke dozvole, dvije za vožnju prije stjecanja vozačke i jednu za vožnju bez kacige i pojasa.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>232</STARTINDEX>
+    <ENDINDEX>238</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2414</ID>
+    <SENTENCE>Nekoliko godina nakon, 2003. uslijedila je borba za najboljeg boksača Europe u poluteškoj kategoriji kada je Drviš pobijedio Talijana Silvia Branca, te uzeo pojas najjačeg europskog boksača.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>157</STARTINDEX>
+    <ENDINDEX>162</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2600</ID>
+    <SENTENCE>Zastor se sastoji od dva platna, dvije pole sastavljene po duljini, u pojasu su gusti nabori, a platno je raspušteno i slobodno pada po krilima.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2500</ID>
+    <SENTENCE>Ujedno, nije teško predvidjeti da će takva koncentracija turističke izgradnje u priobalnom pojasu zasigurno uništiti male iznajmljivače čije su kuće, u pravilu, smještene dalje od mora.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2568</ID>
+    <SENTENCE>Slobodna je još u siječnju, uoči sastanka kvadrilaterale u Brdu kod Kranja, objavila provjerenu informaciju da je stav talijanske vlade i premijera Berlusconija kako bi Hrvatska trebala odustati od zaštićenog pojasa ili ga odgoditi dok se ne postigne multilateralni dogovor svih jadranskih država zainteresiranih za ekološko - ribolovna pitanja.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>209</STARTINDEX>
+    <ENDINDEX>215</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8473</ID>
+    <SENTENCE>Dok sam stajala uz rub pokušavajući se sabrati i nekako popeti na suho kao naručen došao je gumenjak sa spasiocima koji su patrolirali obalnim pojasom.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>143</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8448</ID>
+    <SENTENCE>Tu je zapisano da je 21. veljače 1444. godine Gojslav Orlović, zvani Petranović, ostavio svoj pojas da se proda pa da od dobitka dva dijela pripadnu crkvi u Ljubuškom, a treći dio sv. Vidu.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8454</ID>
+    <SENTENCE>SPLIT - Kako bi spriječila daljnje širenje građevinskih područja na Jadranu i zaustavila njegovu sve očitiju "betonizaciju", Vlada će na jednoj od svojih idućih sjednica, najvjerojatnije već za sedam dana, donijeti uredbu o uređenju i zaštiti obalnog područja kojom se zabranjuje svaka nova gradnja u pojasu od najmanje stotinu metara od mora, dok će se i za gradnju u puno širem pojasu (čak do 150 metara od obale) propisati puno stroži uvjeti.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>301</STARTINDEX>
+    <ENDINDEX>307</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2515</ID>
+    <SENTENCE>Pojas se potom otkinuo, a djevojka je završila u jarku kraj ceste.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>Pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2461</ID>
+    <SENTENCE>U Trogiru (Geić i Slade Šilović) reja je "pojas koji određuje koliko brod smije gaziti".</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2551</ID>
+    <SENTENCE>Prosvjednici su napravili ljudski lanac od Jeruzalema do pojasa Gaze, u kojem 8.000 židovskih naseljenika živi među 1,3 milijuna Palestinaca.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2579</ID>
+    <SENTENCE>Jedan projektil oštetio je kuću u kibucu nedaleko od pojasa Gaze.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2578</ID>
+    <SENTENCE>"Libanon ne želi biti uvučen u sukob (u pojasu Gaze) i nismo dobili nikakav znak Hezbollaha koji bi upućivao na to da riskira upletanje zemlje u taj rat", rekao je Mitri novinarima.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2409</ID>
+    <SENTENCE>ZAGREB - Desetci tisuća ljudi prosvjedovalo je u petak u Egiptu, Jordanu i Iraku protiv izraelskih napada na pojas Gaze.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2427</ID>
+    <SENTENCE>Rusija je službenu utakmicu za Arktik počela 2001., kada je zatražila od UN-a proširenje ekonomskog pojasa, odnosno pomicanje granica unutar kojih ima isključivo pravo crpiti prirodna bogatstva.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8432</ID>
+    <SENTENCE>Hvali se svojim crnim pojasom a djelovao je kao obaviještajac KOSa dok je hrvatska mladost ginula u borbi za goli život naše Domovine.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8469</ID>
+    <SENTENCE>Po geografskom i prirodno smještaju Varaždinska županija nalazi se u rubnom pojasu panonskog područja, pa je karakteriziraju tri reljefna područja: na srednjem dijelu ravničarski, a južni i zapadni su brežuljkasti s gorskim masivima.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2559</ID>
+    <SENTENCE>HSS-ova najava proglašenja gospodarskog pojasa puki je predizborni potez koji ne vodi računa ni o elementarnoj pristojnosti.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8471</ID>
+    <SENTENCE>Opća odredba je i dalje da se dijete mlađe od 5 godina prevozi na stražnjim sjedalima i to u posebnoj sigurnosnoj sjedalici, koja je za vozilo pričvršćena sigurnosnim pojasom vozila ili posebnim kopčama u vozilu.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>167</STARTINDEX>
+    <ENDINDEX>174</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8411</ID>
+    <SENTENCE>To nam zorno ilustrira poznati "slučaj" Rockall iz osamdesetih godina minuloga stoljeća kada je zahvaljujući tome što je jedan greben površine 74 metra četvorna proglasila otokom Velika Britanija kao isključivi geografski pojas dobila znatan dio sjevernog Atlantika.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>222</STARTINDEX>
+    <ENDINDEX>227</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8415</ID>
+    <SENTENCE>S obzirom na njegov neobuzdani karakter kojeg pokazuje na travnjacima, tako je i u ovom smislu bio oštar i vrlo često je napadao ispod pojasa pišući o svom viđenju svega u nogometu.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2484</ID>
+    <SENTENCE>Kao sigurnosni pojas može vam poslužiti budući tata.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2450</ID>
+    <SENTENCE>Na pitanje zastupnika socijalnih demokrata (SD) Franca Jurija kad će Slovenija u UN-u notificirati svoj zakon o epikontinentalnom pojasu Rupel je rekao da se spomenuti zakon nalazi u fazi prevođenja i da će biti notificiran idućeg mjeseca.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8441</ID>
+    <SENTENCE>Priopćila mu je da ima malignu bolest, no da ona ima poseban medicinski pojas koji ga može izliječiti.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.01</SENSEID>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2597</ID>
+    <SENTENCE>- Kad vidim slučaj male Malte, koja je danas članica EU-a, a koja je prilikom ulaska uspjela osigurati za svoje ribare, ne pojas od 12 Nm, već prošireni ribarski pojas od 25 Nm, znam da se pametnim i stručnim djelovanjem može puno toga uraditi.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>162</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2527</ID>
+    <SENTENCE>Prebrza vožnja, neumjereno konzumiranje alkohola, korištenje mobitela i nekorištenje pojasa su ključni čimbenici koji utječu na velik broj žrtava i nesreća u prometu širom svijeta.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2441</ID>
+    <SENTENCE>Između tih pojasa dolazi do izmjene topline, a to u 80 % slučajeva obavljaju zračne mase, odnosno primarne zračne struje koje imaju golemo klimatsko značenje.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2572</ID>
+    <SENTENCE>Prvu borbu je uspješno odradio protiv Britanca Mustaphe Al Turka u njemačkom Koelnu, da bi u međuvremenu potpisao novi, vrlo unosan, ugovor na tri dodatna meča najavivši pohod na teškaški pojas.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>188</STARTINDEX>
+    <ENDINDEX>193</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2580</ID>
+    <SENTENCE>U Dvigrad ulazimo kroz gradska vrata koja i danas stoje, te stižemo u potgrađe koje je bilo zaštićeno prvim pojasom gradskih zidina.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2596</ID>
+    <SENTENCE>Kao što je odgodom zaštićenog ekološko - ribolovnog pojasa (ZERP) "kupljen" status kandidata na Europskom vijeću, za daljnju talijansku podršku Sanader i Žužul će morati riješiti pitanje obeštećenja esulske imovine, dakako opet po receptu iz Rima.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2517</ID>
+    <SENTENCE>A onda je, suočen sa sve glasnijim negodovanjima zbog toga što Hrvatska nije spremna za primjenu pojasa, trijumfalno popratio informaciju da je talijanska koćarica privedena u blizi Palagruže.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2479</ID>
+    <SENTENCE>Na izvanrednom servisu biti će zamijenjeno ležište pojasa, koje se pokazalo neispravnim.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+      <SENSEID>N.004.10</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8461</ID>
+    <SENTENCE>Prema njezinim riječima, za Alija Husseina al Shimerija se udala samo dan prije dolaska u Jordan, a za planove o napadu je doznala tek kada ju je prisilio da na sebe stavi smrtonosni pojas.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>183</STARTINDEX>
+    <ENDINDEX>188</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2417</ID>
+    <SENTENCE>S obzirom na to da je ribolovna politika u domeni Europske unije, Slovenija bi pitanje ribolovnog pojasa rješavala u okviru EU-a, dok bi ekološki ili arheološki pojas pravno gledajući mogla proglasiti i sama iako bi bilo poželjno da se o tome dogovara sa susjednim državama, drži Pogačnik.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>161</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2480</ID>
+    <SENTENCE>Mogao je i bez toga '' babe '', pomislila je vezujući sigurnosni pojas i gotovo neprimjetno se namrštivši.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2428</ID>
+    <SENTENCE>Strah me nokauta jer Hardy ima 'taj' udarac, no nikad nisam bio spremniji i pojas će ostati kod mene.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.01</SENSEID>
+      <SENSEID>N.004.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8476</ID>
+    <SENTENCE>Riječ je o misi iz veljače 120. u Porcijunkuli na kojoj je Franjo čuo riječi evanđelja kojima Isus poziva svoje učenike da idu po svijetu, propovijedaju Radosnu vijest, a da pri tome ne nose ništa i ne oslanjaju se ni na koga osim na božju providnost: "Besplatno primiste, besplatno dajte. Ne stječite zlata, ni srebra, ni mjedi sebi u pojaseve, ni putne torbe, ni dviju haljina, ni obuće, ni štapa. Ta vrijedan je radnik plaće svoje."</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojaseve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>336</STARTINDEX>
+    <ENDINDEX>344</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8404</ID>
+    <SENTENCE>Dajemo potporu akciji rušenja objekata koji su izgrađeni nakon Uredbe o zaštićenom obalnom pojasu iz 2004., ali ne i za rušenje objekata izgrađenih prije te Uredbe jer država je kriva za njihovu gradnju, a općina nije imala nikakve ovlasti u tom segmentu.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2434</ID>
+    <SENTENCE>U Brazilu, određeni koštci koji obuhvaćaju koljena i gležnjeve su dozvoljena samo u natjecanjima od smeđeg pojasa na dalje, a natjecatelji sa nižim pojasevima će biti diskvalificirani ako uporabe te poteze.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2492</ID>
+    <SENTENCE>"ZERP je jedna varijanta gospodarskog pojasa. Razlike između ZERP-a i gospodarskog pojasa su minimalne", tvrdi Rudolf, dodajući da u tom morskom pojasu jedino hrvatski ribari smiju ribariti, jedino Hrvatska može donositi propise o zaštiti i očuvanju ribljeg bogatstva, propise o zaštiti osjetljivih područja mora od onečišćenja, odobravati postavljanje platformi i drugih naprava u moru.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2588</ID>
+    <SENTENCE>Neslužbeno, počelo je tko zna kad, vjerojatno znatno prije nego je pravaš Tadić poželio za nuklearni reaktor NE Krško vezati neke doministre, HDZ-ova Jadranka Kosor zavapila kako želi veće porodiljne naknade, a HSS-ovci izmislili ekološki i tome slično pojas na Jadranu.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>253</STARTINDEX>
+    <ENDINDEX>258</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2425</ID>
+    <SENTENCE>Stavite li u rikverc, retrovizori se zakreću kako bi imali najbolji pogled prema nazad, kada upalite vozilo automobil vam dodaje pojas što je vrlo korisno zbog pomaknutog B-stupa unazad što je uobičajeno u coupe izvedbama.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8421</ID>
+    <SENTENCE>Kombinira dvostruke zatezače pojasa na prednjim sjedalima (koji ograničavaju pomicanje tijela prema naprijed, zatežući pojas na razini prsnog koša i zdjelice), graničnike zatezne sile na svim sjedalima (koji smanjuju pritisak sigurnosnog pojasa na prsni koš) i prilagodljive dvovolumenske zračne jastuke s dva pirotehnička punjenja (koji se napuhavaju do potrebne razine i amortiziraju udarac).</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>238</STARTINDEX>
+    <ENDINDEX>244</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2542</ID>
+    <SENTENCE>GAZA - Dvojica dječaka, koja su se skrivala u UN-ovoj školi u gradu Beit Lahiyi, ubijena su u subotu u izraelskom bombardiranju pojasa Gaze.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2401</ID>
+    <SENTENCE>Uspio je otkopčati sigurnosne pojaseve i izvući se iz sjedalice.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojaseve</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2423</ID>
+    <SENTENCE>"Da, nije kao u drugim borilačkim sportovima. Ovdje je potrebno dvije, tri godine treniranja da bi stigao do plavog pojasa. Posebno za djevojke kojima je još teže. Sigurno da mi je pojas i veliki poticaj."</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>181</STARTINDEX>
+    <ENDINDEX>186</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2530</ID>
+    <SENTENCE>Od krupnijih projekata izdvaja se razminiranje 55 hekatara graničnog pojasa uz Savu, zajednički projekt razminiranja općina Nuštar i Stari Jankovci, gdje je razminirano 68 hektara, i općina Trpinja, Tordinci i Markušica, gdje je od mina očišćeno 33 hektara.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8422</ID>
+    <SENTENCE>Štoviše, Crnogorci su takav svoj stav potkrijepili i pozivanjem na Konvenciju UN-a o pravu mora u kojoj, osim što se obalnim državama daje pravo na proglašenje gospodarskog pojasa, isto se tako one upućuju na suradnju i dogovor sa susjednim državama4 prilikom donošenja odluke o proširenju jurisdikcije na moru.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>173</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2491</ID>
+    <SENTENCE>Ovaj izduženi, relativno uski, priobalno kopneni pojas u podnožju krških dinarskih ogranaka i nevisokih planina proširuje se na istoku u manje krško Konavosko polje, pa obuhvaća i planinu Sniježnicu s čitavom brdskom površinom i tu najdublje ulazi u kopneni dio.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2552</ID>
+    <SENTENCE>U umjerenim geografskim širinama (300 - 600) pojas zapadnih vjetrova je poremećen ciklonama i anticiklonama.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.03</SENSEID>
+      <SENSEID>N.004.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2447</ID>
+    <SENTENCE>Liječnici savjetuju da sigurnosni pojas cijelo vrijeme bude pričvršćen, i to lagano iznad vaših natkoljenica i uže oko trbuha.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8440</ID>
+    <SENTENCE>Takva odluka WBA-a povlači za sobom i vjerojatno otkazivanje druge borbe, u kojoj se Čagajev 20. lipnja u Gelsenkirchenu trebao boriti protiv Ukrajinca Vladimira Klička (33), vlasnika pojasa po WBO i IBF verziji.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojasa</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>184</STARTINDEX>
+    <ENDINDEX>190</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2556</ID>
+    <SENTENCE>- Zato što je Italija ove godine bez ikakvih problema proglasila, ni sa kim se ne konzultirajući, svoj ekološki pojas do sredine Jadrana.</SENTENCE>
+    <TARGETLEMMA>pojas</TARGETLEMMA>
+    <TARGETWORD>pojas</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.004.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+</SET>

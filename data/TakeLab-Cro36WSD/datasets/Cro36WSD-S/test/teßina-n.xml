@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>5632</ID>
+    <SENTENCE>U ovim su tablicama dane poželjne težine kojima se određuju osobe koje imaju najmanju vjerojatnost smrtnosti pa su na osnovu toga ove težine s vremenom povezane s tzv. idealnom težinom iako se ona u samim tablicama ne spominje.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>177</STARTINDEX>
+    <ENDINDEX>184</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5682</ID>
+    <SENTENCE>Najveći broj starijih bolesnika s karcinomom prostate nema nikakve simptome, a kada postane manifestan očituje se znakovima opstruktivne uropatije i / ili kod pojave udaljenih metastaza može se manifestirati gubitkom težine, bolovima u kostima ili neurološkim simptomima.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>217</STARTINDEX>
+    <ENDINDEX>223</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10053</ID>
+    <SENTENCE>- Izjave koje daje predsjednik jedne države imaju jednaku težinu, bez obzira jesu li u izrečene u službenom ili neslužbenom posjetu.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5714</ID>
+    <SENTENCE>S obzirom na težinu nesreća koje svojim ishodom uvelike utječu na obitelji i prijatelje stradalih, dvostruko povećanje kazni pravedno je rješenje slažu se svi iz američkog ministarstva pravosuđa.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5721</ID>
+    <SENTENCE>Otvorite se za nove mogućnost, osim što ćete činiti dobro za svoje tijelo, stvorit ćete i nova poznanstva s ljudima u kojima možete pronaći motivaciju za zadržavanje trenutne tjelesne težine.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>184</STARTINDEX>
+    <ENDINDEX>190</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10033</ID>
+    <SENTENCE>Zatim kreće nemilosrdno na konkurenta mu Antu Đapića, kod kojega je očito smeta njegova pretjerana težina.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5624</ID>
+    <SENTENCE>Težina bolesti i simptomi ovise i o vrsti i patogenosti uzročnika, te općoj i specifičnoj otpornosti čovjeka, a pojavljuju se u čitavom spektru, od konjunktivitisa, hunjavice i začepljenosti nosa, do grlobolje, promuklosti i kašlja.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>Težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10074</ID>
+    <SENTENCE>U offline igranju možete staviti ukupno 15 botova i birat im težinu.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5778</ID>
+    <SENTENCE>Osoba s prekomjernom tjelesnom težinom je rijetko zabrinuta zbog povećane opasnosti da oboli od teške bolesti, nego traži liječničku pomoć zbog niza sasvim određenih poteškoća.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5799</ID>
+    <SENTENCE>Jutro je bilo prepuno rastanaka, djeca su se igrala na mnogim brodovima, žene i cure sudjeluju u pripremi brodova, ali sve je izgledalo kao nekakva uhodana priča, bez neke velike težine.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>185</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10063</ID>
+    <SENTENCE>Indeks tjelesne mase (BMI) dobije se kad se težina podijeli s kvadratom visine u metrima.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5763</ID>
+    <SENTENCE>Kao i kod svake vježbe gdje se radi s težinom vlastitog tijela, mnogi od mišića stabilizatora su uključeni, što je čini efektnijom i smanjuje rizik od ozljede.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5618</ID>
+    <SENTENCE>Na subjektivnom području, u savjesti pojedinca, pitanje težine odgovornosti i grijeha ovisi o razini moralne zrelosti - svijesti i slobode, moralne jakosti dotične osobe.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10013</ID>
+    <SENTENCE>Uspostavljanje kontrole nad emotivnim jedenjem jedan je od najvažnijih čimbenika u postizanju dugotrajnog održavanja dijetom postignute smanjene težine.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10097</ID>
+    <SENTENCE>B simptomi su: gubitak na tjelesnoj težini, izraziti svrbež kože, temperatura preko 38 i obilno noćno znojenje (tako da se po noći morate presvlačiti).</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5660</ID>
+    <SENTENCE>Mi smo svjesni težine situacije i spremni smo, kao i 3. siječnja 2000., zasukati rukave i pokazati da Hrvatska može krupnim koracima naprijed.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5605</ID>
+    <SENTENCE>Oko 90 posto djece začete umjetnom oplodnjom rađa se zdravo i bez problema, no 10 posto je zabilježenih prijevremenih poroda, prirođenih mana i nedovoljnom težinom koja u 30 posto slučajeva donosi razvojne probleme, kod te djece je dvostruko više komplikacija nego s ostalom novorođenčadi.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>156</STARTINDEX>
+    <ENDINDEX>163</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5613</ID>
+    <SENTENCE>Zagreb konkurenciju ne može stvoriti sam, sve je stvar opredjeljenja potencijalne konkurencije, a ulazak u eurokupove je samo pokriće za malu investiciju koja objektivno nema težinu na europskoj razini.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>175</STARTINDEX>
+    <ENDINDEX>181</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10078</ID>
+    <SENTENCE>Miš namjerno ima malu težinu pogodniju RTS igrama, a cijena mu iznosi 79,99 eura.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5796</ID>
+    <SENTENCE>Poznavatelji prilika u Savezu i reprezentaciji, uvjereni su kako je razlog zbog kojeg je na OI išla Martina, a ne Ana, taj što je "Dubrava", zagrebački klub kojeg je Zubčić članica, mnogo veće specifične težine nego "Marjan" iz Splita, za koji nastupa Zaninović.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>204</STARTINDEX>
+    <ENDINDEX>210</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5704</ID>
+    <SENTENCE>U reprezentaciji je postao standardni član prve 11-orice, u Heerenveenu izgradio status najveće zvijezde, a u relevantnim europskim klubovima njegovo je ime dobilo "posebnu težinu".</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>173</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10066</ID>
+    <SENTENCE>Osobine jedrilica poboljšane su smanjenjem njihove težine, ali kako problem čvrstoće nije zadovoljavao pretjerivanja u tom pravcu, konstruktori su bili prisiljeni posvetiti više pažnje aerodinamičkom usavršavanju jedrilica što je imalo za posljedicu osjetno poboljšanje njihovih osobina.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5703</ID>
+    <SENTENCE>Adriano je tada komentirao i medijske napise o vlastitoj prekomjernoj težini, kao i one o depresiji i alkoholizmu.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10077</ID>
+    <SENTENCE>Čak njih 40 posto uvjereno je da je predebelo, no prema utvrđenim znanstvenim standardima tek nekolicina je zaista bila prekomjerne težine.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5700</ID>
+    <SENTENCE>U slučajevima probavnih smetnji (proljev i gubitak tjelesne težine) potrebno bi bilo odnijeti stolicu na koprološku pretragu kod veterinara te prema dijagnozi odrediti najprikladniji način tretiranja određenog stanja.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10100</ID>
+    <SENTENCE>Prekomjerna tjelesna težina je vrlo čest zdravstveni problem pasa i mačaka: do 40 % svih pasa i mačaka su preteški.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5787</ID>
+    <SENTENCE>Stoga cure koje nemaju idealnu težinu i predispozicije tijela prilagođene klasičnom repertoaru, mogu se odlično uklopiti u okvire jednog neoklasičnog modernog izražaja plesa.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10050</ID>
+    <SENTENCE>Žena visoka 170 centimetara i teška 70 kilograma koja ima 82 posto mišića i 18 posto masnih naslaga sagorjet će više kalorija nego žena iste visine i težine koja ima, recimo, 78 posto mišića i 22 posto masnih naslaga.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>156</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5793</ID>
+    <SENTENCE>Bašić je svojedobno bio među najboljim vratarima svijeta, i kad je o njima riječ, njegova ocjena ima težinu.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5795</ID>
+    <SENTENCE>Siguran sam da je možda 10 % ljudi ovdje s foruma prije obračalo pažnju na ove stvari o kojima raspravljamo, a ostalih 90 % se uopče nije zamaralo sa nekakvim glupostima kao što su težina felge plus težina gume plus težina upumpanog zraka i njihova veza sa većom potrošnjom, pojačanim lupanjem ovjesa na grabama, bržim razjebavanjem amortizera, lošijim performansama i sl.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>181</STARTINDEX>
+    <ENDINDEX>187</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5685</ID>
+    <SENTENCE>Carol Yager iz Beechera u Michiganu smatra se najtežom ženom ikad, budući da je dotjerala do 54 kilograma tjelesne težine.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5614</ID>
+    <SENTENCE>Krmače ove pasmine oprase prosječno po leglu od 7 do 8 prasadi, prosječne težine od 1,27 do 1,52 kg.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10067</ID>
+    <SENTENCE>Zanimljivo je kako su te djevojčice uglavnom normalne težine, a samo nekoliko bi ih uistinu trebalo smršavjeti zbog pretilosti.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5759</ID>
+    <SENTENCE>Usporedno s porastom tjelesne težine i povećanjem broja masnih stanica povećava se i ukupni otpor ulaska glukoze u stanice pa je potrebna i veća količina inzulina koja će omogućiti ulazak glukoze u te stanice.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5634</ID>
+    <SENTENCE>Prema novom, sada važećem zakonu (od 01.01.2005.) postoje dva različita koeficijenta osobnog odbitka / neoporezivog dohotka za osobe / uzdržavane članove obitelji s invaliditetom ovisno o težini invaliditeta.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>188</STARTINDEX>
+    <ENDINDEX>194</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5752</ID>
+    <SENTENCE>Gubitak tjelesne težine u žena sa PCOS je težak i često neuspješan, jer njihov metabolizam otežava gubitak.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10058</ID>
+    <SENTENCE>Ali čak da je i više od toga - to vladu ne dovodi u pitanje, vjerojatno samo mijenja specifičnu težinu trojke unutar šestorke.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10064</ID>
+    <SENTENCE>Studija je zaključila kako pretile osobe u većoj mjeri od onih normalne tjelesne težine smatraju da redovito vježbanje poboljšava izgled i podiže samopouzdanje.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5652</ID>
+    <SENTENCE>Da bi onaj prijevod iz prvog odlomka dobio na težini, pobrinuo se istražni sudac Županijskog suda u Zagrebu, koji je u najboljoj birokratskoj maniri odrezao bivšem premijeru 30 dana pritvora, s obrazloženjem da postoji opasnost bijega utjecaja na svjedoke ?!?!?!?</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5745</ID>
+    <SENTENCE>Friščić je rekao da mnogi ističu svoju težinu, pa i oni mogu reći da je 164.000 građana Hrvatske zaokružilo listu HSS-HSLS i da u kampanji nisu građanima govorili o tome koja ministarstva žele, te žele li ili ne funkcije potpredsjednika Vlade, nego su govorili o svojem programu i koliko za njega treba osigurati sredstava.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5773</ID>
+    <SENTENCE>Nesigurnost u zadržavanje radnog mjesta također je povezana s višim rizikom od kardiovaskularnih problema poput visokog krvnog tlaka, povišenog kolesterola i prekomjerne težine, naglašavaju autori tog istraživanja predstavljenog na godišnjoj konferenciji "American Heart Association" proteklog vikenda u Chicagu.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>170</STARTINDEX>
+    <ENDINDEX>176</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5606</ID>
+    <SENTENCE>Inače Balance Board služi kao kontrolor za upravljanje igricama, ali i kao senzor koji kontrolira položaj vašeg tijela i težinu.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5753</ID>
+    <SENTENCE>Izvor blizak pjevačici kaže kako njezina težina nema veze s trudnoćom, već s pripisanim lijekovima koje mora piti otkako je bila u rehabilitacijskom centru.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5691</ID>
+    <SENTENCE>To povečava stabilnost modela i prijenos težine je zbog toga jednakomjerniji.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5620</ID>
+    <SENTENCE>S dojenjem je potrebno početi što prije nakon poroda i prve dane dojiti što češće jer se time poveća stvaranje mlijeka i pad težine je manji.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5701</ID>
+    <SENTENCE>I pored pozamašne težine Th ! nk je iznenađujuće živahan, što se i traži od gradskog automobila.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5789</ID>
+    <SENTENCE>Dvije studije upućuju da pojedinci, čija težina nije u potpunosti vraćena na normalu na kraju bolničkog liječenja, imaju manje šanse za povoljni ishod bolesti nego oni koji vrate normalnu tjelesnu težinu.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5625</ID>
+    <SENTENCE>Vlada je prihvatila i prijedlog Ministarstva poljoprivrede da provede i s 5 milijuna kuna (2,50 kuna po kilogramu žive težine) sufinancira interventni otkup svinjskog mesa, koje je zbog bojazni od svinjske kuge ostalo na tržištu.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5631</ID>
+    <SENTENCE>Istraživači su nakon toga svakoj grupi mjerili razna metabolička svojstva, uključujući i tjelesnu težinu.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5767</ID>
+    <SENTENCE>Molly Luft je bila poznata po svojoj tjelesnoj težini, sada zatvara svoj bordel i odlazi u dom za starije.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10029</ID>
+    <SENTENCE>Smatra se da kombinacija dijete (sa smanjenim unosom kalorija) i povećane tjelesne aktivnosti dovodi do većeg smanjenja težine nego sama dijeta ili sama tjelesna aktivnost.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5742</ID>
+    <SENTENCE>Prvi tjedan bit će posvećen gubljenju težine i fitnessu, a u kombinaciji s wellnessom, jogom i vježbom, sudionike će se podučavati pravilnoj prehrani.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5673</ID>
+    <SENTENCE>Bi li imala veću težinu da je došla u ona olovna osječka vremena kada se humanost prema drugačijima mogla tražiti svijećom ?</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5702</ID>
+    <SENTENCE>Kod intenzivnog je liječenja dobivanje na težini uobičajeno, zbog čeka su pacijenti izloženi riziku visokog krvnog tlaka i nezdravih koncentracija kolesterola.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5790</ID>
+    <SENTENCE>Jednom kad opet počnete piti tekućinu težina će se vratiti.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5740</ID>
+    <SENTENCE>Kod nekih vrsta piva pjena je tako čvrsta da može izdržati težinu kovanog novčića.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5781</ID>
+    <SENTENCE>Jednostavan ručni mehanizam za pomicanje leća osigurava brzu i učinkovitu instalaciju u svim situacijama, a da zadržava minimalnu težinu i složenost, čime dodatno poboljšava pouzdanost.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5761</ID>
+    <SENTENCE>Neka Vas vodi nekoliko kriterija za izbor električnih motora kao što su težina ; veličina i učestalost tj. broj ciklusa rada u 24 sata.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5794</ID>
+    <SENTENCE>U istraživanju koje je provela International Obesity Task Force je utvrđeno da se trećina svih smrtnih slučajeva može pripisati pretjeranoj tjelesnoj težini, nedostatku fizičke aktivnosti i pušenju.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>156</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5633</ID>
+    <SENTENCE>Hrvatska i Slovenija imaju podjednaki udio pretilih (oko 17 posto) te oko 30 posto s prekomjernom težinom.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5715</ID>
+    <SENTENCE>Najveću težinu ima upozorenje guvernera HNB-a Željka Rohatinskog da Vlada ne računa s time da će sve svoje manjkove zadovoljiti novcem iz deviznih rezervi te da mora poraditi na troškovima, piše Večernji list.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10035</ID>
+    <SENTENCE>Potreba za slatkim nakon zimskog obroka dovodi do povećanja tjelesne težine u zimskim mjesecima, jer zimski jelovnik je uravnoteženog i niskog glikemijskog indeksa koji organizmu daje osjećaj sitosti, ali ne i veliki unos kalorija.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5746</ID>
+    <SENTENCE>'Ona nije povukla svoju izjavu, ali njezine riječi nisu imale dokaznu težinu', objasnio je Pajić zašto je njezin iskaz pravno ignoriran.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5775</ID>
+    <SENTENCE>Izgrađen je od inovativnog Deltex kompozita PLW-a, što pridonosi njegovoj minimalnoj težini.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5765</ID>
+    <SENTENCE>Kako bi se održala idealna tjelesna težina steriliziranih mačaka Royal Canin je razvio nutricionistički program čiji su temelji visoki sadržaj kvalitetnih proteina te reduciran sadržaj masti i škroba.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5730</ID>
+    <SENTENCE>Hemodijaliziranim bolesnicima za održavanje neutralne ravnoteže dušika potrebno je minimalno 1,2 g bjelenčevina po kilogramu tjelesne težine dnevno.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>140</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5670</ID>
+    <SENTENCE>Ipak mnogo je učestaliji kronični oblik glaukoma čiji su simptomi postepeni i mnogo manje jasni (povremeno crvenilo oka, osjećaj težine oka, povremena zamućenja vida, postepen gubitak perifernog vida, sporija adaptacija na mrak, teškoce u fokusiranju).</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5722</ID>
+    <SENTENCE>Danas je mnogo komada vrtnog namještaja izrađeno i od rukom kovanog aluminija koje nema veliku težinu i stoga je lako prenosivo, što je činjenica koju se nikako ne smije zanemariti, pogotovo ako ste tip osobe kojoj sve brzo dosadi i stalno težite promjenama.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5684</ID>
+    <SENTENCE>"Stav udruge po tom pitanju nema jako veliku težinu jer je konačna odluka opet na glavnim tijelima HNS-a, izvršnom odboru te odjelu za licenciranje. Znajući kakvo ozračje vlada prvenstveno u odjelu za licenciranje i odjelu za sigurnost, i dalje mislim da su naše šanse za igranje na Verudi minimalne, jedan posto", ustvrdio je Jergović.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5769</ID>
+    <SENTENCE>Zbog toga je ubrzo uvedeno da svaka kovanica mora imati otisnute tri informacije - težinu kovanice, finoća metala, i oznaka kovnice koja je izradila kovanicu.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5764</ID>
+    <SENTENCE>To mi je jasno, nego zanima me odnos težine gradiva na TVZ-u i specijalističkog studija !</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10042</ID>
+    <SENTENCE>Do sada smo imali dobra iskustva s ovim altimetrima, primjerice razlike u mjerenju dubine u Slovačkoj jami, Lukinoj jami, Patkovom Guštu i drugima bile su između 5 i 10 m. Osim toga izmjerena dubina Stupine jame i ona koju pokazuju altimetri bila je približno jednaka do dna dvjestometarske vertikale na – 267 m. Jasno je da ova mjerenja ne mogu imati težinu poligonskih, ali upućuju na mogućnost pogreške koja je nastala između – 267 m i dna, najvjerojatnije u meandru koji se na nacrtu čini strmijim negoli u prirodi.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>352</STARTINDEX>
+    <ENDINDEX>358</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5688</ID>
+    <SENTENCE>Maksimalno raste do 60 centimetara uz težinu od 3 kilograma, dok prosječni primjerci rijetko idu preko 25 centimetara a teže oko 15 dekagrama.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5617</ID>
+    <SENTENCE>Zbog njihove potrebe za udobnošću vrlo lako se ulijene, a kako su veliki gurmani često puta im natprosječna tjelesna težina predstavlja problem.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5676</ID>
+    <SENTENCE>Istraživanje je pokrilo više od 280.000 slučajeva iz Sjeverne Amerike, Europe, Australije i Azije, a subjekti koji su bili i pretili i normalne težine praćeni su u rasponu od 9 do 15 godina.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>144</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10045</ID>
+    <SENTENCE>Ova faza predstavlja očuvanje postignute težine, a trebala bi trajati cijeli život.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5734</ID>
+    <SENTENCE>Tako ćete rasporediti težinu na čitavi prednji dio stopala.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10032</ID>
+    <SENTENCE>Za bebe lakše od 9 kg i mlađe od godinu dana, postavite autosjedalicu na stražnje sjedalo tako da je beba okrenuta prema stražnjem dijelu automobila ; kad vaša beba premaši tu težinu i dob, možete okrenuti sjedalo tako da beba bude okrenuta prema prednjem dijelu automobila.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>176</STARTINDEX>
+    <ENDINDEX>182</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10005</ID>
+    <SENTENCE>Odvjetnik Domagoja Margetića objasnio je kako je tijekom postupka Tužiteljstvo Sudu predočilo preko 30-ak konkretnih i preciznih dokaza koji imaju svoju pravnu težinu, međutim rekao je i da je tim obrane predočio tri čvrsta dokaza temeljem kojih sudsko vijeće može uvidjeti da je Margetić bio u "opravdanoj stvarnoj zabludi".</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>160</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10038</ID>
+    <SENTENCE>U devet europskih država u potpunosti je zabranjeno pravo glasa osobama osuđenima na zatvor, bez obzira na vrstu i težinu zločina koji su počinili, sve dok ne izdrže dosuđenu zatvorsku kaznu.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5784</ID>
+    <SENTENCE>Prelazak četvrt milje očekuje se ispod čarobne granice od 10 sekundi, no zbog svoje težine iliti manjka iste Sesto Elemento je ekonomičniji i čišći automobil od sestrinske Superleggere.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5724</ID>
+    <SENTENCE>Vrata od mdf - a su nešto teža od onih načinjenih od iverala ili postforminga, ali, uz današnje vrlo kvalitetne i trajne okove, ta je težina nevažna.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>140</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10048</ID>
+    <SENTENCE>Za preuzete poštanske pošiljke poštanski službenici naplaćuju poštarinu u skladu s dimenzijama, težinom, vrijednošću i odredištem pošiljke.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5695</ID>
+    <SENTENCE>Računalno upravljana vozila su prilično dobra i na većim težinama ćete se morati posebno potruditi kako biste zadržali trenutnu poziciju na stazi.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5681</ID>
+    <SENTENCE>Blizanci su osjetljiviji nakon rođenja, uglavnom zbog preranog rođenja i težine – prosječno 2 kg, što je za cijeli kilogram manje od prosječne porođajne težine jedne muške bebe.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10016</ID>
+    <SENTENCE>Nakon toga će liječnik preporučiti mjere za nastavak liječenja, ovisno o situaciji i težini simptoma.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10083</ID>
+    <SENTENCE>Najvažnije karakteristike uređaja su težina od 1,35 kilograma i baterija bi trebala izdržati više od 4 sata rada.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10012</ID>
+    <SENTENCE>No, elementarna pristojnost te svijest i odgovornost o težini odluka koju donosi Sabor, morao bi "prisiliti" zastupnike da se obavezno pojave kada se odlučuje.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5638</ID>
+    <SENTENCE>Prekomjerna tjelesna težina nije bezopasan estetski problem, nego bolest koja otvara put teškim kroničnim i po život opasnim oboljenjima, a danas se uspješno liječi.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5708</ID>
+    <SENTENCE>Iskusni menadžeri kažu da Pevec nije svjestan težine problema i da treba napraviti radikalne rezove.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10059</ID>
+    <SENTENCE>Dakle, prema postavljenim standardima za ovu pasminu, ženke su prosječne tjelesne težine 13-20 kg.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5747</ID>
+    <SENTENCE>Glumac je upadljivo izgubio na težini.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5683</ID>
+    <SENTENCE>Međutim, kao što se već "68. taj politički revolt nerijetko pretvarao u" kulturnu revoluciju ", tako i danas ta simbolička provokacija, barem u zapadnim kasnokapitalističkim (pa i tranzicijskim) društvima nema više neku preveliku težinu.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>230</STARTINDEX>
+    <ENDINDEX>236</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5713</ID>
+    <SENTENCE>U tijeku fizičke aktivnosti dolazi do niza promjena, koje se povoljno odražavaju na zdravlje: ubrzava se disanje, krvotok i rad srca su ubrzani, pa mišići i druga tkiva dobivaju više kisika ; vježbanje pridonosi sagorijevanju kalorija i održavanju idealne tjelesne težine, boljemu snu, boljemu raspoloženju te poboljšanju koncentracije i pamćenja.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>265</STARTINDEX>
+    <ENDINDEX>271</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10054</ID>
+    <SENTENCE>Ako vam se čini to previše komopliciranim, otiđite na stranicu dukandiet.co.uk gdje ćete odgovoriti na 11 jednostavnih pitanja, kalkulator će vam izračunati idealnu težinu, a saznat ćete i koliko je dana potrebno provesti u svakoj fazi Dukanove dijete da biste postigli i održali vitku liniju.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>171</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5661</ID>
+    <SENTENCE>- Bez obzira na težinu optužbi iz zemlje koja traži izručenje, svaka osoba čije se izručenje traži ima pravo na pažljivo razmatranje i strogo pridržavanje zakona - zaključili su suci.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5720</ID>
+    <SENTENCE>Ona upozorava da ovom pojavom mogu biti obuhvaćene i žene čija je težina tek malo manja od preporučene, a najboljim pokazateljem zdrave tjelesne težine profesorica smatra BMI - indeks tjelesne težine (težina u kilogramima se dijeli visinom).</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5798</ID>
+    <SENTENCE>Postoje dvije vrste lastika, i to jedan za težinu od 50 do 90kg, a drugi je za težinu od 90 do 120kg. Na natjecanju skokovi su besplatni, a komercijalni skok stoji iznosi 300kn (43 €).</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5637</ID>
+    <SENTENCE>Idućih nekoliko dana Paragvajac će provestio na pregledu kako bi se utvrdila težina ozljede.</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5692</ID>
+    <SENTENCE>Iz Dinama naglašavaju da ovaj put tek sretnom slučajnošću nezgoda nije prerasla u tragediju: "Riječ je o masivnijim pločicama, težine oko pola kilograma. One se protežu dva metra u visinu, a kako su radnici bili sagnuti, pad pločice s te visine za onoga tko se nalazi na mjestu na kojemu su bili spomenuti radnici bio bi koban."</SENTENCE>
+    <TARGETLEMMA>težina</TARGETLEMMA>
+    <TARGETWORD>težine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>133</ENDINDEX>
+  </INSTANCE>
+</SET>

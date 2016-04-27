@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>6329</ID>
+    <SENTENCE>- Što, ako ti brodovi počnu gorjeti na moru od posljedica požara, da li će Carnival čekati i sjediti dok Liberijska obalna straža dođe u pomoć ?</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6396</ID>
+    <SENTENCE>Drva na ognjištu pri pečenju ne smiju gorjeti plamenom, ali mora biti dosta vrućeg žara.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10378</ID>
+    <SENTENCE>Izvijestio je da je prije podne gorjelo kod Rijeke, da je požar buknuo u blizini željezničke pruge.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6392</ID>
+    <SENTENCE>Sačuvano je nekoliko formula za pravljenje goriva za svjetiljke, i u dubokoumnom djelu H. P. Blavatske Isis Unveiled autorica je navela dvije složene formule prethodnih autora za gorivo koje "kad se pripravi i upali, gorjet će vječnim plamenom, i tu svjetiljku možete staviti na koje god mjesto želite".</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjet</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>217</STARTINDEX>
+    <ENDINDEX>223</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6282</ID>
+    <SENTENCE>Na površini od oko 1 rali gorjela je suha trava i strnište.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10302</ID>
+    <SENTENCE>Jutros je gorjelo i kod Prezida.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6273</ID>
+    <SENTENCE>U nedavno obnovljenoj zgradi desetak je stanova, a gorjelo je na krovištu i potkrovlju.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10329</ID>
+    <SENTENCE>'Iza nas je vozila jedna žena u autu, počela je trubiti, vozač nije reagirao, onda smo stali, počelo je jednostavno gorjeti.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6219</ID>
+    <SENTENCE>Ušavši u baziliku zajedno s ekumenskim patrijarhom Bartolomejom I. kroz "Pavlova vrata", koja će 365 dana biti otvorena hodočasnicima, Papa je upalio plamen koji će gorjeti tijekom cijele godine.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>172</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10400</ID>
+    <SENTENCE>Otkrio je da će morska voda gorjeti ako bude izložena određenim radijskim frekvencijama.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6300</ID>
+    <SENTENCE>'Ne znam što se dogodilo i ne znam zašto je gorjela svijeća', rekla je uplakana Ivičina majka koja još nije imala informacije o tome što se moglo dogoditi.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10370</ID>
+    <SENTENCE>Sydney će gorjeti, jer hrvatskih navijača očekuje se velik broj.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6377</ID>
+    <SENTENCE>U 23.30 h, u 1.05 h i 1.16 h gorjeli su kontejneri za smeće (A. Starčevića, Put Gazića i Rine Aras).</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10353</ID>
+    <SENTENCE>Da mi je znati gdje su ova nevinašca bila dok je domovina gorjela.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10374</ID>
+    <SENTENCE>U 67. minuti zapalili su vatru na tribini, nabacali suhog lišća i granja, pa je vatra gorjela do kraja utakmice - prijepis je zapisnika službene osobe F. Markovića.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10376</ID>
+    <SENTENCE>Gorjelo je u Smokoviću, Suhovarama, Ninskim stanovima, Polači, Radovinu, te između Kašića i Smilčića.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>Gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6244</ID>
+    <SENTENCE>On je još u lipnju izjavio u engleskoj verziji muslimanskog teen magazina znakovitog imena "Inspire" da je Molly primarni cilj osvete i da bi trebala gorjeti u paklu.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>157</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10357</ID>
+    <SENTENCE>Na gašenju požara kod Šibenika Zaton - Dulibića stanovi, gdje je gorjela borova šuma, u vremenu od 13: 25 do 15: 35 angažirana su tri Canadaira PP NOS OS RH.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6318</ID>
+    <SENTENCE>Stolice na stadionu, inače, ne bi smjele gorjeti.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10332</ID>
+    <SENTENCE>Ubojstvo Rhodesove pod prijetnjom poligrafa priznao je njen zaposlenik, mađarski aktivist, detaljno opisavši policiji kako je došlo do nemilog događaja: "Počeo sam je tući na trijemu i udarao sam je dok se nije prestala micati. Zalio sam je benzinom i pokušavao zapaliti, ali nije uspjelo. Mora da je trajalo barem sat vremena, ali nije počelo gorjeti. Onda sam odvukao tijelo u šumu, iskopao rupu i zakopao je."</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>344</STARTINDEX>
+    <ENDINDEX>351</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6342</ID>
+    <SENTENCE>KUTINA - Na Staru godinu na području Kutine dvije vikendice izgorjele su do temelja, a gorjele su još dvije kuće.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjele</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6340</ID>
+    <SENTENCE>Na kraju, heroina odjevena u vjenčanicu, koja je bila ispunjena ptičjim perjem, kroz Vrata Smrti (na desnom kraju scene) odlazi s figurom tužnoga klauna, Pierrotom na štulama (bijela nevina dječja figura kao ikonogram bijele uništavajuće Smrti), koji je iznjedrio nakon prekrasne scene pročišćavajuće, bukteće vatre koja je gorjela izduženom scenom, pistom.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>324</STARTINDEX>
+    <ENDINDEX>331</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10317</ID>
+    <SENTENCE>Gorjelo je u državi Georgiji s neba i zemlje.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>Gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6314</ID>
+    <SENTENCE>Bilo gdje i bilo što i čije da je gorjelo, splitski vatrogasci spašavali su iskazujući besprijekornu hrabrost po uzoru na svoje velike osnivače i učitelje.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6323</ID>
+    <SENTENCE>Gorjelo je krovište staje.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>Gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10333</ID>
+    <SENTENCE>Ubrzo je doprimljena dojava o požaru u Biogradu, gdje je gorjelo 100-tinjak četvornih metara trave i smeće.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10308</ID>
+    <SENTENCE>Kada smo se u 12 vraćali, gorjele su ", rekao je Čačić.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjele</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6380</ID>
+    <SENTENCE>U posljednjih 20-ak dana Sljeme je gorjelo šest, a u zadnjih pet dana tri puta.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6327</ID>
+    <SENTENCE>'' Stvarnost nas ne zanima '', naslov je komentara glavnog urednika, s podnaslovom '' Bitno je što prije ući u EU pod svaku cijenu i svatko tko to ne želi gorjeti će u paklu ''.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>155</STARTINDEX>
+    <ENDINDEX>162</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6316</ID>
+    <SENTENCE>"Dani klađenja da će nečija tuđa kuća gorjeti iza nas su", rekao je.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6202</ID>
+    <SENTENCE>Noćas je gorjelo na Brodarici kod Šibenika gdje su se kuće našle u neposrednoj opasnosti, lakše je ozlijeđen vatrogasac, a vatra je zahvatila jedan objekt u izgradnji na kojemu je izgorjela građevinska drvena oplata.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10397</ID>
+    <SENTENCE>Nakon urušavanja "ugljenice" gorjelo je otvorenim plamenom pa je postojala opasnost da se požar proširi na okolne objekte.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6291</ID>
+    <SENTENCE>U priopćenju Policijske uprave se navodi da je oko 2.50 sati zaprimljena dojava prema kojoj u Biljanima Donjim više nepoznatih osoba baca kamenje na obiteljske kuće, a nakon njihova odlaska izbio je i požar na površini 300 x 100 metara, u kojem su gorjeli suha trava i nisko raslinje.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>248</STARTINDEX>
+    <ENDINDEX>255</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6358</ID>
+    <SENTENCE>Najveći požari u povijesti društva bili su 1960. godine kada su gorjeli plastovi slame i sijena tadašnje Seljačke radne zadruge i 1963. godine kada je gorjela bivša ciglana u Rešetarima, na sadašnjem prostoru tvornice koža "Psunj".</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>151</STARTINDEX>
+    <ENDINDEX>158</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10396</ID>
+    <SENTENCE>- Počelo je gorjeti krovište kuće u kojoj je ostala nepokretna starica.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6206</ID>
+    <SENTENCE>Vatra treba zrak da bi gorjela, a kako je vatra element kreacija i novih ideja, putem zraka te se ideje pretvaraju u nešto konkretno i prenose dalje.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6317</ID>
+    <SENTENCE>Njima je naime bilo čudno kako nitko od osoblja nije uočio dim iako je vatra lagano gorjela bar sat i pol.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6223</ID>
+    <SENTENCE>- Počelo je gorjeti iznutra.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6243</ID>
+    <SENTENCE>Naša su djeca gorjela dva puta !</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6353</ID>
+    <SENTENCE>U Poličniku je gorjelo na sedam mjesta u razmaku od ukupno pola sata, a vatrogasci su uvjereni da su požari podmetnuti.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6203</ID>
+    <SENTENCE>Gorjele su dvije vikendice na otoku, pa im je pristup bio moguć samo čamcima.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>Gorjele</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10386</ID>
+    <SENTENCE>Oko 17 sati i 25 minuta gorjelo je u Posedarju.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6264</ID>
+    <SENTENCE>Samo je mali broj njih tvrdio da bi svjetiljke nastavile gorjeti vječno, ali mnogi su bili spremni priznati da bi mogle gorjeti stoljećima bez nadopunjavanja goriva.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6279</ID>
+    <SENTENCE>Kad smo mi napadali na sjevernu stranu onda tamo ne bi gorjelo svjetlo.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6395</ID>
+    <SENTENCE>Mržnja je počela gorjeti u dušama Castamirovih pristaša jer nisu mogli vidjeti dio svog vlastitog naroda da podržava kralja "slabije" krvi.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6383</ID>
+    <SENTENCE>Dočekati nakon 20 godina tog terora još i to da jugotenkovi krenu na izmrcvareni narod, ne odabrati jasno i glasno stranu ni nakon zadavljenog Vukovara, ni nakon silovane Škabrnje, ostati suzdržan i dok je gorjelo pola Slavonije i kad je rušena Dalmacija, e, tu mozak staje.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>206</STARTINDEX>
+    <ENDINDEX>213</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6315</ID>
+    <SENTENCE>4. SVJETLO U BANSKIM DVORIMA "Cijelo ljeto do kasno u noć gorjet će svjetla u Banskim dvorima sve dok ne nađemo pravi program za izlazak iz krize", govorila je Jadranka u srpnju prošle godine najavljujući "rebalans istine", "bolne rezove" i "mjere štednje".</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjet</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6362</ID>
+    <SENTENCE>Govoreći o liku svetoga Dominika Papa je istaknuo kako nam taj veliki svetac doziva u svijest kako u srcu Crkve mora uvijek gorjeti misijski žar, koji neprestano potiče na prvi navještaj evanđelja i, tamo gdje je to nužno, na novu evangelizaciju: Krist je, naime, najdragocjenije dobro koje muškarci i žene svakog doba imaju pravo upoznati i ljubiti !</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6349</ID>
+    <SENTENCE>Na čudnoj fizionomiji koja personificira "Ljeto", glave obslikane šljivama, trešnjama, višnjama i grožđem, sazdane od luka, graška, pomidora, tikvica i balancana, kao da progovara iznenađenje okusnih i mirisnih čudesa, pristiglih iz tek otkrivenih zemalja i kontinenata, koji su istovremeno stvarali, ali i drmali okvirima renesansnog svijeta, koji je već počeo gorjeti na lomačama protureformacije i inkvizicije ali i otvarati nova čulna obzorja tijela i duha nepca i jezika.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>362</STARTINDEX>
+    <ENDINDEX>369</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6277</ID>
+    <SENTENCE>Prema izjavama očevidaca, pretpostavlja se da je požar počeo nakon svađe u kućanstvu gdje su gorjele svijeće.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjele</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6350</ID>
+    <SENTENCE>49-godišnjakinja majka, 47-godišnji otac i šesnaestogodišnji sin su palili prskalice na okićenoj jelki, koja se zapalila i počela gorjeti.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6251</ID>
+    <SENTENCE>Sitnije čestice željeza mogu na zraku i gorjeti pri čemu frcaju iskre usijanog oksida, a u sasvim finom razdjeljenju željezo je i piroforno, tj. samozapaljivo na zraku.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6376</ID>
+    <SENTENCE>Pod vatrometima silvestarske noći koji su obasjavali nebo nad većim hrvatskim gradovima možda je samo na trenutak prestala gorjeti bojazan kako bi prigodne čestitke mogle ostati samo puste želje.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10354</ID>
+    <SENTENCE>Prema trenutačnim informacijama, prostor ispod zapadne tribine trebao bi gorjeti poput Hitrec-Kaciana na treningu uoči utakmice s Bruggeom.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6275</ID>
+    <SENTENCE>Cijeli dan gorjelo je na otoku Čiovo.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6229</ID>
+    <SENTENCE>U splitskom kvartu Barutana u nedjelju oko 4 sata ujutro gorjela je obiteljska kuća Dane Brčića (82).</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10306</ID>
+    <SENTENCE>Dalmacija i otoci su gorjeli, no na žalost vrlo često, a to i službene vijesti potvrđuju, požare su podmetale zle osobe.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6379</ID>
+    <SENTENCE>Gorjela je borova šuma i nisko raslinje, a opožarena površina procijenjena je na pet hektara.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>Gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6249</ID>
+    <SENTENCE>Ili pušiti ili gorjeti u mikrovalnoj.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10322</ID>
+    <SENTENCE>Prije 18 godina Škabrnja je gorjela, a danas su se ljudi vratili i grade život za sebe i za one koji će doći, i tako održavaju sjećanje na sve koji su sebe dali za slobodu.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6351</ID>
+    <SENTENCE>Autor je više arhitektonskih monografija, a posljednja u nizu njegovih ukoričenih uspješnica, naslovljena prema kovanici bečke grupe Coop Himmelb (l) au Architecture Must Burn (Arhitektura mora gorjeti), objavljena je 2000. godine kao zbirka vizualnih eseja, u kojima se zalaže za novi prostor slobode i imaginacije kao odgovor na izazove informacijskoga doba.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>194</STARTINDEX>
+    <ENDINDEX>201</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6238</ID>
+    <SENTENCE>U nekoliko minuta cijela kuća je gorjela - rekao je Bernard.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10328</ID>
+    <SENTENCE>Pa nije valjda Tomac mogao ohladiti poneku usijanu glavu, pojedinačnu, toliko usijanu da je gorjelo na sve strane, danima, tjednima, mjesecima.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10352</ID>
+    <SENTENCE>Gorjelo je nisko raslinje i borova šuma, kao i stare kuće u kojima se prije rata nalazio diskont, ljekarna i ambulanta.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>Gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10314</ID>
+    <SENTENCE>Sto vatri gorjelo je od 14 do 17 sati na Gradskom stadionu.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6293</ID>
+    <SENTENCE>Gorjelo je 0 ha niskog raslinja i kukuruzišta.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>Gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6288</ID>
+    <SENTENCE>Razmak od toga dana do potpunog iščeznuća sunca drži se za jesen sjevernih krajeva iako je već od 15. srpnja manjkalo sunčane svjetlosti, pa je u sobama morala gorjeti svijeća.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>160</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6253</ID>
+    <SENTENCE>Gorjela je suha trava i nisko raslinje na površini od oko 100 m2, a postojala je opasnost širenja požara na plastenik.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>Gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6240</ID>
+    <SENTENCE>U Strasbourgu su gorjeli dućani i ulice, jer je prosvjedovalo oko 40-tak tisuća ljudi protiv NATO-a.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6224</ID>
+    <SENTENCE>Jučer je gorjelo na 13 različitih lokaliteta, nabrajao je Željko Šoša, zapovjednik JVP-a Zadar.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6235</ID>
+    <SENTENCE>Dalmacija i Slavonija gorjet će na čak 38 stupnjeva.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjet</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10372</ID>
+    <SENTENCE>Takmičili su se tko će dulje u noć raditi, tj. čije će svijetlo dulje gorjeti.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6390</ID>
+    <SENTENCE>Gorjelo je samo kod vrata, ali vrata su od metala pa se nisu zapalila.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>Gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6321</ID>
+    <SENTENCE>Goreći ljubavlju prema Bogu, obnovio je i osnovao mnoge samostane.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>Goreći</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6227</ID>
+    <SENTENCE>Svega tri požara su gorjela na šumskom predjelu, i to kod željezničke pruge u Bibinjama, na cesti Novigrad-Posedarje i na području Duševića Mlina.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10377</ID>
+    <SENTENCE>Ta se skupina iskrcala u jednoj kotlini u kojoj je tada gorjelo nisko raslinje i trava.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6204</ID>
+    <SENTENCE>Ubrzo, te večeri, u Fojnici je počelo gorjeti.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6269</ID>
+    <SENTENCE>To je izazvalo reakciju Dvorskog, koji je rekao da je Čekić lažov i alkoholičar, poručivši mu da će zbog laži gorjeti u paklu.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6346</ID>
+    <SENTENCE>Iz njihove vatre palile su se svijeće, a često bi se u vatru u kojoj su ti panjevi gorjeli dodao dio gozbe i pića, a njihova bi vatra trebala donijeti mir i dobro ukućanima.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10338</ID>
+    <SENTENCE>Vječna vatra s Oltara domovine tijekom ove godine prestala je gorjeti.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10313</ID>
+    <SENTENCE>Ujedno, jučer je gorjelo i na otoku Visu.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6207</ID>
+    <SENTENCE>Papir je odmah počeo gorjeti, a plamen širiti.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10326</ID>
+    <SENTENCE>Kako dugo će gorjeti, tako dugo će i Božji plamen svijetliti u tvojem životu, te druge zapaliti i blagosloviti.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6283</ID>
+    <SENTENCE>Hrvatskim tegljačima u četvrtak ujutro pridružila su se i dva talijanska remorkera, pa je gorjelo samo na pramcu broda, a brod su počeli polako gurati prema Italiji.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6370</ID>
+    <SENTENCE>Zanimljivo je kako je u nedjelju samo dvije zgrade dalje također gorjelo u podzemnoj garaži.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6228</ID>
+    <SENTENCE>Izgorjelo je više od 230 hektara površine i to uglavnom zbog neopreznog spaljivanja korova i otpada nakon čišćenja poljoprivrednog zemljišta. Tijekom vikenda gorjelo je i u podnožju Velebita iznad manastira Krupa, gdje je izgorjelo oko 20 hektara šume i niskog raslinja.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>158</STARTINDEX>
+    <ENDINDEX>165</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10362</ID>
+    <SENTENCE>Grijali su se na vatri koja je gorjela u bačvi otpada, a ponestajalo im je goriva.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6286</ID>
+    <SENTENCE>Gorjela je stolarska radiona.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>Gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10343</ID>
+    <SENTENCE>Oko mene je počela gorjeti vatra, a osjetila sam i peckanje na drugoj ruci.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6324</ID>
+    <SENTENCE>Zapravo, stvar je vrlo jednostavna, u prostoriji u kojoj nitko trenutno ne boravi ne bi trebalo gorjeti svjetlo, ugasite sve uređaje kada ih ne koristite, pa makar se radilo o običnom punjaču za mobitel.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10391</ID>
+    <SENTENCE>Naime, ako ga je u zraku manje od pet posto, onda ga je premalo za zapaljenje, a ima li ga više od 15 posto, tada ne može gorjeti zbog prevelike gustoće.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>129</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6259</ID>
+    <SENTENCE>Zveket čaša, smijeh orgija, jauk sirotinje dopirao je do nas, gorjele su baklje, fijukali bičevi, kočile se obasjene kule drevnog dvorca, a onda odjednom prolomio se prasak, zatutnjela je zemlja, a iz prenabreklog neba osuo se dažd.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjele</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6301</ID>
+    <SENTENCE>Sve zgrade bile su razorene, neke su još gorjele i nismo pronašli nikoga živog, kazao je Steve Marissink, prisjećajući se ulaska UN-ovih snaga u srpska sela iz kojih je nakon mirovnog sporazuma izlazila Hrvatska vojska.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjele</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6246</ID>
+    <SENTENCE>Zatim, uskrsna nam evanđelja pokazuju kako Isus svojom riječi dolazi u susret ožalošćenim i očajnim ljudima, kao što su dvojica učenika na putu iz Jeruzalema u Emaus, kojima tako tumači riječ Pisma, da im srca počinju gorjeti novom nadom i novim životom.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>218</STARTINDEX>
+    <ENDINDEX>225</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6330</ID>
+    <SENTENCE>Na komodi, ispred litografije u boji koja prikazivaše našu Gospu od Pomoći, neprestano je gorjela uljanica.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6270</ID>
+    <SENTENCE>Gorjelo je nisko raslinje, makija i borova šuma.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>Gorjelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6386</ID>
+    <SENTENCE>Nema sreće sa Novogodišnjim blagdanima u Rovinju, nakon što je objavljeno da u Rovinju neće zbog recesije biti organiziranog dočeka nove godine na glavnom rovinjskom trgu u gradu su na trenutak i "pojačano" gorjele i ukrasne lampice u samom centru.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjele</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>207</STARTINDEX>
+    <ENDINDEX>214</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6245</ID>
+    <SENTENCE>Oni počinju gorjeti tek kad je u neposrednoj blizini prisutna već razbuktala vatrena stihija.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6389</ID>
+    <SENTENCE>Te večeri Fojnica je gorjela.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6257</ID>
+    <SENTENCE>Mate Zorić (1896.) opisao je badnjak u Ravnim kotarima među Srbima kao dug, krupan panj koji mora gorjeti do Bogojavljenja.</SENTENCE>
+    <TARGETLEMMA>gorjeti</TARGETLEMMA>
+    <TARGETWORD>gorjeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+</SET>

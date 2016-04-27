@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>3760</ID>
+    <SENTENCE>Pozvali su me da dođem gasiti vatre i to sam napravio.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3790</ID>
+    <SENTENCE>Vatra je buknula u subotu navečer u Rinkebyu, četvrti u kojoj žive uglavnom imigranti.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>Vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3619</ID>
+    <SENTENCE>Sudeći prema njezinu Facebook profilu, fotografija na kojoj se Pivac i ona smiješe uz vatru snimljena je i postavljena 5. prosinca ove godine.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3782</ID>
+    <SENTENCE>U vrijeme operacije planula je operacijska dvorana, a vatra je zahvatila i Janice.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3732</ID>
+    <SENTENCE>Za izradu sirupa na laganoj vatri u lončiću miješajte sok od naranče, marmeladu, sok od limuna i šećer.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3664</ID>
+    <SENTENCE>Brašno kratko popecite na umjerenoj vatri uz neprestano miješanje kuhačom.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3615</ID>
+    <SENTENCE>Moja su strast čarolije, a moje sposobnosti temelje se na zmajevoj snazi i vatri.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3609</ID>
+    <SENTENCE>Kako rolo od tkanine može a) sadržavati dodatne supstance kao zaštitna sredstva od vatre i boje za tekstil i b) iza stakla postizati visoke temperature, treba svakako voditi računa o sadržaju štetnih tvari sadržanih u platnu.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9073</ID>
+    <SENTENCE>Kad se dobro zamuti izliti u kipuće malo zašećereno mlijeko i na laganoj vatri miješati dok se ne zgusne.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9080</ID>
+    <SENTENCE>EU je još u utorak navečer izdao priopćenje u kojemu se traži hitan i permanentan prekid vatre između Izraela i Hamasa u Gazi.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9090</ID>
+    <SENTENCE>Upotrebljavao je vatru, a mrtve je sahranjivao uz posebne obrede.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9069</ID>
+    <SENTENCE>Smanjite vatru, podlijte ribljim ili goveđim temeljcem (ili s malo tople vode) i držite na laganoj vatri pet - šest minuta dok se malo ne zgusne.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3613</ID>
+    <SENTENCE>U lonac iznad vatre ulijemo mlijeko, dodamo maslac, a kada se rastopi ugasimo vatru, dodamo protisnuti krumpir, začinimo solju i paprom i izradimo pire.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9012</ID>
+    <SENTENCE>Požar je počeo tijekom jučerašnjeg dana na lokaciji Four Mile Canyon sjeverozapadno od grada Bouldera, a vjetrovi brzine 70 kilometara na sat jako su brzo raspirili vatru, ponekad u dva smjera istodobno.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>170</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3766</ID>
+    <SENTENCE>Izvori burundijske vlade objavili su kako nisu bili ispunjeni svi uvjeti za stupanje na snagu prekida vatre.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9040</ID>
+    <SENTENCE>Kuhanje na natjecanjima i feštama može biti i posebno iz razloga što se priprema na živoj vatri i obično u zemljanoj posudi, što stvara specifičnu aromu i okus, objasnio je Kraljev.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3601</ID>
+    <SENTENCE>Vatrogasci su ugasili vatru u ložištu, odstranili užarenu čađu iz dimnjaka i pozvali dimnjačara, a nakon završenog čišćenja pregledali još jednom dimnjak i okolni prostor.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3648</ID>
+    <SENTENCE>Taj 50-godišnji osnivač svjetski poznate akrobatske grupe Cirque de Soleil, u kojem je godinama nastupao kao gutač vatre, platio je više od 35 milijuna dolara za privilegij da odleti na Međunarodnu svemirsku postaju (ISS).</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>120</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9092</ID>
+    <SENTENCE>Pancho reče: "Zar nije čudno da je tamo ogromna hrpa vrlo zapaljivog drva i netko je pokušava zapaliti, a ipak nema vatre."</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3653</ID>
+    <SENTENCE>Prave IRA-e (koja odbija prekid vatre i pregovore s protestantima).</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9086</ID>
+    <SENTENCE>- Sporazum o prekidu vatre što su ga u Ženevi potpisali predsjednici Tuđman i Izetbegović na bojištima u HR Herceg-Bosni muslimanska vojska još uvijek ne poštuje.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3696</ID>
+    <SENTENCE>U vatri poharanom stambenom prostoru, soba branitelja Josipa i hodnik - predsoblje u potpunosti su uništeni, kao i kuhinja, djelomično i sanitarni čvor, smočnica i ostale prostorije, a zbog izgorjelih elektroinstalacija stručnjaci HEP-a iskopčali su struju i odnijeli brojilo.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3735</ID>
+    <SENTENCE>Posudu maknemo s vatre i ostavimo da se uljana tekućina malo ohladi.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3750</ID>
+    <SENTENCE>Skinite s vatre i umiješajte namoćene listiće želatine.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9068</ID>
+    <SENTENCE>Uz ulične nastupe hip - hopera i breakera, žonglere i gutače vatre, posjetitelji će, pogotovo mladi, moći uživati i u dva koncerta.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9020</ID>
+    <SENTENCE>Rekoše mu da je zabranjeno paliti vatru na otvorenom.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9005</ID>
+    <SENTENCE>Prema neslužbenim podacima osumnjičenik je izazvao požar paleći cigaretu ili pripremajući drogu, a kad je primijetio vatru, više ju nije mogao ugasiti te je pobjegao.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3655</ID>
+    <SENTENCE>Zakuhajte uz stalno miješanje na jakoj vatri.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9028</ID>
+    <SENTENCE>Izraelsko - libanonska razmjena vatre u kojoj su ubijena dva libanonska vojnika, libanonski novinar, te izraelski časnik najveće je nasilje na granici od rata 2006., koji je Izrael vodio protiv libanonskog pokreta Hezbollah.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3641</ID>
+    <SENTENCE>Vatra je potom zahvatila i ostala dva automobila te su svi ubrzo izgorjeli.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>Vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3758</ID>
+    <SENTENCE>Zapovjednik JVP-a Šibenik Darko Dukić kaže da je vatra prijetila kućama, no da su na vrijeme zaustavili širenje.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3789</ID>
+    <SENTENCE>Zatim se dodaju narezane mahune, izrezane rajčice, u kriške narezan krumpir, isjeckane paprike, isjeckani peršinov list pa se 15 minuta, uz povremeno miješanje, pirja na vatri.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>170</STARTINDEX>
+    <ENDINDEX>175</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9003</ID>
+    <SENTENCE>U narodu se vjeruje - dokle dopire sjaj vatre, bit će plodna zemlja - stoga se uvijek pripremaju velike i visoke naslage cjepanica.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3768</ID>
+    <SENTENCE>Zakuhati vodu, pa u nju staviti meso, kosti, zrna papra i pustiti da kuha na laganoj vatri.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3718</ID>
+    <SENTENCE>Kada mješavina zakipi, smanjite vatru i dodajte preostalo vino.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9025</ID>
+    <SENTENCE>Kuhajte na laganoj vatri uz stalno miješanje dok se ne zgusne.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3694</ID>
+    <SENTENCE>Trix su shvatile da energija Zmajeve vatre nije u Stelinom prstenu.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3607</ID>
+    <SENTENCE>Červarovi dečki 'izvadili su kestenje iz vatre ’.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9063</ID>
+    <SENTENCE>U tavi ugrijemo polovicu svinjske masti, dodamo sjeckani luk, očišćenu mrkvu narezanu na kockice, posolimo i na laganoj vatri pržimo dok povrće malo ne omekša.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3623</ID>
+    <SENTENCE>Glavni odvjetnik je potvrdio kako su zbog brzine i snage vatre gasitelji izgorjeli za 10 do 15 sekunda.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9042</ID>
+    <SENTENCE>Zatim dodajte meso i pržite na jačoj vatri dok ne promijeni boju, a onda smanjite vatru i ostavite da većina tekućine ispari.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9087</ID>
+    <SENTENCE>Kad ptica omekša razrežite je na komade pa vratite u isti lim s nekoliko grančica ružmarina, kolutova limuna, opet podlijte sokom od limuna i sokom od pečenja, poparite i pustite da se na blagoj vatri sve prožme.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>195</STARTINDEX>
+    <ENDINDEX>200</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9099</ID>
+    <SENTENCE>Stalno miješajte da zakuha, a zatim odmah uklonite s vatre.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3733</ID>
+    <SENTENCE>Po riječima županijskog vatrogasnog zapovjednika Damira Božičevića, vatra je zahvatila više od 400 hektara površine s travom, crnogoričnom i bjelogoričnom šumom.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9034</ID>
+    <SENTENCE>"Nasilje neće prestati dok ne stvorimo uvjete za prekid vatre", izjavio je Blair nakon susreta s Annanom na marginama summita G8 u St.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9043</ID>
+    <SENTENCE>Iako je vlasnik tvrdio da u požaru nisu stradale životinje, kako doznajemo, vatra ih je progutala jer nisu na vrijeme uspjele istrčati iz zapaljene staje.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9081</ID>
+    <SENTENCE>Nakon što vino malo ukuha dodamo inćune te kuhamo još 20ak minuta na laganoj vatri.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3669</ID>
+    <SENTENCE>Vatra je karijeru započela u Virovitici krajem '90-ih, kada su svi odreda još bili tinejdžeri, a tada im se predviđala svijetla budućnost te su često proglašavani budućnošću rocka u Hrvatskoj.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>Vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3692</ID>
+    <SENTENCE>Uzrok izbijanja vatre nije poznat, a s obzirom da je planulo na području vojarne, pristup je cijelo vrijeme bio strogo zabranjen.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3666</ID>
+    <SENTENCE>Ostali napadači tada su otvorili vatru i po ostalim policajcima kraj kontrolne točke.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3650</ID>
+    <SENTENCE>Vatra se u velikom luku kreće sjeveroistočno od Atene, a širenje vatre pomažu snažni i nepredvidivi vjetrovi.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3667</ID>
+    <SENTENCE>Na umjerenoj vatri ukuhavati šećer i vodu.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3775</ID>
+    <SENTENCE>Smjesu kuhati 2 sata na laganoj vatri uz miješanje.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3684</ID>
+    <SENTENCE>Biljke stavi u lonac i sve stavi na vatru da zakuha.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3687</ID>
+    <SENTENCE>Nema dvojbe da je njegovo objavljivanje dva dana prije izborne šutnje samo dolijevanje ulja na vatru (već prije) gotovo uništene Granićeve kampanje.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3712</ID>
+    <SENTENCE>Maknite s vatre, dodajte kruh, timijan pa posolite i popaprite.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3759</ID>
+    <SENTENCE>Kad ju je upitao zašto nosi te dvije zdjele, odgovorila je da će vatrom zapaliti Raj sve dok od njega ne ostane ništa te da će vodom ugasiti vatre u Paklu sve dok od njih ne ostane ništa: "Jer ne želim da itko čini dobro kako bi bio nagrađen Rajem ili zbog straha od Pakla ; nego samo iz ljubavi prema Bogu." To ispravno kršćanski etičko stajalište danas uglavnom preživljava u ateizmu.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>141</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9075</ID>
+    <SENTENCE>Jedan izraelski časnik je poginuo u drugom incidentu, izgleda također od izraelske vatre, priopćila je vojska.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3780</ID>
+    <SENTENCE>Dodajte isjeckane rajčice, papar, 5 šalica mesne juhe i kuhajte na srednjoj vatri 30 min.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3754</ID>
+    <SENTENCE>Podlijemo vinom, vratimo odreske i nastavimo pirjati na laganoj vatri uz povremeno dolijevanje vode sve dok meso ne omekša.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3734</ID>
+    <SENTENCE>U trenutku kad je požar buknuo na brodovima nije bio nitko, a vatru su ugasili pripadnici vatrogasnih društava iz Dugog Rata i Omiša.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3797</ID>
+    <SENTENCE>Mlakićeva vatra sažeta je u pepelu kao rezultat velikog požara, požara bez mjere za koji je uzaludno prozivati vatrogasce, a oni koji su se u požaru našli u njemu su i sažeti – sažete su sudbine, sjećanja, leševi i kuće njegove doline, a nad pepelom se hvata sumrak, ponoćno sivilo u kojem još živi ostaju samo zvukovi.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3764</ID>
+    <SENTENCE>Nakon što je olimpijska vatra počela gorjeti unutar dvorane, Gretzky je dobio čast da je iznese van i upali plamen na gradskoj rivi gdje će ostati do kraja Igara, 28. veljače.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3744</ID>
+    <SENTENCE>Policijski očevid nakon kojega će biti definirani uzrok i šteta je u tijeku, a kako neslužbeno doznajemo vatra je buknula zbog prekomjernog opterećenja.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9030</ID>
+    <SENTENCE>Prvo u veliki lončić stavite vodu i sve stavite na vatru (plin, struja, itd.).</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3757</ID>
+    <SENTENCE>"5. prosinca 1918. godine, nekoliko dana nakon stvaranja Kraljevine Jugoslavije, na nenaoružane hrvatske vojnike koji su na Trgu bana Jelacica u Zagrebu prosvjedovali protiv ujedinjenja, srpska vojska s obližnjih krovova otvorila vatru iz teških strojnica, ubila 13 domobrana i mnogo ih ranila."</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>230</STARTINDEX>
+    <ENDINDEX>235</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3685</ID>
+    <SENTENCE>Tatve su izvorište vatre, zraka, vode i zemlje.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3625</ID>
+    <SENTENCE>GLAZURA: Na umjerenoj vatri kratko prokuhati umućen žutanjak sa mlijekom, šećerom i omekšanom čokoladom.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3785</ID>
+    <SENTENCE>Detonira li mina aktivirana vatrom, posljedice su neprocjenjive jer se mine rasprskavaju u krugu i do 200 metara, što za poljodjelce može biti pogibeljno.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatrom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3638</ID>
+    <SENTENCE>Vatra je odmah aktivirala protupožarni alarm.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>Vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3614</ID>
+    <SENTENCE>Nakon izlaska iz jame, uslijedilo je cjelonoćno druženje uz vatru.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3681</ID>
+    <SENTENCE>'Onog trenutka kad oni (Hamas) otvore vatru snažno ćemo odgovoriti', naglasila je ona.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3670</ID>
+    <SENTENCE>Dodati sitno nasjeckani češnjak, zaliti vinom i kuhati na laganoj vatri.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9100</ID>
+    <SENTENCE>Treba otprilike 2 l mlijeka da se napravi 56.8 g ghija: taj ghi sadrži vrijednost mlijeka, bez procjenjivanja probavne vatre.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3710</ID>
+    <SENTENCE>Ovi su zapucali, pripadnici Kažnjeničke bojne uzvratili su vatru i Nosić je poginuo.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9007</ID>
+    <SENTENCE>Vatra je planula na teretnom vlaku iz Folkestonea za Calaisoko oko 13 sati, nekih 12 kilometara od Francuske.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>Vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3689</ID>
+    <SENTENCE>LIBANONSKA šijitska militantna skupina Hezbollah zatražila je u srijedu trenutačni prekid vatre i neizravne pregovore o razmjeni zatočenika pošto se svjetski diplomati na susretu u Rimu nisu uspjeli dogovoriti o postizanju primirja.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3679</ID>
+    <SENTENCE>Izraelska tenkovska granata ubila je tri izraelska vojnika i ranila 24 u ponedjeljak u "prijateljskoj vatri".</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3715</ID>
+    <SENTENCE>Ispečemo na roštilju na laganoj vatri tako da meso zadrži hranjive sastojke i da bude ukusno i mekano.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3717</ID>
+    <SENTENCE>Vatra je vatrogascima došla odozgo, a oni su bili u kanjonu.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>Vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9060</ID>
+    <SENTENCE>Neki nož, neki lakši izvor vatre da ne moram trljati grančice.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9088</ID>
+    <SENTENCE>U toj se noći gase vatre u ognjištima, a vjerovalo se da mrtvi posljednji put dolaze na ovaj svijet.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3796</ID>
+    <SENTENCE>Maknite s vatre, pa kad juha postane mlaka izvadite roladu, ocijedite, omotajte suhim ubrusom i pritisnite nečim teškim da dobije oblik.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3611</ID>
+    <SENTENCE>Noćas je gorjelo na Brodarici kod Šibenika gdje su se kuće našle u neposrednoj opasnosti, lakše je ozlijeđen vatrogasac, a vatra je zahvatila jedan objekt u izgradnji na kojemu je izgorjela građevinska drvena oplata.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>128</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3787</ID>
+    <SENTENCE>Definitivno ne očekujte neke budale koje se ne znaju sakriti kada po njima prospete vatru, jer ovi protivnici su nevjerojatno inteligentni, rade timski i ubijaju timski.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9077</ID>
+    <SENTENCE>U juhu još stavimo lovorov list i kada zavri na laganoj vatri sve zajedno kuhamo 30-ak minuta.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3747</ID>
+    <SENTENCE>Međutim, kad su vatrogasci došli na mjesto požara, vatra je već zahvatila cijelo krovište zgrade te su u gašenju sudjelovale pojačane snage.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3651</ID>
+    <SENTENCE>Potom dodamo bijelo vino, pelati rajčice, sol, papar, šećer, cimet u prahu, sjeckani peršin, origano te sve zajedno izmiješamo, poklopimo i pirjamo na laganoj vatri po prilici 5 minuta.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>159</STARTINDEX>
+    <ENDINDEX>164</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3662</ID>
+    <SENTENCE>Poslije nekog vremena meso se premaže uljem i dalje peče na jakoj vatri.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9049</ID>
+    <SENTENCE>U vatri je i kraj i početak, ona jedan ciklus vremena zatvara i novi otvara.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3661</ID>
+    <SENTENCE>Zatim u tavu dodamo narezanu svježu papriku, tikvice, po potrebi posolimo i popaprimo, te na laganoj vatri pržimo dvije tri minute povremeno miješajući dok povrće malo ne omekša.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9050</ID>
+    <SENTENCE>Prema neslužbenim informacijama, na amaterskoj video snimci vidi se kako osumnjičeni u uvali Vrulje planiraju roštiljati, ali se vatra rasplamsala i zahvatila obližnje drveće.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatra</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9094</ID>
+    <SENTENCE>Ukuhavati na umjerenoj vatri, masa ne smije proključati.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3612</ID>
+    <SENTENCE>Margarin kuhamo na laganoj vatri dok voda ne ispari, zatim maknemo s vatre, dodamo ulje i ostavimo 2 minute da se talog slegne.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatri</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3714</ID>
+    <SENTENCE>I tu će nutarnju vatru ljubavi prema Bogu i bližnjemu dobiti katolici u Rimu.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3795</ID>
+    <SENTENCE>Pripadnici narkokartela su na vojsku otvorili vatru, tvrdi predstavnik vojske, nakon čega su vojnici odgovorili.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3676</ID>
+    <SENTENCE>Za pripremu mesa ispod sača potrebno je naložit dobru vatru i pripremit dosta žara.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3688</ID>
+    <SENTENCE>Promatrači iz Afričke unije potvrdili su u zadnja dva mjeseca 20 kršenja travanjskoga prekida vatre, s obiju strana.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatre</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3652</ID>
+    <SENTENCE>Pirati su otvorili vatru na jedno japansko teretno plovilo kod somalijske obale, ali jer brod uspio izbjeći otmicu, priopćio je u subotu Međunarodni pomorski ured (IMB).</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3765</ID>
+    <SENTENCE>Od 14 sati u gašenje su uključeni i helikopteri HRZ-a, a od 16 sati i dva kanadera koji prije nisu mogli gasiti vatru zbog jakog vjetra i zračnih vrtloga u kanjonu Cetine.</SENTENCE>
+    <TARGETLEMMA>vatra</TARGETLEMMA>
+    <TARGETWORD>vatru</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+</SET>

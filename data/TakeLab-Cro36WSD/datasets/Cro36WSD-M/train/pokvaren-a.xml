@@ -1,0 +1,3013 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>7690</ID>
+    <SENTENCE>Tijekom uklanjanja kupole, prikupljanje nafte nastavljeno je na posebnom interventnom plovilu Q4000, koji naftu izravno crpi iz pokvarenog uređaja za sprječavanje nagle provale nafte iz bušotine, naveo je BP.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>973</ID>
+    <SENTENCE>Likovi koje izvodi na noćno prizorište novozagrebačkog parka kadšto su tipovi s nekom opskurnom opsesijom, a kadšto simboli malignih mjesta drušvene patologije i rasapa sustava: ubojice, pokvareni policajci, mučitelji životinja, samoubojice, transvestiti, homoseksualci, zaštićeni tatini sinovi, peteespeovci.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>187</STARTINDEX>
+    <ENDINDEX>196</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>957</ID>
+    <SENTENCE>Osim pokvarenih zuba, fuerhera su mučile i bolne desni, no čak ni bolovi, smrad i brojne neugodnosti nisu ga natjerale da češće posjećuje dr. Blaschkea.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>5</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>805</ID>
+    <SENTENCE>Oni prije događaja koji navješćuju tragičan usud žive idiličnim životom povezane domorodačke zajednice kojoj su glavne preokupacije lov i razmnožavanje, sve dok njihovo selo ne napadnu krvoločni plaćenici, koji su također domoroci, ali pokvareni od strane "gradskih" nakupaca robljem i vladara kojima dovode "krivce" za sušu i glad što potresa carstvo.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>236</STARTINDEX>
+    <ENDINDEX>245</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>923</ID>
+    <SENTENCE>Medjutim, niti BBC, taj sam pojam objektivnog, najboljeg, najpouzdanijeg novinarstva, čini se, nije posve nevin, što nekima pada mnogo teže od činjenice da su političari pokvareni i da lažu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>170</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7650</ID>
+    <SENTENCE>25. Zbog pokvarenog vozila koje se zakocilo u Medunozju Vaginalni je tunel zatvoren.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>880</ID>
+    <SENTENCE>Ispravna, izvađena iz pokvarenog laptopa.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>908</ID>
+    <SENTENCE>Nenad Parunov zahvaljuje uzvanicima što su se potrudili da, unatoč svemu, atmosfera ne bude pokvarena, te da mladencima najvažniji dan ostane u sjećanju.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>922</ID>
+    <SENTENCE>U slučaju totalne štete, kada je popravak neekonomičan i kada primite nov jednakovrijedan uređaj, zaštita staroga odnosno pokvarenog uređaja, se prekida.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7662</ID>
+    <SENTENCE>Kad je samo jedan gazda, ili odgovorna osoba postavljena od gazde, onda je taj za sve zaslužan i odgovoran, a ne kao u nas nekoliko što nesposobnih što pokvarenih tipova stalno sebi skače u ista i izmotava se.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>152</STARTINDEX>
+    <ENDINDEX>162</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>984</ID>
+    <SENTENCE>Za ovaj film, međutim, znakovita je postava njegove najlucidnije sekvence, one na gorskom uzvišenju, s ganc novim, blještavim plavim i crvenim helikopterima na bjelini snijega ; boje (plava, crvena i bijela) simboliziraju američku zastavu, a oni koji ih sadržajno ispunjavaju pokvareni su političar (crvena) i pokvareni obavještajci (plava), ali će se zato u bijeli kombinezon odjeveni Swagger potruditi, koliko je to uopće moguće, bijelim zvjezdicama s američke zastave vratiti izvornu čistoću.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>310</STARTINDEX>
+    <ENDINDEX>319</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>891</ID>
+    <SENTENCE>Jesam li zbog toga loš susjed, pokvaren navijač i uskogrudno zanovijetalo ?</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>972</ID>
+    <SENTENCE>Ozljeda usta, bolne desni ili pokvaren zub, zbog čega je životinji bolno žvakati.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>823</ID>
+    <SENTENCE>DINKO DRAGIČEVIĆ teško je nastradao kad je jučer oko 6 sati krenuo gurati svoj pokvareni pick up Daciju na uzbrdici kraj kuće u Nerežišćima na otoku Braču.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>882</ID>
+    <SENTENCE>Priča "Sloma", naime, umnogome govori o lijepoj i drskoj, no suštinski nevinoj mladosti koja se suočava s neočekivanom slabošću svoje pozicije spram lijepe ali utilitarne vršnjakinje i oronula i pokvarena starca, drugim riječima radi se o iskušenjima mladog, lijepog i dobrog bića uhvaćena u sofisticiranu sadomazohističku mrežu korumpirane ljepote mladosti i "prirodne" degeneracije starosti, s tim da ovo dvoje povezuje degenerativno djelovanje bogatstva i moći (kao što je primijetio i kritičar Village Voicea, takva se socijalna kritičnost rijetko viđa u hollywoodskim žanrovskim ostvarenjima).</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>195</STARTINDEX>
+    <ENDINDEX>204</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7671</ID>
+    <SENTENCE>"Nikako ga nije podnosio. Govorio je koliko je nepošten i pokvaren", kazao je Smith.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>960</ID>
+    <SENTENCE>Na početku ovi bi mu se rugali i smijali, jer se evo gore uspevši, pokvarenih očiju vratio.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>815</ID>
+    <SENTENCE>Ljudi pokvareni, otuđeni, pa se okrenuli KUĆNIM LJUBIMCIMA u nedostatku ljudske komunikacije, ljubavi itd ??</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>873</ID>
+    <SENTENCE>Tako ćete moći prepoznati jače arome i lakše ćete provjeriti je li vino pokvareno.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>857</ID>
+    <SENTENCE>Ne nije ti kompjuter pokvaren, nego jednostavno imaš previše aktivnih programa.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7660</ID>
+    <SENTENCE>TO je malo i vise nego pokvareno.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+      <SENSEID>A.007.03</SENSEID>
+      <SENSEID>A.007.04</SENSEID>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>968</ID>
+    <SENTENCE>'Tako je dobra, a prošao sam toliko pokvarenih bića da to najviše cijeniš.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>875</ID>
+    <SENTENCE>Individualizacijom krivnje šalje se poruka da je lice Hrvatske pokvareno, da je puno zločinaca. '- poentirao je Bogović.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>854</ID>
+    <SENTENCE>Prodaje se, od prošvercane robe, ukradene robe, mukte dobivene robe, pokvarene robe, prodaju se skupo bezvrijedne dionice, prodaju se i bubrezi, dakle prodaje se sve i svašta, zarađuje se na prevari i tako TRGOVINA funkcionira.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>867</ID>
+    <SENTENCE>Htjela bih vas upozoriti, da se prilikom odmrzavanja mlijeko može podijeliti u tri sloja, pa može izgledati kao da je pokvareno.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>981</ID>
+    <SENTENCE>"Ovo pokazuje mentalitet okupatora, koji se ponosi ponižavanjem Palestinaca. Izraelska je okupacija nepravedna, nemoralna i pokvarena", zaključio je Khatib.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>133</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>924</ID>
+    <SENTENCE>On se je spasio, jer sam ga uspio uvjeriti da je Draganović pokvaren čovjek.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>980</ID>
+    <SENTENCE>Barbaru Vicković, koja je ozbiljno prionula prvi put ovom poslu, premda, kako kaže, hvale njezinu izvrsnu kuhinju, nisu omele primjedbe nevjernih Toma kako ona s takvim čarobnim izgledom nikako ne može biti ona zločesta i pokvarena Lovrekica iz domaće sapunice Vila Maria.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>222</STARTINDEX>
+    <ENDINDEX>231</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>853</ID>
+    <SENTENCE>Mi imamo pokvarene ljude i pokvarene političare koji eto već iz navike kradu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>931</ID>
+    <SENTENCE>Također, hrana je bila preljuta, a pokvarena piletina je bila vrhunac krive mješavine okusa na Stephanovu tanjuru.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7639</ID>
+    <SENTENCE>Slučaj s Đukanovićem i Nacionalom izravno demaskira tragikomičnu kulturološku pozadinu hrvatske medijske scene, determinirane krupnim egoističnim interesima pokvarenih mogula, i sitnim egzistencijalističkim strahovima njihovih novinarskih robova.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>157</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>814</ID>
+    <SENTENCE>"Sve perem na ruke", pokazala nam je svojim jezikom, "perilica je pokvarena, teško mi je to".</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>947</ID>
+    <SENTENCE>Zbog toga jer je imao te silne pokvarene zube i dovoljno novca što ga je oteo balkanskoj sirotinji, taj u Hrvatskoj ne znam po čemu toliko slavan gospodin odlučio je svoje zubno groblje sanirati u Rimu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7664</ID>
+    <SENTENCE>Podesi u BIOS-u ta ti se sustav diže sa tog diska, a ne ovog koji ti je pokvaren i prekopiraj važne podatke na novi disk.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>833</ID>
+    <SENTENCE>Ne želi živjeti u svijetu prepunom pokvarenih ljudi.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>868</ID>
+    <SENTENCE>Jer, eto, nisu svi političari pokvareni.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7640</ID>
+    <SENTENCE>Neznam zašto sam pokvaren ali znam da ti baš ne kužiš neke stvari !</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7667</ID>
+    <SENTENCE>Malo su mu brojke tek pokvarene s četiri promašene trice.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7631</ID>
+    <SENTENCE>Nedostatak ove metode je što se, baš kao i kod igre pokvarenog telefona, detalji i specifikacije mogu izgubiti.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>901</ID>
+    <SENTENCE>Tako je dodatno pokvarena ionako loša sezona.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7676</ID>
+    <SENTENCE>Za mene žena mora imati neki aristokratski pogled, nešto što ima dodanu vrijednost, a uz to mora biti malko pokvarena, da točno zna kako se mora naštimati pred objektivom.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>990</ID>
+    <SENTENCE>Ambijent izgleda prekrasno, šaroliko i maštovito ali ukupni dojam je malo pokvaren niskim rezolucijama tekstura u krupnom planu NPC-ova naspram okoline.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>932</ID>
+    <SENTENCE>I tu ulogu glasnogovorništva radi prozirno, pokvareno i lukavo.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>913</ID>
+    <SENTENCE>Upućeni u slučaj tvrde da je ovo dosad najveći slučaj krijumčarenja hrane u povijesti SAD-a i dio je višegodišnjeg praćenja i borbe protiv ilegalnog nekvalitetnog uvoza pokvarenih i krivotvorenih proizvoda.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>169</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7657</ID>
+    <SENTENCE>Đubre pokvareno, marš na granu tu ti je misto a ne na časnoj stolici prisidnika Hajduka.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>934</ID>
+    <SENTENCE>Pokvareni bager je rušio sve pred sobom - prvo je "pokupio" dva motocikla i jedan bicikl, a zatim se uputio prema betonskom zidu na kojemu su sjedila i razgovarala četiri dječaka.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>Pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7609</ID>
+    <SENTENCE>Ljudi su beskrajno pokvareni.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>998</ID>
+    <SENTENCE>Ne znamo da li je to zato što su zvučnici već ranije bili na testiranju pa se baterija u daljincu ispraznila ili zato što je jednostavno pokvaren.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>145</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>863</ID>
+    <SENTENCE>Možda su tome uzrok i Vaši žuti, pokvareni zubi, nenjegovane desni ili zadah iz usta.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7602</ID>
+    <SENTENCE>Možete biti sretni ako vam se na uloženi dolar vrati sedamdeset pet centi u ovoj zemlji ugušenoj korupcijom, s pokvarenim činovnicima što špilaju duševnu zaostalost, a živnu i oči im se zaiskre tek kada zašuškaš gotovinom koja je samo za njih.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7618</ID>
+    <SENTENCE>U prošloj godini otkriveno je 85, a u ovoj 35 pokvarenih proizvoda.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>985</ID>
+    <SENTENCE>No, mislim da je moj mikrofon bio pokvaren, pa se ništa nije čulo (smijeh) '.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>865</ID>
+    <SENTENCE>Pedeset jedan posto gledatelja smatra da je pravosuđe korumpirano više od političara, a 49 % Hloverkinih štovatelja ćuti (osjeća, seljačino, osjeća !) da rvacki političari smrde više od nekih sudaca, nekih odvjetnika i nekih sudskih službenika koji su pokvareni.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>252</STARTINDEX>
+    <ENDINDEX>261</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>902</ID>
+    <SENTENCE>Pogotovo kad onaj zadnji, a najmanji, hovno jedno pokvareno, zaglavi pa ni unutra ni vanka.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7647</ID>
+    <SENTENCE>Tragajući za "telefonskim zlostavlječem", zbog kojeg si je 58-godišnji Nijemac već čupao kosu od jada, policija je otkrila da taj nesnosni gnjavator nije čovjek nego pokvareni sustav naplate računa kreditnim karticama koji se skrasio u frizerskom salonu u Hamburgu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>166</STARTINDEX>
+    <ENDINDEX>175</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7668</ID>
+    <SENTENCE>Kada Mookie (Kieran Culkin), Clydiein sin, pronađe Sama kako se skriva na njihovom imanju, čini se da je sudbina uplela svoje prste i da je upravo Sam osoba koja može pomoći potresenoj Clydie u njenoj borbi protiv pokvarenih investitora.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>214</STARTINDEX>
+    <ENDINDEX>224</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>903</ID>
+    <SENTENCE>Pripazite da vam netko ne proda lošu ili pokvarenu robu, kao i da vam neki slatkorječivi ljudi ne zamute pogled.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>887</ID>
+    <SENTENCE>- Najviše prijava je vezano uz kupnju starog i pokvarenog mesa i mesnih proizvoda.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7688</ID>
+    <SENTENCE>Nakon 12-godišnje pauze nekoć poznati Charles Grodin ("Ponoćna trka") vratio se glumi epizodnom ulogom u niskobudžetnoj komediji "Bivši dečko" o mladom ocu kojeg maltretira pokvareni invalid - bivši ljubavnik njegove supruge.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>173</STARTINDEX>
+    <ENDINDEX>182</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7693</ID>
+    <SENTENCE>Odgajajte ga otvorenih i budnih očiju, u mudrosti, jer je svijet pokvaren i nisu svi ljudi dobri.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>886</ID>
+    <SENTENCE>U međuvremenu su pokvarene mesne pošiljke, osim u Njemačkoj, pronađene i u Danskoj, Češkoj i Austriji.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>952</ID>
+    <SENTENCE>Ljudi kad ste već prolazili pored njih, mogli ste ih gađati s jajima (ili još bolje s pokvarenim jajima) !</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>925</ID>
+    <SENTENCE>Reako sam puno i mnogo isitne (a ne da sam puno napisao a rekao ništa). Politika je pokvarena i kvari ljude, a svi ste u tome.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>879</ID>
+    <SENTENCE>Tamo je ustanovio da je talentiraniji za kartanje nego za vađenje zuba (premda se navodno, baš s Wyattom Earpom sprijateljio tako što mu je sredio jedan pokvareni zub) i pio je kao smuk i bezglavo ulazio u brojne okršaje revolverima i noževima, da bi poginuo a ne umro u mukama kao njegovi tuberkulozni otac i brat.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>153</STARTINDEX>
+    <ENDINDEX>162</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>829</ID>
+    <SENTENCE>Ali ne bih se, s obzirom na vaše, pojedinci, konstantno zlonamjerno medijsko izvrtanje činjenica, smiješne priče o nekakvoj našoj osveti V. P. i sličnim nebulozama kojima paradirate već dulje vrijeme, kažem, ne bih se iznenadila da se slučaj riješi na način da upravo otac i ja dobijemo nekakvu prijavu ili potrebu za nadzor nad djetetom a tada će to doista značiti da živimo u potpuno korumpiranoj zemlji, u kojoj vladaju zli i potplaćeni ljudi, u kojoj nema pravde za koju se hrvatski narod izborio i iz koje, nažalost, treba što prije bježati jer je ili danas već sasvim pokvarena ili pak nemoćna u svim svojim strukturama.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>574</STARTINDEX>
+    <ENDINDEX>583</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>994</ID>
+    <SENTENCE>Poslije potopa, ostali su pokvareni ljudi.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7678</ID>
+    <SENTENCE>Nije mlakonja, ali nije bezosjecajan i nije dovoljno pokvaren da bi mogao provesti velik dio svog zivota sa politicarima.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7641</ID>
+    <SENTENCE>No, prijateljeva vaga nije bila pokvarena.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7601</ID>
+    <SENTENCE>Istražitelji Ureda za državnu odgovornost pretvarali su se da su kupci pokvarenih katodnih cijevi u Indiji, Pakistanu i Hong Kongu i pronašli su 43 tvrtke u Americi koje su ih voljne izvesti, iako to krši odredbu Agencije za zaštitu okoliša koja je na snazi od 2007. Neke tvrtke tvrde da odgovorno recikliraju e - otpad, no umjesto toga ga šalju u Aziju i Afriku, gdje radnici iz njega izdvajaju bakar, zlato i druge vrijedne materijale.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>996</ID>
+    <SENTENCE>Ali kako je naša AA zajednica složna (i pokvarena u dubini duše), nije trebalo dugo čekati da se AA 1.60 pojavi i na neslužbenim serverima.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7624</ID>
+    <SENTENCE>Dijete s pokvarenim zubima može imati loš zadah, teško artikulira neke glasove pri govoru, što može za posljedicu imati odbijanje vršnjaka.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>876</ID>
+    <SENTENCE>Šta misliš zašto mi imamo toliko viceva i šala o nesposobnim i pokvarenim Hrvatima ?</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>837</ID>
+    <SENTENCE>Već na "gridu" prije samog starta Hulkenberg je imao problema s pokvarenim senzorom polugice spojke, a potom je u prvom zavoju naletio na stražnji kraj jednog od HRT-ovih bolida pri čemu su stradali nosači prednjeg krila.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>845</ID>
+    <SENTENCE>U jednom su se radnici izmjenjivali u utrobi pokvarenog air - tractora.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7683</ID>
+    <SENTENCE>Razmišljanje o tome su završili zaključkom kako je Krešimir "pokvaren".</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>874</ID>
+    <SENTENCE>Kontroverzni redatelj je zbog trvrdnja "da je glup, ružan i pokvaren" te "da je pružao alibi za svakog ubijenog Muslimana" i "da se svrstao na stranu dželata u Srebrenici" za duševne boli tražio sto tisuća eura, a Sud je odobrio iznos od 12 tisuća eura.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7651</ID>
+    <SENTENCE>Prepoznavanje okusa je neophodno radi određivanja pokvarene ili neužitne hrane.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>966</ID>
+    <SENTENCE>Nakon što sam i ove godine neuspješno gledao VN Australije, pogledao sam je tek nakon VN Kine - HDTV rip sa BBC Sportsa - e, nevjerovatno, koliko više detalja čuješ, vidiš - njihov režiser je fenomenalan, komentatori neupadljivi, točni, bez "pametnih" doskočica kakvih imamo na HRTu, količina analize i točnosti komentatora je zapanjujuća (a možda je i moj ukus samo jako pokvaren nakon 10ak godina slušanja Prasička kako komentira), emisija traje i 1 sat prije utrke, ali je live prijenos sa staze - neki voditelj zajedno s Coulthardom pretresaju najnovija događanja u Formuli i 15ak min prije utrke popričaju s nekoliko vozača na stazi.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>372</STARTINDEX>
+    <ENDINDEX>380</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>844</ID>
+    <SENTENCE>Neću ja odustati od sakramenata (Isusovih darova) i od spasa svoje duše i duša moje djece, zato što ima i pokvarenih svećenika, i to mahom vani.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>841</ID>
+    <SENTENCE>U FarCryu 2 priča se "vrti" oko plaćenika koji pokušava razotkriti i uništiti pokvarenog Afričkog ratnog vođu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>860</ID>
+    <SENTENCE>Također, hrana je bila preljuta, a pokvarena piletina je bila vrhunac krive mješavine okusa na Stephanovom tanjuru.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7655</ID>
+    <SENTENCE>Jest da poslodavac ne bi smio tako olako upisivati epitete u radnu knjižicu i da je krajnje pokvareno od čovjeka tražiti da se skine, ali htio bih čuti i drugu stranu priče.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>907</ID>
+    <SENTENCE>Kakav je to pokvareni i korumpirani gad.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>883</ID>
+    <SENTENCE>Možda su to izmišljotine pokvarenih ljudi.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>963</ID>
+    <SENTENCE>Budući da je vrijeme za donošenje bitnih odluka, rezimiranje učinjenog i rekapitulaciju svega u proteklih 365 dana, iako ne volim secirati vrijeme kao salamu i pojedine dijelove odbacivati kao pokvarene i nevaljale, možda bi ovakav zorni grafički prikaz u tvojoj svijesti imao smisla.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>193</STARTINDEX>
+    <ENDINDEX>202</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>915</ID>
+    <SENTENCE>Raula, koji radi kao inženjer na površini, pozvali su taj dan da siđe kako bi popravio pokvareno vozilo.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>974</ID>
+    <SENTENCE>- Većina vas je stvarno pokvarena.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>872</ID>
+    <SENTENCE>- Prodao mi pokvaren telefon, ubiću ga.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>832</ID>
+    <SENTENCE>Osjećao se i sam star, propao, nesposoban za bilo kakvu odluku, ranjen u duši i tijelu, kretao se u najgorim đačkim društvima i došao na glas pokvarenog čovjeka.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>142</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>943</ID>
+    <SENTENCE>Požar kod Knina, koji je gasio pokvareni zrakoplov, lokaliziran je oko 16.25 sati.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>939</ID>
+    <SENTENCE>Mulder i Scully će krenuti tragom nestalih djevojaka vođeni vizijama "posrnulog" svećenika, te će ih to dovest do zaleđenog jezera oko kojeg će sve vrviti od paranormalnih fenomena, pokvarenih vladinih službenika i FBI-jovskih teorija zavjera.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>182</STARTINDEX>
+    <ENDINDEX>192</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7628</ID>
+    <SENTENCE>No povremeno, osobito za južine, pojavljuje se karakterističan neugodni miris, sličan mirisu pokvarenih jaja, taman dovoljnog intenziteta da bi probudio snažan niz asocijacija splitskim nostalgičarima.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>888</ID>
+    <SENTENCE>U turističkom vodiču objavljenom u Britaniji pod imenom "Rough guide to Croatia" iznosi se tvrdnja kako je "Poreč nepovratno pokvaren masovnim turizmom".</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>133</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7604</ID>
+    <SENTENCE>Netom otvorena zubarska ordinacija Branković – Šeparović širi krake svojih kliješta samo za vas i vaš pokvareni zub.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7627</ID>
+    <SENTENCE>Da ne igra ovu pokvarenu igru, Koch bi i dalje branio u Maksimiru i mi ne bismo vraćali Butinu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>953</ID>
+    <SENTENCE>A to znači da je Sanader pokvaren čovjek ', rekao je Mesić.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>945</ID>
+    <SENTENCE>Ako se potrošaču dogodi da u trgovini kupi pokvareno jaje ili od jaja dobije neku bolest, po tom će broju nadležne službe lako pronaći s koje je farme jaje pristiglo.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>991</ID>
+    <SENTENCE>U Elektrodalmaciji ističu da građani od datuma podnošenja reklamacije neće plaćati skuplju struju koju su dobivali zbog pokvarenog ili pogrešno reguliranog uklopnog sata.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>979</ID>
+    <SENTENCE>S dosegom na Internet, kriminalac nema više potrebu da prvo nađe pokvarenog bankara, koji će mu pomoći da opere novac.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7685</ID>
+    <SENTENCE>"Niti jedna zemlja na svijetu nije 100 posto sigurna, jer, svijet je pun pokvarenih i korumpiranih ljudi. Za vrijeme Svjetskog prvenstva radit će posebna zaštitarska služba. Uvjeren sam da do incidenata neće doći", zaključio je Blatter.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7603</ID>
+    <SENTENCE>27) Ta pokvarena horda marsijanaca ("Nietzsche" i "Marx", ali tu su i "Hegel" i "Fichte" i "Heidegger", "Benjamin", "Adorno" sve do najnovijih "Foucaulta", "Derride" i "Agambena" i mnogih drugih !) nisu dokazivali da nema Boga, nego samo da ima i lopova koji u Božje ime pljačkaju sve živo i sve žive.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>839</ID>
+    <SENTENCE>Odličan (jer nije predugačak) Milićev intervju kasnije u emisiji temeljito je pokvaren reportažom čuvene Ozane Bašić (klevetnice jedne dječje odgojiteljice) sa zbivanja koje se zvalo "Vjera i zdravlje".</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7670</ID>
+    <SENTENCE>Nino, nisam znao da ti je pokvareni Akerman direktor Audiofona – sexy telefona !</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7630</ID>
+    <SENTENCE>U metropoli, Građani gunđaju protiv pokvarenih Političara umišljajući da su bolji.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7680</ID>
+    <SENTENCE>Duboko prožeta tim ugodnim osvjedočenjem, jedna se majka ne ustručava povjeriti svoju kćer svim pokvarenim mamilima onoga što se označuje imenom "pariški život", koji uistinu nije ništa drugo nego li organizirani pokret svih sedam glavnih grijeha ".</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7654</ID>
+    <SENTENCE>Mozda u mojoj pokvarenoj mašti, ali u tvom snu nikako.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>866</ID>
+    <SENTENCE>Urbanist Niko Gamulin smatra da je pokvareno to što se iskorištava potreba HNK za još prostora, pa se, na račun najave novoga kazališta, zapravo želi izgraditi garaža.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7636</ID>
+    <SENTENCE>Potom je vozač Hitne pomoći spojio svoje i pokvareno vozilo užadima za vuču - rekao nam je čitatelj 24sata koji je snimio neobičnu medicinsku pomoć.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>989</ID>
+    <SENTENCE>Zbog pokvarenog lifta kasnila je 15-ak minuta na krštenje putničkog broda Jadran.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>5</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7646</ID>
+    <SENTENCE>Ovaj slučaj Saborskog umirovljenika, kojemu je 8600 kuna mirovine malo ??, pa odlučio uči u prosvjetu isključivo radi velike plaće, je odraz pokvarenog društva.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>141</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7696</ID>
+    <SENTENCE>- Da, sine, baš si pokvaren igrač.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>917</ID>
+    <SENTENCE>Naravno da djeluje ali ti nagriza caklinu što želiš bijele i pokvarene zube ili žučkaste i zdrave zube ?</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>846</ID>
+    <SENTENCE>Pouka s jogurtom kaže – što je pokvareno treba baciti, a ne nikako jesti, bez obzira koji rok trajanja piše na poklopcu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>926</ID>
+    <SENTENCE>Moga san upisat bilo koju srednju školu, jer san bija odlikaš, ali tija san radit sa strojevima, pa san upisa tehničku, a ne sa ljudima, jer su strojevi pokvareni fizički, a ljudi su pokvareni malo u glavu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>153</STARTINDEX>
+    <ENDINDEX>162</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>938</ID>
+    <SENTENCE>Vrtiš se kao pokvarena ploča sa tim Balkanskim mentalitetom.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>810</ID>
+    <SENTENCE>Najstariji od njih, kojeg je Janko Rakoš prikazao kao hladnog manipulatora svjesnog svoje uloge vođe i pokvarenog do srži, na kraju biva oslobođen optužbe za silovanje jer on, kao jedini svjestan poigravanja vatrom, nije ni dotakao tada četrnaestogodišnju djevojčicu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7608</ID>
+    <SENTENCE>Prosvjetljenje je sve što imamo, a i to smo morali oteti iz zagrljaja pokvarenih gurua i mucavih samoubilačkih intelektualaca.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>825</ID>
+    <SENTENCE>Taj lopov, član SDParije je pokrao desetke milijuna kuna, a sada se licemjerno, pokvareno i prozirno pokušava sakriti iza nekakvog "stajanja uz radnike".</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>911</ID>
+    <SENTENCE>"Obzirom da je ovaj narod već dovoljno pokvaren i prevaren nedopustivo je da se takva praksa nastavi. Stoga smo uputili zahtjev Upravi ZET-a da hitno prekine i javno obrazloži dugoogdišnju nezakonitu praksu", pobunio se ZET-ov ogranak Sindikata vozača tramvaja, autobusa i servisa Hrvatske još prije šest godina.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>802</ID>
+    <SENTENCE>Čelnica HNS-a nije u stanju ili ne želi priznati da je upravo hrvatski politički establishment, čiji je ona dio, glavni uzrok problema, a ne šačica pokvarenih pojedinaca koje bi se novim zakonom trebalo dovesti u red.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>158</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>975</ID>
+    <SENTENCE>Nigel Carter kaže kako stomatolozi mogu popraviti pokvareni zub, ali i da je četkica za pranje zuba jedno od najboljih oružja protiv karijesa.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>944</ID>
+    <SENTENCE>S vremenom, ohrabrujuće misli zamijenit će negativne poruke koje vam šalje "pokvarena traka".</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>954</ID>
+    <SENTENCE>Ne slušajte nikoga pa ni mene sami pročitajte i uvjerite se koliko vam lažu, nik, Pravednik, Sanader, baffo, Robin Hud itd. ustvari jedan te isti pokvareni lažov koji pljuje po istini i lažima pokušava Vama prodati svoje dionice građevinara i brodara koje padaju.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7617</ID>
+    <SENTENCE>Mogu li slike starkelje koji jača mišice na bocu ovješenu o dovratku, upornoga umjetnika koji se penje po namještaju ne bi li na zid objesio akvarel, a potom zaboravi što radi na komodi, starca s napadima narkolepsije usred struganja rajngle graha ili samca koji organizira zabavu s pet prženih srdela i pokvarenim sintesajzerom za karaoke show, a sve poštujući pravila igre čovječe ne ljuti se, probuditi savjest odgovornih ili će samo proizvesti duhovitu smijuriju koja se zaboravlja odmah po izlasku iz kazališnoga kruga ?</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>304</STARTINDEX>
+    <ENDINDEX>314</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>804</ID>
+    <SENTENCE>Problem je uzrokovao pokvareni stajni trap, koji je narušavao aerodinamiku zrakoplova, a na jednoj od snimci može se vidjeti i iskre.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>808</ID>
+    <SENTENCE>Cijela bajka / hajka s pokvarenim mesom imala je zapravo biti doslovna slika (realizirana metafora) političke propasti Hrvatske pod sadašnjom vlašću.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>861</ID>
+    <SENTENCE>Pokvareni političari na to bi i pristali, samo da ostanu na vlasti, kada se dodatnim opterećivanjem realnog sektora ne bi potopila cijela zemlja.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>Pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7681</ID>
+    <SENTENCE>U sljedećoj vikendici u koju je provalio, pozlilo mu je i pokvarenu je hranu povratio.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>840</ID>
+    <SENTENCE>5.11.2010 12: 11: 11 dule je dodala savjet u Savjetovalište: a dječja posla, što bi se reklo ! taj dječak je vjerojatno nesiguran pa mu treba potvrda od tvoga sina za svaku sitnicu. i to što se ruga i provocira je također odraz nesigurnosti. razgovaraj sa sinom otvoreno da smatraš da njegovo ponašanje nije u redu ali ako je tvom sinu mali ok, ne treba previše čačkati po prijateljstvu. ok sin ti se rasplakao i ti misliš da mu je pokvaren izlet ali prijatelji se i posvađaju i zezaju jedan drugog. to su stvari i sitnice na kojima i tvoj sin treba graditi svoje samopouzdanje i naučiti se suprostaviti.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>432</STARTINDEX>
+    <ENDINDEX>440</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>862</ID>
+    <SENTENCE>Ocijenila je kako se država, ali i mediji, prema Hini odnose "kao prema pokvarenom zubu koji će se sam izliječiti", odnosno da zbog nebrige nacionalna novinska agencija gubi svoj utjecaj u društvu i na medijskom tržištu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>828</ID>
+    <SENTENCE>Sada će svaka majka znati kakva joj nakaza podučava kćer, sada će svaki otac vidjeti kako pokvarene ljude svakodnevno mora slušati njegov sin, sada će svako dijete vidjeti kakva ga kurvetina uči množiti.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>831</ID>
+    <SENTENCE>Upravo čitam "Lustrum" Richarda Harrisa, drugi dio njegove sage ("Imperium") o Marku Tuliju Ciceronu, kraju Republike i usponu na vlast pokvarenog populista Gaja Julija Cezara.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>136</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>898</ID>
+    <SENTENCE>Dok kriminalci štrajkaju, ubacite nekoga od poštenih taxi prijevoznika, pa će se svi moliti da ovi prvi "štrajkaju" do kraja svog pokvarenog života.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>140</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>967</ID>
+    <SENTENCE>Uzrok trovanja su pokvarena jaja, pokazala je analiza.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7620</ID>
+    <SENTENCE>Tada se nisam javljao liječniku jer sam mislio da je stvar u toj salami koja je možda bila pokvarena.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>986</ID>
+    <SENTENCE>Sada je vidljivo kakav je pokvareni i podli neprijatelja Hrvatske izabran odnosno nametnut nam za predsjednika države.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>852</ID>
+    <SENTENCE>Od približno 83 tisuća ljudi koji su sudjelovali u gašenju i sanaciji pokvarenog reaktora, umrlo ih je 125 tisuća.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7677</ID>
+    <SENTENCE>Naizgled, baterija je pokvarena i nema joj pomoći.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7621</ID>
+    <SENTENCE>Apple je zamjena računala s pokvarenim GeForceima 8600M poprilično koštala, uključivši tu i produljenje garancije na tri godine, ali ih je navodno više razljutilo to što su im iz Nvidije lagali o stvarnom opsegu problema koje ova generacija čipova ima sa zagrijavanjem.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>914</ID>
+    <SENTENCE>Pammy draga, razumijem da voliš svoju vaginu, ali ona je već odavno "out of service" kao pokvareni lift.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>856</ID>
+    <SENTENCE>Sve je to jedna nesposobna a umišljena, arogantna i pokvarena bagra, koja ruku pod ruku uništava Hrvatsku.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7623</ID>
+    <SENTENCE>Ma svi ste vi bosanci isti: pokvareni, defektni, kradljivci !</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>871</ID>
+    <SENTENCE>Jakovčić je predvidljivo govorio o jačanju regionalne vlasti, dok je Hrelja obećao popraviti sve pokvareno u ovoj državi.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>948</ID>
+    <SENTENCE>Nema afere, nema nestručnog rukovanja, pokvarene aparature, podmićenih liječnika ili nečeg drugog na što smo navikli, pa je na mjesto isukanih očnjaka došla rezignacija i suosjećanje zbog žalosne sudbine zaraženih ljudi.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7669</ID>
+    <SENTENCE>I naravno, gadljivci pokvareni koji krše svaki ljudski i božji zakon, se bez problema uključuju u predizbornu reklamu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7658</ID>
+    <SENTENCE>Njihov slučaj, prevara teška oko 100 milijuna dolara, privukao je veliku pažnju, s obzirom na to da su u prevaru bili uključeni i pokvareni agenti nekretnina, i odvjetnici.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7649</ID>
+    <SENTENCE>NASA je nastojala što prije prizemljiti Atlantis, zbog planiranog uništavanja pokvarenog američkog špijunskog satelita US193 projektilom s krstarice na Pacifiku, koje bi moglo uslijediti u srijedu navečer, po lokalnom vremenu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>920</ID>
+    <SENTENCE>"Briga me. Ja govorim pred svima, a nisam dvolična da mu se smijem hi, hi, hi. Ja mu dajem do znanja da me boli briga za njega i da mi je pao u očima jer nije ispravan i pokvaren je", dodaje novopečena pjevačica koja je neizravno sugerirala ostalim farmericama da ga postave za duelistu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>170</STARTINDEX>
+    <ENDINDEX>178</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7637</ID>
+    <SENTENCE>Novak je najvjerojatnije pojeo nešto pokvareno u jednom restoranu u Marseilleu zbog čega je imao jake bolove u trbuhu zbog kojih je morao propustiti treninge prije starta turnira, piše Press.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>949</ID>
+    <SENTENCE>A druga stvar je da im novi sustav naplate karata neradi i svaki drugi aparat je pokvaren, što se tiče onih panela koji bi trebali pokazivati točno vrijeme dolaska travanja to je isto u komi tamo piše 0 minuta do dolaska jedanaestice a travanja ni na vidiku, i tako ti kao budala čekaš tramvaj još pet minuta a njemu ni traga ni glasa.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1000</ID>
+    <SENTENCE>Možda je u pitanju "pokvareni želudac" starom hranom ili onečišćenom vodom, infekcija, zaraza gripom ili pak neuhranjenost.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7619</ID>
+    <SENTENCE>Crutchley je pokvaren i sadist, nikad neće propustiti priliku da se zafrkava na račun onoga čime se bavim, posebno ako su u blizini djevojke.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>819</ID>
+    <SENTENCE>Dakle, pokvareni Stanković, ne da samo ne odgovara na emailove, nego niti READ, ne vrati !!</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>976</ID>
+    <SENTENCE>HZZO će platiti liječenje za Silvanu, ponavljao je poput pokvarene longplejke za televizije, radiopostaje, novine, portale.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7629</ID>
+    <SENTENCE>A najgore što se vama može dogoditi jest da investirate toliko novca u pokvarenu bocu Dom Perignona.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>900</ID>
+    <SENTENCE>Svi su ostali intervali, kaže Šćekić, pokvareni jer nisu izračunati prema prirodnim omjerima, nego prema dogovorenim odnosima.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7616</ID>
+    <SENTENCE>PETRINJA - Pacijenti naručeni za mamografski pregled u utorak su dolazili u Dom zdravlja Petrinja no svi su se okrenuli i otišli jer su vidjeli obavijest da je pokvaren uređaj za mamografiju.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>160</STARTINDEX>
+    <ENDINDEX>168</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>809</ID>
+    <SENTENCE>Prije samo tjedan dana na jedan je grob na Aninu groblju, podsjetimo, netko istresao katran i nešto što nalikuje na pokvarenu hranu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>889</ID>
+    <SENTENCE>Na prvom mjestu je kaciga, koja mora biti homologirana i ne starija od 5 godina, pogotovo jer je kod starih kaciga oslabljena ili pokvarena kopča za vezanje kacige, te kod prometne nesreće kaciga padne s glave.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7661</ID>
+    <SENTENCE>Sad ćemo pojesti tu kajganu od pokvarenog jaja do kraja, i bojim se da će nam se smučiti do bola.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>859</ID>
+    <SENTENCE>- PREDSJEDNIK KLUBA je jedna najobičnija nula, o kojemu je sve rečeno, pa o toj pokvarenoj polupismenoj Kerumovoj marioneti ne želim više trošiti riječi.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>951</ID>
+    <SENTENCE>- Nadam se da će policija naći to stvorenje koje je sigurno krivo za nestanak fotografa, nevine djevojke sa slike i naših predivnih haljina - kaže L.J. očajna što će zbog tog monstruma sa slike, u šok - sobi zbog pokvarenog vjenčanja zasigurno završiti i mladenke koje su naručile ukradene haljine.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>213</STARTINDEX>
+    <ENDINDEX>223</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7691</ID>
+    <SENTENCE>Kako ostajemo sveti u ovo pokvareno vrijeme ?</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7653</ID>
+    <SENTENCE>No serum nije dobro držati u priboru za prvu pomoć jer više ljudi nastrada od pokvarenog seruma nego od zmijskog ugriza.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7607</ID>
+    <SENTENCE>"Nema sumnje da je Ronaldo fantastičan igrač, ali isto tako je vrlo prgav i radi određene stvari na terenu koje su pokvarene. Mogao bi pokazati malo više poštovanja za protivnika", kaže Pizarro.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>878</ID>
+    <SENTENCE>Ona počiva na uvjerenju da su intelektualci, odnosno takozvani kulturnjaci po sebi odgovorniji, dalekovidniji, objektivniji i tome slično od pokvarenih, korumpiranih političara i od širokih narodnih masa, takozvanih običnih ljudi.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>141</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7675</ID>
+    <SENTENCE>No ipak smatram da čovjek mora biti jako glup ili pokvaren da podržava tu metodu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7635</ID>
+    <SENTENCE>To je nečuveno kako je taj čovjek pokvaren.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7674</ID>
+    <SENTENCE>"U Hrvatskoj nisu problem ateisti, nego bezbožnici", misli moj prijatelj teolog, sveučilišni profesor - on kaže da bi radije živio u Hrvatskoj punoj poštenih ateista nego u Hrvatskoj punoj pokvarenih kršćana.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>189</STARTINDEX>
+    <ENDINDEX>199</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7643</ID>
+    <SENTENCE>Zbog toga Wilo savjetuje da se pri zamjeni pokvarene pumpe uzme u obzir ne samo razina zamjene nego i da se obavi približna nova kalkulacija na temelju podataka o objektu i postrojenju.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>977</ID>
+    <SENTENCE>Antemax3, glupav ili pokvaren, tuzno te je cuti kako razmisljas.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7638</ID>
+    <SENTENCE>Djelom je to zbog već dobro poznate EA-ove prakse "ne popravljaj ako nije pokvareno", ali djelom i zato što zaista ništa nije pokvareno i što je igrivost dovedena do vrhunca.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>126</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>849</ID>
+    <SENTENCE>Naravno, nitko ne očekuje da ljudi jedu pokvarene namirnice, nego da troše racionalnije.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>962</ID>
+    <SENTENCE>Neshvatljivo, u vremenu opće borbe protiv korupcije i mita, Isus nam donosi usporedbu o nekome naskroz pokvarenu upravitelju koji je pronevjerio svome gospodaru milijunske iznose.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>835</ID>
+    <SENTENCE>Ovo je taktika nekih dečki – žele te uvjeriti da su loši, pokvareni, zločesti, a ti si tako lijepa, draga, mila i dobra i jednostavno ne zaslužuješ takvog gada kao što je on.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>933</ID>
+    <SENTENCE>Svi iz iskustva znamo da ono što nije pokvareno ne treba popravljati.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>942</ID>
+    <SENTENCE>Sjećate li se igre pokvarenog telefona koju smo se znali igrati kao djeca ?</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>812</ID>
+    <SENTENCE>"Ovaj očajnički čin je moja molba, vapaj, poziv gospodinu Mladenu Bajiću da ispravi užasnu nepravdu i pravomoćnu sramotu koju jedini on u državi Hrvatskoj može ispraviti, te da dopusti da se istraga, koja je na takav način zaustavljena, provede. Neka to učini, ako ne zbog mene, onda zbog svih ljudi koji nemaju veze s pokvarenim političarima ili kriminalnim skupinama koje bi ih štitile, neka dade malom, nemoćnom čovjeku nadu da od ove države ipak može očekivati zaštitu i nadati se pravdi. Ja ne tražim niti osudu niti presudu, nego samo mogućnost da na sudu dokažem svoje tvrdnje, što mi je do sada bilo onemogućeno", zaključuje očajni Knapić.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>319</STARTINDEX>
+    <ENDINDEX>329</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7682</ID>
+    <SENTENCE>Betti je na 3. brzincu doživio vrlo neugodno iznenađenje - pokvareni interkom onemogućio je komunikaciju sa suvozačem što je na zahtjevnim, skliskim i brzim belgijskim stazama prilično velik hendikep.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>850</ID>
+    <SENTENCE>Bila je gorljiva za govornicom i uspijevala se povezati s publikom pozivanjem na godine koje je provela u rovovima, u borbi protiv pokvarenih lokalnih dužnosnika.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>131</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>890</ID>
+    <SENTENCE>Ovaj veliki roman započinje prepirkom spisa i registara, a nastavlja se kao "raspredanje" glavnog junaka u obliku ispovijesti, kojoj je cilj da razobliči kritički hrvatsko društvo onog vremena u rasponu od osiromašenih seljaka i pogospođenih opanaka do pokvarene gospode.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>253</STARTINDEX>
+    <ENDINDEX>262</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>885</ID>
+    <SENTENCE>Svaki pokvareni aparat, svaki lijek kojega nema, svako čekanje na operaciju, sve to pacijent projicira na mene, svoga liječnika.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>940</ID>
+    <SENTENCE>Mi se vraćamo u Komižu s Karlom, a on trlja ruke: spustila se noć, počinje kiša, jedna ekipa se već izgubila u džungli u unutrašnjosti otoka, a vozilo Gorske službe spašavanja ostalo je u četvrtoj brzini na komiškoj rivi, pokvareno — uvjeti više nisu idealni i Karlo je već zadovoljniji.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>222</STARTINDEX>
+    <ENDINDEX>231</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7633</ID>
+    <SENTENCE>Zanimljiv uređaj (a pod "zanimljiv" mislimo da ga se može koristiti na sve moguće pokvarene načine) dolazi iz tvrtke iRes pod imenom uCorder.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarene</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>941</ID>
+    <SENTENCE>Promjenom ove totalno bolesne, korumpirane i svestrano pokvarene vladajuće politike s isto tako pokvarenim i svestrano korumpiranim političarima u oporbenim strankama Hrvatska padati još dublje u sva zla.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>870</ID>
+    <SENTENCE>To je eho nekog davno pokvarenog telefona, da ne kažem pokvarenog telefonista.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7673</ID>
+    <SENTENCE>I usput što ste dali onom jadnom sucu da poništi regularan gol Amerima ? pokvarenu perilcu rublja ?</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>997</ID>
+    <SENTENCE>Krajnje pokvareno i neodgovorno !</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>824</ID>
+    <SENTENCE>Stoga treba izmisliti sve kako bi dokazala kako je Crkva pokvarena, zla i odvratna.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7663</ID>
+    <SENTENCE>Od zavaravajućih, pokvarenih pa sve do razno raznih potpuno ne realnih zakucavanja koja možete vidjeti ako igrate na arcade načinu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7634</ID>
+    <SENTENCE>Mjere koje to omogućuju su dobra higijena, što manje slatkiša (uključivo sokova koji su glavni izvor šećera kod današnje djece), popravci pokvarenih zubića, naročito kutnjaka, te korištenje tzv. otopina za remineralizaciju.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>148</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>851</ID>
+    <SENTENCE>Vi se čudite da on može biti tako pokvaren da je krenuo s drugom !</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7679</ID>
+    <SENTENCE>Između ostalog naša je namjera obrazovati studente, koji će jednom kada se nađu u ulozi profesora u školi, raditi pokuse svaki sat, a ne da jedini pokušaj bude zapamćen po tome što je zbog kemije evakuirana čitava škola jer je profesor izvodio pokus sa sumporovodikom (smrad pokvarenih jaja i iznimno opasan otrov).</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>275</STARTINDEX>
+    <ENDINDEX>285</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>999</ID>
+    <SENTENCE>Veliki pritisak iz EU-a je neprestan te ozbiljne prijetnje od njih i financiska kriza učinili su svoje da se moraju obvezno mijenjati pokvareni usađeni običaji Balkana.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvareni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>969</ID>
+    <SENTENCE>Jer tako pokvarena njuškatortska govna nemaju koristi, ne mogu ništa saznati o onome tko je kupio tu karticu.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>958</ID>
+    <SENTENCE>Gospodin Olujić djelovao je niz godina kao državno - partijski odvjetnik Tuđmanovoga režima, koji je po nalogu s vrha podizao optužnice protiv nepoćudnih novinara i pokvarenu diktaturu kojoj služi prikazivao kao oazu anđela okruženu podlacima.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>174</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7626</ID>
+    <SENTENCE>Ode policajac kod zapovjednika policijske postaje i sav tužan mu kaže: - "Dali ste mi pokvarenu vazu na poklon, pa me žena zamalo prebila. Ova vaza uopće nema otvora za cvijeće ..!"</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7692</ID>
+    <SENTENCE>– Ma, cijela je atmosfera pokvarena s ovom ratnom psihozom i s odgodom prve utakmice u Maksimiru, kaže maksimirski trener Ilija Lončarević uoči prvoga dvoboja prvog kola Kupa Uefe protiv Makabija iz Tel Aviva u četvrtak u Zagrebu (18 sati).</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarena</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7614</ID>
+    <SENTENCE>"Utakmica je produžena samo dvije minute, a napravljeno je svih šest izmjena. Pored svega toga, česte su bile situacije u kojima su igrači ležali na travnjaku. Trebalo je biti produženo barem sedam minuta, rekao sam to i Pristovniku, jer ako nije pokvaren onda bi se morao educirati. Nadam se samo da tu nije bilo nikakve namjere", rekao je Poklepović koji je još jednom novinarima zamjerio što mu spočitavaju nehajdučku igru, bez ijednog napadača.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvaren</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>247</STARTINDEX>
+    <ENDINDEX>255</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>904</ID>
+    <SENTENCE>Milijarde koje su u posljednih petnaest godina iz naše državne blagajne odlazile za vojne penzije bezbrojnih seoskih vucibatina koje je Tuđman učinio generalima, za plaće pokvarenih činovnika što su izdavali hrvatske pasoše srpskim mafijašima, silni novac koji je služio tek da održi švercersko - obavještajno - gangsterski sustav koji su u amanet ostavili Šušak i Boban, valjalo je uložiti u nekakva sveučilišta, kulturne centre, vrtiće i bolnice, učiniti da se ljudi osjećaju ugodnije tamo gdje žive, a ne podgrijavati im frustraciju hercegovačkom adresom.</SENTENCE>
+    <TARGETLEMMA>pokvaren</TARGETLEMMA>
+    <TARGETWORD>pokvarenih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>171</STARTINDEX>
+    <ENDINDEX>181</ENDINDEX>
+  </INSTANCE>
+</SET>

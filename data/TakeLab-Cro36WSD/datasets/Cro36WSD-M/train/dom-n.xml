@@ -1,0 +1,2991 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>9938</ID>
+    <SENTENCE>Dakle, iskaz je dan 28. listopada, a dan poslije 29. listopada Merima Galijatovića vode na lica mjesta da pokaže te lokacije na kojima je navodno postavljena eksplozivna naprava i preuzimana torba, ali on potpuno pogrešno detektira put o kojemu je govorio u svom iskazu dan prije, tako da u njemu govori o restoranu Zdrava voda i putu koji se nalazi neposredno prije restorana, dok na licu mjestu pokazuje Lovački dom i put koji se nalazi kod tog restorana.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>414</STARTINDEX>
+    <ENDINDEX>417</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5600</ID>
+    <SENTENCE>Kelti su vjerovali kako je tu noć najtanja granica između mrtvih i živih, života i smrti jer tada mrtvi nakratko dolaze ponovno na Zemlju i posjećuju svoje domove te duše zalutalih mrtvih na taj dan odlaze na drugi svijet.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>156</STARTINDEX>
+    <ENDINDEX>162</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5589</ID>
+    <SENTENCE>Te se djelatnosti mogu provoditi u medicinskim ambulantama kao što su one u poduzećima, školama, staračkim domovima, radničkim organizacijama, vjerskim organizacijama, u stacionarima, u privatnim ordinacijama, domovima samih pacijenata, u drugim prostorijama za zdravstvenu namjenu u privatnom vlasništvu ili drugdje.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5501</ID>
+    <SENTENCE>Kakav očekujete rezultat i što uopće očekujete od predstojećih izbora za Zastupnički dom ?</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5476</ID>
+    <SENTENCE>43-GODIŠNJI Damir Kos, otac dvoje djece, u ponedjeljak je nestao iz svog doma na području Svete Nedjelje.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9999</ID>
+    <SENTENCE>U skladu s uvjetima što ih predviđa zakon, redarstvene vlasti mogu i bez sudskog naloga ili privole držatelja stana ući u dom ili prostorije te izvršiti pretragu bez nazočnosti svjedoka, ako je to neophodno radi izvršenja naloga o uhićenju ili radi hvatanja počinitelja kaznenog djela odnosno otklanjanja ozbiljne opasnosti po život i zdravlje ljudi ili imovinu većeg opsega.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5413</ID>
+    <SENTENCE>Dom sportova godinama zjapi poluprazan za vrijeme Indoorsa, a ništa bolje nije bilo niti kada su u metropolu stizale strane Davis Cup ekspedicije.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>Dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>3</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5482</ID>
+    <SENTENCE>Ovi ljudi postaju brižniji i prema sebi i prema svojem domu kad postanu roditelji ili se obvežu o nekome se brinuti, a katkad je dovoljno da žive s partnerom.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5453</ID>
+    <SENTENCE>Vjernik koji vjeruje u život vječni radosno prihvaća poslove i obveza u ovom svijetu, uvjeren da gradeći ovaj svijet gradi sebi svoju vječnu domovinu ; gradeći s ljubavlju zemaljski dom, gradi svoj konačni dom, koji je i Očev Dom.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>206</STARTINDEX>
+    <ENDINDEX>209</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9905</ID>
+    <SENTENCE>Mornarski stil, kao i traperice, nikad ne izlazi iz mode, doma sigurno imate bar jednu prugastu stvar u ormaru, majicu s brodom, sidrom, školjkom ili mornarsku kapu, svejedno.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5494</ID>
+    <SENTENCE>Okupljanje clanova je u 7 sati u nedjelju ispred doma u Oborovu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5402</ID>
+    <SENTENCE>Traži dom bez lanca i cijelodnevnog boravka u boksu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5422</ID>
+    <SENTENCE>Svaki dan doma razgovaramo o studentskoj blokadi, pri čemu ga uvjeravam da je ovaj put treba obustaviti, no i to je neka sasvim druga priča.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5582</ID>
+    <SENTENCE>Nelojalna konkurencija ozbiljan je problem ugostiteljima, jer se, upozorava Puntijar, primjerice svadbe, martinja, dočeci novih godina organiziraju u vatrogasnim domovima ili lovačkim društvima koji nisu registrirani za takve djelatnosti i ne plaćaju porez.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>162</STARTINDEX>
+    <ENDINDEX>170</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5509</ID>
+    <SENTENCE>Objekt se inače pod policijskom i istragom forenzičara našao nakon optužbi na račun bivše uprave doma koja je navodno dopuštala zlostavljanje i silovanje djece smještene u domu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>172</STARTINDEX>
+    <ENDINDEX>176</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9991</ID>
+    <SENTENCE>Francesca Segal izjavila je da je otac umro u nedjelju u svome domu u Londonu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5597</ID>
+    <SENTENCE>Simbol zle i nevjerne žene ; uzrok njezinoj patnji i ubojstvu muža: Agamemnon je morao žrtvovati kćer Ifigeniju da bi se mogao vratiti kući ; Klitemnestra ga vara sa Egistom i zajedno s njime ubija muža, zbog tog žrtvovanja njezine kćeri miljenice ; zanemaruje poslije svoju živu djecu ; na vijest da je Elektra rodila, dolazi u njezin dom ; Elektra i Klitemnestra se sukobljavaju, i kasnije Orest ubija majku.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>336</STARTINDEX>
+    <ENDINDEX>339</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5585</ID>
+    <SENTENCE>Svi su u Dalmaciji začuđeni kako me toliko malo ima doma, a s druge strane sasvim je normalno da pomorci budu stalno odvojeni od obitelji i to se nikad ne postavlja kao problem.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5567</ID>
+    <SENTENCE>Dalje, nastaviti istočno grebenom i za još 2 sata se stiže na planinarsko sklonište "VICKOV STUP" (1325 m). Odatle, silaz na južnu stranu grebena i za 1 sat se stiže u planinarski dom Umberto Giromettra "(900 m).</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>180</STARTINDEX>
+    <ENDINDEX>183</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5594</ID>
+    <SENTENCE>Jelić je trener koji svoje emocije ne pokazuje, a oni su navikli na povratnu informaciju i malo su izgubljeni - kaže Vice koji im je stavio pred oči to da im se "potrefilo tako u nekim okolnostima da su dobili nešto najbolje što su mogli i da to treba iskoristiti. Što mislite da je njemu lako gubiti utakmice. Došao je ovdje u drugu ligu i gubi utakmice, a nije ih gubio s reprezentacijom - kako je njemu sada otići doma spavati ? Dajte malo, mućnite glavom."</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>417</STARTINDEX>
+    <ENDINDEX>421</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9960</ID>
+    <SENTENCE>Podsjećamo, novi Magmin brand – Magma Lifestyle promiče pozitivne vrijednosti svojstvene samosvjesnim, informiranim ženama koje se aktivno nose s izazovima u životu, a u svojoj ponudi ima odabranu odjeću i obuću za žene, modne detalje te sve što je potrebno za osmišljavanje posebnog ugođaja u domu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>294</STARTINDEX>
+    <ENDINDEX>298</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5546</ID>
+    <SENTENCE>Oluja je tako značila kraj agresije na Hrvatsku i BiH u kojoj su milijuni ljudi morali napustiti svoje domove, a deseci tisuća izgubili su živote.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5545</ID>
+    <SENTENCE>Pa tako znamo da je Sanader svoj dom u Kozarčevoj ulici napustio oko pola devet držeći u ruci crnu aktovku, koju izlazeći iz Westina nije imao sa sobom.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5512</ID>
+    <SENTENCE>Iz doma Brittanyna muža Simona Monjacka u 8 ujutro po američkom vremenu pozvana je hitna pomoć, a mlada glumica prebačena je u bolnicu Cedars-Sinai, no nije joj više bilo pomoći.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>3</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5444</ID>
+    <SENTENCE>Bjeliš smatra da je još prerano govoriti o tome hoće li se promjene dogoditi već u idućoj akademskoj godini, a uzroke gubitcima vidi, među ostalim, u nesrazmjeru stvarnih i procijenjenih cijena smještaja u studentskim domovima i prehrane u menzama.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>218</STARTINDEX>
+    <ENDINDEX>226</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5542</ID>
+    <SENTENCE>Tada je otkriveno da zemljište na kojem su Spomen - dom i parkiralište nije izvlašteno iz vlasništva Vupika te je prijetila opasnost da budući kupac Vupika dođe i u njihov posjed.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5513</ID>
+    <SENTENCE>Više od 22 tisuće radnika FIAT-a je, primjerice, u srijedu ostalo u svojim domovima, jer u pogonima te automobilske tvornice ne bi imali što raditi.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5518</ID>
+    <SENTENCE>"Na temelju podataka, očito je da je u BiH razina PCB-a u zraku kod tuzlanskog Vatrogasnog doma značajno veća nego na bilo kojem drugom mjestu. Uz ’ Zastavu ’ u Kragujevcu, gdje je razina PCB-a u zraku iznimno velika, Vatrogasni dom u Tuzli je mjesto s najvišom koncentracijom PCB-a na područjima mjerenja", objavio je Recetox iz Brna.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>229</STARTINDEX>
+    <ENDINDEX>232</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5514</ID>
+    <SENTENCE>Cilj rada je prikazati rezultate provedenog znanstvenog istraživanja psihosocijalnih potreba korisnika u "Nuevo futuro" i ocjenu uspješnosti zadovoljavanja utvrđenih potreba, koje je provedeno na cjelokupnoj populaciji korisnika od strane istih istraživača (Studijski centar socijalnog rada Pravnog fakulteta u Zagrebu: prof. dr. M. Ajduković, doc. dr. B. Sladović Franz i Klaudija Kregar) i po istoj metodologiji koja je korištena u trogodišnjem projektu MZSS "Mogućnost unapređenja skrbi za djecu u dječjim domovima i udomiteljskim obiteljima".</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>509</STARTINDEX>
+    <ENDINDEX>517</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5449</ID>
+    <SENTENCE>Nova škola u adaptiranom Zadružnom domu je svečano otvorena 26. rujna 1965. godine.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9909</ID>
+    <SENTENCE>Dom za sad na vrijeme podmiruje sve svoje obveze, a korisnik nije zakinut niti za obroke, niti za električnu energiju, higijenske uvjete i slično, kazao je Šoša, podsjetivši da cijena jednokrevetne sobe za pokretne osobe iznosi 2.400 kuna, a dvokrevetna 2.200 kuna, dok jednokrevetna soba u stacionaru, odnosno za polupokretne osobe iznosi 2.700 kuna te 2.500 kuna dvokrevetna.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>Dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>3</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5530</ID>
+    <SENTENCE>Naime, nakon što je Austriju, Njemačku i Češku početkom kolovoza zahvatilo dugo kišno razdoblje, koje je rezultiralo plavljenjem velikih područja tih zemalja, tisuće ljudi ostale su bez doma, što u Hrvatskoj nije ostalo nezamijećeno.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>186</STARTINDEX>
+    <ENDINDEX>190</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5553</ID>
+    <SENTENCE>Potreba za knjigom nije hobi koji ljudi dopunski prakticiraju, pa tu i tamo nešto kupe i ponesu doma ; prije će biti kako ja stvar i potreba kupnje knjiga puno dublja, gotovo elementarna i nezaustavljiva. Posljednjih je godina znatno porasla cijena individualnog samoodržanja, tržište je zahtjevno i iluzorno je očekivanje kako se može pripadati pokretljivim i propulzivnim socijalnim slojevima i grupama, a da se ne bude obrazovan i upućen, stručan i profesionalan.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9951</ID>
+    <SENTENCE>Rastao je u obiteljskom domu a u rodnome Cerniku završio je osnovnu školu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5504</ID>
+    <SENTENCE>U Multimedijalnoj dvorani Gradske knjižnice Benkovac i društvenog doma u Podgrađu održano je javno izlaganje unutar javne rasprave Prijedloga urbanističkog plana uređenja Asserije Podgrađe čiji je nositelj Grad Benkovac, a izvođač Zavod za prostorno uređenje Zadarske županije.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5599</ID>
+    <SENTENCE>Upozorava kako mnogi među nama stoje pred zatvorenim vratima: u obiteljima, pred vlastitim a nedostupnim domom, pred tvornicama i poduzećima, pred raznim ustanovama.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9922</ID>
+    <SENTENCE>Kad jedno Društvo živi 126 godina, onda to treba i nagraditi – naglasio je gradonačelnik Pintarić ispred Vatrogasnog doma u Gredi gdje je i održana primopredaja navalnog vozila.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9907</ID>
+    <SENTENCE>Ne volim govoriti o članovima moje obitelji, ali moja kćer koja svaki vikend provodi u domu za nezbrinutu djecu isto tako redovito skuplja mačiće i psiće cestom kojom prolazi a koje ljudi izbacuju iz auta.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9914</ID>
+    <SENTENCE>Ubrzo su se vjenčali, i to u pravoslavnoj crkvi, a Tito svoju mladu ženicu dovodi majci i ocu na ognjište roditeljskog doma.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5417</ID>
+    <SENTENCE>"Nemamo pritiska, cilj smo ispunili. Naravno da ćemo dati 100 posto da pobijedimo u svakoj utakmici. Igramo šest utakmica i iako su protivnici objektivno jači od nas, igramo tri puta doma. Imamo priliku za pobjede u tim utakmicama i tako drugima otežati posao."</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>183</STARTINDEX>
+    <ENDINDEX>187</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9988</ID>
+    <SENTENCE>Razina 25 također se dodjeljuje studentu smještenom u studentskom domu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5471</ID>
+    <SENTENCE>Tako ćete, između ostalog, moći naučiti kako iz prirodnih materijala napraviti pastu za zube, sprej za čišćenje kućanstva, prašak za pranje rublja, uljne i biljne pilinge, tonike, kako nježnije odštopati odvod te kako se riješiti kamenca i osvježiti zrak u domu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>257</STARTINDEX>
+    <ENDINDEX>261</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5558</ID>
+    <SENTENCE>U presudi se navodi kako je Travica kao pripadnik paravojnih jedinica takozvane "SAO Krajine", provodio terorističke akcije nad stanovništvom hrvatske nacionalnosti, prijetio im, vrijeđao ih, fizički ih maltretirao, pljačkao i uništavao pokretnu imovinu, a nepokretnu palio kako bi ih prisilio na odlazak iz njihovih domova.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>317</STARTINDEX>
+    <ENDINDEX>323</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5425</ID>
+    <SENTENCE>Radno obilježavanje 35. godišnjice rada Društva distrofičara Istre privedeno je kraju donacijom 150 ortopedskih pomagala - hodalica, kolica, podlaktičnih, potpazušnih i dječjih štaka te onih s četiri noge - domovima zdravlja diljem Istre, domovima za starije i nemoćne, čiji je osnivač Županija, te pulskoj Općoj bolnici.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>239</STARTINDEX>
+    <ENDINDEX>247</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9993</ID>
+    <SENTENCE>Koji su nam osigurali siguran dom.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5485</ID>
+    <SENTENCE>Dečki su do doma išli okolnim putevima kako ne bi naišli na policiju.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9944</ID>
+    <SENTENCE>Početkom idućeg tjedna Grad Šibenik će sa splitskim Pomorskim fakultetom potpisati ugovor kojim će toj visokoškolskoj ustanovi bez naknade ustupiti na korištenje prostorije Krešimirova doma za potrebe održavanja predavanja i rada Stručnog studija pomorstva u Šibeniku.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>185</STARTINDEX>
+    <ENDINDEX>189</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5572</ID>
+    <SENTENCE>Sa posla dodjem doma u 2 sata a tada taman pocinje serija tajna cokolade.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5431</ID>
+    <SENTENCE>Gospićki su ribolovci još prije rata započeli s održavanjem i uređivanjem dijela obale Novčice kod svog ribolovačkog doma na Brionima.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9947</ID>
+    <SENTENCE>U Parlamentu će biti samo tri stranačke skupine s time što će u Zastupničkom domu biti i dva zastupnika njemačke manjine iz južnotirolske stranke.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9995</ID>
+    <SENTENCE>Prostor u vlasništvu grada uz društveni dom ustvari su stanovi koji se ne koriste, a bit će preuređeni u učionice.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5551</ID>
+    <SENTENCE>Dolazak Amarea Stoudemirea ovog ljeta u New York definitivno je tu momčad preobrazio u ozbiljnog kandidata za gornji dom Istočne konferencije.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>120</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5483</ID>
+    <SENTENCE>– Od Zastupničkoga doma Parlamentarne skupštine BiH tražimo da se ispuni odluka od 18. rujna prošle godine, u kojoj se kaže da će se devizna štednja za pet godina isplatiti s pet posto kamata – kazao je predsjednik Udruženja Svetozar Nišić, navodeći da taj zahtjev može biti ispunjen jer za to postoje sredstva.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5404</ID>
+    <SENTENCE>Dom sportova bi uskoro trebao biti rekonstruiran te ponuditi još bolje uvjete hrvatskim hokejašima.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>Dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>3</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9929</ID>
+    <SENTENCE>S obzirom da je na čelo tog nekad jakog poljoprivrednog kombinata došao tek prije nekoliko mjeseci, Mihaljević tvrdi i da za problem Spomen doma Ovčara dosad nije znao.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>140</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9936</ID>
+    <SENTENCE>Što se tiće infrastrukture u blizini stana, a pod time mislim na 5 min. hoda nalaze se svi važniji sadržaji (dom zdravlja, tržnica, općina, trgovački centar "Garden Mall", kao i tramvaj na aveniji Dubrava).</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5532</ID>
+    <SENTENCE>Shvatile ste da predugo imate isti namještaj, želite malo osvježenja za vas dom ?</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5563</ID>
+    <SENTENCE>Nakon što je propješačila 18 kilometara od svog doma sa svoje dvoje male djece, sretna je što će njeno bolesno dijete konačno biti liječeno.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9956</ID>
+    <SENTENCE>Susan se već jednom pojavila u emisiji popularne Oprah Winfrey, no tada se javila video linkom iz svog doma u Škotskoj.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9941</ID>
+    <SENTENCE>Kako prenosi gradski KAportal, HEP je u petak službeno objavio kako je njihova inspekcija na terenu utvrdila da je gradilište društvenog doma ilegalno priključeno na mrežu, te je najavio da će prema odgovornim osobama postupiti jednako kao i u ostalim sličnim slučajevima.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5429</ID>
+    <SENTENCE>U Pagu se vjeruje kako će sastanak biti uspješan te kako će Skupština Zadarske županije poštivati Zakon o zdravstvenoj zaštiti i donijeti odluku o osnivanju doma zdravlja u Pagu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>157</STARTINDEX>
+    <ENDINDEX>161</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5576</ID>
+    <SENTENCE>To je inače nemoguće bez objedinjenja vlasničkih te upravljačkih prava ", kazao je ministar zdravstva RH dr. Andro Vlahušić na konferenciji za novinare u palači Ranjina u povodu Prijedloga spajanja domova zdravlja i ljekarničkih ustanova u vlasništvu Dubrovačko - neretvanske županije.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>198</STARTINDEX>
+    <ENDINDEX>204</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5440</ID>
+    <SENTENCE>Često jedno želi prirodan i što jednostavniji izgled doma dok drugo želi žive boje i uzorke.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5462</ID>
+    <SENTENCE>Zadnjih godina aktivno se pristupilo uređenju mjesnih domova u Šupljoj Lipi, Stražancu, Imsovcu i Otkopima.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5437</ID>
+    <SENTENCE>Razlika se najviše očituje u njihovoj agresivnosti koja im je doma izraženija.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5481</ID>
+    <SENTENCE>Svi su se ponadali da će sezona 2009. / 10. donijeti iskorak, odnosno da će se prvoligaš sa Stanova barem boriti za gornji dom prvoligaške ljestvice.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9923</ID>
+    <SENTENCE>VARŠAVA - Oporbena stranka Građanska platforma vodi na nedjeljnim poljskim parlamentarnim izborima s osvojenih 41,1 posto glasova što joj, prema prvim neslužbenim izbornim rezultatima na temelju 11 posto prebrojanih glasova, jamči 226 od ukupno 460 zastupničkih mjesta u Sejmu, gornjem domu poljskog parlamenta.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>286</STARTINDEX>
+    <ENDINDEX>290</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9934</ID>
+    <SENTENCE>Prošli je ponedjeljak pronađen onesviješten u svojem domu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9949</ID>
+    <SENTENCE>Nakon imenovanja, vladu mora u roku od 30 dana potvrditi donji dom parlamenta.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5535</ID>
+    <SENTENCE>"Misli na sutra" je nastao u sklopu informativno - edukativnih aktivnosti nacionalnog projekta Poticanje energetske efikasnosti u Hrvatskoj kojeg zajednički provode UNDP, Program Ujedinjenih naroda za razvoj u Hrvatskoj i Ministarstvo gospodarstva, rada i poduzetništva uz potporu Fonda za zaštitu okoliša i energetsku učinkovitost i Globalnog fonda za okoliš čiji su predstavnici nakon projekcije diskutirali s učenicima o mogućnostima i konkretnim načinima štednje energije u školi, ali i u svojim domovima.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>500</STARTINDEX>
+    <ENDINDEX>508</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9952</ID>
+    <SENTENCE>U domovima zdravlja i drugim medicinskim ustanovama logopedi također veliku pozornost posvećuju disleksiji, i u sredinama koje nemaju veću rehabilitacijsku ustanovu prihvaćaju najveći broj djece s disleksijom.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>10</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5557</ID>
+    <SENTENCE>Prije nepunih tjedan dana Haiti se suočio s potresom magnitude 7,0 stupnjeva po Richteru, koji je iza sebe ostavio oko 200 tisuća žrtava i milijune ljudi bez svojih domova.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>171</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5521</ID>
+    <SENTENCE>Koalicija SDP-a, SDA, HSP i NSRzB može računati na potporu 57 od 98 zastupnika koliko ih broji Zastupnički dom parlamenta Federacije BiH.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5510</ID>
+    <SENTENCE>Dok je išla na posao s novinama u torbi, koje je željela pokazati kolegama, Maja je mislila na očito čudo koje je Bog učinio s mladom majkom upravo krštenoga osmog djeteta, Emanuelom, jer se, sasvim slučajno, našla u domu njezinog muža, kad ju je on prvi put doveo i predstavio svojim roditeljima, bakama, bratu i sestrama.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>217</STARTINDEX>
+    <ENDINDEX>221</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9916</ID>
+    <SENTENCE>Stvari bismo mogli postaviti i ovako: dok središnja Gavellina pozornica igra krute kazne za socijalne pobunjenike te kao "sretno" rješenje predlaže imperativ njihova kastriranja svadbenim ritualima, u predvorju iste institucije nazire se da batina (mačizma) ipak NIJE "iz raja izašla", kako tvrdi narodna poslovica, nego joj je dom svaka nesretna, iznutra razrušena kuća u kojoj se ljudima iz glave brutalno "izbija" mogućnost nekonvencionalna životnog puta.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>328</STARTINDEX>
+    <ENDINDEX>331</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5499</ID>
+    <SENTENCE>U novom domu Histriona dobivenom od Grada Zagreba na adresi bivšeg kina Apolo u Ilici 90, a koje je Zagrepčane koštalo 30 milijuna kuna, bivši ministar kulture Zlatko Vitez kulturno ih je pozdravio u 'svom' kazalištu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9925</ID>
+    <SENTENCE>SAJAM ZA BEBE - Po prvi puta u Boćarskom domu u Zagrebu, od 28. do 30. rujna održat će se Sajam za bebe.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5566</ID>
+    <SENTENCE>Radnja je smještena u oskudan sobičak nekog dječjeg doma, dok ih njihova zaigranost i maštovitost odvodi u svijet priče isto tako napuštenog dječaka Iveka i najboljeg mu prijatelja, odbačenog psa Cvileka, s čijim se dogodovštinama poistovjećuju, ali kroz koje i sama pokušavaju pronaći izlaz i način kroz koji će bar na trenutak zaboraviti na sve što ih tišti.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5466</ID>
+    <SENTENCE>Općinsko je vijeće raspisalo javni natječaj za davanje u zakup doma zainteresiranoj ustanovi socijalne skrbi po naputku Ministarstva socijalne skrbi, koje nije moglo udovoljiti molbi općine Bol da osnivač istog bude Republika Hrvatska.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5578</ID>
+    <SENTENCE>Prije dvije godine sam vidio ovo na sajmu croatia boat show. mogao sam ga i probati ali mi se žurilo doma: - /. žalio sam dugo što se nisam malo provozao. zakon, ali malo preskupo.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5523</ID>
+    <SENTENCE>Umaškarana povorka u kojoj je sudjelovalo gotovo svih 500-tinjak stanovnika kojima su se pridružili oni iz susjednih Dograda krenula je ispred mjesnog doma 2 km uokolo Gustirne zaustavljajući se na postajama gdje su ih građani nudili fritulama, sirnicama, suhim smokvama i domaćom lozovačom.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>151</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9963</ID>
+    <SENTENCE>Socijalnu skrb sada provodi 79 centara, 60 državnih domova, 46 domova za starije i nemoćne na regionalnoj razini, te 54 privatna doma, udomiteljske obitelji i pravne i fizičke osobe.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5486</ID>
+    <SENTENCE>Od 1990. kada su u garaži vlastita doma osnovali tvrtku za uvoz cvijeća i poljoprivrednih strojeva, do danas su stvorili lanac s 13 prodajnih centara u kojima je zaposleno 2000 radnika.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5496</ID>
+    <SENTENCE>Osnivačka skupština udruge "Lokalna akcijska grupa" Prigorje-Zagorje "(skraćeno: LAG PRIZAG)", održana je 29. prosinca 2009. godine u vatrogasnom domu u Dropkovcu, općina Gornja Rijeka, s početkom u 17 sati.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5519</ID>
+    <SENTENCE>Ljudi se danas, više nego ikada, žele osjećati smireno i opušteno u vlastitom domu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5480</ID>
+    <SENTENCE>Prva pobjednica Julie Goodwin proslavila se u samo godinu dana, uz naslovnice svih vodećih novina postala je gastro kolumnistica u ženskim magazinima i autorica čitane kuharice, a uz nju su ponudu od raznih izdavača dobili i drugi natjecatelji koji su ušli u top 20. Julie se nastavila pojavljivati na televiziji te je sudjelovala u emisiji u kojoj je odlazila u domove obitelji kako bi im pokazala radost i kvalitetu pripreme hrane.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>363</STARTINDEX>
+    <ENDINDEX>369</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5479</ID>
+    <SENTENCE>No, oporbeni republikanci su kroz snažno prikupljanje donacija i novačenje svježih kandidata, doveli u pitanje dovoljno zastupničkih mjesta u Predstavničkom domu i Senatu, da se ta stranka može realno nadati osvajanju većine u oba doma, ističe WSJ.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>231</STARTINDEX>
+    <ENDINDEX>235</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5415</ID>
+    <SENTENCE>Zastupnički dom je u srijedu navečer izglasovao povjerenje vladi sa 32 glasova "za" i 275 glasova "protiv", dok su zastupnici stranke demokršćanske unije Udeur, bivšeg ministra pravosuđa Clementea Mastelle, izašli iz dvorane.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5528</ID>
+    <SENTENCE>Jedini trag drevnog Piccadillyja, nazvanog prema nabranim ovratnicima dandyja koji su ondje paradirali prije tristotinjak godina, carstvo je delicija robne kuće Fortnum &amp; Mason, gdje se londonski snobovi opskrbljuju prije piknika u Ascotu i Henleyu, a prekoputa koje se nalazi palača Burlington House, dom Royal Academy of Arts.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>302</STARTINDEX>
+    <ENDINDEX>305</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5477</ID>
+    <SENTENCE>Model izbora za zastupnički dom bio bi razmjeran s jednom izbornom jedinicom, dok bi se u Dom regija zastupnici birali neposredno u malim izbornim jedinicama.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5548</ID>
+    <SENTENCE>Kolekcionarstvo i dekoriranje domova naš su život i neiscrpna inspiracija – kaže Linda priznajući kako najviše uživa u prerađivanju predmeta koje su drugi smatrali suvišnim u svojem domu pa su ih poslali u vječni zaborav, točnije u kontejnere.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>182</STARTINDEX>
+    <ENDINDEX>186</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9911</ID>
+    <SENTENCE>Posebice je istaknula prvonagrađenu ovogodišnju novinsku fotografiju talijanskog fotoreportera Pietra Masturza na kojoj je žena što u suton s vrha svog teheranskog doma viče prosvjedujući nakon predsjedničkih izbora u Iranu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>168</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5497</ID>
+    <SENTENCE>Lausanne je dom baleta Béjart.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.03</SENSEID>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9957</ID>
+    <SENTENCE>Pridružite se kampanji SOS Dječjeg sela Hrvatska i omogućite djeci SOS dječjih sela dom ispunjen osmijehom.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.02</SENSEID>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9972</ID>
+    <SENTENCE>Danas se namještaj i oprema za dom može sve češće kupiti i u nespecijaliziranim trgovačkim lancima ali i preko Interneta.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5495</ID>
+    <SENTENCE>Svoje usluge reklamira na web stranici za odrasle, a klijentelu prima u svom domu ili hotelu, navečer i vikendom.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5409</ID>
+    <SENTENCE>Cijena nikako ne smije biti jedini kriterij prilikom odabiranja sustava za video nadzor za Vaš dom ili poslovni prostor.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5457</ID>
+    <SENTENCE>Preko noći izraelska vojska je napadala projektilima, kojima su ubili 11 ljudi, a pri tome je tisuće ljudi bježalo u strahu da Izraelci kreću u novo rušenje njihovih izbjegličkih domova.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>185</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5598</ID>
+    <SENTENCE>Predstavnik obiteljskog doma i svi ostali punoljetni članovi obitelji koji dolaze u kontakt s djecom i odraslim osobama - žrtvama obiteljskog nasilja koje će biti smještene u obiteljski dom moraju završiti tečaj iz područja rada sa žrtvama obiteljskog nasilja.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.02</SENSEID>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>186</STARTINDEX>
+    <ENDINDEX>189</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9910</ID>
+    <SENTENCE>Ako nećete vi razgovarati, ima li još koji fratar doma, na telefon nam je jedan kazao da nas neće odbiti.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9926</ID>
+    <SENTENCE>Otvarajući osnivačku skupštinu, predsjednica Inicijativnog odbora Tina Jelić Balta pozdravila je goste skupštine, među kojima su bili biskup Huzjak, ravnateljica bolnice, glavne sestre bolnice i doma zdravlja, predstavnik Hrvatskog katoličkog liječničkog društva, predstavnici ogranka Koprivnica te predsjednica HKDMST.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>195</STARTINDEX>
+    <ENDINDEX>199</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5515</ID>
+    <SENTENCE>Navijači Hajduka pokrenuli su akciju "Bilo srce" kojoj je cilj da na domaće utakmice Hajduka na Poljudu dovedu po nekoliko štićenika domova za nezbrinutu djecu izvan Splita.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9919</ID>
+    <SENTENCE>Osim njih, u kući živi i njihov sin Damir koji tog trenutka nije bio doma – šokiran je danas bio obiteljski prijatelj Milan Goman.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9980</ID>
+    <SENTENCE>Samo proteklog tjedna internet stranicu Match.com posjetilo je iz udobnosti vlastitog doma oko 1,2 milijuna osoba ili 27 posto više, dok je stranicu Yahoo ! Personals vidjelo 773 tisuća posjetitelja.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9943</ID>
+    <SENTENCE>Neopisivo mi je drago da ti se kćer vraća doma.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9974</ID>
+    <SENTENCE>Jeli smo, ko doma, šnicele pofrigane na tavi, pire krumpir i zelenu salatu - božji blagoslov nakon nekoliko seoskih dana preživljenih na šparogama, složencima od povrća i neslanom lešanom lososu !</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5520</ID>
+    <SENTENCE>Ako ne bude ostat ćemo doma i eventualno koji dan "skoknut" do Mljeta.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9978</ID>
+    <SENTENCE>Nešto prije ponoći 3. lipnja 1994., silom je otvorio vrata na kući svoje poznanice M.K. u Gospiću i ušao u njezin dom noseći u ruci automatsku pušku.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5468</ID>
+    <SENTENCE>Čačinci su postali razvojno središte i ovom prigodom se zahvaljujem i ministru Petru Čobankoviću koji je imao razumijevanja i danas za šumare s ovog područja, ali i onda kada smo radili Vatrogasni dom.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>197</STARTINDEX>
+    <ENDINDEX>200</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9994</ID>
+    <SENTENCE>Josephine Bron iz Nizozemske od 1965. godine dolazi u Rovinj, grad koji je u međuvremenu postao njezin drugi dom.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9937</ID>
+    <SENTENCE>Dok smo došli, njega su već bili odnijeli u dom zdravlja - kaže Višnja P., Lovrina mama.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5426</ID>
+    <SENTENCE>Upozorimo naše čitatelje da se na zastavama niza zapadnoeuropskih zemalja nalazi znak Svetog Križa, da se isti taj znak s državne zastave nalazi u svim uredima, pa i u privatnim domovima ponosnih državljana tih zemalja.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>178</STARTINDEX>
+    <ENDINDEX>186</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5451</ID>
+    <SENTENCE>Kupovina može pružiti malo zabave, odlazak sa klincem u dućan, odabir kučice, dolazak doma, raspakiranje, slaganje.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5562</ID>
+    <SENTENCE>Nisu me momci iz Bilka previše impresionirali, no dao sam im priliku i nisam otišao doma prije kraja njihovog nastupa.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5436</ID>
+    <SENTENCE>Svečano proglašenje pobjednika uz domaću spizu i prekrasnu atmosferu je obavljeno kod planinarsko doma u Donjim Koritima. U ime pokrovitelja općine Otok i županije Splitsko dalmatinske trku je otvorio načelnik Otoka Branko Samardžić.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5484</ID>
+    <SENTENCE>Ja sam devedesetih izlazila oko 22, a liti doma dolazila u 5. Nikad neću zaboravit tu tišinu, ideš pješke doma, čuješ samo svoje cipele, nebo sviće.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9966</ID>
+    <SENTENCE>- Ne znam, iz takta bi ga primjerice izbacila neizglačana košulja koju je baš taj dan odlučio nositi ili sugestija da ponese ključeve kako me ne bi budio u svojim ranojutarnjim dolascima kući, a ako bih u društvu izgovorila nešto što se njemu ne bi svidjelo, znala sam već po njegovu izrazu lica da ću kad dođemo doma imati pravu dramu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>313</STARTINDEX>
+    <ENDINDEX>317</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5508</ID>
+    <SENTENCE>Većina domova su dobro opskrbljeni i nude više vrsta jela i pića.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5475</ID>
+    <SENTENCE>Sutradan, nakon oporavka u varaždinskoj bolnici, liječnica je rekla da može doma.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5461</ID>
+    <SENTENCE>Društvo s Kvake okuplja se oko Veslačkog kluba, čije je osnivanje 1935. godine 'krivo' za početak njihova druženja koje se odvija po domovima članova, uvijek u veselom tonu, ali i na propisani način, što uređuju Statut i dokumenti Bratstva uvršteni u knjigu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5434</ID>
+    <SENTENCE>Galerijski prostor Bačve u rukama umjetnice Anite Sulimanović pretvorio se u neobičnu naseobinu bivših psećih domova.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5547</ID>
+    <SENTENCE>Ovogodišnjih 14 tema obuhvatilo je različita područja života, od kulture i znamenitosti Češke, Egipta, preko motocikla, inkvizicije, svijeta klarineta, života u Učeničkom domu, mitoloških bića, izviđača, akvaristike sve do aktualnih svjetskih tema, kao što je Haiti nekad i danas.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>171</STARTINDEX>
+    <ENDINDEX>175</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5595</ID>
+    <SENTENCE>Utorak donosi prvi susret poluzavršnice doigravanja i gostovanje Zagreba u Krešinom domu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9942</ID>
+    <SENTENCE>Silviu za pet dana izlazi iz maloljetničkog popravnog doma.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5428</ID>
+    <SENTENCE>Obišli smo danas nekoliko zagrebačkih studentskih domova, i u svima vlada konsternacija studentske populacije.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5593</ID>
+    <SENTENCE>Od sada možete Vaše prijatelje i sebe poslužiti upravo na taj "pravi" način, u svom domu, vrtnoj zabavi, na brodu ili omililjenom izletištu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5591</ID>
+    <SENTENCE>Devetero štićenika koprivničkog dječjeg doma Svitanje prošle nedjelje boravilo je na automotodromu Grobnik kod Rijeke gdje su bodrili natjecatelje u utrci najjačeg regionalnog prvenstva Alpe Adria kojom je ujedno zaključena ovogodišnja službena motociklistička sezona.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9902</ID>
+    <SENTENCE>Tu je i teret nametnut ženama da tragaju za "domom, slatkim domom" - hladnim, turobnim, neurednim, neprivlačnim - nakon cjelodnevnoga teškog rada.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5586</ID>
+    <SENTENCE>Prošlotjedna policijska akcija "Autor 2", pokrenuta u cilju suzbijanja kompjutorskog kriminala u Hrvatskoj, odrazila se i na ilegalnu prodaju glazbenih diskova po studentskim domovima.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>175</STARTINDEX>
+    <ENDINDEX>183</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5527</ID>
+    <SENTENCE>Želimo imati topli kutak, na turneji ti hoteli su naši drugi domovi, a u manjim hotelima se osjeća kućna atmosfera.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5489</ID>
+    <SENTENCE>Na pet dana naš dom postao je Lloret de Mar.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5536</ID>
+    <SENTENCE>Gračanovoj momčadi ova utakmica ima veliku važnost jer žele dohvatiti gornji dom gdje zasigurno pripadaju, a to su dokazali pobjedom protiv Varteksa i solidnom igrom u većem dijelu utakmice na Kantridi.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5493</ID>
+    <SENTENCE>Mi smo djecu poslali u vrtiće, a bake u staračke domove, pa tako stvorili potrebu za socijalnu državu, jer nema više obitelji !</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5550</ID>
+    <SENTENCE>Financijska kriza navela je vlasnike bogataških kuća i dvoraca u Britaniji da svoje domove iznajmljuju novijoj vrsti klijentele, a ne samo snimateljima drama i reklama.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9915</ID>
+    <SENTENCE>"I to iz dva razloga. Prvo stoga što ovaj Ustav označuje konačan raskid s komunističkim, tzv. socijalističko - samoupravnim jednostranačkim sustavom, zasnovanim na društvenom vlasništvu i plansko - dogovornoj privredi. I drugo, radi toga što on čini temeljnicu u izgradnji pune nacionalno - državne suverenosti Hrvatske ; ono tvarno i duhovno stanište, u državnotvorno - političkom smislu, na kojemu će hrvatski narod moći nadograđivati i do kraja dovršiti svoj dom slobode i neovisnosti, na području unutarnjih i međunarodnih odnošaja", istaknuo je predsjednik Tuđman.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>462</STARTINDEX>
+    <ENDINDEX>465</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5533</ID>
+    <SENTENCE>Daje se lokalna anestezija, a zahvat traje 30 minuta te idete doma.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5401</ID>
+    <SENTENCE>Igraju Zemuničani u promjenjivoj formi, doma bod, na strani tri, a njihova prva "violina" Dragan Fabijan je bio i ovaj put dvostruki strijelac.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9992</ID>
+    <SENTENCE>Njih dvije nestale su u nedjelju iz svog doma u jednom britanskom gradiću, a od tada ih je policija intenzivno tražila.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9984</ID>
+    <SENTENCE>Sve je počelo kada je Iain Armstrong u svojemu domu, opuštajući se, gledao televiziju sa svojim sinovima, i tada čuo da izvan kuće razjarena grupa sugrađana viče "pedofilu".</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5406</ID>
+    <SENTENCE>Tada sam osjetio duboko u sebi da je čitav svijet moj dom i taj me osjećaj prati i dan - danas, zaključio je Nikola.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5507</ID>
+    <SENTENCE>Iskoristite li samo neke od ovih savjeta, zasigurno ćete svoj dom učiniti ljepšim i ugodnijim tijekom blagdana.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9962</ID>
+    <SENTENCE>Kako pjevačica smatra, još je prerano da se model useli u njezin dom gdje živi s djecom, pa se odlučila na ovaj velikodušni korak.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5421</ID>
+    <SENTENCE>Istaknuo je važnost laičkog apostolaka za potrebne u domovima umirovljenika, bolnicama i drugim prostorima gdje ljudi traže Boga.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5472</ID>
+    <SENTENCE>Pa onda jedan u popravni dom a drugi u zatvor.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9908</ID>
+    <SENTENCE>Profesionalnost, predanost i odlučnost hrvatskog vojnika da pomogne u uspostavi boljeg i sigurnijeg sutra tisućama kilometara dalje od svog doma, odlike su po kojima se Republika Hrvatska prepoznaje među svojim partnerima i saveznicima.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.02</SENSEID>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>140</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9959</ID>
+    <SENTENCE>U biti, trebalo joj je nekoliko dana da shvati da je to najobičnija rupa gdje se skupljaju kamiondžije i lokalni pijanci, i da je takav posao zaista mogla raditi doma.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>162</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9990</ID>
+    <SENTENCE>Porezna olaksica za one koji kupuju domove po prvi put uskoro prestaje.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5579</ID>
+    <SENTENCE>U Split je stigao tek oko 20 sati i požurio u hotel Park, koji će biti njegov dom u sljedećih desetak dana.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9981</ID>
+    <SENTENCE>Ekipa pulske Hitne pomoći stigla je u dom na poziv odgojitelja, gdje su 13-godišnjaku utvrđene lakše tjelesne ozljede, odnosno opekline potkoljenice u promjeru od pet i više centimetara.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5569</ID>
+    <SENTENCE>"Ovaj je kraj pretrpio veliku nepravdu prije 18 godina, kada je na stotine ljudi ostalo bez posla, samo zato jer se između njihovih domova i njihova radnog mjesta, iznenada smjestila granica dviju država. Ni jedna ni druga država početkom 90-tih baš nisu previše brinuli za te ljude. Vrijeme je da se izgradnjom nove zaobilaznice sa mostom, kao i industrijske zone uz tu zaobilaznicu, stvore uvjeti koji će dosadašnju izoliranost prekinuti, a gubitak radnih mjesta barem djelimično nadoknadili", na kraju je zaključio Breglec.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5543</ID>
+    <SENTENCE>Odabir boje zidova važan je ako želite življenje u vlastitom domu učiniti ugodnim.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9968</ID>
+    <SENTENCE>Sportaši ovaj dom često koriste kao krajnje odredište svojih dnevnih treninga pa ih možete često susresti u jutarnjim satima kako trče od parkirališta ispod donje stanice sljemenske žičare do doma.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>192</STARTINDEX>
+    <ENDINDEX>196</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5537</ID>
+    <SENTENCE>Član Predsjedništva Hvidre Saša Grdović, 90-postotni invalid, u svoj će dom primiti troje mladih ljudi na spavanje.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5524</ID>
+    <SENTENCE>Ovo je slika snimljena ispred doma prilikom ranije posjete u lipnju ove godine.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9939</ID>
+    <SENTENCE>Ovim sredstvima tijekom školske godine 2008. / 2009. stipendiraju se djeca bez odgovarajuće roditeljske skrbi - bivši korisnici domova za djecu i mlađe punoljetne osobe koje pohađaju neku od visokoškolskih ustanova.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5465</ID>
+    <SENTENCE>Rusima je Hrvatska atraktivna preko ljeta jer nam tada ne trebaju vize, a nakon svega lijepog što sam vidjela svakako ću Hrvatsku preporučiti svojim roditeljima i poznanicima kad se vratim doma, priča 24-godišnja Ksenia Guseva.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>189</STARTINDEX>
+    <ENDINDEX>193</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9989</ID>
+    <SENTENCE>Npr. kod mene doma je AP u potkrovnom dijelu stubišta, a računalo je kat niže (vertikalno 5 m kroz 1 betonsku deku), horizontalne udaljenosti oko 9 m (kroz 2 nosiva zida od porotherm cigle).</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5581</ID>
+    <SENTENCE>To bi bilo još u redu da se nešto konkretno napravi ili educira ljude o globalnom zatopljenju ili nečemu, no koncert se održi, ode se doma i nikakva korist od toga, osim što se gomila ljudi napilo, a netko je možda i poginuo.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5564</ID>
+    <SENTENCE>Iako nismo uspjeli u međuvremenu riješiti problem, zahvalni smo doktorici što nam je toliko pomogla, ustvrdila je ravnateljica Istarskih domova zdravlja dr. Anđela Počekaj.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9933</ID>
+    <SENTENCE>Potvrdili su da je istinita ona krilatica "Jednom grom zauvijek grom", a na pitanje zašto je iz Francuske došao braniti Hrvatsku, Damien koji je tada imao samo 18 godina pokazao je na srce. Danas je rekao da se osjeća kao doma.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>222</STARTINDEX>
+    <ENDINDEX>226</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5516</ID>
+    <SENTENCE>Nakon uspjeha na sceni The Rose, trupa Lord Chamberlain ’ s Men odlučila je izgraditi vlastiti teatar, što su i učinili negdje oko 1590. Svoj novi dom Shakespeare i družina nazvali su jednostavno – The Theatre.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5432</ID>
+    <SENTENCE>I naravno ovdje možete saznati kako sami, bez utrošene i jedne kune, samo promjenom ponašanja, možete ostvariti značajne uštede na računima za energiju u vlastitom domu, "rekao je Mladen Antolić, voditelj EE projekta u zgradarstvu, predstavnik projekta Poticanje energetske efikasnosti u Hrvatskoj, Program Ujedinjenih naroda za razvoj (UNDP).</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>168</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9964</ID>
+    <SENTENCE>U jednoj od soba doma smještaj su našli Petar Matić (72) iz okolice Sarajeva i Ante Topalović iz okolice Prijedora.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9904</ID>
+    <SENTENCE>Od ogromne proizvodnje - ništa, a koliko čujem, ipak se radi, ali onak malo za po doma.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9967</ID>
+    <SENTENCE>Osjećao sam se dobro, najmanje kao stranac, a gdje bih legao, bio je moj 'dom' jer sam uglavnom susretao ljude dobra i široka srca koji su putniku namjerniku, znatiželjnom poput mene, otvarali vrata svojih domova i srca, rekao je Veličan.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.02</SENSEID>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5570</ID>
+    <SENTENCE>Ovo je posao za pravnike specijalizirane u medjunarodnoj komunikaciji i iz ove situacije na pravni i civilizirani način ponijeti doma što veći rezultat.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>133</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9946</ID>
+    <SENTENCE>Vlada Republike Hrvatske je, na sjednici održanoj 17. srpnja 2008. godine, prihvatila Darovni ugovor s Udrugom građana hrvatske narodnosti – hrvatskom manjinom Južne Moravske, kojim je, u svrhu kupnje zgrade u kojoj će djelovati Hrvatski dom, hrvatskoj manjini dala financijsku potporu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>238</STARTINDEX>
+    <ENDINDEX>241</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9931</ID>
+    <SENTENCE>Uljanik Standard zahtijeva stoga od Grada Pule da se izmjeni ugovor o gradnji Boćarskog doma, tako da Grad Pula u cijelosti podmiri vrijednost neamortiziranih ulaganja, odnosno isplati iznos od 5.863.096,09 kuna te ujedno predlaže da se taj iznos kompenzira s potraživanjima Grada Pule prema Uljanik Standardu i vezanim društvima te gradonačelnik donosi ovakav prijedlog.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9977</ID>
+    <SENTENCE>IDS-ov Damir Kajin smatra da bi se zakon osim na sportskim terenima trebao primjenjivati i na koncertima pojedinih pjevača na kojima se, kao i na stadionima, sramoti Hrvatska, uzvicima 'Ubij Srbina' ili 'Za dom spremni.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>207</STARTINDEX>
+    <ENDINDEX>210</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9954</ID>
+    <SENTENCE>Vratimo se mi basketu, tu smo obojica "doma", nije za nas politika.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5411</ID>
+    <SENTENCE>Da karta, Ljudi su minobacače doma zaboravili.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9983</ID>
+    <SENTENCE>Dva dana prije povijesnih izbora u SAD-u Barack Obama u utrci za Bijelu kuću i kandidati Demokratske stranke na izborima za Zastupnički dom Kongresa i trećinu mjesta u Senatu su u boljem položaju.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>136</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5446</ID>
+    <SENTENCE>Da bi se utješio, iste večeri kad se vratio svom domu, priredio je veličanstvenu gozbu od domaćih, kampanskih škampa, većih i ukusnijih od maloazijskih i afričkih jastoga.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5573</ID>
+    <SENTENCE>Tijekom boravka u službenom posjetu Bosni i Hercegovini predsjednik Ivo Josipović dobio je priliku održati govor pred zastupnicima u oba doma Parlamenta BiH, u nazočnosti najviših državnih dužnosnika te zemlje i predstavnika diplomatskog zbora.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5460</ID>
+    <SENTENCE>Ove godine će u dvorani Boćarski dom tematski biti sadržaji namijenjeni djeci starijeg uzrasta, a u dvorani Balon sadržaji namijenjeni bebama i trudnicama.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5474</ID>
+    <SENTENCE>Predviđena je posjeta školske djece, udruge žena Kotoribe i čelništva Općine te podjela Vladinih poklona korisnicima doma.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5517</ID>
+    <SENTENCE>Černobilska katastrofa prisilila je 300 tisuća ljudi da napuste svoje domove i uzrokovala epidemiju raka među djecom.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5408</ID>
+    <SENTENCE>- Meni je sigurno jako bitan taj start, vjetar u leđa što sam dobio od publike jer kažu da je doma najteže, kaže Cetinski.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9998</ID>
+    <SENTENCE>Bivšeg kuhara Caritasovog doma u Brezovici Miju Penića nepravomoćno su osudili na godinu i pol zatvora zbog pokušaja silovanja mentalno zaostale zaposlenice doma.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5552</ID>
+    <SENTENCE>Pri učlanjenju u pojedinu političku stranku, po uzoru na poslovne natječaje, trebalo bi postati obavezno prilagati (tek dio se provodi) presnimku osobne iskaznice, kratki životopis, potvrdu o nekažnjavanju (niti u vlastiti dom se ne ulazi prljavih cipela !) pribavljenu na sudu, ali i potvrdu o nečlanstvu u nekoj drugoj političkoj stranci (ukoliko je pristupnik ranije bio članom neke druge stranke dužan je kod prijelaza u novu stranku od stare dobiti otpusnicu).</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>223</STARTINDEX>
+    <ENDINDEX>226</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5549</ID>
+    <SENTENCE>U SAD-u slično7: istraživanje provedeno Indiani 1992. godine bilo je utvrdilo postotak seksualnog zlostavljanja djece kod usvojitelja dvostruko veći nego u općoj populaciji ; u grupnim domovima bio je ustanovljen čak 28 puta (dvadeset i osam !!) puta veći postotak seksualnog zlostavljanja nego u općoj populaciji – djelomično stoga što je nađeno, da se djeca u takvim ustanovama uzajamno zlostavljaju.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>185</STARTINDEX>
+    <ENDINDEX>193</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5583</ID>
+    <SENTENCE>Gašanjem doma zdravlja u Sinju, gdje je ta ustanova djelovala više od pola stoljeća, dovodi se u pitanje dosegnuti nivo zdravstvene zaštite, odnosno funkcioniranja dijela polikliničko - konzilijarne i stacionarne službe, uključujući i rodilište.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5575</ID>
+    <SENTENCE>To je Stephen Kinnock, sin današnjeg lorda Kinnocka, člana britanskog Gornjeg doma, koji je 80-ih - dok se još zvao samo Neil Kinnock - bio šef Laburističke stranke, a poslije postao član Europske komisije.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9921</ID>
+    <SENTENCE>Također, riječ je o "zelenom" izboru kada se koristi kao grijač za dom, jer se radi o puno učinkovitijoj energiji.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5502</ID>
+    <SENTENCE>Turudić je ponovio da sjenik u kojem je pronašen pištolj nije bio Šlogarov dom, pa tako nije ni bilo riječi o pretrazi nego o pregledu prostora.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5498</ID>
+    <SENTENCE>Dom je bio nadležan za djecu školske dobi, od 7 do 14 godina.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>Dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>3</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9906</ID>
+    <SENTENCE>Večeras će Predstavnički dom imati tri glasovanja - o pravilima rasprave, o paketu promjena nacrta zakona koji je prihvaćen u Senatu, te o samom senatskom zakonu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5554</ID>
+    <SENTENCE>Na kraju se je zahvalio djelatnicima Grada i direktorima komunalnih poduzeća na odličnoj suradnji, te istaknuo potrebu za uređenjem mjesnog doma i dječjeg igrališta.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>140</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5488</ID>
+    <SENTENCE>Ono što ne možemo postići doma, ne možemo ni vani, istaknuo je Darko Marinac, predsjednik Uprave Podravke, založivši se za razvitak modernih znanja upravljanja tvrtkama, a okruženju stvaranja zdrave tržišne utakmice i jačeg izvoza.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9969</ID>
+    <SENTENCE>Dom za djecu s poremećajima u ponašanju može obavljati više djelatnosti domova navedenih u članku 11. ovoga Pravilnika.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9912</ID>
+    <SENTENCE>Predstavnički dom američkog Kongresa u nedjelju je navečer izglasao zakon o sveobuhvatnoj reformi zdravstva, kojim se po prvi puta najširem sloju građana osigurava pristupačna zdravstvena skrb, što je predsjednik Barack Obama nazvao "pobjedom svih Amerikanaca".</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5522</ID>
+    <SENTENCE>Postajemo svjesniji količine vremena koju provodimo u svojim domovima, pa kad je već tako, zašto ne uživati u njemu ?</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9901</ID>
+    <SENTENCE>Puno puta sam nedjeljom odlazila u crkvu i molila Boga da me netko od Hrvata pozove doma na ručak kako bih se najela ", tvrdi Ruža Tomašić koja se prvo zaposlila na pakiranju pilića za restorane, a sa 18 godina radila je kao noćna čuvarica u velikim trgovinskim centrima u Torontu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5571</ID>
+    <SENTENCE>Drugo mjesto na listi zauzima dom milanskih klubova Intera i Milana, San Siro, dok je na trećem mjestu legendarni stadion Liverpoola Anfield.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>dom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5420</ID>
+    <SENTENCE>Glasnogovornica Martina Sokač Saraga čula se sa šefom oko 20.30 sati, a on je poručio da je dobre volje i da se mirno s obitelji doma sprema za dolazak u stožer, koji je bio smješten u zagrebačkoj pivnici Movie Pub.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>133</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5430</ID>
+    <SENTENCE>U mirnom okruženju doma uz Antu, Gabrijelu, majku i ostale drage prijatelje, Simona je s nama podijelila želje koje si je sama poželjela.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+      <SENSEID>N.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9927</ID>
+    <SENTENCE>Sustavi pametne kuće povećat će efikasnost i ekonomičnost grijanja i hlađenja vašeg doma, smanjiti potrošnju električne energije, a povećati udobnost u vašem domu.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9940</ID>
+    <SENTENCE>Studenti mogu donijeti vlastita računala i priključiti ih na mrežu doma.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>doma</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9913</ID>
+    <SENTENCE>Košarkaši Cibone teškom su mukom svladali podgoričku Budućnost s 80: 78. Podgoričani su u 35. minuti imali dva vodstva, kada je semafor pokazivao 64: 66 i 66: 68. No, u posljednje četiri minute Cibosi su u Draženovom domu ipak uspjeli održavati minimalnu prednost i na kraju ostvariti treću pobjedu ove sezone u NLB ligi, a Budućnosti nanijeti drugi poraz.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>217</STARTINDEX>
+    <ENDINDEX>221</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5403</ID>
+    <SENTENCE>Sva četvorica su veliki vjernici, poput većine brazilskog stanovništva, a na pitanje odlaze li u crkvu Lima je rekao: "Molimo se svake nedjelje u svojim domovima.</SENTENCE>
+    <TARGETLEMMA>dom</TARGETLEMMA>
+    <TARGETWORD>domovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>153</STARTINDEX>
+    <ENDINDEX>161</ENDINDEX>
+  </INSTANCE>
+</SET>

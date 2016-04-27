@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>8885</ID>
+    <SENTENCE>Bolnica će također nastaviti s redovitom financijskom potporom klupskih aktivnosti.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8844</ID>
+    <SENTENCE>Luka bi poslije nastave znao otići baki Ruže i pitati za komad kruha, koji je brižno nosio ocu.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3281</ID>
+    <SENTENCE>Rad se nastavio međusobnim dijeljenjem iskustava kako se ovi zavjeti žive u ASC Osnucima.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3269</ID>
+    <SENTENCE>Preostale tri utakmice, protiv Švedske, Hrvatske i Južne Koreje, donijele su Španjolskoj tri poraza u nizu, a onaj posljednji, od Južne Koreje 24-23, definitivno ih je eliminirao iz utrke za medalje, pa će Španjolci Svjetsko prvenstvo nastaviti u Puli, igrajući na utješnom President Cupu.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>235</STARTINDEX>
+    <ENDINDEX>244</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3319</ID>
+    <SENTENCE>SRCE podsjeća kako je 1995. hrvatska vlada donijela odluku o osnivanju ustanove CARNet te napominje kako je SRCE nastavilo graditi i održavati akademsku i istraživačku mrežu sve do 2009., kad je prekinuta suradnja u navedenim poslovima.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>113</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3231</ID>
+    <SENTENCE>U prvom bi koraku od iduće dvije godine valjalo ukinuti četiri ili pet trgovačkih sudova, pa nastaviti istim tempom.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3213</ID>
+    <SENTENCE>Ukoliko se nastavi suradnja između Rubina i Diamonda ne bi me uopće iznenadilo da si ovaj potonji namjerno ubrizga kakvu injekciju sa zajebanim virusom koji bi ga počastio sa svim bolestima sa kojima se nosio Johnny Cash u zadnjem desetljeću svoga života.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3342</ID>
+    <SENTENCE>Od 1941. do 1945. Torbarina je docent, sa 6 sati nastave (historijska gramatika, jedno književno razdoblje, te seminarske vježbe).</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3286</ID>
+    <SENTENCE>Vjerovatno zaboravivši na znatiželjne poglede, sportski par nastavio je druženje dan poslije.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8827</ID>
+    <SENTENCE>Tako su mladi Međimurci potvrdili svoje nastojanje da sa svojim znanjem, kreativnošću i upornošću nastave sa svojim inovatorskim aktivnostima i postali uzor mnogim drugim mladim pojedincima da svoju kreativnost i znanje upotrijebe u stvarnom životu i radu,.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3310</ID>
+    <SENTENCE>Srednja škola u Maruševcu s pravom javnosti osnovana je u prelijepom dvorcu Maruševcu kod Varaždina 1970. godine pod nazivom Srednja vjerska škola, a isključivo za potrebe adventističke djece, koja su u to vrijeme zbog nepohađanja nastave subotom teško mogla završiti srednju školu.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>231</STARTINDEX>
+    <ENDINDEX>238</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3313</ID>
+    <SENTENCE>Sinergija ekspertne skupine, učitelja razredne nastave, profesora engleskoga jezika i ravnatelja škola u kojima se Projekt odvijao, dala je iznadočekivane rezultate.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8855</ID>
+    <SENTENCE>Skromna iskustva već postoje u obliku javnih radova, a njih je uz neke modifikacije moguće nastaviti i dalje ih unapređivati, koristeći pritom i strana iskustva.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8868</ID>
+    <SENTENCE>Pitanje naoko beznačajno, nebitno, prolazno, pa bi često u današnjem ludo ubrzanom vremenu olako prešli preko njega i nastavili dnevne svakidašnje obveze kojih svakim danom ima sve više.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3396</ID>
+    <SENTENCE>Doveo ih je za 21 milijun, prodao za 44 i nastavio zacrtanom rutom guranja u vatru mladih lavova.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3257</ID>
+    <SENTENCE>Ovih dana članovi KUD-a Sv. Lovre iz Vrsi nastavili su sa svojim redovnim aktivnostima, no iskoristili su vrijeme kako bi odradili još jednu vrijednu akciju.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3225</ID>
+    <SENTENCE>Stopostotni učinak nakon dva kola domaćim pobjedama nastavili su i Atletico te Liverpool, dok je novo iznenađenje pobjedom nad Panathinaikosom ostvario Anorthosis.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3300</ID>
+    <SENTENCE>U petak 01.10.2010. održan je Dan terenske nastave u kojem su svi razredi izašli iz učionica i obišli zanimljive lokacije gradu Zagrebu.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3279</ID>
+    <SENTENCE>Svi veseli i razdragani, nastavili smo svoje putovanje za Lipovljane, gdje smo stigli u ranim jutarnjim satima narednog dana.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3385</ID>
+    <SENTENCE>Način rada: Studenti trebaju redovito pohađati nastavu i aktivno sudjelovati u nastavi, te do kraja semestra predati seminarski rad.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3207</ID>
+    <SENTENCE>Ako umjetnik izvođač odbije završiti svoju izvedbu u audiovizualnom djelu, ili ako zbog više sile nije u mogućnosti nastaviti izvedbu, ne može se protiviti da se ostvareni dio izvedbe koristi za dovršenje audiovizualnog djela.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8881</ID>
+    <SENTENCE>Hrvatska premijerka Jadranka Kosor i slovenski premijer Borut Pahor započeli su pregovore o rješenju spora 11. rujna ove godine a 2. listopada Europska unija ponovno je otvorila pregovore s Hrvatskom, ali pod uvjetom da dvije zemlje nastave bilateralne pregovore.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>233</STARTINDEX>
+    <ENDINDEX>240</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3370</ID>
+    <SENTENCE>'Ti su razgovori intenzivno nastavljeni a činjenica da ćemo se ponovno sresti sasvim sigurno govori o tome da smo u međuvremenu imali i rezultate,' dodala je Kosor.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavljeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3293</ID>
+    <SENTENCE>Nakon onakve ozljede koju je doživio nastavio je igrati i raditi i ja sam zadovoljan zbog toga.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8847</ID>
+    <SENTENCE>Nakon navedenog roka emitiranje TV programa nakladnika nastavit će se sukladno odluci tijela nadležnog za elektroničke medije.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavit</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3218</ID>
+    <SENTENCE>Nakon tri tjedna snimanja u eksterijeru, preko 45 metara visoka i 125 tona teška konstrukcija demontirana je i kamionima prevezena u studio, gdje se još nekoliko tjedana nastavilo snimanje.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>170</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3291</ID>
+    <SENTENCE>Glavni tajnik NATO-a Anders Fogh Rasmussen izjavio je u petak u Prištini kako će NATO nastaviti smanjivati snage na Kosovu, no nikakav rok za to još nije utvrđen i sve će ovisiti o stanju sigurnosti na terenu.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8829</ID>
+    <SENTENCE>"Kada je prelazio cestu samo je ustuknuo, jednom se osvrnuo i nastavio dalje", kazala je.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8818</ID>
+    <SENTENCE>U traganje su bili uključeni mještani, službenici zadarske Pomorske policije, Lučka kapetanija, Centar za traganje i spašavanje na moru i Centar 112. Zbog loših vremenskih uvjeta potraga je sinoć oko 22 sata obustavljena i nastavljena je jutros.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavljena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>223</STARTINDEX>
+    <ENDINDEX>234</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3337</ID>
+    <SENTENCE>Konačno, možemo potvrditi da je hrvatska nakladnička scena dobila nove igrače, robusne marketinške gigante koji će nastaviti mijenjati hrvatsko tržište knjiga, ionako zapelo u vlastitom mulju.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3251</ID>
+    <SENTENCE>U krugu 30-ak prijatelja slavlje se nastavilo u kući obiteljskog prijatelja.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3224</ID>
+    <SENTENCE>Stoga ćete nastaviti traženje dok ne nađete ideal koji odgovara vašim emocionalnim potrebama i koji vas manje opterećuje.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3232</ID>
+    <SENTENCE>Planck nije nikada nastavio rad na problemima koji su proizišli iz njegove teorije.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3316</ID>
+    <SENTENCE>Tu se prije svega misli na sanaciju mrtvačnice, otkup zemljišta i proširenje groblja, a nastavit će se i zahvati na hortikulturnom uređenju.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavit</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3392</ID>
+    <SENTENCE>Iranski predsjednik Mahmud Ahmadinedžad upozorio je u nedjelju da će Iran uskoro početi samostalno obogaćivati uran ako svjetske sile "nastave igrati igre" s Islamskom Republikom.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>142</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8853</ID>
+    <SENTENCE>Znači, za ulagače u dionice, ako će se povezanost nastaviti, rizik investiranja na tržište Sjedinjenih Američkih Država jednak je riziku ulaganja u Japan.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8865</ID>
+    <SENTENCE>Aktivno praćenje Terenske nastave studenti potvrđuju predajom "skicnbuha" s crtežima i bilješkama o onim temama i primjerima koji su im bili posebno zanimljivi, a moguća je i naknadna izrada referata na zadanu "istarsku" temu.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8861</ID>
+    <SENTENCE>Nikica Gabrić u svojoj će novoj klinici nastaviti s dosadašnjom praksom besplatnih operacija očiju.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3238</ID>
+    <SENTENCE>Sanja i Marta uzbudljivo su nastavili dijeliti dojmove dok je sljedeći avion već je bio na uzletištu i ukrcavao padobrance.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3336</ID>
+    <SENTENCE>- Moramo nastaviti raditi, nije vrijeme da zastanemo već da krenemo prema naprijed.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3297</ID>
+    <SENTENCE>Nastavili smo prema Belavićima.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>Nastavili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8849</ID>
+    <SENTENCE>Glavna tema trodnevnog kongresa jest razvoj nastave i usavršavanja kadrova u stomatologiji, odnosno što to znači za obrazovne ustanove i ministarstvo obrazovanja a što za studente i asistente, rekao je predsjednik Organizacijskog odbora kongresa prof. Vjekoslav Jerolimov.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3256</ID>
+    <SENTENCE>I dok su europski indeksi nastavili s pesimizmom, razlozi domaćeg oporavka mogli bi se naći u činjenici da sutra pristiže na račune malih ulagača i fondova više od 6,2 milijarde kuna od mađarskog MOL-a zbog prodanih dionica Ine, za koji se procjenjuje da bi barem djelomično završiti na tržištu.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8880</ID>
+    <SENTENCE>Financijska snaga portugalske vlade "nastavit će slabiti u srednjoročnoj perspektivi, kao što pokazuje nastavljeno pogoršanje dužničke dinamike te zemlje", ističe se u priopćenju Moody 'sa.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavit</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8824</ID>
+    <SENTENCE>Zahvalivši na toj pomoći, ali i na velikim sredstvima uloženima u razminiranje na području Hrvatske, župan Zrilić istaknuo je kako je na područjima Zadarske županije preostalo još razminirati 70 kilometara četvornih minskoga prostora te da bi bio zahvalan norveškoj vladi kad bi se ta pomoć kroz aktivnost Norveške narodne pomoći (NPA) nastavila i dalje.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>336</STARTINDEX>
+    <ENDINDEX>345</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3215</ID>
+    <SENTENCE>Kao redovni profesor Akademije likovnih umjetnosti u Zagrebu, 1981. odlazi u mirovinu, nastavivši neumorno stvarati.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavivši</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3255</ID>
+    <SENTENCE>Prema tome, ako znate da je potpuno neprirodno izolirano trenirati muskulaturu i tijelo uopće – zašto biste i dalje nastavili s time ?</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3384</ID>
+    <SENTENCE>Na poziv kolega iz SAK Ekstrem iz Makarske da zajedno nastavimo s istraživanjima jame Amfora napravili smo zajedničku akciju od 13. – 15 listopada 2000. godine.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavimo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3330</ID>
+    <SENTENCE>Ukoliko odlučite nastaviti školovanje morate pristupiti polaganju Državne mature.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3387</ID>
+    <SENTENCE>Ovogodišnji Computex nastavio se obilaskom štandova poznatih i nepoznatih tvrtki te tiskovnim konferencijama o kojima ćemo nešto kasnije.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3383</ID>
+    <SENTENCE>Danas, 26. siječnja, inspekcija je nastavila nadzor u Rafineriji, a nastavljeno je i testiranje postrojenja za hidodesulfurizaciju benzina što je dovelo do kratkotrajnog povećanja vrijednosti H2S na 12,9 mikrograma.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavljeno</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3227</ID>
+    <SENTENCE>Riječ je o produženoj nastavi koju pohađaju učenici nižih razreda, najčešće od prvog do trećeg razreda, a u čijem financiranju participiraju Grad Split te roditelji đaka.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8806</ID>
+    <SENTENCE>Ono što me se na samom početku najviše dojmilo je organiziranost nastave.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8889</ID>
+    <SENTENCE>Spomenuti obožavatelj za BBC je nastavio: 'Bila je dobra dok je bila dobra, ali kada nije u formi onda je užasna'.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8807</ID>
+    <SENTENCE>U svakom slučaju, dugoročni najam Kerumovih trgovina, za koje je malo vjerojatno da će u Todorićevu portfelju nastaviti poslovati pod Kerumovim imenom, ili njihova prodaja temeljito se pripremaju.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>119</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3285</ID>
+    <SENTENCE>Tražio sam od njih tehničku pomoć u realizaciji "Nebeske udice" i naša se suradnja nastavila do danas.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3361</ID>
+    <SENTENCE>Ako se stvari nastave u takvom smjeru, što onda možemo očekivati ?</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3222</ID>
+    <SENTENCE>Rezultati pokazuju da sadašnje stanje treba mjenjati, revalorizirati zadatke nastave, reprogramirati sadržaje prema novim kriterijima, dati više izbornih sadržaja, povećati fond sati ove nastave te uvesti (barem kao izborni) posebanpredmet u obavezni nastvni plan gimnazija.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>187</STARTINDEX>
+    <ENDINDEX>194</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3333</ID>
+    <SENTENCE>Nastavi li se ovako, u samo pet, šest godina u F BiH više će stanovnika umirati nego što će se rađati, zaključak je iz Zavoda za statistiku.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>Nastavi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3364</ID>
+    <SENTENCE>"Budući da nije bilo ozlijeđenih ni materijalne štete, policija nije podnijela prijave i dvije su skupine učenika nastavile sa svojim programom", rekao je Dragun.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavile</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3244</ID>
+    <SENTENCE>Kao znak otpornosti nogometa prema ekonomskoj krizi, u Deloitteu očekuju da će prihodi vodećih europskih klubova nastaviti rasti i u sezonama 2008/09. i 2009/10., iako nešto sporijim tempom.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>113</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3287</ID>
+    <SENTENCE>Također je zaključeno da se mora nastaviti dijalog o učinkovitim mehanizmima kojima bi se postigla veća društvena prijemčivost za sustavno i odgovorno suočavanje s novijom prošlošću post - jugoslavenskih zemalja.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8841</ID>
+    <SENTENCE>Ondje je najprije djelovala vrlo kratko, tj. do osnutka Zone A, zatim je bila u Rijeci do rujna 1947., a onda je nastavila raditi u Puli kao samostalna lučka kapetanija u sklopu tadašnje Uprave pomorstva u Splitu.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>113</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8887</ID>
+    <SENTENCE>Nadalje, očekujem da Omladinska škola na čelu s Markom Mlinarićem, te trenerima Mustedanagićem i Bagom koje najviše cijenim, i dalje nastavi dobro raditi, a sa svim medijima želim imati korektan odnos, pa ćemo moji suradnici i ja uvijek biti na raspoložbi, pričao je Braović uoči čestitanja božićnih i novogodišnjih blagdana.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>140</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3252</ID>
+    <SENTENCE>Program smo uveli dobrodošlicom na štulama, nastavili smo radionicama žongliranja i akrobacija, kutkom za body painting i modeliranje balona.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8866</ID>
+    <SENTENCE>Nastavit će se ulaganja neophodna za održavanje postrojenja, modernizaciju i ispunjavanje ekoloških standarda.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>Nastavit</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8828</ID>
+    <SENTENCE>Tijekom tog perioda oni se mogu pomiriti, ili nastaviti dokazivati da zajedno više ne mogu živjeti.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8883</ID>
+    <SENTENCE>Glavni tajnik je pozvao dvije strane da poslušaju pozive međunarodne zajednice koja od njih traži da "nastave pregovore o okončanju sukoba".</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3282</ID>
+    <SENTENCE>Kroz početak 2008. god. suradnja se nastavila na ponudi novih usluga T-Com - a, a daljnjim uspješnim radom, tvrtka AD Rem je postala jedna od četiri tvrtke u Republici Hrvatskoj koja osmišljava, nudi, realizira, instalira i održava poslovna rješenja za mala i srednja poduzeća koristeći mogućnosti T-Com usluge Multi Office.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3371</ID>
+    <SENTENCE>"Na početku sezone objave poslovnih rezultata ulagači se nadaju da će se na tržištu dionica nastaviti uzlazni momentum", dodaje Bakhos.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8819</ID>
+    <SENTENCE>Nastavila je s vožnjom i nedugo zatim zabila se u slovenski kamion Iveco kojim je upravljao 28-godišnji I.R. Nakon toga, vozačica je izašla iz automobila, a tada je na nju naletio kamion marke Man, čakovačkih registracijskih oznaka, kojim je upravljao 39-godišnjak. 32-godišnjakinja je u ovom naletu kamiona zadobila teške tjelesne ozljede.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>Nastavila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3375</ID>
+    <SENTENCE>- Uz čestitke u povodu predstojećih blagdana tradicionalnim primanjem u Gradu želimo vam napomenuti da ćemo vam uvijek biti od pomoći kako bi se vaša djelatnost i dalje uspješno nastavila.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>178</STARTINDEX>
+    <ENDINDEX>187</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3322</ID>
+    <SENTENCE>U akciji nazvanoj "Pravilnik protiv ocjenjivanja !" koja je pokrenuta na internetskom Forumu za nastavnike i učitelje dosad je više od tisuću nastavnika potpisalo zajedničke primjedbe na ovaj pravilnik koji je, prema mišljenju djelatnika u školi, nestručno napisan te u potpunosti omalovažava autoritet nastavnika, kod učenika potiče nerad i nedisciplinu te dovodi u pitanje kvalitetu i provođenje nastave, a istovremeno podilazi nesavjesnim roditeljima koji neće snositi nikakve sankcije ukoliko ne ispunjavanju svoje roditeljske obaveze, odnosno ne surađuju sa školom.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>398</STARTINDEX>
+    <ENDINDEX>405</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3228</ID>
+    <SENTENCE>Nikol mu je uzvratila riječima: 'Ma, ti si lud !' No, Kiki je nastavio vikati neka izađe s Farme ako joj se kuhinja ne sviđa, dok mu je Nikol poručila da umiri frustracije.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3239</ID>
+    <SENTENCE>Daljnja gradnja je prekinuta zbog pomanjkanja novčanih sredstava, a doseljena djeca pohađaju nastavu u OŠ Krešo Rakić u Trnskom, i to u organizaciji nastave u 3 smjene i u 44 razredna odjela.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>149</STARTINDEX>
+    <ENDINDEX>156</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3220</ID>
+    <SENTENCE>'Znate što, ja sam svjetski poznat', nastavio je Fritzl.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3331</ID>
+    <SENTENCE>Odlučujemo o budućnosti Hrvatske, a ekonomska kriza i njezino rješavanje pokazali su da je važno biti za stolom europskih naroda ', nastavila je Kosor i stavila sporazum na stol s uvjetima za ulazak u EU.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3208</ID>
+    <SENTENCE>Počelo je s prvim sajmom, u veljači u Zagrebu, i nastavilo se do posljednjeg, u Biogradu krajem listopada.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3327</ID>
+    <SENTENCE>Tu je verziju vidio Stewart Lee, prišao je Thomasu i nakon kratkog razgovora nastavili su zajedno raditi na djelu.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8809</ID>
+    <SENTENCE>Nepovoljni odnos nastavit će se i ove zime.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavit</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3355</ID>
+    <SENTENCE>Također kaže da je nije briga što će znakovi starenja postajati sve vidljiviji, jer ionako karijeru namjerava nastaviti iza kamere.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>119</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3308</ID>
+    <SENTENCE>Ivan se probudio iz narkoze, a ukoliko se pozitivan trend oporavka nastavi, do kraja tjedna trebao bi biti prebačen iz odjela intenzivne njege.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3390</ID>
+    <SENTENCE>Tamo je najveća atrakcija otići na kolodvor i čekati vlak koji vozi prema nekom manje kišovitom gradu - nastavio je Vidić tužnu priču o svom životu u jednom od najboljih klubova na planetu.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8869</ID>
+    <SENTENCE>- Ovo je jedina opcija gdje mogu pošteno nastaviti svoj rad.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8862</ID>
+    <SENTENCE>Nastavio ju je tući i nakon odnosa.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>Nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3397</ID>
+    <SENTENCE>Kad je grad pao, ratni stroj nastavio je svoje žalosno djelo jer međunarodna zajednica nije poduzela ništa presudno.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3398</ID>
+    <SENTENCE>Svi fond manageri, osim japanskih, su naglasili da će i u narednim mjesecima nastaviti sa smanjivanjem udjela dionica u svojim portfeljima.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3263</ID>
+    <SENTENCE>Na pitanje suca može li se suđenje nastaviti u odsutnosti, tužitelj je odgovorio kako smatra da to ne bi bilo mudro te je zatražio da se odredi privremeni datum za sljedeću sjednicu.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3278</ID>
+    <SENTENCE>Uspjeli smo sjajno prebroditi smjenu generacija, a vjerujem da ćemo uspješno nastaviti u istom stilu - rekao je predsjednik HNS-a i podijelio komplimenete izborniku i njegovim suradnicima.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8838</ID>
+    <SENTENCE>U toj namjeri Bandić se poskliznuo i pao na leđa, ali ni to ga nije spriječilo da nastavi dalje.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3289</ID>
+    <SENTENCE>No one su ipak odlučile normalno nastaviti s radom i u srijedu je poslovnica bila otvorena za stranke.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3329</ID>
+    <SENTENCE>Trezeguet je u subotu raskinuo ugovor sa svojim dosdašnjim klubom Juventusom nakon 10 godina provedenih u Torinu, a karijeru će nastaviti u klubu iz rodnog grada svoje supruge ukoliko u utorak sve bude u redu tijekom rutinskog liječničkog pregleda.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3253</ID>
+    <SENTENCE>- Izvidima nismo pronašli niti jedan trag koji bi potvrdio istinitost navoda iz dojave, ali nastavit ćemo raditi kako bismo rasvijetlili okolnosti – kazala je Edita Roterbauer, glasnogovornica PU osječko - baranjske.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavit</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3335</ID>
+    <SENTENCE>Glavna rasprava nastavit će se 2. prosinca.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavit</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8872</ID>
+    <SENTENCE>To nimalo nije smelo sastav Gorana Vučevića, koji je i dalje nastavio igrati organizirano i stvarati prigode.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3353</ID>
+    <SENTENCE>Nastavili su sa standardom "If I Were A Bell", standardom koji je često izvodio i Miles Davis.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>Nastavili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3348</ID>
+    <SENTENCE>(.) Očuvani u našemu izvornom diskursu, držim kako ne ćemo pogriješiti nastavimo li se, uz potporu čitateljstva i svih promicatelja hrvatskoga jezika i kulture, držati upravo te vertikale osuvremenjene, modernizirane, internetizirane.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastavimo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3216</ID>
+    <SENTENCE>Zdravstvene ustanove koje ispunjavaju uvjete za izvođenje nastave nazivaju se kliničke ustanove.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8898</ID>
+    <SENTENCE>U Priručniku dana mišljenja, sugestije i informacije ne čine skup recepata kojih bi se profesor pri izvođenju nastave trebao strogo držati, nego samo podlogu na kojoj može izgraditi svoj način kreativnog izvođenja nastave matematike, a često su takve da se mogu primjenjivati ne samo uz pripadajući udžbenik, već i u slučajevima kad se rabe drugi udžbenici ili neka druga nastavna sredstva.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastave</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3299</ID>
+    <SENTENCE>Svi sindikati SNCF-a su upozorili da se štrajk može nastaviti.</SENTENCE>
+    <TARGETLEMMA>nastaviti</TARGETLEMMA>
+    <TARGETWORD>nastaviti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+</SET>

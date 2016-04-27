@@ -1,0 +1,2763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>4482</ID>
+    <SENTENCE>Zar da naudi Rončeviću, koji je ionako već neko vrijeme politički mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4546</ID>
+    <SENTENCE>Odrezani su nakon što je muškarac već bio mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4499</ID>
+    <SENTENCE>Vrativši se iz bolnice, njegov im je otac kazao da je Tonči odmah bio mrtav jer ga je geler granate pogodio točno u srce, rekao je Jović i dodao da nije vidio krv već samo malu rupu na njegovim grudima.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4487</ID>
+    <SENTENCE>Robert je otvoreno progovorio o svojim ovisnostima te tvrdi da je bio stvarno izgubljen u narkoticima, ali ima sreću što je iz tog pakla izašao bez većih ožiljaka: "Kad pogledam u svoju prošlost, pomislim kako sam već sad mogao biti mrtav ili skroz ` spržen `. No, ovo posljednje još uvijek mogu biti".</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>233</STARTINDEX>
+    <ENDINDEX>238</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9405</ID>
+    <SENTENCE>Ayrton je, nažalost, mrtav i takav ? e i ostati, bez obzira na cijelu ovu kampanju.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9435</ID>
+    <SENTENCE>Dugo vremena nije Velimir ništa čuo o Borivoju, pa misleći da je mrtav počeo se smatrati gospodarom Jugovca.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4524</ID>
+    <SENTENCE>Meni nije drago šta je mrtav, ali mi je drago šta nije više pridsidnik.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4478</ID>
+    <SENTENCE>Sudski vještaci su u svom svjedočenju naveli kako je Šopić prvo ubio Ćustića, a nakon što je taksist već bio mrtav, podmetnuo je požar na automobilu, kako bi prikrio ubojstvo.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4550</ID>
+    <SENTENCE>Nedugo potom nastalo je zatišje koje je prekinuto upadom policije u vikendicu u kojoj je Korade ležao mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9483</ID>
+    <SENTENCE>ZADAR – Ministarstvo zdravstva i socijalne skrbi o slučaju pokojnog Nenada Nikpalja (46) obavit će upravni nadzor nad radom Centra za socijalnu skrb Zadar kako bi se utvrdili mogući propusti, istaknuli su u Ministarstvu o Zadraninu koji je dvije godine ležao mrtav u potleušici od 20-ak kvadrata prije nego što je po dojavi susjede pronađen mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>259</STARTINDEX>
+    <ENDINDEX>264</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9492</ID>
+    <SENTENCE>Sedlar je prošle godine mrtav - hladan izrekao laž da ima 35-milimetarsku vrpcu svog igrano - dokumentarnog filma "Jeruzalemski sindrom", a onda u Pulu došao s kopijom na BETA-i koju je uprava festivala, dakako, odbila prikazati u Areni.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4409</ID>
+    <SENTENCE>U kući u Nazorovoj ulici 42 u Starim Jankovcima, selu kod Vinkovaca, pronađen je mrtav 74-godišnji muškarac.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4548</ID>
+    <SENTENCE>Bilo je to doba kada su pripadnici iste političke elite koja jedva da je stala u vrt ispred male Tesline kuće, bili, ako ne baš idejni začetnici, onda svakako pronositelji ideje da ni Tesla, kao Srbin, makar je mrtav već puste godine i makar je bio genij kojega je u kontinuitetu slavio čitav svijet, ipak nema što tražiti tamo u Lici, u Gospiću ponajviše, pa je shodno takvoj politici etničkog barbarstva spomenik Tesli, rad Frana Kršinića, odletio u zrak, potom je, poput strujnih iskrica, zaiskrila i planula i rodna mu kuća, a onda je uslijedila petnaestogodišnja šutnja.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>211</STARTINDEX>
+    <ENDINDEX>216</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4556</ID>
+    <SENTENCE>Međutim, ako je Bog i mrtav, govor, ili odsutnost govora o Njemu, nije.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9482</ID>
+    <SENTENCE>Očiti motiv oduzimanja života bila je smrt njezina dečka Dubravka Anića (18), koji je u subotu pronađen mrtav zbog prevelike količine raznih droga i alkohola.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4464</ID>
+    <SENTENCE>Izvijestili smo kako policija procjenjuje da je muškarac ležao mrtav tjednima prije pronalaska, no informacija da je ležao mrtav u kućici dvije godine i da su sve vrijeme u kući živjeli njegova majka i brat zgrozila je Zadar.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9439</ID>
+    <SENTENCE>Bio je mrtav 24 sata poslije.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4585</ID>
+    <SENTENCE>Ukoliko je ispitivana perfuziona metoda točna izračunane vrijednosti na žrtvovanim mačkama Vf - a bi morale iznositi 0 mL / min, jer ne postoji stvaranje likvora na mrtvim životinjama.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtvim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>171</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4457</ID>
+    <SENTENCE>No, kazao je da su američke obavještajne agencije "80 do 85 posto" sigurne da je Sad bin Laden mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4509</ID>
+    <SENTENCE>Puno je razloga za to, ali zapamtite: Nirvana više ne postoji, a njihov pjevač je mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4543</ID>
+    <SENTENCE>Ovoga ljeta pronađen je mrtav nakon što se predozirao opojnim drogama.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4440</ID>
+    <SENTENCE>GORAN NOVAK (33) iz Vela Luke, pripadnik narkokartela Jakše Cvitanovića Cvika, pronađen je mrtav jutros u apartmanu u Splitu.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4513</ID>
+    <SENTENCE>Iako mrtav već sedam godina, ova ikona koja je countryju ono što je Hendrix psihodeličnim rock gitarama svakih nekoliko godina izbaci nešto novo, zahvaljujući prije svega producentu Ricku Rubinu.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>5</STARTINDEX>
+    <ENDINDEX>10</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4596</ID>
+    <SENTENCE>"Smirite se. Ja ću vam pomoći. Prvo moramo utvrditi da je stvarno mrtav."</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4433</ID>
+    <SENTENCE>U utorak je pronađen mrtav, a budući da je oko mjesta gdje je pronađeno njegovo beživotno tijelo bilo više tragova krvi pretpostavlja se da je nakon pucnjeva i pada na stijene neko vrijeme bio živ.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4439</ID>
+    <SENTENCE>Jedan od svjedoka je primijetio kako je jedan od braće bio vidno uzemiren dok je drugi bio "mrtav hladan".</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9491</ID>
+    <SENTENCE>Možete posjetiti sve muzeje, izložbe, opere, predstave, igrokaze, performanse i ina kulturno - umjetnička događanja na koja vaš dragi ne bi išao ni mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>153</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4485</ID>
+    <SENTENCE>Zaplet počinje naoko bezazlenom pričom o Juliji, ženi u srednjim godinama, koja prodaje apartmane za određenu kompaniju i tako upada u kuću u kojoj je pronađen mrtav neki siromah zatvoren u svom stanu prepunog smeća i otpadaka.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>160</STARTINDEX>
+    <ENDINDEX>165</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4587</ID>
+    <SENTENCE>Svakomu je htio da pomogne, a sada je pao s krova i nitko ne zna da li je živ ili mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4560</ID>
+    <SENTENCE>Dulak je otprije poznat zadarskoj javnosti zbog optužbi da je sudjelovao u nabavi droge koja je bila uzrok smrti 17-godišnjeg štićenika Doma za odgoj djece i mladeži Davora Lipohara koji je pronađen mrtav u stanu u centru grada.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>199</STARTINDEX>
+    <ENDINDEX>204</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9443</ID>
+    <SENTENCE>Da se vrati u igru, Đapiću će trebati mnogo vremena, Pašalić je definitivno politički mrtav, a Glavaš i dalje strahuje za svoju slobodu tako da mu nije na kraj pameti baviti se politikom.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4405</ID>
+    <SENTENCE>Svaki dan glazbu tu slušam, da nema nje vjerojatno bih u lijesu ležo mrtav !!!!!!!!!!</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9414</ID>
+    <SENTENCE>Poznati slovenski alpinist Tomaž Humar pronađen je mrtav na visini od 5.600 metara na nepalskom dijelu himalajskog grebena Langtang Lirunga.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4474</ID>
+    <SENTENCE>"Svi smo potpuno shrvani. U potpunom sam šoku. Posljednji put sam ga vidio u ponedjeljak na dodjeli nagrada. Nemam pojma što mu se moglo dogoditi, no napravit ćemo baš sve što je u našoj moći da saznamo što je zapravo bilo", u suzama je ispričao menadžer Boyzonea Louis Walsh govoreći kako zapravo još uvijek ne može vjerovati da je Stephen mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>341</STARTINDEX>
+    <ENDINDEX>346</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4467</ID>
+    <SENTENCE>"Palili su lampione ispod plakata čime su valjda željeli prikazati da je Ronko politički mrtav. Cijela priča meni nalikuje srpskim 'čituljama'", komentar je jednog od čitatelja Indexa koji nam se jutros javio ogorčen razinom političke predizborne kampanje.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4514</ID>
+    <SENTENCE>Takva se taktika pokazuje uspješnom - u sjevernom gradu Saltillu vodeće regionalne novine objavile su da prestaju pratiti događaje povezane s narko - mafijom nakon što je u petak njihov novinar koji je pisao o trgovini drogom pronađen mrtav, uz prijeteću poruku.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>235</STARTINDEX>
+    <ENDINDEX>240</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4545</ID>
+    <SENTENCE>U NEDJELJU oko 10.30 sati u ulici Dražanac je pronađen mrtav muškarac star između 35 i 40 godina, a pored njegovog tijela bilo je više iskorištenih igala i narkomanski pribor, priopćila je PU splitsko - dalmatinska.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9408</ID>
+    <SENTENCE>Rejmond je mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4484</ID>
+    <SENTENCE>TABLOIDI nagađaju da je Woods bio drogiran, a Reuters javlja da je bio mrtav pijan.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4569</ID>
+    <SENTENCE>U Francuskoj se prosječno godišnje obavi 10 vjenčanja u kojima je jedan od partnera mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9403</ID>
+    <SENTENCE>Tako i tako Zagreb nase mladosti je mrtav, RIP.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9441</ID>
+    <SENTENCE>Bježali su na sve strane, a na bojnom polju ležao je mrtav glavni zapovjednik vezir Ali - paša.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4504</ID>
+    <SENTENCE>Mrtav policijski službenik pronađen je sinoć oko 20 sati pored svog automobila parkiranog uz rub Sisačke ceste.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>Mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4544</ID>
+    <SENTENCE>Muškarac star 70 godina pronađen je u subotu ujutro mrtav u svojoj kući u Salinovcu kraj Ivanca.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4481</ID>
+    <SENTENCE>U kolumni Socijalizam je mrtav na Kubi, ali ne u Hrvatskoj u Večernjem listu od 26. rujna Škegro se obrušava na koncept zadržavanja velikih i strateški bitnih tvrtki u državnom vlasništvu predbacujući političkim elitama ali i široj javnosti nepopravljivi socijalistički mentalni sklop: HEP je definitivno dokaz da smo jednim dijelom svog bića duboko u prošlosti.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9415</ID>
+    <SENTENCE>Banazir Bhutto je tvrdila da je Osama mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4559</ID>
+    <SENTENCE>Nedugo nakon toga, malo dalje u istoj ulici došlo je do još jedne eksplozije, a na tom mjestu pronađen je mrtav muškarac.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9464</ID>
+    <SENTENCE>Ivan Šurina (60) pronađen je u petak navečer mrtav u svom stanu u Dubravi, a iako na njegovu tijelu nisu pronađene vidljive ozljede, postoji niz okolnosti koje upućuju na to da možda i nije umro prirodnom smrću, piše Jutarnji list.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4562</ID>
+    <SENTENCE>- U motelu je bio mrtav pijan i uz to vidljivo drogiran.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9438</ID>
+    <SENTENCE>- Ne želim biti samo udovica, moj je muž mrtav već 22 godine i čak se nakon smrti može dobro brinuti o sebi, njegove priče postale su i postaju važne sve većem broju ljudi, pa nastojim ne zanemariti svoj vlastiti rad - kaže pjesnikinja Tess Gallagher, druga supruga kultnog američkog spisatelja i pjesnika Raymonda Carvera, s kojim je provela njegovih posljednjih deset godina života.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9480</ID>
+    <SENTENCE>Želim naglasiti da nam je teško govoriti o mrtvim osobama, ali smatramo da moramo reagirati na neistine gdje se želi revidirati povijest, naglasio je Nimac koji je u noći Alavanjinog ubojstva kao hrvatski redarstvenik bio na službi u blizini raskrižja kod Zatona Obrovačkog, iznad Obrovca.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtvim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4577</ID>
+    <SENTENCE>Odi joj reci da je mrtav ! - riskiraš grablje u anus.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9472</ID>
+    <SENTENCE>Obzirom da je osumnjičenik nakon nekoliko sati pronađem mrtav, Županijskom sudu ne preostaje ništa drugo nego da zaključi predmet, pojašnjava Devčić dodajući kako niti za ubojstvo policajca Marija Kusanića ne može biti pokrenut nikakav postupak jer je počinitelj mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>263</STARTINDEX>
+    <ENDINDEX>268</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9420</ID>
+    <SENTENCE>"Moj je brat psihički bolesnik i želi pažnju javnosti. Imao sam sreće. Još samo koji centimetar i bio bih mrtav", kazao je Yuksel.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4411</ID>
+    <SENTENCE>Ovaj se mrtav hladan okrene i kaze ; "Tebi".</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4526</ID>
+    <SENTENCE>Policija obavlja informativne razgovore s nekoliko osoba, od kojih bi se neke mogle dovesti u vezu s ubojstvom I.S., koji je pronađen mrtav jučer oko 16,30 sati na Kočinjem brdu iza Klisa, 150 metara od ceste prema Muću.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4511</ID>
+    <SENTENCE>Jedan je napadač od prostrijelnih rana na mjestu ostao mrtav, a drugog je ranio u prsa te je kolima Hitne pomoći prevezen u KB Dubrava gdje su mu utvrđene teške tjelesne ozljede zbog kojih je hospitaliziran.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9440</ID>
+    <SENTENCE>Ledger koji je pronađen mrtav u svom stanu na Manhattanu uzimao je šest različitih lijekova čiji su kombinirani efekti uzrokovali trovanje.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4541</ID>
+    <SENTENCE>Davor Vojnić, 43-godišnjak iz Zadra nađen je mrtav u svom stanu.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9489</ID>
+    <SENTENCE>On je u šumi mrtav ležao šest mjeseci, a nestanak je prijavio Dom za psihički bolesne osobe u Đakovačkoj Breznici.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9437</ID>
+    <SENTENCE>1. Koliki je rizik da je ubijem jer se sad već ponaša sofware mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4476</ID>
+    <SENTENCE>Mrtav si ! — poruka je Niki Kranjčaru sa zida zgrade u kojoj stanuje, u zagrebačkom Dobrom dolu.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>Mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4452</ID>
+    <SENTENCE>No tek će nakon toksikološkog vještačanja biti točno utvrđeno od čega je Mladenić preminuo i kada, iako se zasad navodi da je muškarac u automobilu ležao mrtav otprilike mjesec dana.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>154</STARTINDEX>
+    <ENDINDEX>159</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9487</ID>
+    <SENTENCE>Onda sam se sjetio čemu – kad je ovaj sport ionako mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9424</ID>
+    <SENTENCE>Bez tog bi valjda svaki junak bio mrtav u prvom obračunu gdje je nadjačan.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9469</ID>
+    <SENTENCE>MIODRAG STOJANOVIĆ, mrtav pijan je telefonom nazvao policiju i rekao da će bombom raznijeti sebe i srpskog predsjednika Borisa Tadića, piše beogradski Blic.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9402</ID>
+    <SENTENCE>Policija u Los Angelesu istražuje porijeklo krivotvorenih recepata za lijekove koji su presudili glumcu Coreyju Haimu koji je, podsjetimo, mrtav pronađen prošloga tjedna.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>139</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4448</ID>
+    <SENTENCE>Kada su ušli muškarac je već bio mrtav, ali su žena i dijete još bili živi, ali s teškim ozlijedama glave.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9426</ID>
+    <SENTENCE>Mrtav muškarac pronađen je u srijedu u nabujalu potoku u blizini Brna, objavio je vatrogasni glasnogovornik.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>Mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4570</ID>
+    <SENTENCE>Njegova me supruga uplakana nazvala da je mrtav - ispričao je vidno šokiran žrtvin prijatelj i susjed.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9453</ID>
+    <SENTENCE>Latinski je mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9448</ID>
+    <SENTENCE>Tito je, ipak, mrtav tek 30 godina.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4470</ID>
+    <SENTENCE>Na kraju smo došli ovdje i sahranili Bill Gates - a. • Da li ste bili sigurni da je mrtav ?</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4531</ID>
+    <SENTENCE>Mrtav - hladan prije desetak dana predstavio je kao veliki uspjeh svog ureda letak "Zaštita od zračenja" u kojem su navedeni savjeti za građane što činiti kako bi zaštitili sebe i svoje obitelji u slučaju radiološke nesreće.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>Mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4584</ID>
+    <SENTENCE>Prije nekoliko mjeseci, kada se na splitskom Pazdigradu dogodilo trostruko ubojstvo i samoubojstvo u obitelji Zaradić, dežurni istražni sudac nije izašao odmah na očevid smatrajući kako to nema smisla jer je počinitelj mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>219</STARTINDEX>
+    <ENDINDEX>224</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4555</ID>
+    <SENTENCE>Policija je potvrdila da je 50-godišnji nastavnik pronađen mrtav u nedjelju nešto prije 15 sati, a njegov nestanak iz skupine nije pravodobno primijećen jer se od nje odvojio.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4572</ID>
+    <SENTENCE>33-godišnji pjevač navodno izašao je van na piće, vratio se u hotel sa svojim dugogodišnjim partnerom Andyem Cowlesom, otišao je spavati, a ujutro je nađen mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>156</STARTINDEX>
+    <ENDINDEX>161</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9457</ID>
+    <SENTENCE>Napisao je sljedeće: "Rock je mrtav, ali je novac prevelik da bi se posve odustalo", a zatim je nijansirao taj komentar napisavši: "Možda uzrok tjeskobe nije u tome što je rock mrtav, nego u tome što ne pristaje umrijeti".</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4581</ID>
+    <SENTENCE>Pobjegla je vrišteći kada je čula da joj je muž mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4593</ID>
+    <SENTENCE>Kada sam je nakon nesreće vozio u bolnicu stalno je pitala za Dražena, a sad kada sam joj rekao da je mrtav, uopće nije reagirala.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9458</ID>
+    <SENTENCE>Šta njih briga za tim što se ljudsko dostojanstvo ne može i ne smije - i to po međunarodnom pozitivnom pravu - zanijekati ni oduzeti ni živima ni mrtvim ljudima, ni svetima ni prokletima, egzibicija ljudskih tijela sa zguljenom kožom 'za široke narodne mase' navodno treba imati 'naučni karakter'.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtvim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4441</ID>
+    <SENTENCE>"Zagreb je 'mrtav' nakon ponoći i to želimo promijeniti", kazao je Bandić dodajući kako je 500 četvornih metara ispod Gradske kavane dovoljno za jazz club, cabaret ili piano - bar.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4421</ID>
+    <SENTENCE>Ove godine 17. veljače dr. Maletić ugradio mu je novu protezu, ali sutradan ujutro, na žalost, pronađen je mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4547</ID>
+    <SENTENCE>Proeski je na mjestu ostao mrtav, dok je Georgievski s teškim ozljedama hospitaliziran u novogradiškoj bolnici.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4591</ID>
+    <SENTENCE>GLASNOGOVORNIK njujorške policije priopćio je kako je 28-godišnji australski glumac Heath Ledger, poznat po ulogama u popularnim filmovima kao što su "Legenda o vitezu" i "Planina Brokeback", danas pronađen mrtav u svom stanu u centru Manhattana.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>207</STARTINDEX>
+    <ENDINDEX>212</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9416</ID>
+    <SENTENCE>Kad govorimo o pomiješanim svjetovima novoga zavičaja imamo na umu starigradske leute (svakom je Plančić, uz registarski lučki broj, dopisao i jedno veliko S) i francuske dnevne novine (čest rekvizit u mrtvim prirodama) ; dalmatinske primorske kuće s balaturama i konobama i ribare odjevene bar malo na francusku (bretonsku), s kapama i maramama kakve se u nas nisu nosile.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtvim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>202</STARTINDEX>
+    <ENDINDEX>208</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4494</ID>
+    <SENTENCE>Prije no što shvatiš, ulovit ćeš se u konstantnom pretraživanju džepova, pretinaca, kaslića, mail boxova, inboxa, junkmailova, sent foldera, ispisa poziva, platnog prometa, radijusa kretanja, analizirat ćeš čak i intonaciju kojom hrče, je li mrtav - umoran, kao iscrpljen od strastvenog seksa (ne s tobom), ili spava samo jednim okom, čekajući nečiji poziv.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>242</STARTINDEX>
+    <ENDINDEX>247</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9456</ID>
+    <SENTENCE>Ne, nije ni mrtav !</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4580</ID>
+    <SENTENCE>Radočaj koji je u ringu bio poznat pod imenom "Hrvatski div" u rujnu 2007. godine pronađen je mrtav, a ubijen je samo tri tjedna nakon što je optužio bivšu ženu Melody Sanford, s kojom je bio u braku cijela tri tjedna, da ga želi ubiti, piše Canada.com.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4493</ID>
+    <SENTENCE>Dok smo stigli do njega već je bio mrtav - kaže poznati hrvatski letač Jožef Rabič iz Buzeta.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4588</ID>
+    <SENTENCE>Za taj list, koji se izdaje u Londonu, taj podatak potvrđuje "hipotezu da je Osama bin Laden mrtav ili teško ranjen".</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9429</ID>
+    <SENTENCE>Zbog stanja šoka samo je izrazio žaljenje što nije on mrtav umjesto njegovih sumještana i prijatelja.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4435</ID>
+    <SENTENCE>Festivalski kroničari ne propuštaju detaljno opisivati pozitivnu atmosferu koja vlada na festivalu - i PUF postaje zaštitnim znakom kulturnoga života Pule, grada koji je dugo godina bio kazališno mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>196</STARTINDEX>
+    <ENDINDEX>201</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4410</ID>
+    <SENTENCE>PROMETNA policija u Novom Sadu uhitila je 46-godišnjeg vozača koji je, mrtav - pijan, alkotester "napuhao" do nevjerojatnih 5,1 promila, pokazavši tako da ima još ponešto krvi u alkoholu.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9430</ID>
+    <SENTENCE>Silverstone je klinički mrtav već nekoliko godina, ali aparati su mu isključeni lani, kada je objavljeno da se Velika nagrada Velike Britanije seli u Donington Park, čiji su organizatori Ecclestoneu pokazali ambiciozne planove o 100 milijuna funta ulaganja.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4542</ID>
+    <SENTENCE>Kao asistent za pokret surađivala je s Miranom Kurspahićem (Sad kad je komunizam mrtav, moj život je prazan), Marinom Petković (Bez trećeg), Reneom Medvešekom (Glasi iz planina) i Harisom Pašovićem (Happiness).</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4521</ID>
+    <SENTENCE>Nađen je u utorak oko sedam sati mrtav na stijenama uvale Slanica, gdje ga je izbacilo more.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4505</ID>
+    <SENTENCE>U akumulacijskom jezeru Hidroelektrane Čakovec popodne je nađen mrtav muškarac u dobi od 40 do 45 godina, priopćila je Policijska uprava varaždinska.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9425</ID>
+    <SENTENCE>Nađen je mrtav 25. rujna u WC-u "McDonaldsa" na Trgu Grgura Ninskog.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4466</ID>
+    <SENTENCE>Ako sam mrtav, tko je sada uz moju Ashley ?</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4438</ID>
+    <SENTENCE>Unutra je mrtav ležao desetogodišnji dječak Mihael Filaković iz Drenja.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4407</ID>
+    <SENTENCE>Bog je mrtav. (Nietzche) ; Nietzche je mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4510</ID>
+    <SENTENCE>"Pa, nekakva biljka", odgovara joj on mrtav hladan.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4489</ID>
+    <SENTENCE>Blic navodi kako je akcija uhićenja, u slučaju da se izvede u kolovozu, jedinstvana prilika, jer je to 'mrtav mjesec' u kontekstu političkih zbivanja, u kojem bi se, između ostalog, maksimalno smanjio manevarski prostor Radikalima za 'podgrijavanje situacije' retorikom viđenom nakon Karadžićeva uhićenja.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9411</ID>
+    <SENTENCE>Da sam poginuo i da sam sada mrtav poput Ivane, proglasili bi me krivcem i to bi bilo to.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4512</ID>
+    <SENTENCE>Suprotno prvim objavama američkih medija, policija i vojska su demantirale da je ubojica također mrtav - zaradio je nekoliko policijskih metaka, ali je preživio te je nakon pružene mu liječničke pomoći pritvoren.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4516</ID>
+    <SENTENCE>Papa je tijekom angelusa, a poslije mise Cvjetnice (Muke Gospodnje), podsjetivši na tragičnu smrti nadbiskupa kaldejaca u Mossulu mons. Paulosa Faraja Rahha, koji je otet 29. veljače i zatim prije nekoliko dana nađen mrtav, snažno pozvao na prekid nasilja u Iraku.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>217</STARTINDEX>
+    <ENDINDEX>222</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9473</ID>
+    <SENTENCE>Dok je došla Hitna pomoć bio je mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9455</ID>
+    <SENTENCE>Na ulazu u dvorište u kanalu ležao je još jedan mrtav četnik, koji je vjerojatno stradao dan prije, ali su ga njegovi ostavili.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4500</ID>
+    <SENTENCE>Kada dođoše k Isusu i vidješe da je već mrtav, njemu ne prebiše golijeni, nego jedan od vojnika kopljem probode bok pa odmah poteče krv i voda.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4552</ID>
+    <SENTENCE>Obdukcija tijela preminulog Pažanina Mate Palčića (25) koji je prekjučer mrtav pronađen u Pagu, pokazala je da je mladić preminuo uslijed akutne intoksikacije kombinacijom opijata i alkohola.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4469</ID>
+    <SENTENCE>Još uvijek nije poznato koliko dugo su dječaci bili zatvoreni u stanu s mrtvim roditeljima.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtvim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4553</ID>
+    <SENTENCE>"Da je jače pritisnuo oružje ili zahvatio arteriju bio bi mrtav", izjavio je liječnik koji je 30-godišnjem glumcu spasio život.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4533</ID>
+    <SENTENCE>Obitelji je doznala da je Krešimir mrtav tek jučer ujutro, dan nakon izlijetanja vlaka.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9462</ID>
+    <SENTENCE>Kad su ga izvukli iz vode, shvatili su da je mrtav, a pretpostavlja se da je životinja bila u rijeci i do šest tjedana.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9418</ID>
+    <SENTENCE>Pao sam na pod i pravio se mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9434</ID>
+    <SENTENCE>Za Alexa, jednog od likova u knjizi, 'samo mrtav anđeo dobar je anđeo'.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4539</ID>
+    <SENTENCE>Dođe Mujo kući i legne ko mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9488</ID>
+    <SENTENCE>Na internet stranici, korisnik pod imenom JPatrickBedell napisao je kako je "odlučio vidjeti da se provede pravda" u slučaju smrti marinskog pukovnika Jamesa Sabowa, koji je pronađen mrtav u dvorištu svoje kuće u Kaliforniji 1991. Smrt je proglašena samoubojstvom, no dugo je bila izvorom teorija o prikrivanju.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>183</STARTINDEX>
+    <ENDINDEX>188</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4459</ID>
+    <SENTENCE>- Riječ je o gnjurcu za kojeg smo dobili dojavu policije, a čini se prema stanju da je mrtav oko pet dana.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9467</ID>
+    <SENTENCE>"Svi su znali da više vrijedi mrtav nego živ", ogorčeno će La Toya, koja je zahtijevala drugu obdukciju i policiju obavijestila o sumnjama na ubojstvo.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9486</ID>
+    <SENTENCE>"Kada se Mladić pronađe živ ili mrtav i preda Haškom tribunalu, ponovno će doći do revizije odluka o smjenama i visoki predstavnik će blagovremeno donijeti odgovarajuće mjere", kazao je Gregorian.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9476</ID>
+    <SENTENCE>Pa ak se mrčneš s komadom onda si sutra mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4406</ID>
+    <SENTENCE>Općinski sud u Splitu obustavit će kazneni postupak protiv Nedjeljka Ževrnje, protiv kojega je državno odvjetništvo zajedno s još četvoricom optuženika podignulo optužnicu zbog kaznenog djela zloporabe ovlasti u gospodarskom poslovanju u vezi s privatizacijom "Konstruktora", budući da je optuženik mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>299</STARTINDEX>
+    <ENDINDEX>304</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9412</ID>
+    <SENTENCE>Samo pola sata nakon atentata liječnici su prvoj dami Jacqueline Bouvier priopćili da je JFK mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4590</ID>
+    <SENTENCE>Damir Badurina Bada, pjevač nekadašnje riječke grupe Unlogic Skill, danas vlasnik disko kluba Tesla na Srdočima i kafića Viva na Kantridi, pronađen je u srijedu nešto iza podneva, mrtav u prostorijama svog kluba.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>180</STARTINDEX>
+    <ENDINDEX>185</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4472</ID>
+    <SENTENCE>SARAJEVO - Kako neslužbeno saznaje Dnevni Avaz Ismet Bajramović Ćelo pronađen je mrtav u svom stanu na Ciglanama, zaključanog u stanu pronašao ga je brat.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4450</ID>
+    <SENTENCE>Ovaj mrtav luđak (ne može mu se reći pokojni !) je bolovao od kompleksa Boga, uništio je obitelj koju je ON stvorio, a shodno tome je posmrtno dobio počasti od Crkve u vidu trojice svećenika koji su ga sprovodili.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>5</STARTINDEX>
+    <ENDINDEX>10</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4414</ID>
+    <SENTENCE>No čak ni tih tridesetak slučajeva nije dobro obrađeno pa se za jednoga ubijenog kaže da se našao na proplanku kad je počela pucnjava i da je nakon toga pronađen mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>162</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4436</ID>
+    <SENTENCE>Ovaj mu je nije dao, pa je uskoro pronađen mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4412</ID>
+    <SENTENCE>Jedini poznati čovjek na svijetu koji je dva puta bio klinički mrtav, Danion Brinkley iz Akrona u Ohiu, nakon oporavka je opisivao 'druge svjetove', ali i predvidio 122 događaja od kojih su se do sada neki zaista i dogodili, njih 96. Mislim da je kroz svoja iskustva Zlatko dobio neke uvide o kojima ne može lako komunicirati s osobama koje se time ne bave ili same nemaju bar nekakva iskustva.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4589</ID>
+    <SENTENCE>U studenom 2003. u splitskom predjelu Get, u Nepotovoj ulici pronađen je mrtav, s vidljivim tragovima nasilja Krunoslav Šokičić (43) iz Gračaca.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4458</ID>
+    <SENTENCE>Njima su već više puta javljali da je mrtav, zato su sada na posljednji, ali, nažalost, istiniti glas o tome samo odmahnuli rukom.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4503</ID>
+    <SENTENCE>Vlasti te južnoameričke države su čak obitelji dale i smrtovnicu čime je Paul i službeno postao mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9466</ID>
+    <SENTENCE>Ili, recimo, kad UK, ismijavši neautoriziranim ratom protiv Iraka legitimitet UN-a te nastavljajući permanentno ignorirati potrebu za konvergentnijom vanjskom politikom EU-a, mrtav hladan (uostalom kao i Komisija EU-a) poručuje da će sudbina Hrvatske ovisiti o izvještaju Carle del Ponte o suradnji Hrvatske s Haaškim sudom i pravorijeku Vijeća sigurnosti UN-a !?</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>175</STARTINDEX>
+    <ENDINDEX>180</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4465</ID>
+    <SENTENCE>82-godišnji R.M., pronađen je mrtav u svojoj kući, na krevetu, a pregledom mrtvozornika utvrđeno je kako na tijelu nema tragova nasilja, te je konstatirano da je smrt nastupila prirodnim putem.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4554</ID>
+    <SENTENCE>Tebi u tjeku utakmice ne pada napamet na nešto popiješ, makar s i mrtav umoran ili da nešto pojedeš.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9470</ID>
+    <SENTENCE>Glanogovornik tužiteljstva Gerhard Jarosch rekao je da istraga nije u planu budući da je osumnjičeni Priklopil mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4571</ID>
+    <SENTENCE>Kapelanovao je kod našeg Ruganija u Bednji a zatim u Gornjoj Stubici da bi 1962. godine dobio župu Martinska Ves koju smo mi na mrtvim stražama u sisačkom kraju zvali duhovnom oazom.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtvim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4453</ID>
+    <SENTENCE>Mabhuh, osnivač Brigada Ezedin al-Kasam, vojnog krila Hamasa, stigao je u Dubai 19. siječnja, a pronađen je mrtav u hotelskoj sobi dan poslije.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9496</ID>
+    <SENTENCE>Čovjek koji se izvukao s ubojstvom pronađen je mrtav i Clyde Shelton hladnokrvno priznaje njegovo ubojstvo.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4455</ID>
+    <SENTENCE>'To ne znači da je antifašizam mrtav, on se tek rađa', kaže Šimunković, koji prihvaća etiketu pripadnika generacije pobunjenih studenata – mladih nefasciniranih medijima i političarima, odlično informiranih i s jasnim stavovima o društvu i politici.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9484</ID>
+    <SENTENCE>Mrtav je zato jer nije izbacija sklopku iz glave da bombe imaju "pravo" samo u ratu.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>Mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4492</ID>
+    <SENTENCE>Isus je za mnoge od nas u takvim trenucima, mrtav već 2000 godina, no prvi problem koji se javi pred nama rezultira Njegovim uskrsnućem.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9459</ID>
+    <SENTENCE>Prema stanju leša i prvim pretpostavkama dalo se zaključiti da je Krunoslav Šokičić, kojemu je tekla krv iz nosne i usne šupljine, tu donesen nakon što je ubijen, te da se moguće ubojstvo dogodilo dan - dva ranije, budući da je prema prvim nalazima Šokičić u trenutku pronalaska već dan - dva bio mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>297</STARTINDEX>
+    <ENDINDEX>302</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9493</ID>
+    <SENTENCE>Kada je rat završio, Zadar je bio mrtav grad.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4497</ID>
+    <SENTENCE>Stručnjaci su potvrdili da je kit star između dvije i pet godina, te da je mrtav najmanje tjedan dana.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9481</ID>
+    <SENTENCE>1985. Vrlo popularan Partizanov centarfor Dragan Mance (23) udara autom u rasvjetni stup i ostaje na mjestu mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9432</ID>
+    <SENTENCE>No sve ovo treba uzeti s malom rezervom - igra se počela raditi prošle godine, a planira se završiti tek polovinom sljedeće godine, a do onda tko živ, tko mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>155</STARTINDEX>
+    <ENDINDEX>160</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4519</ID>
+    <SENTENCE>No nakon što mu je javnost gotovo i povjerovala da je sve novinarska izmišljotina u medije je dospio video koji dokazuje da je Španjolac 'mrtav pijan' teturajući nasrtao na kamermana koji je snimao njegov oštećeni Range Rover.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9485</ID>
+    <SENTENCE>Nikad ne radi nešto za što ne možeš reći da si mrtav umoran od posla.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4491</ID>
+    <SENTENCE>Nakon što je jutros oko četiri sata automobilom virovitičkih oznaka prešao preko 21-godišnjeg B. M. vozač Mercedesa se zaustavio i došao do unesrećenog, no mladić je već bio mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>174</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4495</ID>
+    <SENTENCE>Već je bio mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9417</ID>
+    <SENTENCE>S oba dokaza potvrđuje se da je Tesla 8. siječnja 1943. ujutro nađen mrtav u svojoj hotelskoj sobi u New Yorku.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4483</ID>
+    <SENTENCE>Originalni bubnjar velških indie - rockera Stereophonics Stuart Cable jutros je u svojem domu u Aberdareu pronađen mrtav, potvrdila je velška policija.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>120</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9460</ID>
+    <SENTENCE>Iznova je tek demonstrirao dobro poznatu sposobnost da mrtav hladan slaže, uvrijedi protivnike i oduševi javnost trivijalnostima iz svoje nepresušne riznice.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9445</ID>
+    <SENTENCE>Jedan mrtav policajac i nekoliko ranjenih jasno govore u prilog da je nešto vrlo veliko pošlo u krivom smjeru.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>11</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4557</ID>
+    <SENTENCE>Podsjetimo, župnik je pronađen mrtav u nedjelju na blagdan Cvjetnice prije jutarnje mise te nema nikakvih tragova provale niti je došlo do pljačke zbog čega policija uzima u obzir i mogućnost da je župnik poznavao svoga ubojicu.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4534</ID>
+    <SENTENCE>Jastreb je već bio mrtav, no bojala se da ne bi krv počela šikljati dok ga Kiki (33) izvlači van.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4600</ID>
+    <SENTENCE>Međutim, potreba za procjenjivanjem dentalne dobi vrlo je učestala i iz forenzičkih razloga na živim i mrtvim tijelima kao jedan od postupaka u postizanju nepoznatog identiteta ili za određivanje dentalnog profila.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtvim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4426</ID>
+    <SENTENCE>Fatalna žena zvala se Vanessa Perroncel, a napadač Manchester Cityja Carlos Tevez je prokomentirao aferu te izjavio da bi Terry bio mrtav da je to napravio u Argentini.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4496</ID>
+    <SENTENCE>1995. godine i njezin dečko je pronađen mrtav, odjeven u lateks odijelo i prostrijeljen kroz prsa.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9474</ID>
+    <SENTENCE>"Nelson Mandela je mrtav jer je Sadam Husein ubio sve Mandele."</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4425</ID>
+    <SENTENCE>Baš kao i klasik s Willisom, ovaj klasik s Melom Gibsonom (dok je još imao fudbalerku i nije mrtav - pijan urlao na žene, Židove i crnce) i Dannyjem Gloverom također se događa u blagdanskoj atmosferi, očito savršenim temeljcem za čahure i lude jurnjave.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9428</ID>
+    <SENTENCE>Očajnog oca koji je krivio bolnicu za smrt svoje kćeri (4) pronašli su kako visi mrtav na drvetu kraj kćerinog groba.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9475</ID>
+    <SENTENCE>Pitanje koje se često postavlja u svezi s donacijom organa je može li se sa sigurnošću znati da je donator mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4475</ID>
+    <SENTENCE>Na selu je Isus živ: od njega i za njega se živi, a u gradu izgleda kao da je mrtav, kao da ga nema.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4573</ID>
+    <SENTENCE>A znao je da je pjevač mrtav jer mu je dao preveliku dozu sedativa - dodao je prijatelj.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4420</ID>
+    <SENTENCE>Kad su primijetili da ga nema na madracu na kojem je plivao, pohitali su u pomoć i izvukli ga iz mora, ali je već bio mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4447</ID>
+    <SENTENCE>Stariji brat Drobac odavno je mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4468</ID>
+    <SENTENCE>Veliki su se valovi razbijali o brod takvom žestinom da em je morska pjena letjela visoko u vis i na palubu, em je kapetan mrtav hladan vozio posve bočno na valove iako su ga ti valovi osjetno bočno ljuljali (pored toga što je cijelo vrijeme bio nagnut na bok !).</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>128</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4429</ID>
+    <SENTENCE>No 2003. Keiko je pronađen mrtav, ustanovljeno je kako je uginuo od upale pluća u 27. godini života.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9497</ID>
+    <SENTENCE>Nedugo prije smrti se Milan Patak vratio s plaže, oprao ruke i najvjerojatnije se napio vode, a nađen je mrtav na podu balkona.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9468</ID>
+    <SENTENCE>"Mnogi su se na to podsmjehivali, mediji su ga ismijavali i rekli da izmišlja, a kad je ubijen, svi su rekli kako je Dedić bio u pravu. Bio je u pravu, ali je bio i mrtav", rekao je predsjednik.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>170</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9498</ID>
+    <SENTENCE>Međutim, razlozi zbog kojih je netko nestao nerijetko ostaju obavijeni velom tajne, pa njihove obitelji godinama ne znaju ni je li nestali živ ili mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4599</ID>
+    <SENTENCE>Podsjetimo, dječak je nestao 31. siječnja, i nakon devetodnevne neuspjele potrage, sasvim slučajno je nađen mrtav u nedjelju poslijepodne u moru u uvali Paklena na samom ulazu u Kanal sv. Ante na domak Šibenika.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9447</ID>
+    <SENTENCE>Na splitskoj Rivi jučer ujutro pronađen je mrtav 33-godišnji muškarac, a policija prilikom očevida nije pronašla tragove nasilne smrti, izvijestila je splitska policija, a prenosi Totalportal.hr.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4451</ID>
+    <SENTENCE>Hvatač NFL momčadi Denver Broncos, Kenny McKinley (23), pronađen je mrtav u svom domu u predgrađu Denvera.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9452</ID>
+    <SENTENCE>Radilo se o minutama, da je pomoć stigla kasnije, bio bih sigurno mrtav ili doživotan invalid.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4471</ID>
+    <SENTENCE>Kada su se specijalci uvjerili da je mrtav, skinuli su s njega još dvije do tri ručne bombe – kazao nam je Meštrović.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9419</ID>
+    <SENTENCE>IVAN BOČINA, 78-godišnjak iz Splita, koji je jučer ujutro oko 6 sati nađen mrtav u Koteksovoj garaži, pao je s visine od šest metara.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9478</ID>
+    <SENTENCE>Policija navodi da je to najveća izmjerena količina alkohola u krvi za nekoga tko nije mrtav.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4597</ID>
+    <SENTENCE>U prostranoj, poludrvenoj kući u imućnom predgrađu Swinley Deana, Aristide Leonides leži mrtav od trovanja barbituratima.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4444</ID>
+    <SENTENCE>Macic je vjerojatno bio okocen mrtav ili je jako brzo umro od tko zna cega - u takvim slucajevima macke znaju pojesti mrtve iz vise razloga.</SENTENCE>
+    <TARGETLEMMA>mrtav</TARGETLEMMA>
+    <TARGETWORD>mrtav</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+</SET>

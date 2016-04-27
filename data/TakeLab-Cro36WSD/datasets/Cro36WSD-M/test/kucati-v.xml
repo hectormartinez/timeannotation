@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>8372</ID>
+    <SENTENCE>Wolverine je odlučio živjeti mirnim životom, no njegov brat Sabretooth, Stryker i ostali došli su za njim ne kucajući pristojno na vrata kao svi drugi ljudi.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucajući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8325</ID>
+    <SENTENCE>Nakon 1987. sve generacije navijača Rijeke stapaju se u jedno veliko srce, srce koje kuca samo za Rijeku i Hrvatsku.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2229</ID>
+    <SENTENCE>Naravno, to u današnjim trenucima nije nimalo lako i koliko god sam do sada kucala na razna vrata, jedinu pravu pomoć za sada su mi dali iz Erste banke, čiji nam je Medo Štedo pomogao.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2367</ID>
+    <SENTENCE>Svaki put kad bih ugledala povrće počela bih se znojiti, srce bi mi počelo ubrzano kucati, imala bih pravi napad panike ', ispričala je Vicki.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2383</ID>
+    <SENTENCE>Djevojka je počela kucati po kompjutoru ali ne ide, nikako da primi Mirkov zahtjev.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2248</ID>
+    <SENTENCE>Sklblzov blogerski puls kuca na http://sklblz.blog.hr /.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2271</ID>
+    <SENTENCE>Slipknot kuca na vrata, spremite se !</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2376</ID>
+    <SENTENCE>Ritmičko bubnjanje je sam životni puls koji kuca kroz sve žive stvari.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2263</ID>
+    <SENTENCE>"Splitsko srce" u Splitu je zaustavljeno u subotu u 7.28, a ponovno je počelo kucati u tijelu Bjelovarčanina u 10.21 sat u Zagrebu.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8393</ID>
+    <SENTENCE>Ali iako su ti ljudi daleko odavde, njihovo srce je ostalo tu i kuca za Hrvatsku.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2240</ID>
+    <SENTENCE>Srce mu skače, kuca prebrzo i u pogrešnom ritmu.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2214</ID>
+    <SENTENCE>Mališan je bio dugogodišnji srčani bolesnik, pa se pretpostavlja da je njegovo srce prestalo kucati zbog straha od oluje i grmljavine.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8397</ID>
+    <SENTENCE>Prerežu im grla dok im srca još uvijek kucaju.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucaju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8389</ID>
+    <SENTENCE>Inače, srce kartice je ATI Radeon X1600 Pro grafički čip koji kuca na 500 megaherca, a pridruženo mu je i 256 megabajta GDD3 memorije.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2317</ID>
+    <SENTENCE>Prvi dodatni pregledi pokazali su da je sve u redu, ali da imam tzv. panični napadaj kad mi srce počne brže kucati.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2359</ID>
+    <SENTENCE>E sad dali će njihova središnjica, koja je svjesna svih tih njihovih kriminalnih radnjih, kao što je toga svjestan i poznato mu je sve to i PG župan i čelnik SDP-a Komadina, nešto radikalno i napraviti, a izbori već kucaju na vrata to je pitanje sada.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucaju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>216</STARTINDEX>
+    <ENDINDEX>222</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2204</ID>
+    <SENTENCE>Nitko te ne dira nikad, a mogu kuču otvorenu ostavit i neče nitko ništa napravit.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuču</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2252</ID>
+    <SENTENCE>To bilo i danas kuca, jače nego što se može i zamisliti.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2386</ID>
+    <SENTENCE>Na pomolu je bio skandal, jer što bi se desilo da je na zvuk zvona zalajao, kao što je redovno, unatoč dresuri, lajao kad bi netko kucao na vratima sobe.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>131</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2225</ID>
+    <SENTENCE>Čim dotakneš neke godinice, eto ti g. Stres kuca na vrata.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2370</ID>
+    <SENTENCE>Tonino Picula je nakon zamrzavanja hrvatsko - talijanskih odnosa u studenome 2001. zbog dodjele Zlatne medalje talijanskog predsjednika Zadru, više od godinu dana neuspješno kucao na vrata Silvija Berlusconija koji nije nalazio vremena za razgovor s njim.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>174</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8371</ID>
+    <SENTENCE>Jer nakon nastupanja moždane smrti umjetni život pacijenta se, uz sve aparate i lijekove, može održavati maksimalno 48 sati, a nakon toga srce unatoč svim aparatima prestaje kucati i organi se više ne mogu spasiti.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>174</STARTINDEX>
+    <ENDINDEX>180</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2224</ID>
+    <SENTENCE>PETRINJA - Nitko od prisutnih koji je gledao fotografije iz kojih je progovarala istina nije ostao ravnodušan i ni jedno srce nije ostalo mirno kucati, kada su se na slikama prepoznavali događaji i draga lica, osobito ona koja više nisu s nama.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>144</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2393</ID>
+    <SENTENCE>Vic je sranje iz starog vremena, danas se ne smiju zajebavati debili, htjela sam reći, nekad mi se činilo da su naši Špiljaki bili oni koji su govorili, tata, netko kuca.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>169</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8303</ID>
+    <SENTENCE>Sindikalisti su izvijestili da su primili poziv za sastanak s izaslanstvom MMF-a početkom travnja, a to tumače da nam 'MMF već kuca na vrata'.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2227</ID>
+    <SENTENCE>Kosovo je svoju državu dobilo natalitetom, a ne oružjem, pa prema tome i Hrvati moraju prihvatiti pronatalitetnu politiku, roditelji se moraju probuditi, kao i Crkva i država jer bijela kuga kuca na vrata.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>191</STARTINDEX>
+    <ENDINDEX>195</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2394</ID>
+    <SENTENCE>Sa suprugom i sinom s balkona je crijevom i kantama gasio vatru, no nije uspio u mraku vidjeti tko je kucao.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8399</ID>
+    <SENTENCE>A početak, kao i svaki drugi, bio je težak, mnoga su nam vrata bila zatvorena, kucali smo bezbroj puta i malo, pomalo probijali se na tržištu.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8331</ID>
+    <SENTENCE>Ako biti poduzetan znači biti spreman zamoliti nekoga za nešto, tražiti dok ne nađeš, kucati dok ti se vrata ne otvore, što mislite, što nas najčešće spriječava da molimo nekoga za nešto, tražimo i kucamo ?</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucamo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>198</STARTINDEX>
+    <ENDINDEX>204</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2322</ID>
+    <SENTENCE>Božić već kuca na vrata, ali svi nekako volimo ostaviti pripremu darova za zadnji tren rečenicom 'Naći će se nešto !</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2363</ID>
+    <SENTENCE>"Moje srce je prestalo kucati kada su se Portugalci razigrali", kazao je jedan od brojnih Južnokorejaca, koji su gledali utakmicu i navijali za Sjevernu Koreju.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2400</ID>
+    <SENTENCE>Žensko srce kuca brze od muškog.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2274</ID>
+    <SENTENCE>Sad sam poredio dimenzije sa tytnom, tu je negdje (sem debljnine), a imam saku malo vecu: notooth:, pa bi se jednom rukom moglo kucati.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2246</ID>
+    <SENTENCE>Jednom je čak doživjela kliničku smrt, na osam sekundi srce joj je prestalo kucati, ali se na kraju izvukla.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2251</ID>
+    <SENTENCE>Obično se ugrađuje kada broj otkucaja kuca padne ispod 30-40 otkucaja u minuti, što je onda povezano sa simptomima poput napada vrtoglavice ili gubitka svijesti, u najtežim slučajevima dolazi do srčanog zatajivanja.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8387</ID>
+    <SENTENCE>Ne treba zaboraviti ni AMD, jer će za dvije ili tri godine biti mnogo lakše objaviti kako u nekom Macu kuca upravo taj, a ne Intelov procesor.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8378</ID>
+    <SENTENCE>Brojka koju je tada MS priznao iznosila je 970, dok se zapravo broj Indijaca koji trenutno kucaju kôd pod zastavom Microsofta kreće oko 2.000 - čak polovina od tog broja rade putem ugovora, dok je nešto više od 900 stalno zaposlenih.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucaju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8338</ID>
+    <SENTENCE>Kladioničarska afera još uvijek samo kuca na vrata hrvatskog nogometa.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2250</ID>
+    <SENTENCE>Liječnici su je reanimirali, a ona je ponovno pala u komu, no srce djeteta i dalje je kucalo.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucalo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2208</ID>
+    <SENTENCE>Tako se dogodi da se Nina javlja na Farukov oglas i kuca na vrata njihovog stana, a Farukov otac Izet Fazlinović (Mustafa Nadarević), iznenađen što je vidi, ne može se načuditi što je odlučila promijeniti karijeru.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2288</ID>
+    <SENTENCE>Prednost tog servisa je što su za potrebe još jednog skorog projekta "Moje srce kuca za nju", mogli izabrati da oglas bude upućen samo ženama od 16 do 35 godina, na koje se odnosio poziv na audiciju koji je stajao u oglasu.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8367</ID>
+    <SENTENCE>Pokuša sam kucati, ali nije mi uspilo.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+      <SENSEID>V.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2351</ID>
+    <SENTENCE>Kada se Murray probudio vidio je da pacjentu ne kuca srce, pokušao ga je oživjeti, međutim, kralju popa više nije bilo pomoći.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8366</ID>
+    <SENTENCE>Tijelo vam je u pokretu, srce ubrzano kuca pa uvijek postoji opasnost za zdravlje.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8302</ID>
+    <SENTENCE>Zima već lagano kuca na vrata, ali ne i tebi.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2361</ID>
+    <SENTENCE>'Kad se nešto dogovorimo želim da se to ispoštuje, a ne želim tijekom godine da ovdje imam red ljudi pred vratima, da kucaju, da traže pomoć.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucaju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2222</ID>
+    <SENTENCE>Naravno, svijest o pravom stanju stvari svako malo je kucala zdravom razumu na vrata i govorila mu da su E. i J. daaaaleeekoooo izvan djevojčine lige.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2332</ID>
+    <SENTENCE>Međutim, istina o abortusu nakon afere koja je stvorena poslije prikazivanja Nijemog krika u jednoj zagrebačkoj gimnaziji i šokiranih srednjoškolaca, unatoč svim negativnim komentarima i halabuke sa strane neoliberalnih i partijskih krugova zgroženih filmom o pobačaju, nezadrživo kuca na naše osobne i kolektivnu savjest nacije.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>281</STARTINDEX>
+    <ENDINDEX>285</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2207</ID>
+    <SENTENCE>"Već sada gledam prema Svjetskom prvenstvu 2014. godine. To prvenstvo će imati još veće emocije jer je Brazil domaćin. Naravno da sam žalostan zbog propuštanja ovogodišnjeg Mundijala, ali valjda je i to bila potrebna stvar da mi se dogodi. Mlad sam, vrijeme kuca za mene", završio je 20-godišnji igrač.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>258</STARTINDEX>
+    <ENDINDEX>262</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2243</ID>
+    <SENTENCE>Uspjeh vam kuca na vrata, budite pozorni i ne propuštajte prilike koje vam se ukazuju.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2245</ID>
+    <SENTENCE>Istrčala je na hodnik i panično počela kucati na vrata susjeda, a potom otrčala u susjednu zgradu i pozvala Sevdu Delić.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2244</ID>
+    <SENTENCE>I ovako su nam duga putovanja, npr. do Malog Lošinja ili Ozlja i Ogulina, a prezadovoljni smo ako dobijemo majice na poklon, a kamoli da nam na vrata kucaju razni sponzori.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucaju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>156</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8315</ID>
+    <SENTENCE>Tako su godine prolazile i najednom mi je srce skoro prestalo kucati.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8301</ID>
+    <SENTENCE>Špiljakovi su dobro znali matematiku, ja, ja sam bila ta kojoj se činilo da netko kuca !</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+      <SENSEID>V.003.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8312</ID>
+    <SENTENCE>Danimir je odrastao u Zagrebu, a sada u njemu kuca splitsko srce.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2267</ID>
+    <SENTENCE>Misao američkog književnika hrvatskog porijekla Josepha Hitreca: "Nijedna snaga na zemlji nije veća od ženskoga srca kad kuca svom svojom puninom" izvanredno lijepo oslikava dvije hrvatske športašice, dvije prekrasne žene koje, zbog istovjetnih brojeva i simbola u osobnim podacima, krase iste kvalitete: težnja savršenstvu, radinost, požrtvovnost, izuzetan smisao za stvarnost i realizaciju, izvanredno gospodarenje svojom energijom, umjerenost, ljubaznost, razboritost, tolerantnost, varljivo blag izgled iza kojeg se skriva silna snaga i ambicioznost.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2354</ID>
+    <SENTENCE>Bandić je rekao da će dnevni red s materijalima biti objavljivan dan unaprijed na webu, dok je za audio i video vezu poručio novinarima da i dalje "kucaju na zatvorena vrata".</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucaju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2331</ID>
+    <SENTENCE>Baba i dida odlucili isprobati vijagru, i dida ulazi u spavacu sobu i kuca na vrata.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2355</ID>
+    <SENTENCE>Srce, s 128 procesorskih jezgri, kuca na 738 MHz, što će, vjerujemo, zadovoljiti i najzahtjevnije.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2241</ID>
+    <SENTENCE>On je društveni fenomen, a svoje mjesto našao je i u HNK, gdje su u predstavi Montažstroja i Plesnog centra Tala "Moje srce kuca za nju" 22 žene u nedjelju prisvojile taj muški sport i odgovorile na to kakvu zemlju volimo, a pred čime Hrvatska ipak mora priznati poraz.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>128</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2339</ID>
+    <SENTENCE>Što se tiče specifikacija, svaka jezgra trebala bi kucati na 500 MHz te dolaziti sa 512 MB vlastite memorije na 1,2 GHz efektivno.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2329</ID>
+    <SENTENCE>Kad se muškarac nađe pored privlačne žene, njegovo srce počne ubrzano kucati i on je spreman za akciju.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8322</ID>
+    <SENTENCE>I ništa nemam što čuvati mogu od prolaznosti u kucanju sata, gorku sam čašu već ispio mnogu i strah je često kucao na vrata.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8321</ID>
+    <SENTENCE>Svojim kljunom kucao je na prozorsko staklo.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2388</ID>
+    <SENTENCE>Vlada RH ima svoj ured za suradnju s Haaškim sudom i ja s tim Uredom nisam imao nikakav kontakt, niti sam ja kucao na njihova vrata, a ni oni na moja.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8380</ID>
+    <SENTENCE>U vrijeme recesije, koja nam svima kuca na vrata, Pinky želi darivati one kojima je, smatra, puno teže nego njoj.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8339</ID>
+    <SENTENCE>Zima nam kuca na vrata.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8385</ID>
+    <SENTENCE>Guverner možda šalje depresivne poruke kako bi naciju pripremio na crni scenarij i da sutra ne bi njemu kucali na vrata kao spasitelju, a on nema više niti jednog aduta kojim bi nas spasio.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2283</ID>
+    <SENTENCE>U listopadu nam jesen već dobrano kuca na vrata, iako joj se svojski odupiremo priželjkujući još malo toplijih dana.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2358</ID>
+    <SENTENCE>Netko kuca na vrata.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>10</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8379</ID>
+    <SENTENCE>VRUĆE ljeto je završilo, a zima lagano kuca na vrata - pravo je vrijeme za otvorenje nove sezone u klubu Gjuro 2. Klub će se, ove subote, 27. rujna, predstaviti u novom ruhu - posebno dizajniran i osvježen za predstojeću sezonu.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2247</ID>
+    <SENTENCE>Osluškivala je bilo publike, a ono je kucalo za nju.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucalo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2327</ID>
+    <SENTENCE>Da a kad britanska vojska bombardira kuče onda kaže pobila je mnogo talibanskih vojnika nekažu koliko je pobila civila ili nečijeg brata ili sestru pa šta se onda čuditi kada neki vojnik poludi pa pobije jadne Britance.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuče</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2342</ID>
+    <SENTENCE>Kucali su joj na vrata, tražili je po okolnim ulicama i pokušavali kontaktirati njezine rođake.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>Kucali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2264</ID>
+    <SENTENCE>Propao je Lehman Brothers - jedna od najvecih i najstarijih fin. kuca u SAD.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2300</ID>
+    <SENTENCE>Za 2008. godinu, koja već kuca na vrata, imamo visoka očekivanja ; veselimo se nastavku dobre suradnje s našim klijentima i partnerima, kao i novim poslovnim izazovima s kojima ćemo se uhvatiti u koštac.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2315</ID>
+    <SENTENCE>Chloe stalno kuca na vrata, hoće sendvič, hoće gledati video, hoće svaki djelić mene za sebe.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2213</ID>
+    <SENTENCE>I kad znaš da si odabrala odlično, izbrišeš utorak i zaboraviš srijedu, prođu serpentine i krivine i odletiš svome jugu želimo ti ljubavi vični plamen pa da srce kuca ti drugačije.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>162</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2311</ID>
+    <SENTENCE>Međutim, srce žabe koje je ležalo pred Ninom Kulaginom na stolu, već je poslije nekoliko minuta prestalo kucati.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8330</ID>
+    <SENTENCE>S tim da i moje navijačko srce kuca za Hajduka, ali da ikad dođe do utakmice Hajduk – Salernitana, ja bih navijao za moje miljenike iz Salerna.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2233</ID>
+    <SENTENCE>Ekscentrična pjevačica tvrdi kako je ona reinkarnacija svoje preminule tete te da u njenim prsima kucaju dva srca.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucaju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2279</ID>
+    <SENTENCE>"Srce moje kuca za nju" dokazat će da danas, osim nogometa, ne postoji društveni fenomen koji u tolikoj mjeri može sublimirati snažne emocije i ujediniti naciju, svjedočiti kao simbol njezina (ne) uspjeha i autentičnih vrijednosti i u konačnici, podastrijeti istinu o nama samima.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2321</ID>
+    <SENTENCE>Putnik kuca na ta vrata, da se skrije ispred kiše.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>11</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8369</ID>
+    <SENTENCE>Ne prođe ni prvi san, a netko kuca u šaluf.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8370</ID>
+    <SENTENCE>U akciju smo uključili sve osmoškolske i srednjoškolske ustanove u Međimurju, a zakucat ćemo i na vrata međimurskih tvrtki, odnosno poduzeća, točnije na ona vrata iza kojih kucaju dobra ljudska srca, puna razumijevanja za nas kojima je ljepša strana života okrenula leđa kazao je Dragutin Mustak, tajnik Društva, invalid i vozač dotrajaloga kombija.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucaju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>173</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2278</ID>
+    <SENTENCE>Podsjeća da će se te teškoće pogoršati zbog recesije koja kuca i na naša vrata.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2353</ID>
+    <SENTENCE>Ulogu je dobila u predstavi 'Srce moje kuca za nju', izjavila je Ana Stunić (28) za časopis 'Extra'.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2296</ID>
+    <SENTENCE>Iako su slični, Udovice će biti nezadovoljne pronađenim te će morati nastaviti potragu po neboderima kucajući na mnogobrojna vrata i ispitujući susjede o nestalom Valdecu.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucajući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2235</ID>
+    <SENTENCE>Pripremamo polugodišnju produkciju s polaznicima našeg Plesnog centra Tala 7.02. u Boćarskom domu, naša nova predstava "Akademija, to je naša priča !" igra 6. i 19.02. u CeKaTeu. Trenutno smo pred premijerom novog projekta 24.01. u HNK "Srce moje kuca samo za nju" u koprodukciji s Montažstrojem, u kazalištu Trešnja pripremam "Životinjske basne", te novu predstavu o trudnoći s "Jelenom Vukmiricom", imamo probe i treninge za mjuzikl Novih Fosila koji ponovno igra.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>247</STARTINDEX>
+    <ENDINDEX>251</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8352</ID>
+    <SENTENCE>Ova selekcija Splita, koja kuca na vrata prve momčadi, svakako ima "štofa", što na njihovom putu znači ovaj trijumf ?</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2228</ID>
+    <SENTENCE>Na gradska vrata barbari kucaju ! 'koje su nicale po Istri izgledaju kao nakaradni rezultat konzumacije lakih (ili težih ?) droga.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucaju</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2209</ID>
+    <SENTENCE>Nogometno ludilo kuca na vrata.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2324</ID>
+    <SENTENCE>Zastupnica Šuica ne vidi ništa neobično u preuzimanju saborskog mandata u vrijeme kad na jugu USKOK otpliće klupko korupcije oko Ureda za urbanizam, Građanska inicijativa za spas Dubrovnika prosvjeduje zbog devastacije Pila, a na vrata "kuca" novi slučaj kupnje zemljišta u Sustjepanu povezan s investitorom Stipom Gabrićem.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>237</STARTINDEX>
+    <ENDINDEX>241</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2395</ID>
+    <SENTENCE>Čak i ako naručite najmanju šalicu kave, na vrata vam kuca oko 150 kalorija.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8368</ID>
+    <SENTENCE>"Kretao se sustavno školskim hodnicima, kucao na vrata i pucao s dovratka. Djelovalo je nestvarno - učenik kojem predajem vrišti i trči prema meni s pištoljem u ruci", rekao je Kiuru.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2202</ID>
+    <SENTENCE>Jacquemort je koračao bez žurbe i promatrao garežice, čije je tamnocrveno srce kucalo na suncu.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucalo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2268</ID>
+    <SENTENCE>"Nakon održanog govora i odavanja počasti minutom šutnje, posmrtni pepeo je posut po našoj srpskoj zemlji, dok su naša srca ponosno kucala sjećajući se velikih djela Davida Lanea", piše na internetskoj stranici srpske organizacije te se dodaje kako je učinjeno "u ime zajedničke ideje cijele naše rase i solidarnosti u borbi za arijevski opstanak".</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2318</ID>
+    <SENTENCE>"SAMO pet dana nakon što sam saznala da nosim trojke mi je doktor rekao da je trećoj bebi srce prestalo kucati".</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8396</ID>
+    <SENTENCE>Nikolina se malo kucala, pa je završila na 13. mjestu među gospođama kod kojih je uvjerljivo pobijedila Eva, a za medalje su se još izborile Antonija i Vinka.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kucala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2346</ID>
+    <SENTENCE>Nova 2011. već kuca na vrata pa mnogi u ovom razdoblju analiziraju proteklu godinu, prisjećajući se lijepih i pokušavajući zaboraviti one ne baš tako lijepe trenutke.</SENTENCE>
+    <TARGETLEMMA>kucati</TARGETLEMMA>
+    <TARGETWORD>kuca</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.003.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+</SET>

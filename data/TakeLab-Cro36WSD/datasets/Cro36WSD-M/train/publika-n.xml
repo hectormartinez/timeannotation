@@ -1,0 +1,3039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>8217</ID>
+    <SENTENCE>U diskusiju ćemo i dalje pozivati stručnjake, vodeće svjetske i domaće arhitekte, teoretičare, novinare, sociologe, političare, urbaniste, a nadamo se da ćemo postupno odgojiti i publiku koja bi bila ravnopravni sudionik.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>186</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2091</ID>
+    <SENTENCE>"Mislim da će trka biti fantastična, jer sam čula da je staza izvrsno pripremljena. Ovo je zasigurno najbolja utrka u Svjetskom kupu jer svi ljudi koji rade na organizaciji vrlo su entuzijastični i s ljubavlju rade svoj posao pa se nadam de će shodno tome spektakl biti zajamčen. Kao prve favorite ove utrke izdvojiti ću Austrijanke Marlies Shield i Nicole Hosp koje u posljednje vrijeme skijaju fantastično. No, tu je i Ana Jelušić koja zasigurno na krilima publike može iznenaditi i napraviti dobar rezultat kao prošle godine", dodala je Srpkinja Jelena Lolović.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>459</STARTINDEX>
+    <ENDINDEX>466</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2192</ID>
+    <SENTENCE>Za masovnu publiku najprivlačnije su se pokazale one koje se bave zdravljem, budućnošću i srećom.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2025</ID>
+    <SENTENCE>Ističu kako je Perković, osim što se sam koristio ustaškim pozdravom, na to navodio i publiku na koncertu, čime je, kažu, počinio kazneno djelo poticanja na kazneno djelo velikog broja osoba, u dijela kojih su, napominju, viđene zastave NDH i ustaška ikonografija, a neki su dizali ruke na ustaški pozdrav, pjevali ustaške pjesme, te iz mržnje upućivali uvrede i prijetnje smrću srpskoj nacionalnoj manjini.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2097</ID>
+    <SENTENCE>Scena je mreža publika koja nastaje iz tri vrste sličnosti: parcijalnog identiteta osoba, mjesta i sadržaja tj. jedna kulturna scena ima svoju stalnu publiku (sudionike), stalna mjesta okupljanja i tipične kulturne programe.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8211</ID>
+    <SENTENCE>Premda je Fantastična simfonija prepuna odličih koreografskih zamisli Borisa Tonina i niza uspjelih baletnih kreacija, izdvojimo ovom prilikom tek magičan duet (na glazbu Samuela Barbera) kakvoga splitska publika odavno nije imala prilike vidjeti, a kritika je već zabilježila kako se ne pamti "da je ikada na sceni, na kojoj su djelovali Ana Roje i Oskar Harmoš, viđen skladniji, harmoničniji, ali i strogo precizan par figura art decora što bez i jednoga šava prelazi u dinamiku i ritmičnost".</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>205</STARTINDEX>
+    <ENDINDEX>212</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2092</ID>
+    <SENTENCE>S druge strane, upravo nemogućnost trajnog postizanja takvog univerzalnog govora svaki put stvara napetost, održavanje kakve - takve stabilnosti zahtijeva fizički i mentalni napor, a sam ritual podjednako je intenzivno doživljen, kako od strane izvođača, tako i same publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>267</STARTINDEX>
+    <ENDINDEX>274</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2055</ID>
+    <SENTENCE>Zbog te "publike" koju spominješ, a koja se sastojala od partizančina, Srba, udbaša, komunjara i četnika, mi nismo jučer gledati Inter &amp; Barcelonu u Milanu.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2080</ID>
+    <SENTENCE>U Areni je izazvao ovacije publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8253</ID>
+    <SENTENCE>"Seasons Wither", "Bulldozer", "Old", "Ten Ton Hammer", "Davidian" i ostale metal poslastice tjerale su publiku na konstantno naguravanje, skakanje, trčanje u krug i pjevanje stihova zajedno s odlučno raspoloženim frontmanom Rob Flynnom, dok su im "The Burning Red" i "Descend The Shades Of Night" dali malo vremena da otpuhnu.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2191</ID>
+    <SENTENCE>U protekle dvije godine ovdje sam ostvario sjajne rezultate, a i podrška publike uvijek je bila na razini.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2026</ID>
+    <SENTENCE>Iako za mlađu publiku u planu ima Lord of the Rings: Aragorn 's Quest, Warner Bros nije zaboravio na nešto zrelije fanove LotR franšize.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2079</ID>
+    <SENTENCE>Mislim da je publika mogla biti zadovoljna kvalitetom borbe, a ja mogu reći da sam pokušavao učiniti ono što mi je trener sugerirao, ali je Valujev imao vrlo kvalitetan obrambeni gard tako da nisam uvijek uspijevao u svojim nakanama - zaključio je nesuđeni peterostruki svjetski prvak.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2107</ID>
+    <SENTENCE>Kubanke i Brazilke, osim što odlično igraju, izgledom oduševljavaju publiku, a ovih dana i u Zagreb je stigao dašak Copacabane.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2180</ID>
+    <SENTENCE>Jedna je od najoriginalnijih europskih umjetnica, koja je svojim karizmatičnim nastupom već dva puta dosad ostavila zagrebačku publiku bez daha.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8281</ID>
+    <SENTENCE>Posljednjih 15 minuta prvog dijela prošlo je u vrlo smirenom ritmu, bez iti jedne prave prilike i već tada je bilo jasno da nas čeka drugo poluvrijeme u kojem publika neće uživati jer su obje momčadi već počele razmišljati o prvenstvenim susretima koji ih čekaju u nastavku sezone.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>159</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2088</ID>
+    <SENTENCE>S obzirom da je inače nastupao pred milijunskom publikom i u najneobičnijim ambijentima, ovom turnejom predstavlja nešto sasvim suprotno.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2074</ID>
+    <SENTENCE>Time je Višnja Mažuran nedvojbeno najčešće prisutna na festivalu u svojem rodnom gradu, čija ju publika prati i trajno pozdravlja s najvećim oduševljenjem.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2053</ID>
+    <SENTENCE>Dobar dio publike ga je volio i mislim da je uprava znala što dobiva kad ga je dovela.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2062</ID>
+    <SENTENCE>Album je neočekivano dobro primljen među publikom, ali i kritikom, te je nedugo nakon pojavljivanja na tržištu ponovno objavljen s malim preinakama i dodatnim materijalom, što ih je učvrstilo na glazbenim ljestvicama i osiguralo nominacije i osvojene nagrade.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8259</ID>
+    <SENTENCE>No ono što se može uzeti u obzir kao nepogodnost, bila je veličina prostora u kojoj u kojem se bend i publika nisu mogli stopiti u jednu kompaktnu masu, kao i veliki broj onih koji su došli vidjeti Dylana iako ga ne slušaju, jer nas je eto posjetio po prvi put.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2158</ID>
+    <SENTENCE>Stoga ne čudi da je većina najvećih proizvođača mobilnih uređaja ove godine u Barceloni predstavila i najavila izlazak na tržište niz novih 'pametnih telefona' natječući se međusobno čiji će modeli biti zanimljiviji i primamljiviji publici.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>232</STARTINDEX>
+    <ENDINDEX>239</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2120</ID>
+    <SENTENCE>Green će u Perthu zasigurno imati veliku navijačku podršku, ali bi u publici moglo biti i Stipinih navijača, obzirom na brojnu hrvatsku zajednicu u Australiji.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2003</ID>
+    <SENTENCE>Kako se nagrada dodjeljuje grupi tj. albumu s najviše glasova publike, pozivamo sve prijatelje, kolege, suradnike i one koji su upoznati s radom benda Rising Dream, da glasaju na slijedećem LINKU, jer će glasovi publike biti jednakopravni I ocjenama koje za kategoriju donese i stručni žiri.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>212</STARTINDEX>
+    <ENDINDEX>219</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2175</ID>
+    <SENTENCE>Kao pjevač ja živim od publike i ako kriza pogodi njih to se odražava i na moj posao, a ako se odrazi na posao odražava se naravno i na smanjenje potrošnje u privatnom životu.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2165</ID>
+    <SENTENCE>Uistinu, organizatori, sudionici, publika svi su u suboti bili kao jedno.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2085</ID>
+    <SENTENCE>Srećom, samo prijetio, jer nitko nije pogođen ni od igrača ni od policije, (bit će suosjećajna publika akterima u arenu bacala piće kao osvježenje hm, hm ?).</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2171</ID>
+    <SENTENCE>Feelgood je ocjenjen od strane kritike ali i od publike kao bandov najjači album u glazbenom smislu.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2021</ID>
+    <SENTENCE>Internetski portal www.klik.hr se vratio kući i predstavio se u novom, poboljšanom i redizajniranom izdanju koje okuplja mladu i urbanu publiku koja traži odmak od mainstream pogleda na svijet.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>136</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2139</ID>
+    <SENTENCE>Album Buenos Hermanos Ferrer u Zagrebu predstavlja sa svojim dvadesetoročlanim bandom u kojemu je - vrijedi podsjetiti - i iznimni gitarist Manuel Galban - široj "rokerskoj" publici znan po suradnji s Ryem Cooderom na albumu Mambo Sinuendo.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>174</STARTINDEX>
+    <ENDINDEX>181</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8224</ID>
+    <SENTENCE>Tim povodom PIF-ova publika ima priliku vidjeti marionetske predstave iz Hrvatske – Malu vilu (u izvedbi Gradskog kazališta lutaka Split) i Krpe i konce (u izvedbi Lutkarskog studija Krpe i konci iz Varaždina), Italije – Varijete (u izvedbi Kazališta Stabile del Friuli Venezia Giulia iz Trsta) i Ruggiera od Bijelog Orla (u izvedbi Udruge Figli d 'arte Cuticchio iz Palerma) i Slovenije – Doktora Fausta (u izvedbi Lutkarskog kazališta Ljubljana).</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2159</ID>
+    <SENTENCE>Novo ispisivanje klasika, u okviru žanra kao što su SF, fantasy, otvara nove mogućnosti, kaže Jonathan: privlači drugačiju čitateljsku publiku.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>142</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2007</ID>
+    <SENTENCE>Nakon ukidanja PDV-a na cijene kino - ulaznica, koje će biti jeftinije 22 posto, što je vrlo velika stavka u prilog kina i filmske publike, Chris Marcich je rekao za Vjesnik: – Hrvatska odluka je doista dobro došla vijest.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>131</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8227</ID>
+    <SENTENCE>Za razliku od njih, kazalište koje u ovo doba godine osvoji taj dio Hrvatske ne nudi laži i ne obećava Potemkinova sela, brda i doline, nego s publikom dijeli kolač iskrenog umjetničkog iskustva, koje ništa ne obećava i ništa ne traži.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>143</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2196</ID>
+    <SENTENCE>ŠMUGNILE SMO DOK SI REKA "MEJAŠI", na žalost nismo bile jedine, po publike nas je slijedilo skačući s bina i riskirajući posjet zadnjoj pomoći.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2016</ID>
+    <SENTENCE>RASTAVLJENU glumicu na početku karijere gledatelji su prihvaćali samo kao "ženu Toma Cruisea" ali ona je brojnim izvrsnim ulogama osvojila publiku i kritičare i dokopala se Oscara.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>139</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8233</ID>
+    <SENTENCE>S druge strane imamo nekoliko kvalitetnih džezista koji gotovo žive u anonimnosti, te su dakako prisiljeni sami tražiti svoj medijski prostor i mjesto na skučenu domaćem ili zahtjevnom stranom tržištu, a za neke domaća, a kamoli strana jazz - publika nikada nije ni čula !</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>243</STARTINDEX>
+    <ENDINDEX>250</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8222</ID>
+    <SENTENCE>Publika promatra gotovo potpuno osobni čin u kojemu ne može sudjelovati.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>Publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8246</ID>
+    <SENTENCE>Izjavila je kako joj se više sviđao splitski koncert 'Tribute to Dino' jer je bilo ljeto, a u publici je bilo dosta golih djevojaka, što ona osobno voli 'jer se seks dobro prodaje'.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2028</ID>
+    <SENTENCE>A djeca su se pokazala kao iznimno vjerna publika koja je takvim zvijezdama uspjela priuštiti svjetsku popularnost.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8205</ID>
+    <SENTENCE>Cirkus se zapalio, i istrčao pred publiku cirkuski zabavljač, klaun, u svojoj smiješnoj odjeći vičući izvan sebe na sav glas: "Cirkus gori !</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2059</ID>
+    <SENTENCE>Iako ovo na prvi pogleda izgleda poput kakve scene iz povijesnog filma, ovaj "dijalog" između publike i Cezara zbio se, čak nekoliko puta tijekom večeri, preksinoć na uzbudljivim i zanimljivim borbama gladijatora u pulskoj Areni.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2066</ID>
+    <SENTENCE>Zeffirellijeva produkcija Puccinijeva evergreena, hvalospjeva o ljubavi dvoje mladih i boemskom životu, oduševila je generacije ljubitelja opere, a publika diljem svijeta imala je priliku u njoj uživati u u izravnom prijenosu ciklusa The Met: Live in HD.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2152</ID>
+    <SENTENCE>Na repertoaru kvarteta Meridian večeras su se našla djela Mozarta, Beethovena i Dvoraka, a već pred sam nastup njegovi članovi uspjeli su nasmijati publiku objašnjenjem svojih crno - bijelih odjevnih kombinacija.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8265</ID>
+    <SENTENCE>Kako publika nije "progutala" takav kraj priče tko zna što će Brest napraviti da zadovolji njen ukus.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>5</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2006</ID>
+    <SENTENCE>Mahanje, klimanje, pričanje, stavljanje mikrofona u publiku i slično, dizalo je atmosferu baš kada je to najviše bilo potrebno.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8236</ID>
+    <SENTENCE>Bez obzira što spada u red moralno – filozofskih komada, vjerujem da će predstava biti prihvatljiva i široj publici.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2187</ID>
+    <SENTENCE>Zajedno s raspoloženom publikom, grupa Antitodor u Uljaniku je prvi je put uživo predstavila sve pjesme s novog albuma "Punker" koje su izmjenjivali sa starim starima, a fanovi su jednako dobro reagirali na jedne i na druge.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2124</ID>
+    <SENTENCE>Sviranje je odmah započelo, hitovi su se redali, a Chuck je nekoliko puta pozdravio publiku.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8241</ID>
+    <SENTENCE>Veliki interes za Memorijal iskazan je nazočnošću velikog broja novinara i snimatelja brojnih redakcija koje drže do svog renomea i svoje čitalačke publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8251</ID>
+    <SENTENCE>Nakon Idijota pozornicu i publiku je uspješno preuzeo dubrovački Gruhak, Led Zeppelin Cover Band.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2081</ID>
+    <SENTENCE>Popularnost jedrenja ne može se mjeriti sa rukometom, košarkom ili atletikom, no, ova će olimpijada biti specifična i po nastojanju da se promjeni medijsko praćenje ovog sporta, te bi i on trebao postati više televizičan, a potom i zanimljiviji i za širu publiku, van one koja je za jedrenje vezana profesionalno.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>255</STARTINDEX>
+    <ENDINDEX>262</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2022</ID>
+    <SENTENCE>Zagreb, 17. ožujka 2009. - Eric Prydz, prošlogodišnji nositelj Tuborg Green Beata koji je u 2008. nominiran za nagradu Grammy (Proper Education remix), zbog izuzetnog je interesa publike potvrđen za 13. kolovoza.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>186</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2077</ID>
+    <SENTENCE>Braća Coen, redatelj Joel i producent Ethan, a obojica scenaristi, uvijek su intrigantni sudionici malih umjetničkih okupljališta, pa tako ni motovunska publika nije mogla ostati ravnodušna pred njihovim filmom "Čovjek kojega nije bilo" u kojem naslovnu ulogu igra Billy Bob Thornton.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>153</STARTINDEX>
+    <ENDINDEX>160</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8202</ID>
+    <SENTENCE>Imao je Mechelen pred svojom publikom i veliku priliku za slavlje protiv dosad neporažene momčadi belgijskog prvenstva, budući je imao prednost 2: 0 u 35. minuti, ali Genk je do kraja uspio spasiti bod.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8239</ID>
+    <SENTENCE>Bilo je tu SS trupa, plesa i strijeljanja i publika je bila zgrožena jer još nisu raskrstili sa svojom prošlošću.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2075</ID>
+    <SENTENCE>Ukoliko svi drugi načini objašnjavanja novog materijala zakažu, publika može pretpostaviti postojanje narativne strukture kao što je flashforward ili ono što sam nazvao paralelnim modalitetom.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2032</ID>
+    <SENTENCE>Kada smo pomislili da atmosfera u dvorani nemože biti vruća, Thompson je svojom pojavom dokazao zbog koga je ustvari publika došla.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8212</ID>
+    <SENTENCE>Pretežito se radi o mlađoj publici koja je i više nego zahtjevna, jer točno zna što traži i svjesna je sadašnjih svjetskih trendova te znaju kad im se nešto '' pokušava uvaliti ''.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8295</ID>
+    <SENTENCE>Vama je to uspjelo, a dokaz je reakcija publike ', rekla je Nina.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2161</ID>
+    <SENTENCE>Međutim, operna je riječka publika oduvijek najviše sklonosti pokazivala prema, i danas najizvođenijem autoru na riječkoj opernoj sceni, Giuseppeu Verdiju odnosno njegovim djelima.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2118</ID>
+    <SENTENCE>Kroz kronologiju Trepšeovih slika publika će moći dokučiti i zanimljivu povijest Proljetnoga salona.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2179</ID>
+    <SENTENCE>"Tematski dominiraju filmovi o ljubavnim problemima i preljubima, oslobodili smo se ratne tematike i bavimo se ljubavima, a mislim da publika neće imati ništa protiv", izjavio je umjetnički ravnatelj Zlatko Vidačković.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2166</ID>
+    <SENTENCE>Zadar je fin i lijep grad, vlada pravi dalmatinski đir i nije mi trebalo puno da se prilagodim, za kraj je poručio novi ljubimac zadarske publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>145</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2173</ID>
+    <SENTENCE>U ostatku programa našao se pak popriličan broj naslova koje je hrvatska publika imala prilike vidjeti na brojnim ovdašnjim festivalima, ili će to pak moći prije početka samog MESS-a, poput Ivanova koji otvara FSK, Sclavi češkog studija Farma u pećini a koja je bila laureat Festivala maih scena, potom P.I. koreografkinje Julie Dossavi viđenu na Tjednu suvremenog plesa ili Truth in translation Project koji će prije MESS-a zaigrati u zagrebačkoj Gavelli.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2144</ID>
+    <SENTENCE>Neobično je, međutim, što je riječ o autoru koji ne gradi svoj dramaturški model na poznatim obrascima koje često koriste suvremeni, vrlo popularni anglosaksonci, već inzistira na složenijim dramskim konstrukcijama, koje ne ciljaju na široku publiku.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>242</STARTINDEX>
+    <ENDINDEX>249</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8283</ID>
+    <SENTENCE>Ženski sastav "Druge" osvojio je publiku što glasom, što divnim i vrijednim nakitom.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8234</ID>
+    <SENTENCE>Ne volim ta proračunata 'vraćanja korijenima' kojima bendovi pribjegavaju kad primijete da su se otuđili od svoje publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8252</ID>
+    <SENTENCE>Je li 3D nešto više od pukog trenda i fenomena, umnogome će ovisiti i o publici.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2018</ID>
+    <SENTENCE>Ipak, dobro se sjećam da je svako prikazivanje poljupca glavnih junaka (obično vrlo čedno izvedenoga, najčešće u završnom prizoru filma) publika popratila zdušnim fućkanjem i uzvicima "Šiiic !" (što se inače rabilo da bi se potjerala mačka).</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8229</ID>
+    <SENTENCE>Čekanje se na kraju isplatilo jer je unatoč vremenu tradicionalan vatromet održan, a izazvao je ovacije publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2047</ID>
+    <SENTENCE>Predavanje se bavi preraspodjelom žanrovskih odrednica unutar spekulativne fikcije u odnosu na očekivanja čitatelja, s posebnim osvrtom na razliku u odnosu žanrovske i ne - žanrovske publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>183</STARTINDEX>
+    <ENDINDEX>190</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2164</ID>
+    <SENTENCE>U meču parova u kojem je Sampras snage udružio s Rogerom Federerom, a Agassi s Rafaelom Nadalom i u kojem su igrači nosili mikrofone kako bi publika mogla čuti što govore, došlo je do neugodnih situacija između dvije američke ikone bijelog sporta.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>141</STARTINDEX>
+    <ENDINDEX>148</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2183</ID>
+    <SENTENCE>Ulazeći u 29 godinu postojanja, Idijoti će publiku provesti kroz svoje hitove iz svih razdoblja njihove karijere poput "Bandiera Rossa", "O bella ciao", "Za tebe", "S djevojka", "Himna rada", "Mi smo ovdje samo zbog para" i "Bepo vrati se".</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8267</ID>
+    <SENTENCE>Zbog interesa zagrebačke publike antologijsko izdanje "Riječki novi val", trostruki box set, svoje će koncertno predstavljanje imati u zagrebačkoj Tvornici kulture na koncertu kojeg već sad možemo nazvati povijesnim jer će na jednom mjestu skupiti izvođače koji će u Zagrebu vjerojatno nastupiti posljednji put.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2154</ID>
+    <SENTENCE>ZAGREB - Umjetnički paviljon u Zagrebu priprema veliku retrospektivnu izložbu Milivoja Uzelca, velikana hrvatskog slikarstva dvadesetog stoljeća, na kojoj će publika imati priliku, osim njegovih znanih djela, vidjeti i neke njegove radove koji do sada nisu bili izlagani, donosi akademija-art.net.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>158</STARTINDEX>
+    <ENDINDEX>165</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8286</ID>
+    <SENTENCE>Mnoštvo automobila će preplaviti Pariz i potaknuti brojnu publiku na sanjarenje.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2086</ID>
+    <SENTENCE>Taman dva mjeseca nakon launcha, Ordinacija.hr je osvojila 2. nagradu na CARNetovom WebFestivalu 2009. Baš smo sretni i ponosni, volimo kad netko prepozna sav taj trud koji ulažemo "ispod haube" kako bi sajtovi bili pristupačniji što široj publici, bez obzira na tehnologiju pristupa i korištenja.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>240</STARTINDEX>
+    <ENDINDEX>247</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2057</ID>
+    <SENTENCE>Dobro, Odbjeglu nevjestu je htjela publika kad već nema Zgodne žene 2 (iako je ponovno u opticaju ta ideja), ali što mu je trebala Jesen u New Yorku !?</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2172</ID>
+    <SENTENCE>No, statistike ipak govore da samo Amerikanci troše oko 10 milijardi dolara godišnje na pornografiju, a imajući u vidu značajnu promjenu u strukturi njezinih konzumenata s obzirom na rod, ova vrlo profitabilna industrija nastoji se sada novim strategijama još više približiti ženskoj publici.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>284</STARTINDEX>
+    <ENDINDEX>291</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2113</ID>
+    <SENTENCE>U 20 sati, na binu su uz gromoglasan pljesak publike kročili članovi Indexa koji su se zbog turneje na inicijativu producenta Tomislava Kašljevića iz zagrebačke agencije Haarlem okupili sa svih strana svijeta.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8291</ID>
+    <SENTENCE>Dok je sučeljavanje trajalo, gledatelji pred malim ekranima mogli su pratiti na kazaljci koliko neodlučni birači u publici vjeruju kandidatima.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2110</ID>
+    <SENTENCE>Renata Baretića, (koji živi i radi u Splitu, a rođen je u Zagrebu 1963.) i hrvatska i međunarodna publika poznaje kao vrsnog pisca i novinara.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2149</ID>
+    <SENTENCE>SINOĆ je na sceni devastiranog dubrovačkog hotela Belvedere, pred mnogobrojnom publikom koja je dugim pljeskom nagradila odličnu izvedbu Festivalskog dramskog ansambla, odigrana prva dramska premijera ovogodišnjih Dubrovačkih ljetnih igara, "Spašeni".</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2065</ID>
+    <SENTENCE>Svoju sreću Mayer nije mogao sakriti ni pred publikom u Kaliforniji, gdje je prije tjedan dana izjavio da mu je ovo najbolje ljeto u životu.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2142</ID>
+    <SENTENCE>Ipak, u usporedbi s trenirkama, koje kao da smo naslijedili od estonske reprezentacije, dojam je da dres može proći pred zahtjevnom hrvatskom publikom.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>142</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2156</ID>
+    <SENTENCE>Postignuti uspjesi dovoljno govore o kvaliteti klape prepoznatoj kako od strane glazbenih kritičara, tako i od publike čije su ljubimice od samih početaka.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2145</ID>
+    <SENTENCE>No, prije nego što su izašli na pozornicu, publiku je energičnim nastupom zagrijala grupa St ! Ilness.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2089</ID>
+    <SENTENCE>Prva izvješća kazuju da je najmanje zanimanja publike izazvao RTL-ov Celebrity BB u kojem su na tri tjedna zatvoreni poznati i slavni, na kojima je Veliki brat trenirao izdržljivost i strogoću.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2128</ID>
+    <SENTENCE>Najveće razočaranje, u prvom redu redateljsko, a po nekim modnim znalcima iz publike i modno, bio je Boris Pavlin, čije se revije očekuju s oduševljenjem.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2199</ID>
+    <SENTENCE>Autorica je u ovom komadu, koji je veoma pohvalno ocijenila publika i kritika, smjestila u bolnički prostor šest ženskih likova.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8248</ID>
+    <SENTENCE>Osim na pozornici, neumorni Gibonni svoje hitove izvodio je i na velikom svjetioniku postavljenom na dnu dvorane te pjevajući među publikom u parteru.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>131</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2084</ID>
+    <SENTENCE>U Berlinu jeu tijeku 6. Biennale, umjetnička manifestacija koja se u glavnom gradu Njemačke odvija već 12 godina sa sve više uspjeha i zanimanja publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8232</ID>
+    <SENTENCE>Svojim originalnim psihodeličnim folk rockom uspjeli su zabaviti i dio publike izvan kruga koji je dobro upoznat s njihovim radom.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8225</ID>
+    <SENTENCE>Uzbudljivi izvedbeni višak tako postaje aktualan u momentima brze "promjene prizora", raspremanja predmeta, šutnje, izmjene pogleda između publike i izvođača ili izvođača i izvođača.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>139</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2005</ID>
+    <SENTENCE>Stoga je za nastup Berezovskog vladao veliki interes festivalske publike, pa je Knežev dvor bio lijepo popunjen u svim svojim dijelovima što znači da nije bilo prazne stolice i da su se mnogi slušatelji smjestili na skale i gornju galeriju.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2150</ID>
+    <SENTENCE>Na pitanje iz publike tko su članovi komisija i tko ih imenuje, jer njihova imena kulturnjacima nisu poznata, Čutura je naveo neka imena i objasnio da ih imenuje Gradsko poglavarstvo.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2127</ID>
+    <SENTENCE>Nakon njegova energičnog dvosatnog nastupa, na scenu je stupio Guetta, čija je sama pojava izazvala ovacije publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2050</ID>
+    <SENTENCE>Ista klapa je prema glasovima publike zauzela drugo mjesto i pripao joj je srebrni leut u vlasništvo.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8300</ID>
+    <SENTENCE>Nemojte me krivo shvatiti, nemam ništa protiv tog šarenila, ne bih na to šarenilo slala kaznene odrede, no mislim da bi se informiranje javnosti o tim ťprevažnim stvarimaŤ trebalo obavljati u specijaliziranim magazinima koji se time bave i koji se obraćaju onom dijelu publike koja uz jutarnju kavu želi doznati što će pod borom pronaći neka misica ili žena nekog nogometaša.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>269</STARTINDEX>
+    <ENDINDEX>276</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8250</ID>
+    <SENTENCE>Najveći pljesak publike u Solarisu dobila je grupa Karma, za pjesmu Amore mio, za što im je pripala tradicionalna nagrada Zlatno sunce Solarisa.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2115</ID>
+    <SENTENCE>S naglaskom na doima se zahvaljujući u prvom redu sceni (scenograf Marko Japelj i oblikovatelj svjetla Andrej Hajdinjak) i sjajnim izvođačima, plesačima / ribicama, opkoljenim sa svih strana, sprijeda orkestrom i publikom, odostraga zidom u koji kao da su ucrtani pjevači zbora: glave pravilno raspoređene, visoko postavljene u dva reda.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>213</STARTINDEX>
+    <ENDINDEX>221</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8297</ID>
+    <SENTENCE>O popularnosti njegove lirike na svoj način svjedoči stalno zanimanje stručne i najšire čitalačke publike te brojna ponavljanja izdanja njegovih knjiga.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8214</ID>
+    <SENTENCE>Publika iz zadnjeg reda glumce je gađala jajima, ali nisu nikog pogodili.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>Publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8272</ID>
+    <SENTENCE>U tekstu naslovljenom "Brenu obranila publika", beogradski dnevnik "Politika" navodi kako su oko dvije stotine prosvjednika, okupljenih u raznim braniteljskim udrugama, pred početak koncerta ispred ulaza u dvoranu prosvjedovali protiv Brenina nastupa, ali su se ubrzo poslije početka koncerta razišli.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8266</ID>
+    <SENTENCE>O 13. do 17. travnja bit će prikazano deset filmova Irene Škorić, koja je na nedavno završenom festivalu ZagrebDox dobila nagradu publike za dokumentarac 'Sudbina broja 13'.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2102</ID>
+    <SENTENCE>Osim tri gola publika je vidjela i tri crvena kartona.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8298</ID>
+    <SENTENCE>Osim Olivera, publiku je zabavljao i Ćupo s grupom V.I.V.A. plus, a oduševljenje koncertom u Sindelfingenu nisu krili ni organizatori - glazbena agencija Rokaro Numen te Hrvatska katolička misija Sindelfingen na čelu s medijskom zvijezdom među svećenicima, fra Marinkom Vukmanom, koji je iskoristio ovu prigodu da i zapjeva u duetu s Oliverom.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2130</ID>
+    <SENTENCE>Za što su bili nagrađeni zasluženim ovacijama nazočne publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8238</ID>
+    <SENTENCE>Na ekranima po dvorani nakon toga se projicirao segment iz filma "Kao rani mraz (Nikolina priča o Vasi Ladačkom)" i Đorđe je pozvao publiku da sutra dođu vidjeti film, poručivši onima koji film neće vidjeti sutra da se "nada da će film ipak jednom doći do njih normalnim, legalnim, piratskim putevima" na što se dvoranom po tko zna koji put razlio smijeh.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8247</ID>
+    <SENTENCE>Festivalsku atmosferu je nagovijestila brojna publika ali, na žalost, uz žamor, buku i glasnost različitih programa koji su se istovremeno odvijali u blizini Kneževa dvora.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2157</ID>
+    <SENTENCE>Publika u sljedećoj sezoni nažalost neće vidjeti modernu operu 'Nixon u Kini' Johna Adamsa ni novu 'Traviatu', kao što su u ovoj sezoni neće vidjeti Verdijevog 'Attilu', koji jednaku pažnju izaziva glazbenim čitanjem Riccarda Mutija kao i kostimima Miuccie Prade i scenografijom arhitekata Herzoga &amp; de Meurona.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>Publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2019</ID>
+    <SENTENCE>Premda su u Hrvatsku došli nakon punih šesnaest godina, Laibach nije mogao zadržati publiku u dvorani.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2114</ID>
+    <SENTENCE>Svojem liku Zidar daje i notu humora, te nenametljivo pridobiva simpatije publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2184</ID>
+    <SENTENCE>Budući sračunata na navijanje iz publike, s kojim korespondira glumačka kvaliteta te duhovit prijevod Ivice Ivaniševića, njezina će se drama vjerojatno sve više pretvarati u običajnu farsu dalmatinskih ridikula.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2096</ID>
+    <SENTENCE>Publika će biti vjetar u leđa Hajduku, dat će im snagu, ali gosti se neće prepasti kao što su se možda prepali Dinamo Bukurešt i Unirea.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>Publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8268</ID>
+    <SENTENCE>No, u 22: 15 serija "Oi - oi - oi - oi" najavila je početak i Paul je pozdravio malu zagrebačku publiku sa "Scots Wha 'Ha' e" - prvom pjesmom benda s albuma prvijenca, što je instantno izazvalo kolektivno poganje.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2198</ID>
+    <SENTENCE>Svaka nova generacija umjetnika ima svoj odnos prema lektiri, kroz nju posredujući svoj odnos prema svijetu i suvremenosti ; isto tako, svaka generacija publike ima pravo i na kazalište koje se bavi tom istom literaturom prema kojoj se odnosi.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>153</STARTINDEX>
+    <ENDINDEX>160</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2068</ID>
+    <SENTENCE>Četvero je izvrsnih glazbenika dosad održalo brojne koncerte u Italiji i drugim zemljama, nastupalo na poziv glazbenih društava na nizu festivala, smotri, koncertnih sezona i dobrotvornih manifestacija, predstavljajući se s klasičnim repertoarom i zasluživši velike pohvale publike i kritičara.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>274</STARTINDEX>
+    <ENDINDEX>281</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2073</ID>
+    <SENTENCE>Tom prigodom tek djelomično ispunjen Aquarius mogla bi opravdati hladna i kišna zagrebačka večer, no zacijelo postoje i drugi razlozi za razmjerno loš posjet publike tom koncertu.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>158</STARTINDEX>
+    <ENDINDEX>165</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2095</ID>
+    <SENTENCE>Na koncertu je bilo dosta mlađe publike kojoj je vjerojatno dodir s njima ipak bio samo uporno preslušavanje njihovih materijala i slušanje priča koje se godinama prenose.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2076</ID>
+    <SENTENCE>Najavio je Stanko Poklepović, da će publika na Poljudu u novoj sezoni gledati bolji Hajduk.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2168</ID>
+    <SENTENCE>Gotovo čitav program sastavljen je od filmova koji će po prvi puta biti predstavljeni hrvatskoj publici, a svaki dan revije predviđeno je čak šest projekcija.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8209</ID>
+    <SENTENCE>Povodom obilježavanja Dana kravate u Republici Hrvatskoj, te zbog iznimno velikog zanimanja publike, u četvrtak, 18. listopada 2007. u 19.30 sati u HNK Ivana pl.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2060</ID>
+    <SENTENCE>Situacija je takva da ti ne možeš iscprljivat publiku, ne možeš ih svaki 6 mjeseci - godinu dana zvati ajde dođite vi u Dom sportova, moraš im dati neki razlog.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2104</ID>
+    <SENTENCE>Bez obzira na brojne akcije kluba kojima se želi privući publiku to za sada nema odjeka, za sada je to predstava za roditelje, rodbinu, prijatelje, poznanike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2036</ID>
+    <SENTENCE>Nakon niza predstava koje su već oduševile čakovečku publiku Skrovište će zasigurno biti novo ugodno iznenađenje u kulturnom i društvenom životu Čakovca i regije, to više jer se svojom tematikom i terminom izvedbe izvrsno nadopunjava s nadolazećim praznikom Danom domovinske zahvalnosti.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8276</ID>
+    <SENTENCE>S dva metra visine ponovno se bacila u publiku koja ju je brižno vratila natrag na pozornicu.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2176</ID>
+    <SENTENCE>Što se tiče prvog mjesta, "Zlatnog galeba" po glasovima publike i radio postaja kao pobjednik druge večeri dobio je Petar Grašo s pjesmom tandema Huljić "Lakše mi je s njom".</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2148</ID>
+    <SENTENCE>Čast da otvori ovu glazbenu manifestaciju 9. lipnja imat će Zagrebački gitaristički trio, a svake iduće srijede gospićka publika imat će priliku uživati u jednom koncertnom događaju.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>128</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2143</ID>
+    <SENTENCE>Riječi pjesama, za razliku od ostatka publike, znali smo tek djelomično, a niti dress code nije nam bio savršen.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2071</ID>
+    <SENTENCE>Envy Room apsolutno je oduševio prekrasnim haljinama u sivoj, plavoj i bijeloj boji, a neke od njih, kako se komentiralo u publici, mogle su slobodno proći i kao vjenčanice.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2035</ID>
+    <SENTENCE>Osim, sasvim očekivano, dobro prihvaćenog filma Bolesno (Sicko), Michaela Moorea, vrlo zamijećeno od strane sisačke publike prošao je i film Ti meni, ja tebi !, mlade i nagrađivane redateljice Irene Škorić.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2048</ID>
+    <SENTENCE>'Ja sam presretan zbog ovoga osvajanja zlata osvojenog u svojoj zemlji pred svojom publikom.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8245</ID>
+    <SENTENCE>Nadopunjujemo se, nastojim joj što vjernije predočiti simbolizam skriven u tekstu i glazbi, stanje uma Handela i njegovih libretista, ona to upija te postavlja u okvire dopadljive današnjoj publici. "rekao je Pickett.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>190</STARTINDEX>
+    <ENDINDEX>197</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2200</ID>
+    <SENTENCE>Pivo je sada u fazi kada i s manje uloženog elana diže publiku u ekstazu, no u svakom slučaju riječ je o pošteno odsviranom koncertu.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2140</ID>
+    <SENTENCE>Predgrupe The Hours i Snow Patrol zagrijale su publiku svojim solidnim nastupima u trajanju od po 40-ak minuta.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8273</ID>
+    <SENTENCE>No kako skupiti kapital kad je ciljana publika, tvrdi Goran Peuc iz Nivasa, vrlo malena ?</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8218</ID>
+    <SENTENCE>Publika je najviše glasova dala Tihomiru Bendelji koji je oduševio svojom twirling rutinom, upotrijebivši ovog puta čak dva štapa.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>Publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2167</ID>
+    <SENTENCE>Zato je nama današnja utakmica s Maroussijem jedna od takvih u kojima će nam itekako značiti potpora publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2020</ID>
+    <SENTENCE>Zbog velikog interesa publike koji i dalje traje unatoč rasprodanim kartama, Bajaga i Instruktori odlučili su produžiti boravak u Zagrebu i odraditi još jedan koncert dan poslije.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8279</ID>
+    <SENTENCE>U Americi je trenutno na uspješnoj turneji, a u Londonu je na West Endu prošle godine zaigrao u podjeli / naslovna slika / koju predvodi Su Pollard, hrvatskoj publici poznata iz serija "Zvonili ste milorde ? i" Stiže dr. Beecham ’.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>159</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2049</ID>
+    <SENTENCE>Tijekom cijelog koncerta prekrasne izvedbe vraćale su publiku u neko prošlo vrijeme, a emocije su se izmjenjivale i svaka pjesma nosila je publiku od smijeha do suza.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2099</ID>
+    <SENTENCE>Zato je dobro što je ova serija napokon i pred našom publikom od subote navečer, kada je emitirana prva epizoda.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8278</ID>
+    <SENTENCE>– Uvijek u onim situacijama kada ideja i realizacija iziskuju drukčiji proces komunikacije sa samim sobom i publikom.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8274</ID>
+    <SENTENCE>Nismo bili na korak od ispadanja zbog žirija, već zbog glasova publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8255</ID>
+    <SENTENCE>Zatim se Sergej obratio režiji riječima: "Objasnite zvijezdi da ovo nije Pink i da su ovdje malo drukčije najave" čime je završio raspravu te zaradio gromoglasan pljesak publike u studiju.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>170</STARTINDEX>
+    <ENDINDEX>177</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2008</ID>
+    <SENTENCE>Prepoznala je to brojna publika, ali i struka, okrunivši već okrunjenog kralja hrvatske glazbene scene, između ostalog i Porinom za životno djelo.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8228</ID>
+    <SENTENCE>U prepunom Arsenalu u kojem je skoro dva sata uživala mahom mlađa publika, ali i stariji fanovi dobrog zvuka, dobro raspoloženi Urban je izvodio uglavnom stare, poznate hitove, ali i nekoliko stvari s novog albuma "Hello".</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2042</ID>
+    <SENTENCE>Od njih se jedino za ime Clausa von Stauffenberga može očekivati da će izazvati neku reakciju čitalačke publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2023</ID>
+    <SENTENCE>Zbog produkcije, gostiju i tema tekstova, 'Hell' s Winter 'je tipičan primjerak albuma koji se neće svidjeti tipičnoj rap publici, nego publici koja se ne obazire na žanrove.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>129</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8269</ID>
+    <SENTENCE>Publika je izvedbu "Cavallerije rusticane" ocjenila ocjenom 4,80, a Nagradu je ravnatelju riječke Opere Ozrenu Prohiću uručila dugogodišnja posjetiteljica Kazališta, vjerna prateiteljica Riječkih ljetnih noći i istinska zaljubljenica u operu gospođa Sonja Ulčakar.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>Publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2093</ID>
+    <SENTENCE>Selznick je jedan od onih introvertirano - ekstrovertiranih umjetnika koji su oblikujući priče i karaktere toliko vodili računa o očekivanjima publike i duhu vremena da se publici u njihovim djelima slobodno može pripisati autorski udio.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>143</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2082</ID>
+    <SENTENCE>– Iznimno sam sretan zbog potpisivanja ugovora s Medveščakom i dolaska pred publiku koja me oduševila prošle sezone.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8240</ID>
+    <SENTENCE>Posljednjeplasirana je Siena došla do svoje druge ovosezonske pobjede slavivši pred svojom publikom protiv Catanije 3-2. Mato Jajalo odgledao je utakmicu s klupe, baš kao i Dario Knežević u domaćem porazu Livorna od Chieva (2-0).</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2178</ID>
+    <SENTENCE>Još davne 1982. Walt Disney Pictures filmsku je publiku oduševio znanstveno fantastičnom avanturom, danas kultnim klasikom, "Tron" u kojoj glavni lik, mladi haker, biva uvučen u fantastični svijet kompjuterske gladijatorske igre.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8287</ID>
+    <SENTENCE>Upotrijebit ću šaljivu igru riječi Arsena Dedića - Gustafi su u prvih sat vremena svoje svirke, u koju se sjajno ukopilo i nekoliko stvari što najavljuju, nadam se, skori izlazak novog albuma, 'podgrijali' publiku, u drugih sat vremena su je 'zagrijali', a u posljednjoj dionici nastupa i 'zapalili.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>206</STARTINDEX>
+    <ENDINDEX>213</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2147</ID>
+    <SENTENCE>Ako ovo obrnemo, istine radi, provociranje publike, svikle samo na konvencionalne harmonije (da ne govorimo o koncertu, kao o slici poretka !), bilo je više nego (pod) svjesni upaljač mnogih duhovitih "pronalazaka", kojima je trnoviti put novih glazbenika napokon stigao do pozicije vladajućega "establishmenta".</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2138</ID>
+    <SENTENCE>Čast da se prva uhvati mikrofona pripala je pjevačici Lani Jurčević koja je s nekoliko svojih uspješnica zabavljala publiku uoči i u pauzi rukometne utakmice.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8220</ID>
+    <SENTENCE>Rasplesanost sedmeročlanog benda, pogotovo dvije punašne prateće pjevačice i Macyna spontanost doveli su do toga da se publika ustane na noge, a kasnije i da se u potpunosti približi bini, jer je pjevačicu cijelo vrijeme očigledno živciralo postojanje onih nekoliko stepenica koje u Lisinskom tako nespretno odjeljuju binu od publike.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2052</ID>
+    <SENTENCE>Imao sam sreću raditi opere koje su za većinu publike i izvođača bile nepoznate, primjerice Zajčevu Lizinku, pa Debussyjeva Peleasa i Melisandu, zatim svakako Marca Pola Tan Duna, a pod to bi se mogli svesti i Razgovori karmelićanki.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2153</ID>
+    <SENTENCE>Taj ljudski faktor, frenetična publika, može negativno utjecati na goste, teško je reći ima li utjecaj i na suce i zbog toga će biti teško – iznio je Vaha svoja očekivanja dodavši kako je momčad PAOK-a poznata po tome što radi presing.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8277</ID>
+    <SENTENCE>Duhoviti Hans Peter Kammerer (Papageno) pjevački je često mamio od publike pljesak, a glumački ih je do suza nasmijavao.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8299</ID>
+    <SENTENCE>Dolazak te publike svih proteklih godina garancija je da će i ove godine Monteparadiso festival biti jedan od vrhunaca sezone.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8221</ID>
+    <SENTENCE>Nosile su nas prethodne pobjede, motivacija i publika.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2121</ID>
+    <SENTENCE>Jedna je etapa u približavanju knjige i autora publici, dakle, savladana.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8292</ID>
+    <SENTENCE>Četiri koncerta aktulanih svjetskih glazbenika uživo i nastup trenutno vodećih i karizmatičnih DJ-eva koji su publiku držali na nogama svaki dan do jutarnjih sati, bila je rijetka prilika za upoznavanje sa svjetskim glazbenim trendovima "iz prve ruke".</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8261</ID>
+    <SENTENCE>I baš kad je publika pomislila da je iznenađenjima tu kraj, basist Mrle se presvukao na bini otkrivši svjetlu svoju stražnjicu, a ni kostimi ostatka benda nisu bili nimalo čedniji.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8242</ID>
+    <SENTENCE>Njegov izbor tada zasvijetli narančasto, publika zažamori dugosilaznim aaaaaaaah, a voditelj uroni lice u dlanove, gleda kroz prste osobu preko puta i vrti glavom u nevjerici.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8231</ID>
+    <SENTENCE>Potpredsjednik i suvoditelj istraživanja i konzalting tima Harris Interactivea je tom prilikom izjavio da je ponosan što su on i njegova tvrtka dali doprinos takvom uspjehu i dodao: "Tako bliska suradnja s internim UBS-ovim timom u razvoju jasnog razumijevanja njihove publike kao i pomaganje u pretvaranju u iznimnu kampanju je nagrada sama po sebi. Međutim, da je takav trud prepoznao i ARF i moji vršnjaci, samo je glazura na prelijepoj torti".</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>269</STARTINDEX>
+    <ENDINDEX>276</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2160</ID>
+    <SENTENCE>Publika je odlična, voli glazbu.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>Publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8264</ID>
+    <SENTENCE>Danielina gošća u publici, koji su se najviše osvrnuli na Bucke, bili su stručnjaci koji svakodnevno rade na poboljšanju njihova izgleda i stvaranju zdravih navika, a njihove savjete možete pratiti na Pantene Bucka.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2197</ID>
+    <SENTENCE>To je jedna iskrena priča, publika odluči sviđaš li im se ili ne.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2134</ID>
+    <SENTENCE>S obzirom da Rambovo koketiranje sa jazz glazbom s vremenom postaje sve očitije, možemo biti sigurni da će oba izvođača u pratnji svojih fantastičnih bendova ispuniti sva očekivanja publike koja je donedavno, zbog nešto većeg stilskog razlikovanja, bila praktički nespojiva.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>182</STARTINDEX>
+    <ENDINDEX>189</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2151</ID>
+    <SENTENCE>Izvedba je izazvala pozitivne reakcije festivalske publike koja je s oduševljenjem prihvatila zagrebačku predstavu.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2031</ID>
+    <SENTENCE>U 17. kolu NLB lige protiv Partizana su slavili 74-65 nošeni fantastičnom publikom na parketu dvorane Krešimir Ćosić.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2058</ID>
+    <SENTENCE>Fantastična publika nas je nosila i kad je utakmica bila u egalu.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2001</ID>
+    <SENTENCE>Ponajviše, ipak, po veličanstvenom zboru publike koja je tim događajima svaki put dodavala presudnu kap čarolije.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8237</ID>
+    <SENTENCE>Vrsni muzičari izmamili su na pozornicu vješte plesače koje je publika pratila s divljenjem.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2117</ID>
+    <SENTENCE>Hrvatski prvak također je uspješno odradio prvu ovosezonsku utakmicu pred domaćom publikom.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2122</ID>
+    <SENTENCE>Na berlinskom Fashion Weekuzgrozio je publiku svojom scenskom izvedbom.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2010</ID>
+    <SENTENCE>I posljednji koncert Dubrovačkog simfonijskog orkestra održan je u Revelinu pred ne baš brojnom publikom.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publikom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2162</ID>
+    <SENTENCE>Publika je često smijehom reagirala za vrijeme Malkovichevog čitanja jer mnoge kritike zaista obiluju duhovitim komentarima i usporedbama.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>Publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8260</ID>
+    <SENTENCE>Jedan od menadžera iz publike izabere atraktivne djevojke s kojima Dogg nastavi provod nakon nastupa, a takav je nama još nepoznati običaj vidio na Snoopovom koncertu u Philadelphiji i zagrebački reper, ujedno i organizator koncerta, Marko Lasić Nered.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2194</ID>
+    <SENTENCE>Nakon što je sudjelovao u osmišljavanju priče o gladijatoru Maximusu za veličanstveni, Oscarom ovjenčani spektakl Ridleya Scotta, scenarist David Franzoni još se jednom dao u povijesnu reviziju kako bi s redateljem Antoineom Fuquom (Dan obuke) filmskoj publici napokon predstavio kralja Arthura u svjetlu egzaktnih povijesnih činjenica.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>253</STARTINDEX>
+    <ENDINDEX>260</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2181</ID>
+    <SENTENCE>Vip Bibijada (kino Europa, MSU) već četvrtu godinu zaredom brine o najmlađoj publici – i ove godine donosi pet filmova namijenjenih djeci različitih uzrasta, pet naslova svjetskih kinematografija.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8215</ID>
+    <SENTENCE>Mišo je pred oko 15 tisuća do srži lojalnih fanova u najvećoj hrvatskoj dvorani dokazao kako je njegova veza s publikom neraskidiva: "Pitaju me zašto nemam prateće vokale. Odgovaram im kako je moja publika najbolji zbor koji postoji i da su to najbolji prateći vokali."</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>198</STARTINDEX>
+    <ENDINDEX>205</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2129</ID>
+    <SENTENCE>Pjesnička večer u Zemuniku okupila je u arkadijskom ozračju Bilosnićevih dvora i njegovoj novootvorenoj Galeriji sv. Kata vrlo biranu, moglo bi se kazati ekskluzivnu publiku, književnika, izdavača, umjetnika, galerista, ravnatelja znanstvenih i umjetničkih institucija, svjetskih sportskih prvaka, pa čak i gosta iz Engleske, Italije i Danske.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publiku</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>166</STARTINDEX>
+    <ENDINDEX>173</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2195</ID>
+    <SENTENCE>Jedna u nizu novih promjena je svakako pomno promišljanje publike koju će u većem dijelu uglavnom pozivati dizajneri osobno dok će FASHION.HR koncept koordinirati medije, sponzore i VIP goste.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8288</ID>
+    <SENTENCE>Publika i mediji očekuju pobjedu od Hrvatske.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>Publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8216</ID>
+    <SENTENCE>Na zagrebačkoj premijeri krajem lipnja 1948. godine Nenad Lhotka bio je partner Ani Roje, a kasnije Zlatici Stepan Bašić i Sonji Kastl, s kojima je nastupio na gostovanju Zagrebačke opere u Londonu u siječnju i veljači 1955. Engleska publika nikada prije nije imala prilike vidjeti to djelo.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>234</STARTINDEX>
+    <ENDINDEX>241</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2043</ID>
+    <SENTENCE>Naime, prije nastupa hrvatske reprezentacije u četvrtfinalu s publike u studiju uklonjene su majice sa sponzorskim natpisima, a reklamiranje je u posljednjih nekoliko dana naglo splasnulo.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8263</ID>
+    <SENTENCE>"Očekivala sam najviše osam tisuća ljudi, a došlo vas je više od 15 tisuća. Nevjerojatna ste publika i ovaj ću koncert pamtiti zauvijek", poručila je ljepotica s Barbadosa beogradskoj publici.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2027</ID>
+    <SENTENCE>Također čujno se osjeća intimna povezanost između Jane i publike, posebno u englesko - francuskim recitalima ("Aung San Sun Kyi" i "Pauvre Lola"), te 'slatka dekadencija' zvuka šansona (npr. "Quoi", "Amour Des Feintes", "Les P 'tits Papiers", ili "Je Suis Venu Te Dire Que Je M' en Vais").</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2072</ID>
+    <SENTENCE>Zajca Karolinu Riječku potvrdio je ono što se već znalo — zanimanje publike je golemo i karte za drugu izvedbu su već gotovo rasprodane.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+      <SENSEID>N.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2040</ID>
+    <SENTENCE>U publici smo zapazili Zrinka Tutića i Jacquesovu vjernu pratiteljicu Ivanu Kindl, koja mu se ipak nije pridružila na pozornici u duetu "Kao kazna Božja".</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8296</ID>
+    <SENTENCE>Promovira se ples, mi se zabavljamo, a publika uživa.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publika</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8226</ID>
+    <SENTENCE>Revija je u publici zaista pobudila neviđenu vrevu i glasno odobravanje.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publici</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8207</ID>
+    <SENTENCE>Ej Marko, sićaš li se kada je u SKUC-u u Zagrebu, negdi 82-3. je moralo biti, kada ti je Dragec posudio njegovu Ovation za svirku i predstavu koju si održao, jedan "provincijalni" tip iz publike, očigledno šokiran upravo viđenim od tebe na bini, doviknuo "Marko, bogati, jesi li ti svaki dan ovakav" ?</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>187</STARTINDEX>
+    <ENDINDEX>194</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2038</ID>
+    <SENTENCE>Potaknuti jako dobrom odazivu što od strane KUD-ova, što od strane publike, nadamo se da će ova večer folklora u Tinju postati tradicionalna te da ćemo dogodine imati još bogatiju smotru, kazao je Erlić.</SENTENCE>
+    <TARGETLEMMA>publika</TARGETLEMMA>
+    <TARGETWORD>publike</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+</SET>

@@ -1,0 +1,1556 @@
+<!-- Sense inventory based on Anić, but with many changes (some senses are modified, splitted/merged,
+or deleted). This sense inventory is a result of pre-analysis (before the first round of hands-on annotation by Jan and me) -->
+<INVENTORY>
+	<ENTRY>
+		<ID>A.001</ID>
+		<LEMMA>aktivan</LEMMA>
+		<POS>A</POS>
+		<SENSES>
+			<SENSE>
+				<ID>A.001.01</ID>
+				<DEFINITION>a. koji djeluje b. koji je u radnom odnosu, opr. umirovljen, v. umiroviti</DEFINITION>
+				<USAGES>
+					<USAGE>Ivan je fizički najaktivnija osoba koju znam.</USAGE>
+					<USAGE>Ivan se nalazi na listi aktivnih zaposlenika.</USAGE>
+					<USAGE>On više nije aktivan pilot.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.001.02</ID>
+				<DEFINITION>koji ima inicijativu, koji je radišan; poduzetan, angažiran opr. pasivan</DEFINITION>
+				<USAGES>
+					<USAGE>On je zaista aktivan čovjek, stalno nešto popravlja.</USAGE>
+					<USAGE>On je u zadnje vrijeme vrlo aktivan, prijavio je šest projekata.</USAGE>
+					<USAGE>Ivan Pešordić aktivan je u Udruzi maslinara Hrvatske, dosad je već imao šest prijedloga za poboljšanje uzgoja maslina.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.001.03</ID>
+				<DEFINITION>koji djeluje, koji još postoji ili djeluje u svom osnovnom svojstvu (o prirodnim pojavama) [aktivan vulkan]</DEFINITION>
+				<USAGES>
+					<USAGE>Vulkan Etna je opet bio aktivan ovo ljeto.</USAGE>
+					<USAGE>Aktivne tvari u ovom preparatu uništavaju sve klice.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.001.04</ID>
+				<DEFINITION>ekon. kojem su potraživanja veća od dugova, opr. u dugu, u pasivi, pasivan</DEFINITION>
+				<USAGES>
+					<USAGE>U toj propaloj banci provodila su se neadekvatna pozicioniranja aktivnih sredstava.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.001.05</ID>
+				<DEFINITION>koji je uključen, u pogonu</DEFINITION>
+				<USAGES>
+					<USAGE>Antivirusna zaštita uvijek bi trebala biti aktivna.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>A.002</ID>
+		<LEMMA>lak</LEMMA>
+		<POS>A</POS>
+		<SENSES>
+			<SENSE>
+				<ID>A.002.01</ID>
+				<DEFINITION>a. koji je male težine, mase b. koji je manje težine od uobičajene ili očekivane u vrsti, opr. téžak</DEFINITION>
+				<USAGES>
+					<USAGE>Prtljaga ti nije baš laka!</USAGE>
+					<USAGE>Kod te kuće se lako uoči njena laka konstrukcija.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.002.02</ID>
+				<DEFINITION>pren. koji ne opterećuje probavu [laka hrana]</DEFINITION>
+				<USAGES>
+					<USAGE>Laka hrana poput sirovih mrkvih neće vam uzrokovati probavne poteškoće.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.002.03</ID>
+				<DEFINITION>onaj koji je slab, slabog učinka [laka droga]</DEFINITION>
+				<USAGES>
+					<USAGE>U odjelu lakih droga rade najbolji detektivi.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.002.04</ID>
+				<DEFINITION>pren. koji je nježan, pažljiv [lak dodir]</DEFINITION>
+				<USAGES>
+					<USAGE>Lakim dodirom obrisao joj je suzu s obraza.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.002.05</ID>
+				<DEFINITION>koji ne traži velik napor [lak posao]</DEFINITION>
+				<USAGES>
+					<USAGE>Uvijek sam mislila da je biti tajnica lak posao!</USAGE>
+					<USAGE>Ne znam kako sam uspio prijeći taj podvodni nivo, zaista nije lak.</USAGE>
+					<USAGE>Prijeći preko takve izjave nije lak zadatak.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.002.06</ID>
+				<DEFINITION>koji se lako podnosi, prihvaća</DEFINITION>
+				<USAGES>
+					<USAGE>No i ova se nepravda lako podnosi!</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.002.07</ID>
+				<DEFINITION>koji se lako shvaća [lak tekst; lako štivo]; jasan, shvatljiv</DEFINITION>
+				<USAGES>
+					<USAGE>Jednadžbe s jednom nepoznanicom su skroz lake, vjeruj mi!</USAGE>
+					<USAGE>Knjige iz razdoblja realizma lako su štivo, ali ponekad su jednostavno predetaljne u opisima.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>A.003</ID>
+		<LEMMA>mrtav</LEMMA>
+		<POS>A</POS>
+		<SENSES>
+			<SENSE>
+				<ID>A.003.01</ID>
+				<DEFINITION>koji je prestao živjeti, u kojemu više nema bioloških procesa; uginuo (za životinju), umro (za čovjeka), uvenuo (o biljkama)</DEFINITION>
+				<USAGES>
+					<USAGE>Svi moji neprijatelji mrtvi su već godinama.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.003.02</ID>
+				<DEFINITION>meton. u kome ili u čemu nema više karakteristične aktivnosti, lišen živosti</DEFINITION>
+				<USAGES>
+					<USAGE>Mrtav sam od jučerašnjeg koncerta.</USAGE>
+					<USAGE>Za 2:0 se pobrinuo Mislav Blagus u petoj minuti nakon čega je uslijedila mrtva igra.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.003.03</ID>
+				<DEFINITION>za pojačavanje značenja [mrtav pijan jako pijan; mrtav umoran jako umoran; mrtav hladan posve hladnokrvan]</DEFINITION>
+				<USAGES>
+					<USAGE>Dok mi se ta djevojka obraćala, ja sam bio mrtav pijan i nisam je ništa skužio.</USAGE>
+					<USAGE>Mrtvo hladno me pogledao i odbio moj prijedlog.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.003.04</ID>
+				<DEFINITION>term. koji nije u funkciji, koji ne radi (o dijelovima instalacija, cijevima kroz koje ne protječe voda iz vodovodne mreže, električnim vodovima itd.), opr. žȋv</DEFINITION>
+				<USAGES>
+					<USAGE>Tu sigurno nećeš napuniti svoj mobitel, ta utičnica je mrtva.</USAGE>
+					<USAGE>Drugi SATA kanal je mrtav, odnosno ne postoji u BIOS-u.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>A.004</ID>
+		<LEMMA>normalan</LEMMA>
+		<POS>A</POS>
+		<SENSES>
+			<SENSE>
+				<ID>A.004.01</ID>
+				<DEFINITION>koji je uobičajen ili redovit [normalna temperatura za ovo doba godine]; tipičan</DEFINITION>
+				<USAGES>
+					<USAGE>Ljetni pljuskovi sasvim su normalni, čak i očekivani.</USAGE>
+					<USAGE>Tvoja normalna reakcija jest braniti se tako lošim argumentom.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.004.02</ID>
+				<DEFINITION>koji je kako treba da bude, kako to zakoni i običaji traže [normalno funkcioniranje pravosudnog sustava]; pravilan, propisan</DEFINITION>
+				<USAGES>
+					<USAGE>Kada živiš u boljim zemljama Europe brzo spoznaš kako naša država nije normalna.</USAGE>
+					<USAGE>Ustati se starijim osobama u tramvaju sasvim je normalna stvar.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.004.03</ID>
+				<DEFINITION>koji je duševno i tjelesno zdrav [normalan čovjek]</DEFINITION>
+				<USAGES>
+					<USAGE>Nije ti on baš normalan, napao je prodavačicu zbog 30 lipa.</USAGE>
+					<USAGE>Normalni ljudi priznali bi svoju krivnju, ali ne i ona.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>A.005</ID>
+		<LEMMA>oštar</LEMMA>
+		<POS>A</POS>
+		<SENSES>
+			<SENSE>
+				<ID>A.005.01</ID>
+				<DEFINITION>koji je izbrušen napravama za oštrenje [oštar nož], opr. tup</DEFINITION>
+				<USAGES>
+					<USAGE>Prste k sebi, ovaj nož je jako oštar.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.005.02</ID>
+				<DEFINITION>koji je neugodan, snažan, hladan</DEFINITION>
+				<USAGES>
+					<USAGE>Oštra bura udarila je Zadar.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.005.03</ID>
+				<DEFINITION>strog; žestok, bespoštedan</DEFINITION>
+				<USAGES>
+					<USAGE>Pravila su oštra i tko ih ne bude slijedio ispada iz lige.</USAGE>
+					<USAGE>Uslijedio je oštar odgovor suca.</USAGE>
+					<USAGE>Vesnu Pusić čudi oštra reakcija iz Rusije.</USAGE>
+					<USAGE>Oštra borba je uslijedila.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.005.04</ID>
+				<DEFINITION>koji je izrazito označen [oštra granica]</DEFINITION>
+				<USAGES>
+					<USAGE>Nije teško vidjeti oštre granice između te dvije stanice.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.005.05</ID>
+				<DEFINITION>koji naglo zavija ili se uspinje [oštar uspon; oštar zavoj]; koji je nagao [oštar pad cijena] opr. blag</DEFINITION>
+				<USAGES>
+					<USAGE>Kada ulaziš u ovako oštar zavoj, obavezno moraš prikočiti.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.005.06</ID>
+				<DEFINITION>koji je jasan [oštra slika]; izoštren</DEFINITION>
+				<USAGES>
+					<USAGE>Vid mi je oštar poput onog sokolovog!</USAGE>
+					<USAGE>Ni micanje antene nije dovelo do oštrije slike.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.005.07</ID>
+				<DEFINITION>koji je izrazito brz i precizan [oštar um]</DEFINITION>
+				<USAGES>
+					<USAGE>Samo se takav oštar um mogao dosjetiti ovog teorema.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.005.08</ID>
+				<DEFINITION>opasan</DEFINITION>
+				<USAGES>
+					<USAGE>Pazi! Oštar pas!</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>A.006</ID>
+		<LEMMA>pažljiv</LEMMA>
+		<POS>A</POS>
+		<SENSES>
+			<SENSE>
+				<ID>A.006.01</ID>
+				<DEFINITION>koji radi, prati s pažnjom, zanimanjem; budan, pozoran, oprezan, pomnjiv</DEFINITION>
+				<USAGES>
+					<USAGE>Pažljivo je pratio svaku riječ gostujućeg predavača.</USAGE>
+					<USAGE>Treba pažljivo postupati s razbijenim staklom.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.006.02</ID>
+				<DEFINITION>koji je obziran, obazriv, ljubazan</DEFINITION>
+				<USAGES>
+					<USAGE>Prema meni je uvijek tako pažljiva, šteta što je zauzeta.</USAGE>
+					<USAGE>Kako pažljivo od tebe, prekrasni su ovi ljiljani!</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>A.007</ID>
+		<LEMMA>pokvaren</LEMMA>
+		<POS>A</POS>
+		<SENSES>
+			<SENSE>
+				<ID>A.007.01</ID>
+				<DEFINITION>koji je pretrpio kvar, koji ne radi [pokvaren aparat]</DEFINITION>
+				<USAGES>
+					<USAGE>Idem na posao biciklom jer mi je auto pokvaren.</USAGE>
+					<USAGE>Maštam o šalici kave, ali aparat je pokvaren.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.007.02</ID>
+				<DEFINITION>koji je upropašten, poništen [pokvareni planovi]</DEFINITION>
+				<USAGES>
+					<USAGE>Zbog te iznenadne kiše moji planovi za piknik su pokvareni!</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.007.03</ID>
+				<DEFINITION>nečastan [pokvaren čovjek]</DEFINITION>
+				<USAGES>
+					<USAGE>Takve pokvarene spletke nisu mu bile strane.</USAGE>
+					<USAGE>Pokvareni potezi oporbe uobičajene su stvari U vrijeme predizbornih kampanja.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.007.04</ID>
+				<DEFINITION>pren. razg. bolestan [pokvaren zub; pokvaren želudac]</DEFINITION>
+				<USAGES>
+					<USAGE>Zub mi je pokvaren, boli me cijela desna strana usta.</USAGE>
+					<USAGE>Pokvaren želudac ljeti može biti bezazlen, ali i vrlo opasan.</USAGE>
+					<USAGE>Sjemenke djeluju antispazmodično, ublažavaju nadutost, istjeruju plin i smiruju pokvaren želudac.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.007.05</ID>
+				<DEFINITION>pren. razg. onaj koji zbog predugog stajanja ili ostalih nepogodnih uvjeta više nije jestiv [pokvarena hrana]</DEFINITION>
+				<USAGES>
+					<USAGE>Nemoj piti to mlijeko, pokvareno je!</USAGE>
+					<USAGE>Za vrijeme velikih vrućina nužno je biti još pažljiviji u vezi pokvarene hrane.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>A.008</ID>
+		<LEMMA>prljav</LEMMA>
+		<POS>A</POS>
+		<SENSES>
+			<SENSE>
+				<ID>A.008.01</ID>
+				<DEFINITION>koji na sebi ima mrlja; nečist, uprljan [prljava odjeća]</DEFINITION>
+				<USAGES>
+					<USAGE>Nemam čistih hlača, sve su prljave.</USAGE>
+					<USAGE>Ne možemo staviti ovaj prljavi stolnjak kada nam dolaze gosti!</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.008.02</ID>
+				<DEFINITION>pren. koji izaziva odvratnost jer je nečastan [prljav udarac; prljav postupak]</DEFINITION>
+				<USAGES>
+					<USAGE>To je prljavi udarac njihovog odvjetnika.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.008.03</ID>
+				<DEFINITION>koji je ugašene nijanse [prljavo bijela]</DEFINITION>
+				<USAGES>
+					<USAGE>Zavjese koje savršeno idu u ovakav seoski ugođaj su one prljavo zelene boje.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>A.009</ID>
+		<LEMMA>siguran</LEMMA>
+		<POS>A</POS>
+		<SENSES>
+			<SENSE>
+				<ID>A.009.01</ID>
+				<DEFINITION>koji nije izložen opasnosti, koji je zaštićen; koji ne izlaže opasnosti [siguran život; sigurna luka]</DEFINITION>
+				<USAGES>
+					<USAGE>Bit ćete sigurni od napada u ovom blindiranom vozilu.</USAGE>
+					<USAGE>Ponekad treba usporiti i omogućiti siguran život svojoj obitelji.</USAGE>
+					<USAGE>Sigurna vožnja treba uvijek biti na prvom mjestu!</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.009.02</ID>
+				<DEFINITION>koji je pouzdan, neupitan, izvjestan [siguran dokaz]</DEFINITION>
+				<USAGES>
+					<USAGE>Trag krvi na njegovoj majici siguran je dokaz da je bio tamo u vrijeme ubojstva.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.009.03</ID>
+				<DEFINITION>uvjeren</DEFINITION>
+				<USAGES>
+					<USAGE>Poprilično sam siguran da nisi u pravu.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.009.04</ID>
+				<DEFINITION>čvrst, postojan [siguran korak]</DEFINITION>
+				<USAGES>
+					<USAGE>Sigurnim korakom ušla je u sobu za intervju.</USAGE>
+					<USAGE>Messi je opet bio siguran pri izvođenju kaznenog udarca.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>A.010</ID>
+		<LEMMA>star</LEMMA>
+		<POS>A</POS>
+		<SENSES>
+			<SENSE>
+				<ID>A.010.01</ID>
+				<DEFINITION>koji je u kasnoj životnoj dobi, koji je doživio mnogo godina [star kao Troja, žarg. vrlo star], opr. mlad</DEFINITION>
+				<USAGES>
+					<USAGE>To je jedan stari gospodin, ovdje je svako jutro.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.010.02</ID>
+				<DEFINITION>koji ima određenu dob [toster star 15 godina]</DEFINITION>
+				<USAGES>
+					<USAGE>Ako želite gledati takve filmove, morate biti stariji od 18 godina.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.010.03</ID>
+				<DEFINITION>(odr.) a. koji je bio u prošlosti, koji potječe iz prošlosti b. koji postoji odavna; nekadašnji, prošli, raniji c. koji je ustaljen i dobro poznat</DEFINITION>
+				<USAGES>
+					<USAGE>Takve stare tradicije moraju biti sačuvane.</USAGE>
+					<USAGE>Stari Rimljani imali su vrlo moćnu vojnu silu.</USAGE>
+					<USAGE>Nećeš me na to dobiti, to je stari trik!</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.010.04</ID>
+				<DEFINITION>(za što) koji po osobinama, nazorima i sl. pripada nekadašnjem vremenu; zastario</DEFINITION>
+				<USAGES>
+					<USAGE>Ne možeš to piliti tako, to je stari način.</USAGE>
+					<USAGE>Kako bi rekao moj otac: "To je stara škola".</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.010.05</ID>
+				<DEFINITION>koji je rabljen, opr. nov</DEFINITION>
+				<USAGES>
+					<USAGE>Uzmi staru bušilicu, možda ona još radi.</USAGE>
+					<USAGE>Ta stara majica od tvog brata bi ti super stajala!</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.010.06</ID>
+				<DEFINITION>(mn) retor. preci [naši stari]</DEFINITION>
+				<USAGES>
+					<USAGE>Naši stari nisu imali kompjutere, mobitele i takva čudesa, ali su stoga bili i više pričljivi.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.010.07</ID>
+				<DEFINITION>(odr.) u raznim vezama riječi u zn. on je oduvijek takav, poznat kao takav; prekaljeni, vrlo iskusan itd. prema značenju riječi uz koju stoji [ (on je) stari fakin; stari magarac; stara lola; stari prevarant; stari lažac]</DEFINITION>
+				<USAGES>
+					<USAGE>Taj stari prevarant nikad nije pošteno pobijedio u Beli!</USAGE>
+					<USAGE>Uvijek mi je drago popričati s tim starim šarmerom.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.010.08</ID>
+				<DEFINITION>ustajao [stari kruh], opr. svjež</DEFINITION>
+				<USAGES>
+					<USAGE>To ti je stari kruh, stoji od prekjučer.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>A.011</ID>
+		<LEMMA>vanjski</LEMMA>
+		<POS>A</POS>
+		<SENSES>
+			<SENSE>
+				<ID>A.011.01</ID>
+				<DEFINITION>a. koji je izvana, s vanjske strane b. koji nije dio neke logičke, administrativne ili slične cjeline</DEFINITION>
+				<USAGES>
+					<USAGE>Vanjski je ubacio i onda je Da Silva zabio.</USAGE>
+					<USAGE>Vanjski omotač ne može se probiti bez utroška jako velike sile.</USAGE>
+					<USAGE>Ako si vanjski suradnik, sumnjam da će ti dati toliko dana godišnjeg odmora.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.011.02</ID>
+				<DEFINITION>koji je na otvorenom, pod nebom</DEFINITION>
+				<USAGES>
+					<USAGE>Ovdje imamo samo vanjski WC.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.011.03</ID>
+				<DEFINITION>koji se odnosi na inozemstvo [vanjska politika; vanjski poslovi]</DEFINITION>
+				<USAGES>
+					<USAGE>Ministar vanjskih poslova rekao je kako će ulazak u EU biti jednostavan, ali se prevario.</USAGE>
+					<USAGE>Vanjska politika ima važnu ulogu u prepoznatljivosti zemlje u svijetu.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>A.012</ID>
+		<LEMMA>visok</LEMMA>
+		<POS>A</POS>
+		<SENSES>
+			<SENSE>
+				<ID>A.012.01</ID>
+				<DEFINITION>opr. nizak a. koji ima znatan razmak između donje i gornje točke b. koji ima izrazit rast, stas c. koji ima određenu visinu, izraženu u mjernim jedinicama</DEFINITION>
+				<USAGES>
+					<USAGE>Franjo je visok momak.</USAGE>
+					<USAGE>Eiffelov toranj visok je 301 metar.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.012.02</ID>
+				<DEFINITION>koji se nalazi na velikoj visini</DEFINITION>
+				<USAGES>
+					<USAGE>U 42. minuti jedna visoka lopta padala je u kazneni prostor.</USAGE>
+					<USAGE>Nastaje zbog loma i refleksije svjetlosti na kristalima leda u visokim slojevitim oblacima.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.012.03</ID>
+				<DEFINITION>koji je na većem stupnju razvoja/složenosti/sofisticiranosti/važnosti u nekom pogledu</DEFINITION>
+				<USAGES>
+					<USAGE>Ova visoka škola pravi je izbor za sve one željne znanja.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.012.04</ID>
+				<DEFINITION>(ob. odr.) kojega je svojstvo izraženo u velikoj mjeri ili je iznad prosjeka [visoka otpornost (na vlagu itd.)]; jak, velik, opr. nizak</DEFINITION>
+				<USAGES>
+					<USAGE>Moglo bi se pomisliti da visoka inteligencija omogućava osobi uspjeh u društvu, ali to često nije tako.</USAGE>
+					<USAGE>Ovaj materijal dokazano ima visoku otpornost na vlagu.</USAGE>
+					<USAGE>Nina Badrić za novogodišnji nastup basnoslovno visoki honorar.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>A.012.05</ID>
+				<DEFINITION>(+ potenc.) u raznim vezanim izrazima; često prema nekim europskim jezicima u zn. ekskluzivan, zahtjevan, služben, svečan [visoka moda; visoki gost], opr. konfèkcījskī, pristupačan, jeftin, prosječan, sȇrījskī</DEFINITION>
+				<USAGES>
+					<USAGE>Guverner zagrebačke banke visok je gost ove proslave.</USAGE>
+					<USAGE>Lako se naviknuti na visoku modu.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>N.001</ID>
+		<LEMMA>dom</LEMMA>
+		<POS>N</POS>
+		<SENSES>
+			<SENSE>
+				<ID>N.001.01</ID>
+				<DEFINITION>ambijent u kojem se živi; kuća</DEFINITION>
+				<USAGES>
+					<USAGE>Možda je ovo mjesto malo neugledno, ali to je moj dom.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.001.02</ID>
+				<DEFINITION>obitelj i kućna čeljad</DEFINITION>
+				<USAGES>
+					<USAGE>Oni su moj dom.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.001.03</ID>
+				<DEFINITION>jez. knjiž. a. domovina b. ono otkuda se potječe; zavičaj, rodni kraj c. tamo gdje se pripada</DEFINITION>
+				<USAGES>
+					<USAGE>Hrvatska je moj dom, što god drugi rekli.</USAGE>
+					<USAGE>Njegov dom je Rijeka, tamo je otkad zna za sebe.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.001.04</ID>
+				<DEFINITION>ustanova namijenjena za rad neke organizacije ili za smještaj osoba [planinarski dom; starački dom; đački dom; studentski dom]</DEFINITION>
+				<USAGES>
+					<USAGE>Požeški vatrogasni dom napokon je obnovljen nakon 10 godina.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.001.05</ID>
+				<DEFINITION>a. parlament [slavni dome!] b. dio parlamenta [gornji dom; donji dom]</DEFINITION>
+				<USAGES>
+					<USAGE>Donji dom dvodomnog parlamenta u pravilu ima većinu zakonodavnih i drugih ovlasti koja je ustavom neke države namijenjena legislativi.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.001.06</ID>
+				<DEFINITION>bot., ob. u: [jednodomna biljka; dvodomna biljka, v.]</DEFINITION>
+				<USAGES/>
+			</SENSE>
+			<SENSE>
+				<ID>N.001.07</ID>
+				<DEFINITION>(Dom) glavne novine Hrvatske pučke seljačke stranke (poslije HSS), pokrenuo ih Stjepan Radić, izlazile s prekidima i s promjenama naslova (Slobodni Dom), podnaslova i izdavača 1903—1963.</DEFINITION>
+				<USAGES>
+					<USAGE>Božidar Magovac je uređivao Kalendar Seljačke sloge, Seljački kalendar i Slobodni Dom.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>N.002</ID>
+		<LEMMA>godina</LEMMA>
+		<POS>N</POS>
+		<SENSES>
+			<SENSE>
+				<ID>N.002.01</ID>
+				<DEFINITION>vrijeme za koje Zemlja obiđe Sunce (astronomska godina), vrijeme od 1. siječnja do zaključno 31. prosinca (kalendarska godina) [tekuća godina; iduća godina]</DEFINITION>
+				<USAGES>
+					<USAGE>Astronomska godina definirana je kao vrijeme za koje Zemlja obiđe Sunce jednom.</USAGE>
+					<USAGE>U tekućoj godini ostvarili smo veće prihode nego 2004. godine.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.002.02</ID>
+				<DEFINITION>vrijeme od dvanaest mjeseci računajući od nekog određenog dana [nismo se vidjeli već dvije godine]</DEFINITION>
+				<USAGES>
+					<USAGE>Zadnji put smo se ovako napili prije tri godine.</USAGE>
+					<USAGE>Sutra će biti četiri godine otkako mi je žena preminula.</USAGE>
+					<USAGE>Prije 3000 godina situacija je bila nešto drugačija.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.002.03</ID>
+				<DEFINITION>uzrast, starost, doba čovjekova života [imati dvadeset godina; biti u najboljim godinama]</DEFINITION>
+				<USAGES>
+					<USAGE>Imam 13 i pol godina!</USAGE>
+					<USAGE>Čovjek je u najboljim godinama za vrijeme fakultetskog obrazovanja.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.002.04</ID>
+				<DEFINITION>vrijeme jedne godine (ili kraće) za djelatnosti koje se obavljaju u godišnjim ciklusima [školska godina]</DEFINITION>
+				<USAGES>
+					<USAGE>Ove školske godine nisam dobio nikakav ukor.</USAGE>
+					<USAGE>Poludio sam dok sam napokon upisao treću godinu studija na ekonomiji.</USAGE>
+					<USAGE>Ova fiskalna godina se pokazala boljom od lanjske.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.002.05</ID>
+				<DEFINITION>zast. a. kiša, dažd b. vremenska neprilika, nepogoda, nevrijeme [zla godina oluja]</DEFINITION>
+				<USAGES/>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>N.003</ID>
+		<LEMMA>okvir</LEMMA>
+		<POS>N</POS>
+		<SENSES>
+			<SENSE>
+				<ID>N.003.01</ID>
+				<DEFINITION>naprava koja okružuje i učvršćuje (sliku, zidno ogledalo, prozorsko staklo, staklo naočala i sl.)</DEFINITION>
+				<USAGES>
+					<USAGE>Belupo nije imao sreće, triput je pogodio okvir gola.</USAGE>
+					<USAGE>Okvir slike je pozlaćen.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.003.02</ID>
+				<DEFINITION>pren. a. granica, polje djelatnosti, rada, mjerodavnosti, nadležnosti [ostati u zadanim okvirima] b. ambijent, prilike [povijesni okvir; u crnom okviru]</DEFINITION>
+				<USAGES>
+					<USAGE>U okviru ove radionice izgradit ćete jednostavan program za igranje šaha.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.003.03</ID>
+				<DEFINITION>konstrukcija koja sadrži municiju i puni vatreno oružje (npr. za pištolj) [okvir s 9 metaka]</DEFINITION>
+				<USAGES>
+					<USAGE>Bio sam u streljani i shvatio da to nije za mene nakon prvog ispucanog okvira.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.003.04</ID>
+				<DEFINITION>inform. vizualna logička cjelina koja sadrži dio korisničkog sučelja ili prikazuje nekakav sadržaj</DEFINITION>
+				<USAGES>
+					<USAGE>Prije nego što pobrišeš previše podataka, iskočit će ti dijaloški okvir koji će te pitati želiš li to zaista učiniti.</USAGE>
+					<USAGE>U okviru za unos osobnih podataka nužno je ispuniti svako polje.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>N.004</ID>
+		<LEMMA>pojas</LEMMA>
+		<POS>N</POS>
+		<SENSES>
+			<SENSE>
+				<ID>N.004.01</ID>
+				<DEFINITION>ono čime se opasuje; remen, opasač, pȃs (često služi za vezivanje odjeće)</DEFINITION>
+				<USAGES>
+					<USAGE>Otpustio sam pojas nakon ove obilne večere.</USAGE>
+					<USAGE>Kupila sam vjetrovku koja ima prekrasan crni pojas.</USAGE>
+					<USAGE>Pojas doktora Levinea pravo je otkriće za moja bolna leđa!</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.004.02</ID>
+				<DEFINITION>najuži dio tijela između prsnog koša i trbuha; struk</DEFINITION>
+				<USAGES>
+					<USAGE>Pale su mi hlače ispod pojasa.</USAGE>
+					<USAGE>Voda mi je bila do pojasa.</USAGE>
+					<USAGE>Stegnuo sam uže oko pojasa.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.004.03</ID>
+				<DEFINITION>a. ono što se nalazi, što ide oko čega u obliku trake, zamišljene trake i sl. b. dio između dvije paralele ili meridijana c. dio površine kugle između dviju paralelnih crta</DEFINITION>
+				<USAGES>
+					<USAGE>U zemljama ekvatorskog pojasa ljeta su jako vruća i sparna.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.004.04</ID>
+				<DEFINITION>dio Zemljine površine s određenim klimatskim svojstvima [pojas masline; primorski pojas]; područje</DEFINITION>
+				<USAGES>
+					<USAGE>Nije moguće u cijelom obalnom pojasu uzgojiti kvalitetne masline.</USAGE>
+					<USAGE>U sjevernom hladnom toplinskom pojasu mora su većim dijelom godine zaleđena.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.004.05</ID>
+				<DEFINITION>uže zemljište između kakvih granica, uzduž kakve linije i sl.</DEFINITION>
+				<USAGES>
+					<USAGE>Sjeverna i Južna Koreja obnovile su propagandne akcije u pograničnom pojasu.</USAGE>
+					<USAGE>Pojas Gaze poznat je po stalnim oružanim sukobima.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.004.06</ID>
+				<DEFINITION>sport a. zahvat u hrvanju b. oznaka ranga u nekim borilačkim sportovima [crni pojas u karateu]</DEFINITION>
+				<USAGES>
+					<USAGE>Marko je ponosni vlasnik crnog pojasa u karateu.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.004.07</ID>
+				<DEFINITION>znak pojedinog dostojanstva u crkvi (ob. pravosl.)</DEFINITION>
+				<USAGES/>
+			</SENSE>
+			<SENSE>
+				<ID>N.004.08</ID>
+				<DEFINITION>raspon mogućih vrijednosti između zadanih granica (frekvencija, cijena, temperatura, itd.)</DEFINITION>
+				<USAGES>
+					<USAGE>U tom pojasu prigušuju se više frekvencije.</USAGE>
+					<USAGE>Širina pojasa ljudskog glasa iznosi 2700 Hz.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.004.09</ID>
+				<DEFINITION>izdužena traka za vezivanje, pričvršćavanje ili stezanje nečega</DEFINITION>
+				<USAGES>
+					<USAGE>Sjeo je u automobil i odmah zavezao pojas.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.004.10</ID>
+				<DEFINITION>dio uređaja (ob. za povezivanje ostalih dijelova uređaja ili za transport proizvoda)</DEFINITION>
+				<USAGES>
+					<USAGE>Preko transportnog pojasa prijeđe oko 70 čokoladica u minuti.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>N.005</ID>
+		<LEMMA>pokrivač</LEMMA>
+		<POS>N</POS>
+		<SENSES>
+			<SENSE>
+				<ID>N.005.01</ID>
+				<DEFINITION>dio opreme kreveta koji se stavlja preko plahte</DEFINITION>
+				<USAGES>
+					<USAGE>Uzmi si dodatni pokrivač ako ti bude hladno!</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.005.02</ID>
+				<DEFINITION>ono što je pokrilo ili pokriva [snježni pokrivač]</DEFINITION>
+				<USAGES>
+					<USAGE>Preko noći je snježni pokrivač prekrio ulice Zagreba.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.005.03</ID>
+				<DEFINITION>onaj koji se bavi pokrivanjem</DEFINITION>
+				<USAGES>
+					<USAGE>Pokrivač krovova nije baš traženo zanimanje.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>N.006</ID>
+		<LEMMA>povreda</LEMMA>
+		<POS>N</POS>
+		<SENSES>
+			<SENSE>
+				<ID>N.006.01</ID>
+				<DEFINITION>ozljeda</DEFINITION>
+				<USAGES>
+					<USAGE>Povreda noge najveći je strah profesionalnog nogometaša.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.006.02</ID>
+				<DEFINITION>admin. čin kojim se prekoračuju dopuštene granice, kojim se ogrešuje o propise itd. [povreda zakona]</DEFINITION>
+				<USAGES>
+					<USAGE>Prepisivanje vozila na člana obitelji radi izbjegavanja plaćanja kazne povreda je zakona.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>N.007</ID>
+		<LEMMA>publika</LEMMA>
+		<POS>N</POS>
+		<SENSES>
+			<SENSE>
+				<ID>N.007.01</ID>
+				<DEFINITION>okupljanje onih koji prisustvuju čemu kao gledatelji ili slušatelji (najčešće javnoj izvedbi)</DEFINITION>
+				<USAGES>
+					<USAGE>Publika je bila jako zadovoljna prvim prikazivanjem novog nastavka Nemoguće misije u Cannesu.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.007.02</ID>
+				<DEFINITION>a. široki slojevi koji su putem medija svjedoci ili pratioci nekog događaja; narod, općinstvo, gledateljstvo b. skupina ljudi koja ima za što zajednički interes ili sličan ukus [ženska publika pozdravit će novi CD]</DEFINITION>
+				<USAGES>
+					<USAGE>Kandidat može pobijediti u emisiji samo ako dobije najviše glasova publike.</USAGE>
+					<USAGE>Nova emisija HRT-a namijenjena je mlađoj publici.</USAGE>
+					<USAGE>Meggle mozzarellu su prepoznali kupci, ali i stručna publika kao jedan od najboljih primjera ove vrste sira.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>N.008</ID>
+		<LEMMA>rezerva</LEMMA>
+		<POS>N</POS>
+		<SENSES>
+			<SENSE>
+				<ID>N.008.01</ID>
+				<DEFINITION>(čega) količina čega sačuvana za posebnu namjenu ili kasniju uporabu [rezerva hrane]; pričuva, zaliha</DEFINITION>
+				<USAGES>
+					<USAGE>Rezerve hrane nam se pomalo stanjuju, valjda će uskoro stići opskrbni kamion.</USAGE>
+					<USAGE>Tu pjesmu čuvamo u rezervi ako publika bude tražila bis.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.008.02</ID>
+				<DEFINITION>(prema čemu) pren. sumnja, sumnjičavost [izraziti rezervu; ostati u rezervi]; nepovjerenje, oprez, uzdržanost</DEFINITION>
+				<USAGES>
+					<USAGE>Leonardo je izrazio rezervu prema planu vlastite žene.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.008.03</ID>
+				<DEFINITION>vojn. dio vojske koji je u ratu iza borbenih linija, angažira se prema potrebi, vojna služba rezervista; pričuva</DEFINITION>
+				<USAGES>
+					<USAGE>Rezerva pješaka čekala je na naredbu bojnika.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.008.04</ID>
+				<DEFINITION>sport - igrač koji nastupa prema potrebi [njegova rezerva je mlađi igrač; biti u rezervi]; pričuva, smjena, zamjena</DEFINITION>
+				<USAGES>
+					<USAGE>Iako se dokazao u prošloj utakmici, ovaj put će ipak ostati u rezervi.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>N.009</ID>
+		<LEMMA>težina</LEMMA>
+		<POS>N</POS>
+		<SENSES>
+			<SENSE>
+				<ID>N.009.01</ID>
+				<DEFINITION>fiz. a. sila kojom na neko tijelo djeluje gravitacijsko polje Zemlje (težina je jednaka umnošku mase tijela i jačini gravitacijskog polja g koje je usmjereno prema centru Zemlje, kako je gravitacijsko polje različito na raznim točkama površine Zemlje, to je težina istog tijela različita na raznim mjestima Zemljine površine) b. količina te sile izražena odgovarajućom mjerom</DEFINITION>
+				<USAGES>
+					<USAGE>Težina metalne kugle korištene u pokusu iznosi 140 N.</USAGE>
+					<USAGE>Umnožak gravitacijske sile i mase tijela označava težinu tijela.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.009.02</ID>
+				<DEFINITION>ozbiljnost, važnost, vrijednost [te riječi imaju težinu]</DEFINITION>
+				<USAGES>
+					<USAGE>Težina ove situacije zaista je demotivirajuća.</USAGE>
+					<USAGE>Krađa benzina teška je povreda zakona.</USAGE>
+					<USAGE>Hawking je tom prilikom rekao nešto što je imalo veliku težinu i što je ostavilo velik utisak na slušatelje.</USAGE>
+					<USAGE>Financijska težina koncertne industrije u Hrvatskoj je u 2010. godini i veća od 100 milijuna kuna.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.009.03</ID>
+				<DEFINITION>težak osjećaj, osjećaj gađenja, muke i sl. [osjećam neku težinu]</DEFINITION>
+				<USAGES>
+					<USAGE>Osjećam nekakvu težinu; mislim da bi smo otići na zrak.</USAGE>
+					<USAGE>Upao sam u tešku situaciju kada sam se nasmijao na pogrebu.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.009.04</ID>
+				<DEFINITION>razg. naziv za masu (posebno pri vaganju)</DEFINITION>
+				<USAGES>
+					<USAGE>Kako bi se smanjila tjelesna težina neophodno je promijeniti prehranu i više se kretati.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.009.05</ID>
+				<DEFINITION>zahtjevnost nečega (zadatka i sl.)</DEFINITION>
+				<USAGES>
+					<USAGE>Težina ovog nivoa je ono po čemu je poznata.</USAGE>
+					<USAGE>Težina ove planinarske rute je zastrašujuća, ali se na kraju isplati.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>N.010</ID>
+		<LEMMA>trag</LEMMA>
+		<POS>N</POS>
+		<SENSES>
+			<SENSE>
+				<ID>N.010.01</ID>
+				<DEFINITION>otisak stopala, noge, kotača i sl./mrlja na nekoj površini</DEFINITION>
+				<USAGES>
+					<USAGE>Obriši noge prije nego što ulaziš u sobu, ostavljaš blatne tragove po podu!</USAGE>
+					<USAGE>Tragove je zameo snijeg.</USAGE>
+					<USAGE>I nakon pranja ostali su tragovi vina na bluzi.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.010.02</ID>
+				<DEFINITION>a. ostatak onoga što je bilo, postojalo b. karakteristično obilježje nekog utjecaja, prošlog vremena i sl. c. utjecaj [ostavio je trag u hrvatskoj košarci]</DEFINITION>
+				<USAGES>
+					<USAGE>Duboko u toj prašumi mogu se pronaći tragovi civilizacije Maja.</USAGE>
+					<USAGE>Tragovi ove tradicije vidljivi su i danas na nekim starijim sveučilištima.</USAGE>
+					<USAGE>Ono čemu je težio čitav život je i ostvario - ostavio je traga u hrvatskoj atletici.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.010.03</ID>
+				<DEFINITION>predmet, pojava ili nešto drugo što služi kao potvrda o nečemu, što ukazuje na nešto</DEFINITION>
+				<USAGES>
+					<USAGE>Ljetni pljuskovi trag su ljeta.</USAGE>
+					<USAGE>Ništa nije pronađeno, policijski psi ipak nisu nanjušili trag.</USAGE>
+					<USAGE>Čudi me da ne postoji nikakvih tragova borbe, iako je žrtva definitivno zadavljena.</USAGE>
+					<USAGE>Detektivi koji traže djevojčicu Medeleine McCann sada slijede svježe jučerašnje tragove.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.010.04</ID>
+				<DEFINITION>a. mala količina/broj nečega [mlijeko u tragovima, humor u tragovima] b. kem. tip elemenata koje organizam treba dnevno u vrlo malim količinama [minerali u tragovima]</DEFINITION>
+				<USAGES>
+					<USAGE>U ovom čipsu može se naći mlijeka u tragovima.</USAGE>
+					<USAGE>Minerali u tragovima skupina su minerala koje organizam treba dnevno u vrlo malim količinama (mjereno u mikrogramima), ali bez kojih nema optimalnog (ili ikakvog) odvijanja metabolizma.</USAGE>
+					<USAGE>U hrvatskim komedijama humora nažalost ima samo u tragovima.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>N.011</ID>
+		<LEMMA>vatra</LEMMA>
+		<POS>N</POS>
+		<SENSES>
+			<SENSE>
+				<ID>N.011.01</ID>
+				<DEFINITION>prirodna pojava koja nastaje kad što gori, oslobađanje topline uz plamen i svjetlo u procesu gorenja [naložiti vatru]; oganj</DEFINITION>
+				<USAGES>
+					<USAGE>Naložio sam vatru jer osjećam da postaje malo hladnije.</USAGE>
+					<USAGE>Logorska vatra nam je omogućila nezaboravna iskustva.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.011.02</ID>
+				<DEFINITION>a. pucanje iz oružja [otvoriti vatru]; paljba b. okršaj, boj</DEFINITION>
+				<USAGES>
+					<USAGE>Članovi bande otvorili su vatru na policijske snage.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.011.03</ID>
+				<DEFINITION>svjetlo, sjaj</DEFINITION>
+				<USAGES>
+					<USAGE>Rasplamsala joj se vatra u očima kada je ugledala novu Titan X grafičku karticu.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.011.04</ID>
+				<DEFINITION>crvenilo, žar u licu</DEFINITION>
+				<USAGES/>
+			</SENSE>
+			<SENSE>
+				<ID>N.011.05</ID>
+				<DEFINITION>razg. povišena temperatura tijela; vrućica</DEFINITION>
+				<USAGES>
+					<USAGE>Čas sam u vatri, čas u groznici.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.011.06</ID>
+				<DEFINITION>pren. žestina, bujnost nekog osjećaja ili uzbuđenja [pasti (padati) u vatru ražestiti se, unijeti se]; oduševljenje, zanos, žar</DEFINITION>
+				<USAGES>
+					<USAGE>Pao sam u vatru gnjeva čim sam ugledao Russelovo lice.</USAGE>
+					<USAGE>Žao nam je što ćemo vas razočarati, ali vatra strasti, ako se povremeno ne raspiri, ima tendenciju da se ugasi.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.011.07</ID>
+				<DEFINITION>pren. (u pridjevskom značenju) temperamentan [on je živa vatra]</DEFINITION>
+				<USAGES>
+					<USAGE>Ta crnka je živa vatra - skida gaćice za internet publiku.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.011.08</ID>
+				<DEFINITION>izvor topline za pripremu hrane</DEFINITION>
+				<USAGES>
+					<USAGE>Nakon dinstanja, skinite luk s vatre.</USAGE>
+					<USAGE>Promiješajte kremu na laganoj vatri.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>N.012</ID>
+		<LEMMA>zvanje</LEMMA>
+		<POS>N</POS>
+		<SENSES>
+			<SENSE>
+				<ID>N.012.01</ID>
+				<DEFINITION>zanimanje ili stupanj u zanimanju</DEFINITION>
+				<USAGES>
+					<USAGE>Moje zvanje jest ekonomski tehničar.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.012.02</ID>
+				<DEFINITION>poziv, misija; težnja za čim (ob. o duhovnom)</DEFINITION>
+				<USAGES>
+					<USAGE>Njihovo zvanje jest usrećiti one nesretne: beskućnike, teško oboljele osobe i siročad.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.012.03</ID>
+				<DEFINITION>gov. žarg. u kartaškim igrama, a. skup karata koji donosi dodatne bodove [100 zvanja] b. odabir aduta [zvanje aduta]</DEFINITION>
+				<USAGES>
+					<USAGE>Ništa od toga, frende, imam 50 zvanja do asa!</USAGE>
+					<USAGE>Nakon toga slijedi zvanje aduta, koje nije obavezno osim ako su svi ostali igrači odlučili ne zvati.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>N.012.04</ID>
+				<DEFINITION>gov. žarg. obavljanje poziva</DEFINITION>
+				<USAGES>
+					<USAGE>Postoji li neki program za besplatno zvanje putem interneta?</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>V.001</ID>
+		<LEMMA>brusiti</LEMMA>
+		<POS>V</POS>
+		<SENSES>
+			<SENSE>
+				<ID>V.001.01</ID>
+				<DEFINITION>oštriti sječivo (noža, kose, skija, klizaljki, škara itd.)</DEFINITION>
+				<USAGES>
+					<USAGE>Brusim nož samo kada više ne mogu ni normalno odrezati šnitu kruha.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.001.02</ID>
+				<DEFINITION>glačati površinu čega (npr. parketa, okvira)</DEFINITION>
+				<USAGES>
+					<USAGE>Prije 10-ak dana brusio sam željeznu ogradu na balkonu.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.001.03</ID>
+				<DEFINITION>pren. oštriti (o mislima, pojmovima) [brusiti jezik - zajedljivo pričati, olajavati koga], diskutirati o nečemu [brusili su o tome do jutra]</DEFINITION>
+				<USAGES>
+					<USAGE>Brusio je jezik nakon što je čuo da su mu zametnuli narudžbu.</USAGE>
+					<USAGE>Do samog jutra su oni brusili o tome kako kvalitetno napraviti projekt.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.001.04</ID>
+				<DEFINITION>pren. (se) (na koga, što) žarg. pripremati se na što (ob. o onome što se željno iščekuje), oštriti se na što [brusiti sablje (sablju) spremati se za rat, stvarati ratno raspoloženje]</DEFINITION>
+				<USAGES>
+					<USAGE>Navijači Hajduka se se brusili na sljedeći derbi.</USAGE>
+					<USAGE>Brusio se na trenutak kada će napokon probati azijsku kuhinju.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.001.05</ID>
+				<DEFINITION>stjecati vještinu u čemu; dovoditi/dovesti kvalitetu, spremnost, određena znanja ili sposobnosti na visok stupanj; dorađivati</DEFINITION>
+				<USAGES>
+					<USAGE>Isabella Andreini je izbrusila svoj glumački zanat putujući po Italiji.</USAGE>
+          			<USAGE>Matea je svaki dan prije spavanja brusila svoje prezentacijske vještine pred ogledalom zbog nadolazeće konferencije.</USAGE>
+          			<USAGE>Ugovor o sklapanju suradnje s HNB brusio se par mjeseci.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>V.002</ID>
+		<LEMMA>gorjeti</LEMMA>
+		<POS>V</POS>
+		<SENSES>
+			<SENSE>
+				<ID>V.002.01</ID>
+				<DEFINITION>biti u plamenu [drvo gori]; izgarati, sagorijevati</DEFINITION>
+				<USAGES>
+					<USAGE>Cijela šuma gori, a vatrogasci spašavaju što se spasiti može.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.002.02</ID>
+				<DEFINITION>raditi, biti uključen, biti u pogonu [gori televizija]; davati svjetlost [žarulja gori]; osvjetljavati</DEFINITION>
+				<USAGES>
+					<USAGE>Vjerojatno je doma, gori svjetlo u njegovoj sobi.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.002.03</ID>
+				<DEFINITION>biti u vatri, imati vrućicu, groznicu [čelo mu gori], žariti, bridjeti od vrućice, vrućine [obrazi mu gore]</DEFINITION>
+				<USAGES>
+					<USAGE>Tomislave, pa ti goriš! Brzo u krevet!</USAGE>
+					<USAGE>Vjerojatno ima povišenu temperaturu, čelo mu gori.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.002.04</ID>
+				<DEFINITION>(za čime, kime, za što) pren. čeznuti, jako željeti, biti vrlo nestrpljiv [gorjeti od želje]</DEFINITION>
+				<USAGES>
+					<USAGE>Gorim od želje da te vidim, dođi brzo kući!</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>V.003</ID>
+		<LEMMA>kucati</LEMMA>
+		<POS>V</POS>
+		<SENSES>
+			<SENSE>
+				<ID>V.003.01</ID>
+				<DEFINITION>(kome, o što) proizvoditi čime niz laganih, kratkih udaraca o što [kucati na vrata; sat kuca]</DEFINITION>
+				<USAGES>
+					<USAGE>Netko kuca na vrata, otvori!</USAGE>
+					<USAGE>Sat je nezaustavljivo kucao i pokazivao kako je vrijeme prolazno.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.003.02</ID>
+				<DEFINITION>razg. tipkati na nekoj vrsti tipkovnice (npr. one na pisaćem stroju, kalkulatoru, mobitelu)</DEFINITION>
+				<USAGES>
+					<USAGE>Najviše volim kucati pisma na onim starim pisaćim strojevima.</USAGE>
+					<USAGE>Kucala je po tom kalkulatoru dok napokon nije riješila bonus zadatak.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.003.03</ID>
+				<DEFINITION>med. pulsirati (o srcu, arterijama) [kuca mi u zubu]</DEFINITION>
+				<USAGES>
+					<USAGE>Srce počne brže kucati usred uzbudljivih situacija.</USAGE>
+					<USAGE>Mogao bih otići kod zubara, malo mi kuca u zubu.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.003.04</ID>
+				<DEFINITION>(se), usp. kucnuti (se)</DEFINITION>
+				<USAGES>
+					<USAGE>Bio bi red da se malo kucamo za ovako dobru vijest!</USAGE>
+					<USAGE>Ponekad treba i zasukati rukave, a ne samo kucati se čašama!</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>V.004</ID>
+		<LEMMA>nastaviti</LEMMA>
+		<POS>V</POS>
+		<SENSES>
+			<SENSE>
+				<ID>V.004.01</ID>
+				<DEFINITION>(što, s čim, na što) a. opet početi poslije završetka ili prekida; produžiti (s kakvim poslom); ostati po starom, produžiti trajanje ili postojanje; ne prestajati [nastavlja se razdoblje lijepog vremena]</DEFINITION>
+				<USAGES>
+					<USAGE>Nakon što sam napokon završio s tim pozivom, nastavio sam s lakiranjem ormara.</USAGE>
+					<USAGE>Marko je nastavio s napadanjem iako sam mu rekao kako to nije fer od njega.</USAGE>
+					<USAGE>Nastavlja se razdoblje sparnog vremena.</USAGE>
+					<USAGE>Milanović je nastavio s nizom neprikladnih izjava ove subote.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.004.02</ID>
+				<DEFINITION>(na što) dodati što kao dodatak, dometanjem učiniti kakav predmet dužim; produžiti</DEFINITION>
+				<USAGES>
+					<USAGE>Cijev se nastavlja na komoru bubnja u donjem položaju.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.004.03</ID>
+				<DEFINITION>razg. nadovezati se [nastaviti na čije riječi]</DEFINITION>
+				<USAGES>
+					<USAGE>Osobno smatram, nastavila je Kosor, da riječi predsjednika SDP-a Zorana Milanovića nisu prihvatljive.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>V.005</ID>
+		<LEMMA>odlikovati</LEMMA>
+		<POS>V</POS>
+		<SENSES>
+			<SENSE>
+				<ID>V.005.01</ID>
+				<DEFINITION>(koga, što) dati/davati priznanje komu uručenjem odlikovanja, ordena ili medalje</DEFINITION>
+				<USAGES>
+					<USAGE>Ivan je bio odlikovan medaljom hrabrosti za svoja postignuća u afganistanskom ratu.</USAGE>
+					<USAGE>Najbolji timovi odlikuju se srebrnim plaketama.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.005.02</ID>
+				<DEFINITION>(se čime) istaći/isticati se čime [odlikuje se brzinom]</DEFINITION>
+				<USAGES>
+					<USAGE>Turska kava odlikuje se gorčinom, ali i bogatijim okusom.</USAGE>
+					<USAGE>Maja se odlikuje dobrim smislom za humor koji često privlači društvo.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>V.006</ID>
+		<LEMMA>oduzeti</LEMMA>
+		<POS>V</POS>
+		<SENSES>
+			<SENSE>
+				<ID>V.006.01</ID>
+				<DEFINITION>(koga, što) uzeti što ili koga kome (često protiv njegove volje); oteti, lišiti</DEFINITION>
+				<USAGES>
+					<USAGE>Oduzeli su mu osvojenu medalju jer je otkriveno da je bio pod dopingom.</USAGE>
+					<USAGE>Ta odluka mi je oduzela svu motivaciju koju sam imala.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.006.02</ID>
+				<DEFINITION>(koga, što) a. izvaditi iz veće cjeline b. mat. veći broj umanjiti za manji, izvršiti radnju oduzimanja, od većeg broja odbiti manji; odbiti, suptrahirati</DEFINITION>
+				<USAGES>
+					<USAGE>Ako se oduzme trošak dostave, te skije ne ispadaju tako skupe.</USAGE>
+					<USAGE>Oduzmi 10% cijene zbog popusta i 10% od kupona.</USAGE>
+					<USAGE>Sada trebaš oduzeti varijablu y od varijable x.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.006.03</ID>
+				<DEFINITION>(se) pren. ukočiti se, paralizirati se, prestati funkcionirati (o jeziku i udovima) [oduzela mi se ruka/noga/jezik]</DEFINITION>
+				<USAGES>
+					<USAGE>Oduzela mi se ruka nakon što sam čula za tvoju nesreću, bilo je grozno.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>V.007</ID>
+		<LEMMA>oprati</LEMMA>
+		<POS>V</POS>
+		<SENSES>
+			<SENSE>
+				<ID>V.007.01</ID>
+				<DEFINITION>ukloniti prljavštinu s koga ili čega [oprati pod; oprati lice]</DEFINITION>
+				<USAGES>
+					<USAGE>Nakon ovog tjedna morat ću oprati rublje, više nemam što nositi.</USAGE>
+					<USAGE>Zaista si super oprala ovaj pod, vidim svoj odraz u njemu.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.007.02</ID>
+				<DEFINITION>pren. smočiti [val ih je oprao]</DEFINITION>
+				<USAGES>
+					<USAGE>Oprala ih je kiša na putu iz kazališta.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.007.03</ID>
+				<DEFINITION>žarg. ukoriti koga</DEFINITION>
+				<USAGES>
+					<USAGE>Oprala me preko telefona zbog mojeg otkazivanja dogovora.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.007.04</ID>
+				<DEFINITION>žarg. uvjerljivo pobijediti [oprali smo ih s pet razlike]</DEFINITION>
+				<USAGES>
+					<USAGE>Oprali smo Francuze s 10 golova razlike.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>V.008</ID>
+		<LEMMA>osuditi</LEMMA>
+		<POS>V</POS>
+		<SENSES>
+			<SENSE>
+				<ID>V.008.01</ID>
+				<DEFINITION>izraziti jasno neslaganje s čim [osuditi čije ponašanje]</DEFINITION>
+				<USAGES>
+					<USAGE>Mnogi su osudili njegovu izjavu o braniteljima.</USAGE>
+					<USAGE>Takvo nesavjesno ponašanje treba se uvijek osuditi.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.008.02</ID>
+				<DEFINITION>pravn. a. proglasiti koga krivim; okriviti b. odrediti kaznu [osuditi na tri godine zatvora; osuditi na smrt]</DEFINITION>
+				<USAGES>
+					<USAGE>Osudili su ga za ubojstvo iz nehaja.</USAGE>
+					<USAGE>Pljačkaša Zagrebačke banke osudili su ga na tri godine zatvora.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.008.03</ID>
+				<DEFINITION>biti predodređen ili prepušten čemu (ob. nepovoljnom ili nepoželjnom) [osuđen na život u siromaštvu]</DEFINITION>
+				<USAGES>
+					<USAGE>Ovisnost o kasinu osudila ga je na život bez morala.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>V.009</ID>
+		<LEMMA>pasti</LEMMA>
+		<POS>V</POS>
+		<SENSES>
+			<SENSE>
+				<ID>V.009.01</ID>
+				<DEFINITION>pasti uslijed utjecaja gravitacije [jabuka nije pala daleko od stabla]</DEFINITION>
+				<USAGES>
+					<USAGE>Pala mi je olovka na pod.</USAGE>
+					<USAGE>Boca se otkotrljala i pala sa stola.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.009.02</ID>
+				<DEFINITION>izgubiti ravnotežu zbog spoticanja, okliznuća ili udarca i vlastitom težinom biti naglo povučen dolje i udariti o tlo, biti svom težinom povučen naniže i naglo gubeći snagu, oslonac, uporište</DEFINITION>
+				<USAGES>
+					<USAGE>Spotaknuo sam se i pao na led.</USAGE>
+					<USAGE>Neočekivano me udario lijevicom nakon čega sam pao na pod.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.009.03</ID>
+				<DEFINITION>a. spustiti se (o atmosferskim talozima ili oborinama) na zemlju [pao je snijeg] b. spustiti se, prostrijeti se po zemlji, leći povrh čega, pokriti (o svjetlosti, mraku i sl.), spustiti se za horizont, zaći (o suncu, zvijezdama i sl.)</DEFINITION>
+				<USAGES>
+					<USAGE>Na prvi dan zime odmah je pao gusti snijeg.</USAGE>
+					<USAGE>Već je nakon 17h pao mrak - počinje zima.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.009.04</ID>
+				<DEFINITION>spustiti se na koljena u znak štovanja, molbe, u molitvi [pasti ničice]; kleknuti</DEFINITION>
+				<USAGES>
+					<USAGE>Nikola je pao pred mene i zaprosio me.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.009.05</ID>
+				<DEFINITION>nasilno prekinuti let (o ptici, o avionu i sl.)</DEFINITION>
+				<USAGES>
+					<USAGE>Avion je pao nakon što je preletio Alpe.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.009.06</ID>
+				<DEFINITION>pren. zadržati se, zaustaviti se na čemu [pao pogled na što]</DEFINITION>
+				<USAGES>
+					<USAGE>Iako je soba bila prepuna ljudi, moj pogled je ipak pao na nju.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.009.07</ID>
+				<DEFINITION>poginuti u ratu, na bojnom polju</DEFINITION>
+				<USAGES>
+					<USAGE>Ivan je pao u ratu, ali svi ga se prisjećamo svakim danom.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.009.08</ID>
+				<DEFINITION>a. biti osvojen, zauzet (o gradu, tvrđavi i sl.) b. prekinuti svoje postojanje (koga, čega), biti srušen, svrgnut, zbačen [pala vlada]</DEFINITION>
+				<USAGES>
+					<USAGE>Knin je pao pod napadom okupatora.</USAGE>
+					<USAGE>Vlada je pala tog ljeta.</USAGE>
+					<USAGE>Pala je internetska veza i ništa nismo mogli raditi.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.009.09</ID>
+				<DEFINITION>pren. a. smanjiti se u snazi, intenzitetu; opasti [voda je pala] b. sniziti se (o cijeni), izgubiti vrijednost</DEFINITION>
+				<USAGES>
+					<USAGE>Na veselje građana Zagreba, pala je razina vode rijeke Save.</USAGE>
+					<USAGE>Past će cijena tog usisavača kad-tad!</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.009.10</ID>
+				<DEFINITION>pren. pretrpjeti neuspjeh u čemu, dobiti nedovoljnu ocjenu na ispitu</DEFINITION>
+				<USAGES>
+					<USAGE>Lea je pala osnove elektrotehnike, ali ima još tri roka da to riješi.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.009.11</ID>
+				<DEFINITION>razboljeti se [pasti u krevet]</DEFINITION>
+				<USAGES>
+					<USAGE>Dan nakon što sam se vraćao kući bez kišobrana sam pao u krevet.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.009.12</ID>
+				<DEFINITION>pren. a. pojaviti se kao posljedica čega, dogoditi se, dospjeti, zapasti u kakvo stanje, u kakvu situaciju [pasti pod stečaj] b. biti donesen, objavljen [pala odluka; pala zapovijed] c. biti primljen, dobiven (o novcu)</DEFINITION>
+				<USAGES>
+					<USAGE>Nakon tri pive pao je dogovor - idemo se klizati!</USAGE>
+					<USAGE>Past će neki novci, taj posao nisam očekivao!</USAGE>
+					<USAGE>Pala je pjesma i porazbijale su se čaše!</USAGE>
+					<USAGE>Njena tvrtka je nakon deset godina pala pod stečaj.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.009.13</ID>
+				<DEFINITION>pren. (na koga) naći se, biti kriv zbog čega [na njega je pala krivica]</DEFINITION>
+				<USAGES>
+					<USAGE>S obzirom na to da nije bilo valjanih objašnjenja o tome tko je kriv, krivica je pala na žrtveno janje.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>V.010</ID>
+		<LEMMA>poslužiti</LEMMA>
+		<POS>V</POS>
+		<SENSES>
+			<SENSE>
+				<ID>V.010.01</ID>
+				<DEFINITION>(što) ponuditi ili donijeti pred koga; ponuditi čime koga (ob. jelo) [poslužiti kolače]</DEFINITION>
+				<USAGES>
+					<USAGE>Gostima smo poslužili sirnu platu.</USAGE>
+					<USAGE>Poslužio nas je svojom ljubaznošću.</USAGE>
+					<USAGE>Bio je jako ljubazan, poslužio me kolačima, ali jednostavno mi nije bilo do slatkog.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.010.02</ID>
+				<DEFINITION>(čemu) biti koristan za što [lopata može za svašta poslužiti]</DEFINITION>
+				<USAGES>
+					<USAGE>Nož može poslužiti u beskonačno mnogo situacija.</USAGE>
+					<USAGE>Poslužilo mi je iskustvo rada sa MYSQL bazama podataka.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.010.03</ID>
+				<DEFINITION>(se) uzeti što ponuđeno, dostupno (ob. jelo ili piće)</DEFINITION>
+				<USAGES>
+					<USAGE>Poslužio sam se raznim bombonima koji su bili izloženi za degustaciju na sajmu slastica.</USAGE>
+					<USAGE>Budući da nitko nije rekao drugačije, poslužio sam se kalkulatorom kako bih riješio zadatak.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>V.011</ID>
+		<LEMMA>pronaći</LEMMA>
+		<POS>V</POS>
+		<SENSES>
+			<SENSE>
+				<ID>V.011.01</ID>
+				<DEFINITION>(što) stvoriti, izmisliti što novo; iznaći, izumiti</DEFINITION>
+				<USAGES>
+					<USAGE>Graham Bell pronašao je način kako prenositi ljudski glas preko žice.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.011.02</ID>
+				<DEFINITION>(koga, što) naći (kao rezultat traženja)</DEFINITION>
+				<USAGES>
+					<USAGE>Napokon sam pronašao odabranicu svog srca nakon tri godine neuspješnih veza.</USAGE>
+					<USAGE>Moj pas Rex pronašao je ključeve mog automobila.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.011.03</ID>
+				<DEFINITION>(se) naći smisao u nekom poslu, životnoj situaciji i sl.</DEFINITION>
+				<USAGES>
+					<USAGE>Nakon bezbroj poslova, napokon sam se pronašao u struci programera web aplikacija.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+	<ENTRY>
+		<ID>V.012</ID>
+		<LEMMA>tući</LEMMA>
+		<POS>V</POS>
+		<SENSES>
+			<SENSE>
+				<ID>V.012.01</ID>
+				<DEFINITION>a. (za)davati udarce, udarati koga nanoseći mu bol b. boriti se</DEFINITION>
+				<USAGES>
+					<USAGE>Bez stida su tukli mladića dok nije stigla policija.</USAGE>
+					<USAGE>Tukli smo se za svaku loptu!</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.012.02</ID>
+				<DEFINITION>udarati nečim tvrdim o čvrstu površinu tako da se čuje šum; kucati, lupati</DEFINITION>
+				<USAGES>
+					<USAGE>Tukao je palicom od drvo.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.012.03</ID>
+				<DEFINITION>udarati o nešto, po nečemu padajući, pušući, zapljuskujući (o kiši, vjetru, vodi); lupati, pljuštati</DEFINITION>
+				<USAGES>
+					<USAGE>Jaka kiša tukla je po prozoru moje sobe.</USAGE>
+					<USAGE>Valovi su nemilosrdno tukli obalu.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.012.04</ID>
+				<DEFINITION>pren. a. biti jači, imati prednost, odnositi/odnijeti pobjedu nad nekim; pobjeđivati/pobijediti (u sportu, ali i općenito)</DEFINITION>
+				<USAGES>
+					<USAGE>Tukli smo ih u gostima lani, budemo bome i ove!</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.012.05</ID>
+				<DEFINITION>pren. sport - udarajući (nogom, glavom), bacajući (rukom) loptu nastojati ubaciti u gol</DEFINITION>
+				<USAGES>
+					<USAGE>Tukao je na gol, ali golman je bio spreman.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.012.06</ID>
+				<DEFINITION>gađati, pucati iz vatrenog oružja (po kome ili po čemu)</DEFINITION>
+				<USAGES>
+					<USAGE>Tukao je mitraljezom po bunkeru.</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.012.07</ID>
+				<DEFINITION>udarati, kucati u kratkim i ritmičkim kucajima; pulsirati (o srcu, krvotoku)</DEFINITION>
+				<USAGES>
+					<USAGE>Srce mu tuče, živ je!</USAGE>
+				</USAGES>
+			</SENSE>
+			<SENSE>
+				<ID>V.012.08</ID>
+				<DEFINITION>a. obavljati neku radnju udaranjem, pripremati nešto; nabijati, trti [tući lan; tući konoplju] b. pripremati jelo takvom radnjom [tući jaja]</DEFINITION>
+				<USAGES>
+					<USAGE>Tukao je meso kako ne bi bilo žilavo.</USAGE>
+					<USAGE>Jaja treba tući dok ne nastane kremasta smjesa.</USAGE>
+				</USAGES>
+			</SENSE>
+		</SENSES>
+	</ENTRY>
+</INVENTORY>

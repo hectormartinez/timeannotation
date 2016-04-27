@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>780</ID>
+    <SENTENCE>Kad su uslijedile oštre reakcije građana, sindikata i raznih udruga, odluka je nakon dva dana povučena uz, najblaže rečeno, smiješno obrazloženje gradonačelnice Pavić da je "potrebno detaljnije analizirati razloge poskupljenja".</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>647</ID>
+    <SENTENCE>Zbog svog djelovanja u Senatu poznat je diljem SAD-a te je uvjerljiv kandidat i s obzirom na vanjskopolitičke, vojne i sigurnosne teme kao vijetnamski veteran i oštar kritičar Vijetnamskog rata.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>161</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7594</ID>
+    <SENTENCE>Ovaj je pravosudni epilog uzrokovao oštre kritike pomoraca, struke i udruga diljem svijeta.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>759</ID>
+    <SENTENCE>Puhovski objašnjava da je Krasić rasla s razvojem političke kulture u Hrvatskoj te da je od 1994, kada je osnovan Državni ured za reviziju, bila 'manje oštra i krupulozna nego danas jer su bili i drukčiji javni kriteriji'.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>152</STARTINDEX>
+    <ENDINDEX>157</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>769</ID>
+    <SENTENCE>MAINZ Kontroverzan plan čupanja oko osmine ukupnog broja europskih trsova vinove loze radi rješavanja krize na europskom vinskom tržištu naišao je na oštre kritike njemačkog ministra poljoprivrede Horsta Seehofera.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7535</ID>
+    <SENTENCE>Prošle godine u 11 mj. počela sam osjećati jake bolove u predjelu lijevog jajnika prema bubregu (konstatne ali ne oštre) koji su se javljali tijekom par mjeseci po završetku menstrualnog krvarenja i trajali petnaestak dana (skoro do slijedećeg krvarenja). Doktorica je pri pregledu vaginalnim ultrazvukom uočila priraslicu na desnom jajovodu za koju je rekla da je vjerojatno posljedica upale i zbog toga je napravljen test na klamidiju ciji su rezultati bili gotovi za 20 min. i pokazali su njenu prisutnost. Terapija je bila Sumamed (i partner) i po prestanku terapije bolovi se više nisu javljali.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>119</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>687</ID>
+    <SENTENCE>Javlja se oštra bol, a potom i oteklina zgloba.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7543</ID>
+    <SENTENCE>Ispalio je i oštru kritiku Glasa Koncila, koji po njemu ima "fašističku interpretaciju morala", pri čemu se dotakao teme o povezivanju morala i moralnosti s nacionalnim, što smatra potpunom greškom.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>610</ID>
+    <SENTENCE>Guardiolina momčad bila je bolja u ovoj utakmici, no izazitih prilika nije imala, osim jedne u drugom dijelu kada je Messi mogao skrenuti u mrežu jednu oštru loptu Henryja, ali otišla je preko gola.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.07</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>152</STARTINDEX>
+    <ENDINDEX>157</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7542</ID>
+    <SENTENCE>"Čvrsto sam odlučio da mjere budu oštre ali pravedne", izjavio je Osborne za televiziju BBC.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7586</ID>
+    <SENTENCE>Tehnologija koja traži lica u kompoziciji i prepoznaje ih kao glavni objekt, zatim ih automatski stavlja u fokus i optimalno prilagođava ekspoziciju kako bi se stvorila slika koja je oštra na pravim mjestima i koja ima savršenu ekspoziciju.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>183</STARTINDEX>
+    <ENDINDEX>188</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7523</ID>
+    <SENTENCE>"Pozivanje na (lokalne) izbore, ako se ne prihvati cenzus oštra je retorika", ocijenio je Bernardić, a na kraju je gradonačelniku poručio 'Make it or leave it !</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>632</ID>
+    <SENTENCE>Stoga traži i potporu ostalih sindikalnih središnjica iz kojih, izuzev Nezavisnih hrvatskih sidnikata, zapravo i nije bilo oštrijih reakcija na sporni potez, a zatražio je i hitno sazivanje tematske sjednice GSV-a.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrijih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7518</ID>
+    <SENTENCE>Izvanredni izvještajni i izborni sabor Udruge hrvatskih ratnih vojnih invalida Domovinskog rata (HVIDRA) prekinut je jučer nakon višesatne burne i na trenutke oštre rasprave sa zaključkom da će se novi, na kojem će se izabrati novo čelništvo HVIDRE, održati za mjesec dana.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>159</STARTINDEX>
+    <ENDINDEX>164</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7505</ID>
+    <SENTENCE>Zahvaljujući Digitalnoj stabilizaciji slike koja povećava ISO osjetljivost, osigurane su oštre slike čak i u uvjetima slabog osvjetljenja.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7552</ID>
+    <SENTENCE>Spor odaziv video kamere i 2-megapikselnog fotoaparata te ne baš oštre fotografije još su neke od stvari koje zamjeramo Nokii.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>631</ID>
+    <SENTENCE>Kako bi se omogućilo besprijekorno, oštro osvjetljenje treba izbjegavati jake kontraste na radnim površinama, npr. u kuhinji.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7556</ID>
+    <SENTENCE>Nakon njegova prebacivanja u Pulu neki su mediji nagađali da je riječ o prvoj primjeni oštrijih zatvorskih uvjeta i mjera prema osuđenicima za organizirani kriminal koje je najavio ministar pravosuđa Ivan Šimonović.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrijih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>625</ID>
+    <SENTENCE>"Češki policajci trebali bi spriječiti konflikte naših sunarodnjaka, kako što je onaj kada su se dvije žene, prošle godine u rujnu, sukobile s hrvatskim policajcima. Taj sukob eskalirao je u oštru diplomatsku prepisku", istaknula je kraju Bednacikova.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>191</STARTINDEX>
+    <ENDINDEX>196</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7576</ID>
+    <SENTENCE>Mirko Deanović u Lingvističkom atlasu Mediterana (Anketa u Boki kotorskoj, 1962.) navodi brankarela (oštra kvačica na udici) i brankadela (oštra kvačica na vrhu zupca na ostima).</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>139</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>752</ID>
+    <SENTENCE>Ferrari je na svojim korporativnim internetskim stranicama objavio vrlo oštru kritiku aktualne situacije koja je, tvrde on, ostavština Mosleyevog križarskog rata.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>694</ID>
+    <SENTENCE>DR-2580C nudi crno - bijelo, skeniranje u 24-bitnoj boji, sivim tonovima i dvostrano, a uvijek daje oštre, jasne i detaljne slike bilo da se radi o grafici, fotografijama ili najsvjetlijem tekstu.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7510</ID>
+    <SENTENCE>O ovom sam predmetu, kao – eventualnom budućem problemu naše Crkve – pisao u nekoliko članaka u Glasu koncila, pred petnaestak godina (!), na što mi je dosta oštro oponirao jedan tadašnji rektor jedne teologije.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>158</STARTINDEX>
+    <ENDINDEX>163</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>747</ID>
+    <SENTENCE>U vinogradu trebamo provoditi higijenske mjere: tijekom ljeta pažljivo pročititi listove (ne previše !) da se poveća prozračnost unutar trsa, ukloniti zaperke koji zagušuju čokot, gnojiti umjereno i izbalansirano te obradom tla smanjiti oštru granicu suša / vlaga.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>237</STARTINDEX>
+    <ENDINDEX>242</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>659</ID>
+    <SENTENCE>Na početku Kongresa oštre kritike na račun Blattera uputio je jedan od potpredsjednika Korejanac Chung Mong - joon.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7506</ID>
+    <SENTENCE>ATENA - Oko 200 sindikalaca u srijedu je spriječilo ukrcaj turista na trajekte u najvećoj grčkoj luci Pireju, podržavajući na taj način brodske strojare koji prosvjeduju protiv oštrih mjera štednje.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>177</STARTINDEX>
+    <ENDINDEX>183</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>695</ID>
+    <SENTENCE>Ovaj digitalni fotoaparat odlikuje se impresivnom razlučivošću od 4,1 MP, te omogućuje jasne i oštre fotografije i vrhunska uvećanja do veličine A3 (42 x 29 cm).</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>795</ID>
+    <SENTENCE>Domaćini su u prvom djelu dobili jedan žuti karton isto zbog oštre igre.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>707</ID>
+    <SENTENCE>Canonov DIGIC III procesor osigurava munjevitu reakciju fotoaparata, iznimnu kvalitetu slike te napredno smanjenje šuma za dobivanje oštrijih, čistijih slika. iSAPS tehnologija koristi podatke o sceni koju snimate kako bi se na najbolji način podesile postavke fotoaparata čak i prije početka snimanja.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrijih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>613</ID>
+    <SENTENCE>Ipak, rabijatan nastup te oštre i kutijaste linije u novoj generaciji pomalo su otupjele i omekšale dopadljivim dizajnerskim smjerom koji Foresteru daje moderni štih.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>697</ID>
+    <SENTENCE>Glavni nam je cilj stimuliranje razvoja i provedba započetih reformi u svim segmentima društva i s njihovom smo provedbom krenuli dosljedno i vrlo oštro.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7530</ID>
+    <SENTENCE>Premijerka već godinu i pol nema hrabrosti za velike odluke i oštre rezove potrebne da bi se Hrvatska izvukla iz najveće ekonomske krize u zadnjih 80 godina.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>639</ID>
+    <SENTENCE>Zatražili su uvođenje oštrijih sankcija protiv vojnoga režima u toj azijskoj zemlji.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrijih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>608</ID>
+    <SENTENCE>- Promatračka misija EZ-a poslala oštar protest JNA zbog divljačkog napada na Dubrovnik.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7567</ID>
+    <SENTENCE>Olujno more je brodolomce, uključujući žene i djecu, zatim počelo bacati na oštre hridi.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>748</ID>
+    <SENTENCE>Nekad sam oštar i znam puknuti jer ne mogu više trpjeti toliko neznanje, toliko grešaka, tu nonšalantnost.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>717</ID>
+    <SENTENCE>Nemrem stvarno ništa reći protiv nje, što će vjerojatno u crno zaviti sve njezine wannabe "konkurentice", a po tom pitanju sam prilično oštar jer nemogu smisliti sponzorušetine.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>136</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>779</ID>
+    <SENTENCE>Dizajniran za upotrebu u digitalnoj fotografiji, Canonov patentirani premaz leća objektiva umanjuje efekt fantomskih sjena i bliještenja uzrokovan internom refleksijom, čime pripomaže u stvaranju oštrih, jasnih fotografija.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>196</STARTINDEX>
+    <ENDINDEX>202</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>715</ID>
+    <SENTENCE>Razlog koji navodi je slab: Moralna crta koja je povučena između ljudi i svih ostalih životinja je "tako oštra" da se specizam "počelo smatrati praktično zamjenjivim s pojmom ljudskog šovinizma" (vidi: Cavalieri, isto, str. 70).</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>788</ID>
+    <SENTENCE>Počela sam ga koristiti oko 9 ujutro, a već na kraju radnog dana više nisam osjetila njegove oštre rubove što je, naravno, pozitivno.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>762</ID>
+    <SENTENCE>Od 1956. do 1959., u doba oštre i žestoke polarizacije oko apstrakcije, jedan je od prvih suradnika Majstorske radionice Krste Hegedušića, u kojoj je, s ostalim članovima te radionice – Ferdinand Kulmer, Boris Dogan, Šime Perić i Hajrudin Kojundžić – potpuno artikulirao svoj apstraktno - gestualni izričaj, koji će sustavno i s iznimnim rezultatima razvijati tijekom sljedećih desetljeća.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7599</ID>
+    <SENTENCE>Upravo je fleksibilnost izuzetno važna za ostvarivanje ciljeva iz Europske strategije zapošljavanja s obzirom na brzi tehnološki napredak i oštru konkurenciju na svjetskoj razini.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>140</STARTINDEX>
+    <ENDINDEX>145</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>749</ID>
+    <SENTENCE>Uz to mislim da kenjaš da si vozio Alfa, ako jesi sigurno si kupio neke raskašetane krntije sa 200 000 km oštre vožnje.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>636</ID>
+    <SENTENCE>Ponekad osjetim oštru bol prilikom snošaja koja brzo prođe.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>729</ID>
+    <SENTENCE>Makedonska je vlada, koja se izvanredno sastala u ponedjeljak, oštro osudila taj "diverzantski, ničim izazvan, napad albanskih terorista iz zasjede".</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>727</ID>
+    <SENTENCE>Konzervativna Narodna stranka, koja je dok je bila na vlasti vodila oštru politiku prema ETA-i u čemu se razlikovala od aktualnog premijera, socijalista Josea Zapatera, kritizirala je prvu premijerovu reakciju o suspenziji dijaloga.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>720</ID>
+    <SENTENCE>Ovakva oštra kazna došla je nakon što su prošle godine farmer i prodavač koji su optuženi za kontaminaciju mlijeka melaminom osuđeni na smrt, prenosi Wall Street Journal 's. Kao posljedica te kontaminacije preminulo je šestero djece, a slučaj je odjeknuo u cijeloj Kini, ali i svijetu.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>704</ID>
+    <SENTENCE>Napredne značajke za izradu slika pružaju najkvalitetnije rezultate, a obuhvaćaju Punch Hole Removal (uklanjanje tragova uveza), Auto Size Detection (automatsko prepoznavanje veličine stranice), Deskew (korekcija iskrivljenja) i Advanced Text Enhancement (napredno poboljšanje teksta), čime se osigurava neprekidna izrada oštrih slika smanjene veličine datoteke, a u svrhu brže obrade.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>322</STARTINDEX>
+    <ENDINDEX>328</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>642</ID>
+    <SENTENCE>U opasnom i iscrpljujućem transportu u mraku, punom zavojitih strmih staza, oštrih stijena i odrona kamenja, ozlijedio se i jedan spašavatelj.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>743</ID>
+    <SENTENCE>Na papiru, ona djeluje u redu: ima zone za pretjecanje, nagla kočenja, oštre zavoje, a ono u praksi ― akcije malo ili ništa.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>614</ID>
+    <SENTENCE>U američkim političkim krugovima sad se procjenjuje da je ovo težak poraz američkog potpredsjednika Cheneyja, glavnog zagovornika oštre politike protiv Irana, čak i ratne opcije, te da ovo nije udarac samo njegovoj reputaciji i njegovim eventualnim planovima za mjere protiv Irana, nego i njegovu općem kredibilitetu, pa možda i znak opadanja njegova utjecaja na američku vanjsku politiku, koju je u nekim segmentima osobno vodio.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>706</ID>
+    <SENTENCE>Usvajanju proračuna prethodila je temperamentna rasprava u kojoj su oporbeni vijećnici iznosili oštre zamjerke vlasti na način trošenja općinskog novca.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>730</ID>
+    <SENTENCE>Uvođenje četvrtog kruga sankcija Iranu bila je "glavna sporedna tema" Washingtonskog summita, koja je dominirala u bilateralnim razgovorima, a Obama je na konferenciji za tisak ponovio kako želi da se nove, oštre sankcije Iranu, zbog nastavljanja nuklearnog programa, uvedu "čim prije".</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>207</STARTINDEX>
+    <ENDINDEX>212</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7593</ID>
+    <SENTENCE>Ruski predsjednik Dmitrij Medvedev stigao je u iznenadan posjet Dagestanu u četvrtak, dan poslije dvostrukog samoubilačkog napada u toj nemirnoj kavkaskoj republici i obećao oštre, tvrde mjere protiv terorista, prenijele su ruske agencije.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>174</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>781</ID>
+    <SENTENCE>Župan izražava i oštar prosvjed protiv javnog širenja straha i nesigurnosti u Osijeku, koji, kaže Bubalo, širi načelnik osječke policije svojim izjavama.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>667</ID>
+    <SENTENCE>Nadam se ipak da obrazovanjem nikada neće upravljati financijski stručnjak koji razmišlja samo o brojkama, a ništa ne zna o pedagoškom radu i značenju škole za svaku sredinu - oštar je Željko Stipić, predsjednik "Preporoda".</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>176</STARTINDEX>
+    <ENDINDEX>181</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>681</ID>
+    <SENTENCE>Objavljen je demanti Piquetovih tvrdnji, a slijedila je i vrlo oštra optužba protiv oca i sina Piqueta, pa je Renault čak najavio sudske tužbe protiv njih.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>719</ID>
+    <SENTENCE>Ipak, ako se netko zaželi i oštrijih riffova, njih će pronaći u naslovnoj kompoziciji "Rock @ Roll".</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrijih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>746</ID>
+    <SENTENCE>Uostalom, uvođenje tzv. aktivne obrade odštetnih zahtjeva, očekuje se i u novom Zakonu o obveznim osiguranjima u prometu, koji se upravo radi i usklađuje s pravom Europske unije, koja posebice inzistira na brzini rješavanja odšteta i osigurateljima postavlja vrlo kratke rokove (tri mjeseca od podnošenja zahtjeva) uz oštre sankcije u slučaju njihovog neodržavanja.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>318</STARTINDEX>
+    <ENDINDEX>323</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7578</ID>
+    <SENTENCE>Povod ove akcije su navodno oštre kritike potencijalnih kupaca da su njihovi konzultanti utvrdili bitno drugačije podatke o razini dugova i to u značajno većem iznosu od podataka koje su dobili u natječajnoj dokumentaciji.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>765</ID>
+    <SENTENCE>Potom je od predsjednika Tuđmana ishodio da zadnjih dana kolovoza ili prvih dana rujna 1993. Bobanu pošalje oštro pismo.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>770</ID>
+    <SENTENCE>Učinci se šire na potrošače i poduzeća, koji su do sada bili na udaru i nedavnih visokih cijena nafte i roba, dok se sada očekuje oštar pad potražnje, upozorio je.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7532</ID>
+    <SENTENCE>S obzirom na to da je većina ekonomskih analitičara ocijenila proračun za iduću godinu teško održivim, izgledno je da će Vlada, ako i dalje bude ustrajna u izbjegavanju oštrijih proračunskih rezova, morati posegnuti za dodatnim zaduživanjem.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrijih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>169</STARTINDEX>
+    <ENDINDEX>177</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7584</ID>
+    <SENTENCE>On je tražio "oštru i jasnu akciju Ujedinjenih naroda, posebice Vijeća sigurnosti" na te prijetnje.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7590</ID>
+    <SENTENCE>Strmi usponi i oštre padine značajke su Gitschtal staze, koja sa svojih 14 km povezuje mjesta Hermagor i Weißbriach.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>737</ID>
+    <SENTENCE>Bijela kuća u petak je javno ukorila afganistanskog predsjednika Hamida Karzaija, zbog oštre kritike zapadnih zemalja i UN-a koje je optužio za namještanje izbora, nazivajući njegove izjave "istinski zabrinjavajućim" i tražeći "pojašnjenje" od Kabula.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>784</ID>
+    <SENTENCE>Slika koja se stvara u ljudskom mozgu oštra je samo u središtu vidnog polja (čunjići), međutim s obzirom da je mozak koncentriran na to polje slika je oštra.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>151</STARTINDEX>
+    <ENDINDEX>156</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>676</ID>
+    <SENTENCE>Kako bi pokazali da neće tolerirati simuliranje, Uefa je jedva dočekala oštar napad Škotskog nogometnog saveza i igrača Celtica na Eduarda da Silvu, koji je pao u uzvratnom susretu Lige prvaka, između Arsenala i Celtica.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>620</ID>
+    <SENTENCE>Obama je učinio i ono što je očekivano s velikom pozornošću: zauzeo se za državnu, odnosno javnu opciju zaštite, koja ima oštre protivnike među republikancima, ali izaziva i oprez oko desetak demokratskih članova Senata.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>669</ID>
+    <SENTENCE>Izvrsna kamera od 12mpx, sa Xenon bljeskalicom, izoštravanjem na dodir, svjetlom za video, daje tako oštre snimke, da će vas ljudi nerijetko upitati, sa kojim to fotoaparatom slikate, a tako se desilo i meni kada sam prvi put išao razviti fotke u foto - studiju fotograf je ostao zapanjen da slike dolaze iz mobitela, a ne fotoaparata !</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>739</ID>
+    <SENTENCE>To vam je isto kao da ste i odzumirali sliku na monitoru i divili se kako je oštra "onako malena".</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7508</ID>
+    <SENTENCE>'Bilo je to prije četiri godine kad sam uklizao Ballacku i nakon toga vikao na njega jer sam mislio da nisam uopće napravio tako oštar start kao što je on odglumio.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>671</ID>
+    <SENTENCE>U prvom polufinalu Marelo i Narona su igrali tešku i oštru utakmicu.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>773</ID>
+    <SENTENCE>U listopadu je u Hrvatskoj industrijska proizvodnja pala neočekivano oštrih 4,4 posto na godišnjoj razini pa su makroekonomisti podijeljeni u procjenama kretanja proizvodnje u studenom.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>628</ID>
+    <SENTENCE>Uz "mokro" vrijeme, nikome ne bi bilo svejedno svladavati prepreke uz same rubove provalija, kliske kosine i nagibe, stjenovite uspone ili usjeke i klance u kojima iz blata vire kliske i oštre stijene.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>187</STARTINDEX>
+    <ENDINDEX>192</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7502</ID>
+    <SENTENCE>Prozirne ili tonirane, staklene ili plastične – saznajte više o lećama koje su oštar vid vratile ponovno u praksu.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>615</ID>
+    <SENTENCE>Treba spomenuti da je konkurencija bila prilično oštra, za nagradu se borilo čak 97 Oracle partnerskih tvrtki u Hrvatskoj.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7554</ID>
+    <SENTENCE>Kritika je bila vrlo oštra prema svim kanconama, a posebno prema već zastarjelom prikazivanju najstarijeg talijanskog festivala.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>646</ID>
+    <SENTENCE>Neki sudionici sastanka iza zatvorenih vrata između Arafata, ministara u vladi i dužnosnika PLO-a, izjavili su da je Abbas predložio oštre mjere kao što je zamrzavanje bankovnih računa militantnih skupina i stavljanje izvan zakona vojnih krila Hamasa i Islamskog džihada.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7570</ID>
+    <SENTENCE>No oštro upozorenje i kritika zbog besplatnih udžbenika, kao i Primorčev odgovor, potvrđuju da su međusobni odnosi na vrlo niskoj razini i iz ministarstva obrazovanja stižu ozbiljne informacije po kojima ministar razmišlja o ostavci.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>3</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7519</ID>
+    <SENTENCE>Međutim, palestinski dužnosnici su rekli kako je Arafat zabrinut da bi pretjerano oštre mjere mogle izazvati građanski rat.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>684</ID>
+    <SENTENCE>Kad je o partnerskom statusu pri NATO-u riječ, dva su praktički politička aksioma koja stoje pred Hrvatskom: oštra civilna kontrola nad vojskom i sposobnost, tj. (politička) spremnost da se sudjeluje u zajedničkim partnerskim operacijama.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7536</ID>
+    <SENTENCE>U petak je južnokorejski predsjednik Lee Myung-Bak najavio da bi Pjongjang svoj satelit mogao lansirati već u subotu, a SAD i njegovi saveznici opet su pozvali Pjongjang na suzdržanost i najavili 'oštar' odgovor na lansiranje.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>197</STARTINDEX>
+    <ENDINDEX>202</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>643</ID>
+    <SENTENCE>Izazovi koje dizajneri moraju proći, uz oštar ocjenjivački žiri koji čine Heidi Klum, dizajner Michael Kors i urednica Ella Nina Garcia, dokaz su da oni zaista jesu talentirani i da se žele probiti i pokazati svijetu što znaju i umiju.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>702</ID>
+    <SENTENCE>Opačić je za Index prokomentirala i oštar obračun između premijerke Kosor i njenog prethodnika Sanadera, kojeg je prije šest mjeseci branila i podupirala: "To govori o njenoj dosljednosti, šest godina je bila desna ruka Sanadera i sudjelovala je u odlukama koje su dovele državu do bankrota. Ovo nije ništa čudno za nju. U stanju se odreći velikog broja HDZ-ovaca da bi dovela Hrvatsku u Europsku uniju ili postigla bilo koji drugi cilj".</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>655</ID>
+    <SENTENCE>U tom segmentu je konkurencija oštra poput britve, a kupci znaju što žele.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7521</ID>
+    <SENTENCE>Igrala se 65. minuta kad je Modrić probio Liverpoolov desni bok i sjurio se u 16-erac. Metar - dva od korner - crte ubacio je oštru loptu pred vrata, Škrtel je u padu nespretno zahvatio i zatresao vlastitu mrežu.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.07</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>126</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>782</ID>
+    <SENTENCE>Moj dečko (18) je bio na pretragama i nisu mu našli ništa na srcu (čak ni šum), ali njega nekada zna presjeći oštra, uglavnom kratka bol u prsima, u predjelu srca.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7513</ID>
+    <SENTENCE>Nažalost, te zemlje sada moraju poduzimati oštre mjere navrat - nanos u nepovoljnim političkim okolnostima.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>778</ID>
+    <SENTENCE>Talijanska glasila objavila su u petak oštre komentare protiv Berlusconija koji je napao ne samo komentatora Enza Biagija, koji u "Corriere della Sera" kritizira premijerove poteze, već i pokojnog Indu Montanellija.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7587</ID>
+    <SENTENCE>U više navrata je, tvrdi Tužiteljstvo, rukama i nogama, udarao Zvezdana Mačka koji je bio vezan za stolicu, "a okvirom pištolja na čijem je dnu bio oštar metalni nastavak napravio mu 37 otvorenih rana na koje je sipao sol".</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>153</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>766</ID>
+    <SENTENCE>Međutim, te vaše riječi naišle su na oštra reagiranja nekih političkih stranaka.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštra</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>612</ID>
+    <SENTENCE>Jeste li razumjeli naše diplomatske poruke – to je, navodno, europska trojka upitala premijera Račana i njegova klona Piculu nakon što su im uručili oštar demarš Europske unije, piše Novi List.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>149</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>622</ID>
+    <SENTENCE>Hoće li se HDZ napokon izdignuti iznad politikantstva ili će nakon što su upropastili gospodarstvo nastaviti upropaštavati i kulturu ove zemlje - bio je oštar Baranović.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštar</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>153</STARTINDEX>
+    <ENDINDEX>158</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>680</ID>
+    <SENTENCE>Odjeljivanje od svijeta i oštrih pasa doista pomaže.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>674</ID>
+    <SENTENCE>Ahmadinedžad je govor držao u gradu Bint Jbeilu, gdje je 2006. godine, tijekom izraelskog napada na Libanon, došlo do nekoliko oštrih sukoba Hezbollaha i izraelskih vojnika, rekao da taj grad simbolizira libanonski otpor.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>133</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>689</ID>
+    <SENTENCE>U nastojanju da sreže nabujali proračunski manjak u visini 13 posto bruto domaćeg proizvoda (BDP), Grčka je predložila oštre mjere štednje i povećanje poreza, čime je izazvala valove prosvjeda na ulicama Atene u proteklim tjednima.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>664</ID>
+    <SENTENCE>Učinkoviti optički sustav i izvorna XGA rezolucija omogućavaju izuzetno oštru sliku – do dijagonale od 400 inča.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>635</ID>
+    <SENTENCE>Nakon oštrih poruka sa SDP-ove konvencije Sisačko - moslavačke županijske organizacije koje su uglavnom bile usmjeren protiv aktualne vladine politike, reagiralo je i Glavno tajništvo HDZ-a.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštrih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>768</ID>
+    <SENTENCE>Taj njezin pothvat izazvao je samo oštre negativne kritike i osigurao joj prvo mjesto na ovogodišnjoj ljestvici najlošije odjevenih zvijezda.</SENTENCE>
+    <TARGETLEMMA>oštar</TARGETLEMMA>
+    <TARGETWORD>oštre</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+</SET>

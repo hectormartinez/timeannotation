@@ -1,0 +1,2388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>9312</ID>
+    <SENTENCE>– Čim je normalno, lijepo vrijeme, svi koji ne mogu bez hodanja dođu barem do grafičara.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4240</ID>
+    <SENTENCE>Igraču je plaćena ta rata i sve je sasvim normalno - rekao nam je jučer Hajdukov predsjednik Josip Grbić.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4205</ID>
+    <SENTENCE>U izjavi za medije u Srbiji, Luka Karadžić je kazao da je Radovan izgubio dosta na kilaži, ali je normalan i svijestan svega što se događa.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9315</ID>
+    <SENTENCE>Obilne kiše koje su, nakon niza sušnih mjeseci, posljednjih par dana zahvatile šire područje Dalmacije, ostale su, na zadarskom području unutar granica normalne količine oborina za ovo doba godine.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>152</STARTINDEX>
+    <ENDINDEX>160</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4254</ID>
+    <SENTENCE>Zašto se normalne ljude uvijek maltretira s intimnim stvarima pedera i ostalih nedoje. anih spodoba.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4351</ID>
+    <SENTENCE>Ipak, u najmanju je ruku bezobrazno turistu za 100 eura izbrojiti po sto kuna manje od "normalnog" tečaja što se kreće oko 730 kuna.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4364</ID>
+    <SENTENCE>U svakoj normalnoj stranki ili tvrtki kordiniraju se izvori prije nekih javnih izjava. Naravno da je to komunističkim medijima i strankama čudno jer kod njih se još radi po onome radi što god želiš i ništa ti se neće dogoditi.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4378</ID>
+    <SENTENCE>Kriteriji su napravljeni tako da normalnim radom i poštivanjem pravila i procedura radnik osim onih osiguranih 50 posto svoje individualne plaće, u najvećem broju slučajeva dobije i preostalu polovicu, odnosno trinaestu plaću, veli Škoro.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4322</ID>
+    <SENTENCE>Istina Martine, samo sto mi nismo normalna drzava.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9333</ID>
+    <SENTENCE>Zaboravite na normalni život, na sve probleme i sve je sjajno.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4260</ID>
+    <SENTENCE>No kad je briga o izgledu normalna i poželjna pojava, a kad je vrijeme za uzbunu ?</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9345</ID>
+    <SENTENCE>Belma je potom izjavila kako se s Mirzom družila "normalno", kao i svi za stolom.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9398</ID>
+    <SENTENCE>"Stalno nas ispituju kako to da smo tako dobri prijatelji. Pa, meni se ne sviđa baš sve što Bruce radi, a ni njemu se sigurno ne sviđaju svi moji postupci. Ali družiti se s njime sada mi je potpuno normalno. Zajedno odlazimo na ronjenje, družimo se s njegovim kćerima, gledamo filmove, razgovaramo o sportu", rekao je Ashton.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>198</STARTINDEX>
+    <ENDINDEX>206</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4235</ID>
+    <SENTENCE>Normalno je da Aquarius i Massimo počinju razmišljati da se snimi album obrada na Maxov način.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>Normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4292</ID>
+    <SENTENCE>Voda je u ovom slučaju visoki vanjski dug, koji bi se u normalnim okolnostima podmirilo ili prodajom obiteljskog srebra ili novim zaduživanjem.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9321</ID>
+    <SENTENCE>Već sad se sve to vraća na normalnu razinu.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4249</ID>
+    <SENTENCE>Ako me netko iz Sabora ili Vlade zbog toga nazove Bandićem koji ruši Čačićev model, taj nije normalan.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4269</ID>
+    <SENTENCE>Dečko joj je Nijemac i takva vrsta televizijskog vođenja u Njemačkoj je normalna.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4289</ID>
+    <SENTENCE>"Vjerojatno to nekomu izgleda kao čin građanske hrabrosti, ali to je za mene normalno ponašanje.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4325</ID>
+    <SENTENCE>U biti ne, ali ako ti nešto pođe po zlu onda imaš backup u samom stylexpu, a uz to ćeš kad promijeniš bootscreen dobiti izbornik prije startanja windowsa kao da imaš dva operativna sustava (jedan izbor su normalni wini, a drugi s bootscreenom).</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>205</STARTINDEX>
+    <ENDINDEX>213</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4280</ID>
+    <SENTENCE>Di to normalan čovik more reć.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4230</ID>
+    <SENTENCE>Premda svakodnevno upravljanje sustavom od 800.000 ljudi, kojima treba osigurati normalan prijevoz, struju, vodu, trgovine, kina, mjesta za izlaske, ceste bez previše rupa, to baš i nije kao otići u ured i odraditi svojih osam sati, a onda se vratiti kući i gledati televiziju.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4228</ID>
+    <SENTENCE>Sve promjene su potpuno normalne.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4213</ID>
+    <SENTENCE>Posljednji "normalni meč" Goran je odigrao još početkom veljače u Zagrebu kada je Hrvatska pobijedila Njemačku u Davis Cupu.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9354</ID>
+    <SENTENCE>No, to je normalno jer kad se napreže, a rana boli, onda piški po malo, ali češće.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4387</ID>
+    <SENTENCE>Jaka bura ometala je normalno odvijanje prometa prema moru i tijekom subote.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4208</ID>
+    <SENTENCE>Normalna sam žena koja ima obitelj i radi kao nastavnica.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>Normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9306</ID>
+    <SENTENCE>Danas je u Hrvatskoj postalo normalno, ako je netko lopov.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9370</ID>
+    <SENTENCE>Iz Elektrojuga još ne mogu potvrditi kada će svi potrošači na cijelom području imati potpuno normalnu opskrbu strujom.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9380</ID>
+    <SENTENCE>62-godišnji ubojica traži da ga proglase zdravim i presele u normalan zatvor.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4360</ID>
+    <SENTENCE>Ljudi hvala na podršci mislim da sve ove × × × × × e treba maknuti odavde i neka se normalni ljudi dopisivaju o normalnim stvarima, ali Vrbovec je selendra pa ljudi znaju samo tračati i pljuvati jedni druge, baš ste svi jadni.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9372</ID>
+    <SENTENCE>Zato jer je stvaranje inzulina unutar gušterače nedovoljno za normalno održavanje zdrave razine šećera u krvi.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9308</ID>
+    <SENTENCE>Pogotovo zbog činjenice da je ovo prvi put kako INA obustavlja normalnu isporuku kerozina na ovako dugi rok.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4221</ID>
+    <SENTENCE>Normalni broj kromosoma u tjelesnim stanicama čovjeka je 46 (23 parna kromosoma, diploidni), uključujući jedan par spolnih kromosoma (gonosoma).</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>Normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9337</ID>
+    <SENTENCE>Vrijednosti tlaka između navedenih patoloških vrijednosti i normalnih vrijednosti nazivaju se graničnom hipertenzijom.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4320</ID>
+    <SENTENCE>Ethan, Grace i Emma su shrvani, no dok se Grace i Emma polako oporavljaju i pokušavaju nastaviti s normalnim životom, Ethan postaje opsjednut hvatanjem počinitelja.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9353</ID>
+    <SENTENCE>- Ti nisi normalan !</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4202</ID>
+    <SENTENCE>U gotovo svim su zemljama ispitanici odgovorili da je normalno da djedovi i bake te roditelji financijski pomažu mlade.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4335</ID>
+    <SENTENCE>No projekt je započeo još prije sedam godina, ali Talijani još uvijek nisu dobili sve potrebne dozvole koje bi tvornici osigurale normalnu opskrbu potrebnom sirovinom i time nesmetan rad.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9383</ID>
+    <SENTENCE>— Želim nastaviti normalan život i zaboraviti na sve loše u prošlosti — kazao je Andrić sudskom vijeću.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9375</ID>
+    <SENTENCE>'Sasvim sam normalna, ali imam posebne potrebe pa smatram da bi ostali ljudi trebali biti obazriviji prema meni sličnim osobama', zaključila je Mack.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4214</ID>
+    <SENTENCE>To su osnovni preduvjeti kakve bi svatko normalan očekivao i u osobnim odnosima sa svojim susjedima !</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4369</ID>
+    <SENTENCE>Pozivanje na nečije ubojstvo normalnom čovjeku ne bi smjelo biti zabavno.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4342</ID>
+    <SENTENCE>Kroz tmušu i tmu ispraznih proeuropskih parola, politikantskih podmetanja i domoljubnih zaklinjanja, sve se glasnije probijaju konkretni ekonomski projekti na čijem bi interesnom sučeljavanju, kao u svakoj normalnoj demokratskoj zemlji, valjalo birati buduću vlast.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>206</STARTINDEX>
+    <ENDINDEX>215</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9371</ID>
+    <SENTENCE>Tako bi Droga Kolinska u normalnim uvjetima stajala oko 400 milijuna eura, no zbog pada prihoda, mogla bi biti prodana značajno ispod cijene.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4348</ID>
+    <SENTENCE>Posvuda se mogu vidjeti pretili ljudi, pa zato čak i oni koji imaju zdravstvenih problema zbog svoje težine misle da su zapravo "normalni" - rekao je voditelj istraživanja profesor Mahbubur Rahman.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4347</ID>
+    <SENTENCE>U ljubavi nisam zahtjevan ili komplicir ­ a ­ n, smat ­ r ­ a ­ m se normalnom osobom koja teži normalnom odnosu s voljenom osobom.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9358</ID>
+    <SENTENCE>To se događa kada su donji očnjaci smješteni prema jeziku i sasvim su uspravni dok su kod normalnog zagriza nagnuti prema van.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4374</ID>
+    <SENTENCE>Mene zanima o kojoj se energiji radi, jer Zagreb dnevno troši 300 tisuća kubika vode koju diže za 3 metra više nego što bi je dizao da je Sava normalna.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>143</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4400</ID>
+    <SENTENCE>To je, u srijedu, čelnicima Hrvatskog nogometnog saveza (HNS) rekao predsjednik Hrvatskog državnog sabora Zlatko Tomčić na kraju razgovora tijekom kojega ga je izaslanstvo HNS-a upoznalo s poteškoćama u poslovanju klubova s blokiranim računima, što onemogućuje normalno poslovanje većine nogometnih klubova u Hrvatskoj, od općinskih do I. lige.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>261</STARTINDEX>
+    <ENDINDEX>269</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9351</ID>
+    <SENTENCE>Na normalnom partyju komunikacija se ostvaruje tako da nekom pokušate nešto reći jedanput, pa drugi put, a nakon trećeg puta taj netko se nasmiješi i samo kaže da - da, iako vas uopće nije razumio.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>3</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4212</ID>
+    <SENTENCE>Ja radim normalno jer sebe smatram legalnim predsjednikom Hvidre.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4300</ID>
+    <SENTENCE>Da ona radi neki normalan posao u uredu, svako jutro ide tramvajem u firmu, sigurno bi bila zdravija, ne bi imala ovakvih problema.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4357</ID>
+    <SENTENCE>Što se tiče nas, mi ćemo osigurati sve uvjete za normalno izdržavanje kazne.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9373</ID>
+    <SENTENCE>Pa, sad, pisci je malo preuzetan termin, hmm, normalni ljudi, ja bih rekao, ali svako se našao u nekom sasvim drugom svijetu kasnije, ne želim razbijati iluzije, dakako, ali upozoravam, teško je živjeti od stihova.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4203</ID>
+    <SENTENCE>Zastupnik u Skupštini Srbije i predsjednik Socijaldemokratske unije Žarko Korać nakon izricanja presude je izjavio kako je u svakom normalnom društvu prijetnja smrću kažnjiva te da je uvjetna kazna skandalozna.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4380</ID>
+    <SENTENCE>Želim ti oporavak i dug život. Pomogao si nama Hrvatima i BiH. da rat završi i da se vratim sa boišta u normalan život.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4305</ID>
+    <SENTENCE>Za Normabele je rekao da ih ima svaki normalan građanin.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9326</ID>
+    <SENTENCE>Doživite li njegove riječi kao nešto potpuno normalno ("Halo ? A kako si ti reagirala kad si vidjela Clivea Owena ?"), sve je ok.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9338</ID>
+    <SENTENCE>Međutim, predstava o kojoj će ovdje biti riječ - dvije ipak ne zaslužuje respekt normalna gledateljstva.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4277</ID>
+    <SENTENCE>Boja vozila je toliko otporna da se u normalnom slučaju može prati bez problema u automatskim praonicama.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4332</ID>
+    <SENTENCE>Inace je po danu temperatura normalna, djevojcica je vesela, fino jede.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4381</ID>
+    <SENTENCE>Ovdje najvažniju ulogu ima položaj tijela, jer čovjek naglavačke može izdržati deakceleraciju maksimalno od 2400 N što je 5 puta manje nego prilikom normalnog pada na noge.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>149</STARTINDEX>
+    <ENDINDEX>158</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4303</ID>
+    <SENTENCE>J: Ne, ja mislim da je to s jedne strane pravna logika koja mora biti ugrađena u svaku normalnu državu, s jedne strane, a s druge strane, naravno da imam i taj osjećaj, ljudski osjećaj, da svatko mora moći zadovoljiti svoje interese, svoje potrebe, da mora biti u prilici da pokaže ono što jest, i da tu ne smije biti nikakve diskriminacije.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4330</ID>
+    <SENTENCE>"Jučer sam se ful tresla, a danas malo manje. Pokušavam se praviti da je normalan dan, sjedim i gledam film, nastojim ne misliti na show, ali trema je prisutna", kaže Ana.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9325</ID>
+    <SENTENCE>A tko uz takav presing može bit normalan i uspješno nekaj delat.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4282</ID>
+    <SENTENCE>S obzirom da je u dobi razvoja djece promjena dioptrije normalan proces, Junior je i ekonomski prihvatljiv izbor !</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4262</ID>
+    <SENTENCE>Da su ovi pederi "normalni" kao što se predstavljaju (i da su sigurni u to da su normalni) nebi im bio problem ova izjava.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4216</ID>
+    <SENTENCE>Djeluje kao moćni stimulans makrofaga i potpomaže normalan i zdrav rad imuno sustava.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4257</ID>
+    <SENTENCE>Takve oblike ponašanja mladi često ne prepoznaju kao nasilje i smatraju ih 'normalnim' dijelom svake veze.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4299</ID>
+    <SENTENCE>Ima i recidiva što je normalna pojava, jer da ih nema ne bi ni Klubovi trebali postojati.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4312</ID>
+    <SENTENCE>Rezultati direktne čvrstoće smicanja pod normalnim opterećenjem od 25 kN / m2 pokazali su da je posmična sila narasla na 64,7 kN / m2 nakon prethodnog vlaženja od 48 sati i bez ograničenog tlaka.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4343</ID>
+    <SENTENCE>Tako da taj specijalni rok na isti dan su ostali profesori iskoristili tako da nam stave normalne rokove, ili da ih ukinu pa imamo samo 1 put.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9329</ID>
+    <SENTENCE>Stranke su mi govorile da nisam normalan, jer su slušale sjedeći u uredu kako sam razgovarao s nadležnima, pokušavajući im pomoći.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4244</ID>
+    <SENTENCE>No, zahtjev za zapošljavanjem petog liječnička nije prihvaćen, a Komisija HZZO-a je mirne duše zaključila kako su uvjeti rada u paškoj ambulanti normalni "u odnosu na sustav koji je tako postavljen."</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>153</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9340</ID>
+    <SENTENCE>Kako većina žena ne dobiva dovoljne količine kalcija ni u "normalnim okolnostima", trudnice su pogotovo izložene riziku od deficita ovog minerala koji je esencijalan za izgradnju i održavanje čvrstih kostiju.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4223</ID>
+    <SENTENCE>To je ona situacija koja bi trebala biti normalna i česta i vjerujem da je tako i da to još uvijek egzistira, samo ne znam u kojem postotku.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9361</ID>
+    <SENTENCE>Idioti (oni fotoaparati koji samo imaju gumb za slikanje i ništa više) su namješteni tako da djeluju u prosječnim, normalnim uvjetima.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9335</ID>
+    <SENTENCE>Postoje učinkoviti načini za tretiranje depresije i za ponovni povratak u normalan život bez patnje.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4258</ID>
+    <SENTENCE>Bila sam i silno zabrinuta hoću li roditi nakon neuspjela pobačaja zdravo, normalno dijete – svjedočila je mlada majka na sudu.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4356</ID>
+    <SENTENCE>"Neću vam lagati - nisam bila oduševljena tom idejom kad su mi je predložili. Ipak, kontaktirajući s djevojkama, shvatila sam da smo se sve promijenile, što je normalna stvar, pa sam se osjećala puno pozitivnije što se tiče okupljanja", rekla je Sporty Spice na pressici uoči koncerta.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>160</STARTINDEX>
+    <ENDINDEX>168</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4259</ID>
+    <SENTENCE>Predložio ga je njegov Odsjek i misli da je normalna reakcija svakog kandidata koji se prihvaća jedne ozbiljne i odgovorne funkcije kao što je funkcija dekana da ima i stanovite zadrške da se kandidira.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9350</ID>
+    <SENTENCE>"Povlačenje Fedovih stimulativnih monetarnih i kreditnih mjera očekivalo se prije ili poslije. Ipak, ulagači su uznemireni jer smo u jednom zamršenom tranzicijskom razdoblju, u nekoj vrsti lažnog svijeta, stvorenog poticajnim mjerama, i moramo se vratiti u normalno stanje. A to je zamršeno jer, dok će se monetarne vlasti iz nekih područja izvlačiti, u drugima će i dalje intervenirati. To bi za financijska tržišta moglo biti vrlo osjetljivo", kaže Paul Ballew, ekonomist u tvrtki Nationwide Insurance.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>257</STARTINDEX>
+    <ENDINDEX>265</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9381</ID>
+    <SENTENCE>Dostupna u dimenzijama 75 mm x 150 m i 500 mm x 1800 m. U normalnim uvjetima pri vlažnosti mase do 45 % dovoljno je omotati balu u 4 sloja.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4248</ID>
+    <SENTENCE>Zatim se čudimo odakle celulit i zašto ga se ne uspijevamo riješiti, a degenerativne bolesti smatramo slučajem ili normalnim procesima.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9330</ID>
+    <SENTENCE>Nakon umjerene doze kofeina ili neaktivnog placeba, žene su morale otipkati stranicu besmislenog teksta i stranicu normalnog teksta.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4242</ID>
+    <SENTENCE>Ne, to je sasvim normalno.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4316</ID>
+    <SENTENCE>Tako npr. kao pogoršanje ćemo označiti promjenu loše držanje ravna leđa u skoliotično držanje, normalno držanje u kifozu, povećanje Cobbovog kuta skolioze od početnih 15o na 35o, ili povećanje udaljenosti postraničnog zavoja kralješnice kod skoliotičnog držanja od okomice s prijašnja 3 cm na 4 cm.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9336</ID>
+    <SENTENCE>A ne kao normalnu shopovi, da izvade iz kancelarije mob. To je kao da kupujete cipele iz izloga.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9368</ID>
+    <SENTENCE>Uz to, kada se vratimo normalnoj prehrani, tijelo još uvijek 'misli' da hrane opet više neće biti i skladišti više nego što je potrebno.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9360</ID>
+    <SENTENCE>Činjenica je da se oni obraćaju svima, a ne samo nama, normalnim ljudima, ali s obzirom koliko bisera izgovore svojim uzbuđenim ubrzanim glasovima, izgleda da misle da su gledatelji u velikoj većini obični kreteni.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9356</ID>
+    <SENTENCE>Normalno je da se Hrvatske vlasti Thompsona boje pa po svijetu urgiraju da ga se zabranjuje jer samo on je u stanju da sakupi više posjetitelja nego Woodstock.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>Normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4365</ID>
+    <SENTENCE>Tu je još i Mirjana, koja se bori s viškom kilograma, zlobnim komentarima vršnjaka i obitelji koja je sve samo ne normalna.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4368</ID>
+    <SENTENCE>- Kooperacija se više angažira obično kada ima više poslova na navozima, sada to nije slučaj i normalno je da naši radnici preuzimaju njihove poslove.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4333</ID>
+    <SENTENCE>U Saboru se uglavnom bavim obrazovnom politikom i pokušavam uporno dokazati da je politika naporan i nimalo fancy posao te da su u politici normalni ljudi.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>140</STARTINDEX>
+    <ENDINDEX>148</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4210</ID>
+    <SENTENCE>To je samo normalni ciklus obnove kose, i odmah raste nova koja će je zamijeniti.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9320</ID>
+    <SENTENCE>Redovito pijem triquilar tablete, no prošli mjesec sam nakon prvih 7 dobila smečkasti iscjedak (što je normalna nuspojava, znam) koja je trajala do kraja blistera.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4239</ID>
+    <SENTENCE>Cijena je iz gornjeg razreda, ali Illuminated Keyboard je i namijenjena onima koji se vole hvaliti sobom, svojim računalom i svim dodacima za njega, tako da je to normalno.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>163</STARTINDEX>
+    <ENDINDEX>171</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4272</ID>
+    <SENTENCE>ANAS: Hvala na pohvalama, normalno da ću davati sve od sebe da pomognem Hajduku i da se približimo Dinamu i da osvojimo Kup !</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4276</ID>
+    <SENTENCE>Sasvim je normalno i logično da država omogućava studij bez plaćanje boljim učenicima i studentima, a da vječni studenti, ponavljači i neradnici sami plate svoje školovanje.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4226</ID>
+    <SENTENCE>Naravno, svaki normalan čovjek će se sa time složiti, ali badava to kazivati nekome bolesnome poput cvrčkice.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4310</ID>
+    <SENTENCE>Na snimci se može vidjeti kako u jednom trenutku život izgleda sasvim normalno, a nakon toga počinje strašno podrhtavanje.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4296</ID>
+    <SENTENCE>"To su odlične vijesti i jedini racionalni i normalan način za izlazak iz krize u kojoj se Osijek našao. Raspuštanje Vijeća je očekivano, kao i proglašavanje odluka Vijeća protuzakonitim pošto je HSP zatražio izvanredni nadzor od strane Središnjeg državnog ureda za upravu." - rekao je HSP-ovac Anto Đapić.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4309</ID>
+    <SENTENCE>Sto se tice CD-a za 100 kn nosi, no samo moram vidjeti kako izgleeda taj prednji dio s normalnim CD-om i zamjenskom plastikom.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4350</ID>
+    <SENTENCE>U ponudi su još i 1,5-gigahercni VIA C7 te sporiji Eden ULV takta 500 MHz, a integrirana je i sva ostala oprema potrebna za normalan rad.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4209</ID>
+    <SENTENCE>Kako je to već normalna stvar, klima je ponovno zakazala tako da sam se za vrijeme koncerta doslovno osjećao kao da se kuham u ogromnom 'pivskom' loncu na laganoj "Fantastičnoj vatri" koja je tako dobro sjela kada su je počeli svirati.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4390</ID>
+    <SENTENCE>Adolescentna psihijatrija obuhvaća znanja o normalnom razvoju mladih između 12. i 26. godine života, osobitosti odstupanja od normalnog razvoja i načina na koje se takva odstupanja mogu tretirati.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9394</ID>
+    <SENTENCE>Supernova radi normalno, za sada nema potrebe za evakuacijom.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4206</ID>
+    <SENTENCE>Svatko normalan će sebi postaviti pitanje kakve veze ima Domovinski Rat i staroegipatska civilizacija od prije par tisuća godina.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9303</ID>
+    <SENTENCE>Animirani lav objašnjava kako teroristi mogu izgledati kao normalni ljudi.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9396</ID>
+    <SENTENCE>Normalne ima samo sjeverna tribina, a na istoku i jugu morat ćemo napraviti potpuno nove.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>Normalne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4224</ID>
+    <SENTENCE>U slučaju da poslodavac posloprimca redovito poziva te da je na snazi manje više redovito zapošljavanje, postoji mogućnost da se ugovor s odgođenim izvršenjem obaveze smatra kao normalni part - time ugovor o zapošljavanju.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>178</STARTINDEX>
+    <ENDINDEX>186</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4279</ID>
+    <SENTENCE>Normalni vremenski interval nabave novog računala je otprilike svake dvije godine iako postoje oni koji nabavljaju dijelove / cijela računala svakih par mjeseci kao i oni koje svoje računalo zadrže dok ne dobije status antikviteta.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>Normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9347</ID>
+    <SENTENCE>Njime se terapeuti educiraju kako kod pacijenta potaknuti normalni motorički razvoj, kako se postiže normalan tonus mišića i normalan razvoj pokreta. '' Tečaj je izuzetno skup, stoji 400 eura, a naše smo terapeute uspjeli educirati zahvaljujući donacijama.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4336</ID>
+    <SENTENCE>Kao što je već spomenuto, svatko tko ide na internet mobom a istodobno je normalan, koristi Operu mini / mobile koju možete sinhronizirati s računalnom preko Opera Linka.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4243</ID>
+    <SENTENCE>Katarina Ott i Dunja Beš u analizi Instituta za javne financije navode da je među svim dosadašnjim hrvatskim vladama bilo normalno predlagati proračune koji se ne mogu ostvariti te da smo upravo stoga u posljednjih 11 godina imali 15 rebalansa.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9316</ID>
+    <SENTENCE>"Činjenica je da hrana spremljena uz pomoć zamjenskih proizvoda, ako se umjereno koristi, može pružiti određenu fleksibilnost u izboru jelovnika, no nije efikasna strategija za kontrolu tjelesne težine, jer proizvodi s manje masnoća često imaju isti ili veći broj kalorija nego njihove normalne verzije," izjavila je profesorica Judith Wylie-Rosett.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>286</STARTINDEX>
+    <ENDINDEX>294</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9397</ID>
+    <SENTENCE>Tada su bile "normalne" stvari koje su danas nepojmljive.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4295</ID>
+    <SENTENCE>Šećerna bolest se dijeli na dva tipa: tip 1 (koji nastaje uslijed nedostatka inzulina - hormona kojeg luče beta - stanice gušterače i koji je neophodan za normalan ulazak i metabolizam glukoze u stanicama) i tip 2 (u čijem nastanku igra ulogu i smanjena osjetljivost stanica na inzulin i neadekvatno lučenje inzulina iz gušterače).</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>155</STARTINDEX>
+    <ENDINDEX>163</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4331</ID>
+    <SENTENCE>Neki poput mene mažu si oči time da ako čovjeku daš normalan život, plaću i stan, da on zaboravi nacionalizam koji je prije svega hrana gladnih i posao besposlenih, ali kohortaši očito ipak znaju bolje.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9348</ID>
+    <SENTENCE>Tada na očaj svoje obitelji postajem veganka, što je za mene oduvijek bilo 'normalno', i donosim odluku o potpunoj promijeni svojeg života.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4382</ID>
+    <SENTENCE>Sve vezano uz Rickyja je potpuno normalno dok ga mama čuva.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4386</ID>
+    <SENTENCE>Kad vodimo istrage, iznimno je važno da znate da smo mi normalni ljudi.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4372</ID>
+    <SENTENCE>No, s obzorom da je dosta vode proteklo od kada se, iako je to društveno posve bolesno, sasvim normalnim smatra traženje posla preko poznanika, političkih istomišljenika i stranačkih iskaznica, Mesić je morao znati u kakvoj je zemlji predsjednik.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9379</ID>
+    <SENTENCE>Bilo ona normalna, suha, mješovita ili masna, svakom tipu kože nužna je hidratacija, pa je svakodnevno vlaženje ključno za zdravlje i ljepotu kože te osjećaj ugode.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4234</ID>
+    <SENTENCE>"Pored toga", navodi se u prijedlogu, "postoji opasnost od incidenata kad budu saslušavani svjedoci Barišić i Pajić, koji terete optuženike. Takvim pritiscima onemogućen je ne samo normalan rad suda, već i Državnog odvjetništa u Splitu".</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>181</STARTINDEX>
+    <ENDINDEX>189</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4324</ID>
+    <SENTENCE>Ukoliko se uskoro nešto ne dogodi i općina ne riješi ovaj problem, mještani Grabovca Krnjačkog su odlučni – 'pomoć ćemo potražiti od Županije jer želimo samo normalan i civiliziran život'.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>158</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4321</ID>
+    <SENTENCE>Marko, je. e. se nas normalne Hrvate ko će bit na vlasti. Po meni mogu bit i majmuni iz plemena Babuni samo da ja mogu normalno živit od svog rada i moji roditelji od mirovine.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4313</ID>
+    <SENTENCE>I dalje se prati kakvoća zraka na južnom dijelu Istre te, prema podatcima Zavoda za javno zdravstvo Istarske županije, dosad nema odstupanja od normalnih pokazatelja.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>144</STARTINDEX>
+    <ENDINDEX>153</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9378</ID>
+    <SENTENCE>Problem je tome što bi ti podaci bili još impresivniji da je kojim slučajem situacija na tržištu normalna.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4384</ID>
+    <SENTENCE>Ona je živjela normalnim životom i dalje čuvala ovce na jednom imanju, uz pomoć Zamin, njene družice.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9382</ID>
+    <SENTENCE>Nije bitno čega, i ja sam rekao nema problema, tražim od vaših igrača igru normalnu, neću dozvoliti prljavštine, vi ste bolji od domaćina i s korektnom i normalnom igrom i uz malu moju pomoć vi ćete pobijediti.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>154</STARTINDEX>
+    <ENDINDEX>163</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4237</ID>
+    <SENTENCE>Sada kad ga upalim boje su normalne, ali cim ga razvucem opet je bijel.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4266</ID>
+    <SENTENCE>Naime, činjenica je da su psihijatrijski bolesnici znatno rjeđe počinitelji i teških i prekršajnih kaznenih djela nego takozvana normalna populacija.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9389</ID>
+    <SENTENCE>Ove godine simptomi su bili toliko izraziti da su mi onemogućavali normalni svakodnevni život.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4355</ID>
+    <SENTENCE>Svakako, ono što radi Marko Grubnić, nije normalno, nameću mediji.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4375</ID>
+    <SENTENCE>Dapače, u svakom normalnom društvu i sređenoj državi Todorića i slične njemu valjalo bi počastiti svim mogućim počastima, a poštedjeti ih nasrtaja divljih pasa svih boja.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9346</ID>
+    <SENTENCE>To će se vrlo brzo vratiti u normalno stanje.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9384</ID>
+    <SENTENCE>Osim što je po svemu bilo u znaku Toyote, ovogodišnje izdanje Tokyo Auto Salona imalo je i najzeleniji prizvuk do sada, što je potvrđeno brojnim primjercima tuniranih hibrida – u Japanu, ekotuning je postao sasvim normalna pojava.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>214</STARTINDEX>
+    <ENDINDEX>222</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4265</ID>
+    <SENTENCE>U većim direktnim ili indirektnim sistemima, kvaliteta vrele vode u mreži treba odgovarati kvaliteti vode propisanoj prema važećim normama vrijednosti demineralizirane ili umekšane vode koje treba održavati u granicama 7-9,5 a dopušten je normalan sadržaj hidrazina i sredstava za alkaliziranje prema zahtjevima za kvalitetom napojne vode vrelovodnih kotlova ili recirkulacijske tople vode.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>239</STARTINDEX>
+    <ENDINDEX>247</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4252</ID>
+    <SENTENCE>"Kad sam došao u London samo sam rekao da sam normalan menadžer na čelu posebne skupine. Odjednom sam postao ` Posebni ` iako samoga sebe nikad nisam tretirao na taj način. Ne mislim da sam najbolji trener nja svijetu, ali isto tako ne vjerujem da postoji na svijetu bolji od mene !", istaknuo je Mourinho u razgovoru za Gazzettu dello Sport.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9365</ID>
+    <SENTENCE>Vrijeđati narod u Hrvatskoj je normalno, propitivati vlast nije dopušteno.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4315</ID>
+    <SENTENCE>Sa sestrom se možeš karati a pederluk je normalna pojava u napredno društvu.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9310</ID>
+    <SENTENCE>"To je dokaz da će se ovdje nastaviti normalan život", rekao je Mesić.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4232</ID>
+    <SENTENCE>– Očekujem velike zvižduke, no to je normalna reakcija.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9392</ID>
+    <SENTENCE>Sukladno tomu, vrlo je važno voditi brigu o troškovima koji se pojavljuju uslijed loma čaša koji je, nažalost, neizbježan ili prihvatljiv ako je u okvirima normalnog.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>156</STARTINDEX>
+    <ENDINDEX>165</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9322</ID>
+    <SENTENCE>Građani tvrde da na Crni petak uštede polovicu onoga što bi potrošili u "normalnom šopingu" drugih dana.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4353</ID>
+    <SENTENCE>HDZ je pun ovakvih pristijnih, obrazovanih, kulturnih i normalnih članova no udbaški mediji vole svako malo puštati Hebranga u eter i objavljivati njegove izjave pa se stječe dojam da je HDZ stranka budala.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9332</ID>
+    <SENTENCE>Kasnije, kada su kočije motorizirane, bilo je sasvim normalno da i mali i veliki automobili imaju nasuprot postavljena vrata koja tvore "portal" (vidi "povijest šarki straga", stranica 45) na način koji nije različit od dvodjelnih ulaza u katedrale i dvorske vrtove.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4340</ID>
+    <SENTENCE>Dakle, za sve one koji su solo, to im ne smeta, i dosta im je uvriježenog mišljenja da to 'nije normalno' - nekoliko savjeta kako se ipak ludo provesti za blagdane.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4367</ID>
+    <SENTENCE>Tipke su smještene na haubi, a na sredini se nalazi i kotačić, sve kao kod "normalnog" miša.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4366</ID>
+    <SENTENCE>S obzirom da nije moguće implementirati RSVP na cijeloj mreži, protokol mora podržavati normalan rad i kad paketi prolaze kroz router koji ne podržava RSVP.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4263</ID>
+    <SENTENCE>Ovaj bogati hidratantni losion koji je posebno napravljen da odgovara normalnoj i suhoj koži, sadrži dragocjene biljne ekstrakte koji osiguravaju optimalnu hidrataciju.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4301</ID>
+    <SENTENCE>Mislim da je sad potpuno normalno da Koalicija HDZ-Demokršćani - HNZ sudjeluje u izvršnoj vlasti na svim razinama od županija, preko Federacije BiH, pa do državne razine.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4283</ID>
+    <SENTENCE>Elektrotehničari rade u zatvorenom prostoru normalne temperature i vlažnosti.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9304</ID>
+    <SENTENCE>Hehe Sodom ovo je mali kompjuter ; D. Ma to je previse za mene, ja sam vise gledao tipa "normalnog" telefona heheh.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4338</ID>
+    <SENTENCE>Imaš podršku svih normalnih ljudi ! didove i unuke na stadione a ne ove huligane !</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4215</ID>
+    <SENTENCE>Joj georgy, pa taj moj buraz, pa to nije normalno !</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalno</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4304</ID>
+    <SENTENCE>U koliko se strah može kontrolirati i nije zapreka u obavljanju svakodnevnih poslova i zadataka, govorimo o normalnom strahu.</SENTENCE>
+    <TARGETLEMMA>normalan</TARGETLEMMA>
+    <TARGETWORD>normalnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.004.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+</SET>

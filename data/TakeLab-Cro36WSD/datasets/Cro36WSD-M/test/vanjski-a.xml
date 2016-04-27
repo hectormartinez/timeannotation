@@ -1,0 +1,1506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>10613</ID>
+    <SENTENCE>Ivano Balić najbolji je srednji vanjski prvenstva, uz to s Christiansenom i Karabatićem dijeli vrh liste najboljih strijelaca.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10671</ID>
+    <SENTENCE>Vanjski izgled Što imate danas u planu ?</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>Vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6939</ID>
+    <SENTENCE>3. Nasljedna: Može biti nasljedna i ne manifestirati se sve dok je neki vanjski uzrok (npr. stresna situacija, živčana napetost) ili određena dob ne izvuku na vidjelo.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6924</ID>
+    <SENTENCE>Ako se vanjski dug ne može platiti robama i uslugama domaće proizvodnje, onda će strani vjerovnik, direktno ili indirektno, naplatiti dug iz nacionalne imovine.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6933</ID>
+    <SENTENCE>Programski paket INSUL za proračun zračne zvučne izolacije međukatnih konstrukcija, vertikalnih pregradnih konstrukcija, kao i vanjskih zidova s građevinskim otvorima, te za predviđanja buke kiše, odnosno predviđanja razina buke iz vanjskog prostora u unutarnju ("outdoor to indoor sound transmission calculator" u skladu s odredbama HRN EN 12354-3).</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6873</ID>
+    <SENTENCE>Predavanja će držati predstavnici Ministarstva vanjskih poslova i europskih integracija te članovi GONG-a.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7000</ID>
+    <SENTENCE>Ima branike u boji vozila, električne podizače prednjih prozora s električnim vanjskim zrcalima i daljinski upravljano središnje zaključavanje.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6803</ID>
+    <SENTENCE>Utvrđeno je kako je u razdoblju od 22. srpnja 2008. godine do 4. ožujka 2010. godine automobilom Toyota Sienna prijeđeno 47.778 kilometara, za što nije vođena evidencija korištenja propisana aktima Ministarstva vanjskih poslova i europskih integracija.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>211</STARTINDEX>
+    <ENDINDEX>219</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6843</ID>
+    <SENTENCE>Istovremeno je vršeno i protupožarno djelovanje, prijevoz vatrogasaca i gašenje požara, traganje i spašavanje na moru kao i pomaganje u prenošenju vanjskog i unutrašnjeg tereta pri obnavljanju infrastrukture na oslobođenom području i van njega Obnovljeno je i mnoštvo porušenih i sakralnih objekata na području Like i Dalmacije, prenošenjem raznog građevnog materijala i prevoženjem ljudi.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10630</ID>
+    <SENTENCE>Slovenska diplomacija smatra da je pozivanjem veleposlanika Bekeša u Ministarstvo vanjskih poslova, kao i sadržajem razgovora, Hrvatska otvorila put do zajedničkog sporazuma o pokretanju arbitražnog postupka.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6969</ID>
+    <SENTENCE>Ova naša Toyota stoji oko 150.000 eura sa svim preradama, a automobili profesionalaca poput Mitsubishija prošlogodišnjeg pobjednika Stéphanea Peterhansela, stoje i po milijun i pol eura ", objašnjava Martinčević i dodaje da takva vozila osim imena malo što veže s cestovnim modelom automobila pod čijim imenom nastupaju:" Motori su im smješteni centralno, šasija je ojačana a vanjski 'omotač' izrađen je od laganog i čvrstog kevlara. "</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>376</STARTINDEX>
+    <ENDINDEX>383</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6830</ID>
+    <SENTENCE>Sastanku su prisustvovali i koopredsjedatelji pregovaračkog tima, predsjednik i premijer Srbije Boris Tadić i Vojislav Koštunica, kao i ministar vanjskih poslova Vuk Drašković i predsjednica vladina koordinacijskog tijela za Kosovo Sanda Rašković Ivić.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>153</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10659</ID>
+    <SENTENCE>No, Lijepa naša našla se u nezavidnoj poziciji sa svojim susjedima s kojima je donedavno dijelila sudbinu u zajedničkoj državi ne samo zbog toga što su se problemi krenuli rješavati (pomoćnik ministra vanjskih poslova Joško Paro naziva to "čišćenjem štala"), nego i zbog činjenice da u razdoblju od samo nekoliko mjeseci susjedima s kojima Hrvatska ima probleme predstoje — izbori.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>201</STARTINDEX>
+    <ENDINDEX>209</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10640</ID>
+    <SENTENCE>ZAJEDNIČKO PJEAVANJE svoj višeslojni utjecaj temelji na najdjelotvornijemu zvuku - usklađenomu ljudskom glasu ; melodija i sadržaj ostaju u uhu trajno ; skupno pjevanje kao zajednička radost uči da se radujemo drugomu ; razvija samopuzdanje prihvaćenošću od drugih ; uravnotežava osobu potičući unutarnji i vanjski skald.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>307</STARTINDEX>
+    <ENDINDEX>314</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6891</ID>
+    <SENTENCE>Srpsko izglasavanje Deklaracije o osudi zločina u Srebrenici 1995. je "važan korak koji omogućuje Srbiji i njezinim susjedima odlučan angažman na zajedničkoj europskoj budućnosti", rekao je francuski ministar vanjskih poslova Bernard Kouchner.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>209</STARTINDEX>
+    <ENDINDEX>217</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6868</ID>
+    <SENTENCE>Priprema vanjske logistike se sastoji od planiranja i pripreme baznih i isturenih logora, planiranja budžeta i nabavke opreme, organizacije transporta, podjele zadataka među članovima ekspedicije.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjske</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6826</ID>
+    <SENTENCE>"Neprihvatljivo je da zapadne sile i zapadni mediji šire anarhiju i vandalizam", izjavio je glasnogovornik iranskog ministarstva vanjskih poslova Hasan Kaškavi.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6884</ID>
+    <SENTENCE>NASA je u subotu za najmanje 24 sata odgodila lansiranje raketoplana Endeavoura zbog istjecanja vodika pri kraju procesa punjenja vanjskog rezervoara s gorivom, kazao je glasnogovornik američke svemirske agencije.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6947</ID>
+    <SENTENCE>Od 24-godišnjeg desnog vanjskog već dugo se očekuje iskorak koji se nije dogodio na austrijskom Euru.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6846</ID>
+    <SENTENCE>I ovo se sigurno neće odnositi na vanjske suradnike koji su neophodni u proizvodnji programa, kazao nam je glasnogovornik HRT-a Danko Družijanić.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjske</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6980</ID>
+    <SENTENCE>Često ga susrećemo kod obnavljanja starih gradskih jezgri, a koristi se za vanjsko popločavanje, oblaganje pročelja, zidova i ukrasnih zidića, za unutarnje podne i zidne obloge.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjsko</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10664</ID>
+    <SENTENCE>Donatorska konferencija u Parizu, na kojoj sudjeluju i glavni tajnik UN-a Ban Ki - moon, američka državna tajnica Condoleezza Rice te izraelska ministrica vanjskih poslova Tzipi Livni, treba postaviti temelje za osnutak palestinske države krajem 2008. godine.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>155</STARTINDEX>
+    <ENDINDEX>163</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6905</ID>
+    <SENTENCE>Vanjski dio vile je zaista divan.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>Vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6818</ID>
+    <SENTENCE>S obzirom na slabljenje dolara u odnosu na euro (za oko 2,8 posto u odnosu na kolovoz) i pretežito zaduživanje u eurima, tečajne razlike stvaraju privid većeg porasta vanjskog duga na mjesečnoj razini: u dolarskim je iznosima vanjski dug krajem rujna viši za 466 milijuna dolara u odnosu na kraj kolovoza, dok je u eurima inozemni dug zabilježio pad od 120,7 milijuna eura te je krajem promatranog mjeseca iznosio oko 21,4 milijardi eura.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>167</STARTINDEX>
+    <ENDINDEX>175</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10634</ID>
+    <SENTENCE>Želimo, po odobrenju Ministarstva i Vlade, a u dogovoru i suradnji sa Zavodom za zapošljavanje i drugim školama angažirati djelatnike koji bi pripomogli oko uređenja škole, odnosno unutarnjih i vanjskih radova, no prvenstveno uređenja okoliša.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>194</STARTINDEX>
+    <ENDINDEX>202</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6977</ID>
+    <SENTENCE>"Carla je alfa ženka. Nikad nije bila milosnica poput Pamele Harriman, američke ambasadorice u Francuskoj koja se nerijetko povezivala s važnim i snažnim muškarcima, već je Carla više kao ženski Don Juan", rekao je Bernard Kouchner, francuski ministar vanjskih poslova.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>252</STARTINDEX>
+    <ENDINDEX>260</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6836</ID>
+    <SENTENCE>Lipomi imaju čvorast ili kuglast vanjski oblik, dostiži različite veličine, uglavnom su tvrde konzistencije, dobro ograničene od okoline i obavijene vezivnotkivnom čahurom.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10626</ID>
+    <SENTENCE>Radi se o medija playeru / recorderu baziranom na Linuxu (2.6 kernel) koji je i u svom beta statusu u stanju posve ispravno reproducirati audio i video sadržaje, te vanjske sadržaje snimati i kodirati u formatima MPEG-4, AVI, ASF, MP3, OGG, WMA i AC3.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjske</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>172</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10632</ID>
+    <SENTENCE>On ističe da je situacija s potrošnjom u Hrvatskoj vrlo loša, tvrtke izvoznici izgubile su dobar dio vanjskih tržišta, što je kao neizbježnu posljedicu imalo rast broja nezaposlenih.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6874</ID>
+    <SENTENCE>Igna Brajević Gizdić, dr. med., vanjska suradnica Lige, majka troje djece, zaposlenica Službe za prevenciju bolesti ovisnosti Nastavnog zavoda za javno zdravstvo Splitsko - dalmatinske županije, asistent pri Katedri za Javno zdravstvo Medicinskog fakulteta Sveučilišta u Splitu, vanjski suradnik Zavoda za kineziologiju Fakulteta Prirodoslovno - matematičkih znanosti i kineziologije Sveučilišta u Splitu.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjska</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6913</ID>
+    <SENTENCE>Provode se mjere dezinfekcije unutrašnjih i vanjskih površina školskih objekata, pa se s toga nastava i dalje neće održavati.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6991</ID>
+    <SENTENCE>Citološke pretrage uvijek izvodimo i pri pretrazi upale vanjskog zvukovoda koji je osobito čest u pasa.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6952</ID>
+    <SENTENCE>Nije poznato ni što će Tuzmen reći Sadamu Huseinu, te hoće li ponoviti prije izrečen zahtjev turskog ministra vanjskih poslova Yasara Yakisa čelniku iračkog režima da dobrovoljno napusti vlast.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6872</ID>
+    <SENTENCE>Novinari su Račana pitali i je li razlog Budišina odlaska i to što ga on kao premijer ne želi vidjeti na mjestu koordinatora za vanjsku i unutrašnju politiku, a što je dosad kao zamjenik premijera radio Goran Granić.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjsku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6914</ID>
+    <SENTENCE>Ugledne goste na zagrebačkom će aerodromu dočekati potpredsjednik Vlade dr. Goran Granić i Tonino Picula, ministar vanjskih poslova.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10689</ID>
+    <SENTENCE>Za razliku od naših sugovornika - predsjednice Nacionalnog odbora Vesne Pusić, bivšeg ministra vanjskih poslova Tonina Picule i bivšeg visokog dužnosnika vanjskih poslova iz redova HDZ-a, koji je želio ostati neimenovan, u Uredu predsjednika ne misle da bi Jandroković trebao otići sa Zrinjevca zbog slučaja 'Švicarska', ali se djelomično slažu s ocjenom kako Jandorković nije dorastao svome poslu.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>154</STARTINDEX>
+    <ENDINDEX>162</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10674</ID>
+    <SENTENCE>Peteročlana radna skupina, u kojoj su bili ministri vanjskih poslova Luxembourga, Velike Britanije i Austrije te visoki predstavnik za vanjsku i sigurnosnu politiku Javier Solana i povjerenik za proširenje Olli Rehn, odvojeno se najprije sastala s Carlom del Ponte, a nakon toga s hrvatskim izaslanstvom koje predvodi premijer Sanader.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjsku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>142</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10683</ID>
+    <SENTENCE>Zbog političkih razloga vezali ste kunu uz europsku valutu, pa sad zbog velikog vanjskog duga ona mora ostati snažna.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6910</ID>
+    <SENTENCE>Računalno inženjerstvo bavi se osmišljavanjem i projektiranjem programske podrške i sklopovlja računala i sustava temeljenih na računalu, međudjelovanjem sklopovlja i programske opreme, oblikovanjem sustava koji podržavaju interakciju čovjeka i računalnog sustava te računalnog sustava i vanjskog svijeta, metodama i postupcima oblikovanja digitalnih sklopovskih sustava kao što su računalni sustavi, komunikacijski sustavi i svi sustavi koji sadrže u sebi računalo, te programskim sustavima, posebice onima koji se koriste kao sučelja između digitalnih uređaja i naprava.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>288</STARTINDEX>
+    <ENDINDEX>296</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6824</ID>
+    <SENTENCE>Uvodi se i funkcija ministra vanjskih poslova, koji se neće tako zvati jer je zadržan stari naziv visoki predstavnik za vanjsku politiku, koji će ujedno biti i potpredsjednik Europske komisije.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6819</ID>
+    <SENTENCE>Zadovoljstvo mi je, da kao vanjski suradnik pripadam timu stručnjaka Ambulante Marković.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10682</ID>
+    <SENTENCE>U knjizi "State of Denial" iznimno su zanimljiva i otkrića o stanju rata u Iraku i velikom utjecaju nekadašnjeg američkog ministra vanjskih poslova i savjetnika predsjednika Nixona za nacionalnu sigurnost Henryja Kissingera na Bushovu vanjsku politiku.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjsku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>235</STARTINDEX>
+    <ENDINDEX>242</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6998</ID>
+    <SENTENCE>Predsjednica vlade Jadranka Kosor i ministar vanjskih poslova Gordan Jandroković uputili su izraze sućuti čileanskoj predsjednici Michelle Bachelet i šefu diplomacije Marianu Fernandezu Amunateguiji povodom razornog potresa.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10669</ID>
+    <SENTENCE>Jedinstven slučaj izuzimanja Hrvatske iz schengenskog režima, po kojem će naši građani od prvog siječnja 2008. samo uz predočenje osobne iskaznice moći putovati u Sloveniju, Mađarsku i Italiju, rezultat je višemjesečnog lobiranja hrvatske diplomacije na čelu s ministricom vanjskih poslova.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>273</STARTINDEX>
+    <ENDINDEX>281</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10700</ID>
+    <SENTENCE>Važna odrednica krajnjeg ishoda je kvalitetna vanjska masaža srca i ventilacija koje često zdravsveni djelatnici ne izvode dobro.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjska</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6960</ID>
+    <SENTENCE>Ministarstvo vanjskih poslova SCG inzistira na poštivanju tih prava Srba u Hrvatskoj i prognanih Srba iz Hrvatske, navodi se u tekstu i dodaje da je, "istovremeno, Ministarstvo vanjskih poslova SCG za ista takva prava Hrvata u Srbiji i Hrvata koji su, prije raspada Jugoslavije, živjeli u SCG".</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>177</STARTINDEX>
+    <ENDINDEX>185</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6941</ID>
+    <SENTENCE>Danas je od nekadašnjeg bedema sačuvana ta unutrašnja ispuna koja se, zbog toga što su vanjski kameni oblozi odneseni, raširila i spustila.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6839</ID>
+    <SENTENCE>Glavna zgrada s 57 soba, recepcija, sef (uz doplatu), blagovaonica, bar, bar na bazenu, TV-salon, internetski kutak, minimarket, vanjski bazen, ležaljke i suncobrani uz bazen su besplatni, a na plaži uz doplatu.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6925</ID>
+    <SENTENCE>Brian J. Haney (30) iz Napervillea u SAD-u je nepozvan parkirao svoj auto u dvorištu kuće mladog para, skinuo se gol te se okupao u njihovoj vanjskoj kadi.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>141</STARTINDEX>
+    <ENDINDEX>149</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6805</ID>
+    <SENTENCE>U Libiji, u Alžiru, Siriji, itd., upitno je dugoročno održavanje današnjeg usmjerenja vanjske politike.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjske</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6950</ID>
+    <SENTENCE>Gotovo do samog izbora nitko nije ni spomenuo njeno ime među kandidatima za položaj europskog ministra vanjskih poslova, tek u srijedu nekoliko je britanskih novina spomenulo njeno ime, ali kao dalekog četvrtog kandidata iza britanskog ministra vanjskih poslova Davida Milibanda, bivšeg talijanskog premijera Massima d ’ Aleme i španjolskog ministra vanjskih poslova Miguela Ángela Moratinosa.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>350</STARTINDEX>
+    <ENDINDEX>358</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6865</ID>
+    <SENTENCE>Postojeće oštećena i trula stolarija zamjenjuje se novom stolarijom od masivne borove građe s prekinutim toplinskim mostom, uz uvjet da novi prozori budu drveni, dvostruki, postavljeni na postojeću poziciju tj. da je stolarija istih dimenzija, oblika, istih vanjskih profilacija i načina otvaranja kao i postojeća.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>258</STARTINDEX>
+    <ENDINDEX>266</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10616</ID>
+    <SENTENCE>Taj će sustav biti djelomično uspostavljen do kraja godine, a operativan će biti do kraja ožujka iduće godine, iznijelo je japansko ministarstvo vanjskih poslova.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>153</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10679</ID>
+    <SENTENCE>- U Kopenhagenu se dr. Tuđman sastao s američkim potpredsjednikom Al Goreom, glavnim tajnikom UN-a B.B. Ghalijem, kao i s N.H. Petersenenom, danskim ministrom vanjskih poslova.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>159</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10605</ID>
+    <SENTENCE>Kočnice prate potrebe automobila, a mjenjač zbog manjih vanjskih dimenzija ima samo pet stupnjeva prijenosa.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6854</ID>
+    <SENTENCE>Ne znam zašto je to tako, ali vanjski izgled je danas, koliko god se činio precijenjen, po meni zapravo podcijenjen.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6881</ID>
+    <SENTENCE>Usto vrše stalni pritisak na vanjsku liniju, o čemu će trebati voditi računa.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjsku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6987</ID>
+    <SENTENCE>Slovenski ministar vanjskih poslova Samuel Žbogar je izjavio da je s hrvatskom stranom postignut dogovor da je "potreban još jedan tehnički sastanak prije nego što se postigne sporazum o rješavanju graničnog pitanja kroz arbitražu".</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6926</ID>
+    <SENTENCE>Dužnost su od svojih prethodnika preuzeli i novi ministar poljoprivrede Božidar Pankretić te ministar vanjskih poslova Gordan Jandroković.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6927</ID>
+    <SENTENCE>No, ubrzo postaje zamjenik ministra vanjskih poslova, a tada navodno i počinje ljubav između njega i predstavnika Hypo banke, odnosno 1995. godine jer je prvi ugovor te banke u Hrvatskoj upravo bio s Ministarstvom vanjskih poslova.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6896</ID>
+    <SENTENCE>Nikol je tada ipak zaključila kako je i njoj ovdje super i da joj ništa ne nedostaje od vanjskog svijeta.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6883</ID>
+    <SENTENCE>"Pravi je hrvatski problem to što ne znamo što je naša vanjska politika i tko su sve njezini akteri. Nije bilo usklađene komunikacije između dosadašnjih aktera vanjske politike: ministra, bivšeg premijera i predsjednika države. Ozbiljne zemlje svoju vanjsku politiku kreiraju malo drukčije, ne bez parlamenta i bez vanjskopolitičkih odbora. Kod nas je vanjska politika netransparentna i vrlo ograničena te ne vodi računa o stvarnim interesima. Uvijek se ponavlja da je naš glavni vanjskopolitički cilj članstvo u EU i kreće se od toga da, ako sve podredimo tomu, onda možemo uspjeti. Ali nije tako", kaže Milorad Pupovac u razgovoru za Večernji.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjske</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>160</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10620</ID>
+    <SENTENCE>Južnokorejsko ministarstvo vanjskih poslova u četvrtak je izvijestilo kako će zajednička vojna vježba sa SAD-om, koja će se održati krajem mjeseca biti jasna poruka Sjevernoj Koreji.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10686</ID>
+    <SENTENCE>18. siječnja - Predsjedništvo HDZ-a raspustilo je zagrebački Gradski odbor stranke i imenovalo Povjerenstvo koje će analizirati stanje u zagrebačkoj organizaciji te pripremiti unutarstranačke izbore u Zagrebu, na čelu kojega je ministar vanjskih poslova i europskih integracija te član Predsjedništva stranke Gordan Jandroković, koji je zbog toga razriješen s dužnosti čelnika bjelovarske županijske organizacije HDZ-a.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>237</STARTINDEX>
+    <ENDINDEX>245</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6917</ID>
+    <SENTENCE>U Ministarstvu vanjskih poslova u Zagrebu se doznaje da su naše vlasti preko talijanskog MUP-a dobile informaciju da je od posljedica trovanja preminuo Nevio Miletić (1952), a stradalo je još troje hrvatskih državljana od kojih je jedna osoba u kritičnom stanju dok su dvije izvan životne opasnosti, javlja HINA.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10639</ID>
+    <SENTENCE>Međunarodna financijska kriza samo nas je gurnula u grob koji smo kopali godinama: nelikvidnost raste, rokovi plaćanja su pomaknuti, država je glavni generator krize, vanjska zaduženja služe za kupovanje socijalnog mira.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjska</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>167</STARTINDEX>
+    <ENDINDEX>174</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10614</ID>
+    <SENTENCE>Osoba s ozljedom rotatorne manžete osjeća bol preko deltoidnog mišića na vrhu i vanjskoj strani ramena, pogotovo kad je ruka podignuta i ispružena sa strane.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10661</ID>
+    <SENTENCE>Glasnogovornik USKOK-a Vuk Đuričić potvrdio je identitet Nevena Jurice budući da je protiv njega Ministarstvo vanjskih poslova već podnijelo kaznenu prijavu, a riječ je o javno - političkoj osobi i postoji interes javnosti.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6859</ID>
+    <SENTENCE>Super - hlađenje – čak i ako Vam nije na raspolaganju vanjsko napajanje.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjsko</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6902</ID>
+    <SENTENCE>Visoki predstavnik predsjedat će sastancima Vijeća za opće i vanjske poslove, koji čine ministri vanjskih poslova zemalja članica.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjske</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10696</ID>
+    <SENTENCE>Do poluvremena je bilo 4: 0, a onda se i Šibenik probudio u napadu i počelo se igrat gol za gol do 9: 5. Šibenik je boljeg rezultat koštao i loš igrač više, gdje su uporno pokušavali odigrat 3-3, ali su se vanjski igrači premalo raširili i tek su negdje iz 8-9 pokušaja na samom kraju utakmice prvi put uspjeli zabit.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>206</STARTINDEX>
+    <ENDINDEX>213</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6808</ID>
+    <SENTENCE>Vujanović je rekao kako je "izgradnja i afirmiranje prijateljskih i dobrosusjedskih odnosa jedan od prioriteta vanjske politike Crne Gore".</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjske</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6912</ID>
+    <SENTENCE>Dolaskom na vlast, Sanader svu vanjsku politiku usmjerava na EU i NATO.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjsku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6922</ID>
+    <SENTENCE>On je "oslobođen bez uporabe nasilja, protivno nekim informacijama na lokalnoj razini", rekao je u priopćenju Eric Chevallier, glasnogovornik francuskog ministarstva vanjskih poslova.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>166</STARTINDEX>
+    <ENDINDEX>174</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6887</ID>
+    <SENTENCE>Iako impresivne veličine, s unutarnjim i vanjskim bazenima, te svim zamislivim komoditetima, hotel se ne može pohvaliti inovativnim dizajnom.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6983</ID>
+    <SENTENCE>Dodana je mogućnost uvoza zapisnika o promjeni cijena iz maloprodajne kase (vanjski program) u glavnu knjigu.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6949</ID>
+    <SENTENCE>Samsung je stoga izradio posebnu tehnologiju osjetljivu na vanjsko osvjetljenje te ju je implementirao u ovu kameru.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjsko</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6965</ID>
+    <SENTENCE>Hrvatska čvrsto zagovara jedinstvenu Bosnu i Hercegovinu, jer je to temelj održive stabilnosti i europske budućnosti zemlje, izjavio je u razgovoru za bosanskohercegovačke "Nezavisne novine" u izdanju od nedjelje hrvatski ministar vanjskih poslova i europskih integracija Gordan Jandroković.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>231</STARTINDEX>
+    <ENDINDEX>239</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6892</ID>
+    <SENTENCE>Tako Primorac sigurno neće biti prvi ministar koji je podnio ostavku - prije njega odstupili su ministar turizma Niko Bulić, ministrica zdravstva Ana Stavljenić Rukavina, ministar vanjskih poslova Miomir Žužul, ministar zdravstva Andrija Hebrang - ali bit će prvi koji je na ulici tražio vlastitu ostavku i sada ju je (po svemu sudeći) odlučio i podnijeti.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>180</STARTINDEX>
+    <ENDINDEX>188</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10602</ID>
+    <SENTENCE>Kako neslužbeno doznajemo, članovi Savjeta kojem je na čelu ministar pravosuđa, još su ministri obrane, unutarnjih i vanjskih poslova, te Predsjednikov savjetnik za nacionalnu sigurnost i ravnatelj HIS-a.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6812</ID>
+    <SENTENCE>Zamjenik ministra vanjskih poslova dr. Ivan Šimonović potvrdio je informacije prema kojima talijanska strana više nije sklona niti da Hrvatska proglasi ribolovnu zonu.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6837</ID>
+    <SENTENCE>I ja sam uspio ne mogu vjerovat, vanjski ekran i tipkovnica mi blicaju ko ludi, probao sam dosta funlighta ali jedini koji mi je uspio je iz posta 90, neznam tocni koji jer ih ima više mislim funlight-001. pat ili funlight. pat !</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6802</ID>
+    <SENTENCE>Ondje je za izvoz oružja u Irak bio raspisan javni natječaj, jer u tim poslovima u BiH mogu sudjelovati samo fizičke osobe i tvrtke koje su registrirane pri Ministarstvu vanjske trgovine i ekonomskih odnosa.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjske</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>170</STARTINDEX>
+    <ENDINDEX>177</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10668</ID>
+    <SENTENCE>Na pitanje zašto tajne službe ne pretresu stambene blokove po Novom Beogradu ako su uvjereni da se Mladić ondje krije, stigao je odgovor: "To nije nimalo jednostavno. Pazite, mi ne znamo točno gdje se on nalazi. Imamo određene pouzdane informacije, saznanja od Mladiću bliskih ljudi, od onih koji su nekada bili u njegovom najbližem okruženju. Te informacije, ali i rekonstrukcija Mladićevih tragova do kojih smo uspjeli doći, govore da je prekinuo svaki kontakt sa vanjskim svijetom i da se doslovno zaključao u tom nekom stanu. Sumnjamo da se krije u jednom od tri novobeogradska bloka, ali ne možemo pretresti baš svaki stan ili blokirati cijele kvartove. To je jednostavno neizvedivo".</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>466</STARTINDEX>
+    <ENDINDEX>474</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10628</ID>
+    <SENTENCE>135.1. Molba Odsjeka za talijanistiku za odobrenje angažiranje vanjske suradnice Darije Garbin od 7. travnja 2003. za zamjenu lektorice Renate Hace-Citra radi dužeg bolovanja.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjske</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6869</ID>
+    <SENTENCE>On je dodao da je američka državna tajnica Hillary Clinton u petak razgovarala s brazilskim ministrom vanjskih poslova Celso Luiz Nunes Amorimom, te da je u tom razgovoru otvorena mogućnost održavanja međunarodne donatorske konferencije za Haiti.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6981</ID>
+    <SENTENCE>RIM - Ministri vanjskih poslova zemalja G8 su se sastali u Rimu da rasprave ključne teme prije početka sastanka na vrhu G8 u Genovi.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6890</ID>
+    <SENTENCE>Dio izložbe postavljen je u vanjskom prostoru, parku Zentruma Paul Klee (Kocka od vapnenca Sola LeWitta iz 2008., dimenzija 5 x 5 x 5 metara) i u obližnjem naselju.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6942</ID>
+    <SENTENCE>Na strmcima s vanjske strane otoka gnijezdi sivi sokol (Falco peregrinus), a osim njega ovdje se mogu susresti tamni eleonorin sokol (Falco eleonorae) koji je tu samo na preletu, a gnijezdi na Malti, zatim krški sokol (Falco biarmicus) i vjetruša (Falco tinnunculus).</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjske</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10642</ID>
+    <SENTENCE>Vanjski ekran je monokromatski, a prikazuje vrijeme, mrežu i bateriju.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>Vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6930</ID>
+    <SENTENCE>SUDANSKO vijeće ministara potvrdilo je u nedjelju spremnost na provedbu rezolucije o Darfuru koju je dan ranije prihvatilo UN-ovo Vijeće sigurnosti, a koja prijeti Kartumu naftnim sankcijama, rekao je sudanski ministar vanjskih poslova Naguib alHair Abdel Wahab.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>219</STARTINDEX>
+    <ENDINDEX>227</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6851</ID>
+    <SENTENCE>Obama, Sarkozy i francuski ministar vanjskih poslova Bernard Kouchner razgovarali su i o nekoliko globalnih tema kao što su Iran, Bliski istok i klimatske promjene koje će morati riješavati zajedno ako Obama na izborima u studenom postane novi američki predsjednik.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6911</ID>
+    <SENTENCE>Međutim, stvarni porast vanjskog duga u ta dva mjeseca kada bi se gledao u eurima, nije tako značajno rastao.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6822</ID>
+    <SENTENCE>Na sjednici je sudjelovalo desetak predstavnika članova HR PSOR-a kao i jedan vanjski sudionik koji su dali svoje primjedbe.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjski</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10694</ID>
+    <SENTENCE>Pokazali su i "rogove" po zgradama koje je ostavio i na njih očito zaboravio onaj tko je skidao vanjsku rasvjetu, kada je tu rasvjetu prebacivao na stupove po Zrinsko - frankopanskoj ulici.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjsku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6953</ID>
+    <SENTENCE>Točka u kojoj počinje djelovanje ove unutarnje opruge je povezano sa duljinom vanjske opruge, što znači da je djelovanje paralelno sa vanjskom oprugom.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>142</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6959</ID>
+    <SENTENCE>U međusobnim dogovorima neizbježna je bila i tema i rada sedme uprave i Ministartvu vanjskih poslova, za koju se posljednje vrijeme u javnosti govori kako špijunskim aktivnostima nastoji diskreditirati predsjedniku naklonjenije veleposlanike.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6875</ID>
+    <SENTENCE>MINISTRI vanjskih poslova EU odredili su moguće posrednike u novim pregovorima o statusu Kosova.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10699</ID>
+    <SENTENCE>Međutim, kada će ta karma sazrjeti i realizirati se poprilično je kompleksno i ovisi o međudjelovanju većeg broja faktora (unutarnjih i vanjskih) kao što su spajanje različitih uzroka i uvjeta, intenziteta djelovanja o motivaciji sa kojom je djelo izvršeno itd.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>136</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>6823</ID>
+    <SENTENCE>Okućnice, vrtovi, terase ili balkoni, oplemenjeni ambijentalnim ugođajem kroz primjenu stilskog vanjskog namještaja, načina popločenja, ograda, rasvjete i sl., kompletirat će dojmove, koji se stvaraju u interijeru te ih prožeti prema vanjskom prostoru.</SENTENCE>
+    <TARGETLEMMA>vanjski</TARGETLEMMA>
+    <TARGETWORD>vanjskom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.011.01</SENSEID>
+      <SENSEID>A.011.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>234</STARTINDEX>
+    <ENDINDEX>242</ENDINDEX>
+  </INSTANCE>
+</SET>

@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>7839</ID>
+    <SENTENCE>Prosječni prinos obvezničkih fondova je pao, a iznosi 2,94 posto, dok je kod novčanih prosjek porastao na 3,40 posto.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7838</ID>
+    <SENTENCE>"Em ti, skoro je pala u nesvjest ', povjerio se jednom novinaru' Kljun '.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1241</ID>
+    <SENTENCE>"Osim što je upitna zakonitost postupka, oko čega se vodi rasprava s nadležnima u državi, ako se kani s time krenuti - treba čekati bolje vrijeme", kaže Mudrinić, te dodaje kako bi trošak pao na tri operatera.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.13</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>188</STARTINDEX>
+    <ENDINDEX>191</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1256</ID>
+    <SENTENCE>Jednostavno ne znam sto kupiti a nazalost sva ta organizacija oko kupnje zajednickog poklona je pala na mene.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.13</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1367</ID>
+    <SENTENCE>Španjolac je pao bez ispaljenog metka (6-0 6-3 7-5).</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.10</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1211</ID>
+    <SENTENCE>Opet istina, sudeći po Moniki koja je na njegov šarm, ili nazovimo to zavodnički talent, pala već nakon prvih nekoliko dana provedenih u tajlandskoj Kući.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1246</ID>
+    <SENTENCE>Ako je i dalje nizak, uzmite još brzodjelujućeg šećera da vam šećer u krvi ne padne tako nisko da si više ne možete sami pomoći.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>padne</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1364</ID>
+    <SENTENCE>S druge strane, Sun Microsystems je imao gubitak u kvartalu jer je prodaja pala 24 posto, četvrti put zaredom.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1228</ID>
+    <SENTENCE>- Ma, krasno, ne znam što mi je ovo trebalo - mrmljao sam u bradu skupljajući s poda kacigu, koja mi je od udarca pala s glave.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7871</ID>
+    <SENTENCE>Čistači dna hrane se ostacima hrane koju ostale ribice ne pojedu pa padne na dno, te raznim otpadom koji se također nađe na dnu.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>padne</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1395</ID>
+    <SENTENCE>Borba se nastavila u parteru, Hidehiko je pao, a zatim Mirko legao na njega i prihvatio borbu na Yoshidinom terenu.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1382</ID>
+    <SENTENCE>Štednja obično svima padne na pamet tek u trenutku kada dođe račun za vodu na naplatu.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>padne</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7878</ID>
+    <SENTENCE>Vukelić je naveo kako je u proteklih deset godina udjel obrtničke trgovine u ukupnom trgovačkom prometu pao sa 70 % na 30 %.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7809</ID>
+    <SENTENCE>Opazivši u to jednu milosnu sliku Bogorodice Marije, pala je na koljena i zamolila je da je oslobodi.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1389</ID>
+    <SENTENCE>Iz branše prodavatelja nekretnina kažu kako je cijena za sada pala oko 10 posto, a i to ovisi o tipu nekretnine koja se kupuje.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1255</ID>
+    <SENTENCE>Crobex indeks prošloga je tjedna pao 2,19 posto, na 2.232 boda, najnižu razinu od 7. listopada.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1284</ID>
+    <SENTENCE>Bilo bi stoga dobro da Vranjković barem povremeno padne na pamet i onima koji su trenutno duboko u pravosudnim reformskim zahvatima baš na točkama od kojih se očekuje efikasnost.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>padne</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1355</ID>
+    <SENTENCE>Cijena eura prema američkoj valuti pala je, pak, s 1,2639 na 1,2592 dolara.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1277</ID>
+    <SENTENCE>Ovog je tjedna Crobex ukupno pao 1,21 posto, dok je Crobex 10 kliznuo 0,89 posto.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1215</ID>
+    <SENTENCE>Neto dobit tako je pala za čak 75,1 posto.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1271</ID>
+    <SENTENCE>Kran je pao samo metar od ceste, a prilikom pada je uništio ogradu uz gradilište.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>11</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7888</ID>
+    <SENTENCE>Crobex indeks pao je do 13,00 sati 2,53 posto, na 1.251 bod, što je njegova najniža razina od 7. rujna 2004, kada je iznosio 1.243 boda.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1332</ID>
+    <SENTENCE>Podaci koje je početkom godine objavio državni ured za statistiku pokazuju da je broj ljudi koji se rastaju pao s 12,2 na tisuću parova u 2006. na 11,9 parova u 2007., a u ovome je trenutku na najnižoj razini u zadnjih 26 godina.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1262</ID>
+    <SENTENCE>Caratan, tada član Predsjedništva CK SKH, hvali se kako su oni odluku o višestranačju donijeli "puno prije nego što je pao Berlinski zid i nego se slomila istočna Europa".</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7891</ID>
+    <SENTENCE>No, jutros je pala, pa se kreće oko 1,3350 dolara.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1377</ID>
+    <SENTENCE>Najbolje je pustiti da čep padne u posudu, jer se u protivnom izlažete prskanju ulja.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>padne</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1267</ID>
+    <SENTENCE>To što je na kraju odabir očito pao na javnu ponudu dionica umjesto prodaje strateškom partneru danas će malo koga u domaćoj financijskoj zajednici začuditi iako svojom veličinom (prihodi na razini dvjestotinjak milijuna kuna) Veterina ne sugerira da je baš "bogomdani" predložak za IPO.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7806</ID>
+    <SENTENCE>Na nju je pala krava.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7862</ID>
+    <SENTENCE>A sigurnost te pravosudne karte već je odavno zajamčena pravom da se pljune na sudove i suce kad god nekomu padne na pamet.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>padne</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1283</ID>
+    <SENTENCE>Sklop teških visokih metalnih šipki za izradu vrtnih ograda pao je u srijedu navečer u zadarskoj trgovini "Pevec" na kupce - najgore je prošla 35-godišnja Marina Mijolović, kojoj su šipke rasjekle čelo i nos.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1340</ID>
+    <SENTENCE>Cijena dionica Energomontaže ad (EGMN) na tjednom je nivou pala za 10,34 posto i sada iznosi 2.600 dinara.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1260</ID>
+    <SENTENCE>Međutim, većina analitičara drži kako će Livni teško sastaviti vladu, s obzirom da će ključni partner u dosadašnjoj koaliciji - laburisti - doživjeti kolaps i s oko 14-16 mjesta pasti na četvrto mjesto, što je najgori rezultat za stranku koja je dominirala židovskom državom u prvim desetljećima njenog postojanja.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pasti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>178</STARTINDEX>
+    <ENDINDEX>183</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1360</ID>
+    <SENTENCE>"Jako sam ogorčen jer još uvijek ne znam zašto je taj helikopter pao i nitko mi ništa nije rekao o tome. Najviše od svega me ljuti što mi u osječkoj bolnici nisu dali da vidim suprugu iako je bila živa još tri sata nakon moga dolaska", rekao je za Nacional.hr Zlatko Perišić.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1223</ID>
+    <SENTENCE>Prvi snijeg ove godine pao je pred nešto više od mjesec dana, 24. siječnja, a ovaj koji je noćas zabijelio predjele naše općine nije potrajao ni do podneva.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1290</ID>
+    <SENTENCE>Ideja da pješice dođe do prave Azije pala mu je na um baš kada je razgledaovao dio vrta sa životinjama s tog kontinenta.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.06</SENSEID>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7877</ID>
+    <SENTENCE>Bao Zhangjing kaže da će već u idućoj godini predujmovi u kineskoj brodogradnji pasti ispod 20 % vrijednosti brodova sa stalnim zahtjevima za smanjenje.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pasti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7881</ID>
+    <SENTENCE>Meteorolozi najavljuju da bi u Škotskoj temperatura mogla pasti na – 20 stupnjeva !</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pasti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7869</ID>
+    <SENTENCE>Alicante je, pak, pao na gostovanju kod Estudiantesa 92: 72. Mario Stojić je na poražene igrao 25 minuta, te je ubacio devet poena uz jedan skok.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.10</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1237</ID>
+    <SENTENCE>Kako se doznaje, muškarac jače tjelesne građe je pao i ozlijedio je kuk, a kako je bio u nesvijesti, djelatnici Hitne pomoći ga nisu mogli sami prenijeti do vozila.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1347</ID>
+    <SENTENCE>Gomilanjem funkcija efikasnost im je nesumnjivo pala proporcionalno količini prihvaćenih brojnih obveza.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1371</ID>
+    <SENTENCE>– Nakon što mi neka ideja padne na pamet, vrlo brzo prelazim na realizaciju.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>padne</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7873</ID>
+    <SENTENCE>Time je pretekao i Kosoricu koja je pala na četvrto mjesto.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+      <SENSEID>V.009.10</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1307</ID>
+    <SENTENCE>"U tom kontekstu, nastup ministra Čobankovića, kojemu samo omogućio da se brzo vrati za pregovarački stol, blago rečeno, neukusan je. Što se Hebranga tiče, žao mi je da se ono ljubazno, duhovito i tolerantno lice iz kampanje pokazuje tek kao maska koja je pala nakon kampanje. Hebrang ne bi svakih nekoliko dana kretao u napad da to nije i dio šire strategije. Ali, ipak, pred javnošću ostaje sam sa svojim izjavama. Mislim da mu nakon teza o 'dovođenju', 'instaliranju' i 'rušenju' ostaje da napiše zgodni SF roman. Imao bi bolju prođu nego ove izjave", zaključuje predsjednik.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>256</STARTINDEX>
+    <ENDINDEX>260</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7827</ID>
+    <SENTENCE>Kada je 17. studenoga pala obrana, odbacio je oružje i odoru i sklonio se u bolnicu iz koje je ujutro 20. studenoga, s još oko 300 muškaraca u dobi za vojnu službu, odveden na Ovčaru.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7885</ID>
+    <SENTENCE>WALL STREET je obično prazan na Dan sjećanja, američki državni praznik koji je ove godine pao na 31. svibnja.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1274</ID>
+    <SENTENCE>No poskliznuo se je na valnici broda i naglavce pao u bačvu punu vode koju sam iznio na palubu radi čišćenja i popravka.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1300</ID>
+    <SENTENCE>To samo može pasti napamet bandićevom uvlakaču.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pasti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1236</ID>
+    <SENTENCE>Filar je na skelu navezao traktor s prikolicom na kojoj je bila krava, a iza njega također traktorom s prikolicom i kravom na prikolici, navezla se njegova supruga Kata (48) koja je umjesto da zaustavi traktor na skeli, nastavila kretanje i zajedno s traktorom, prikolicom i kravom pala u Savu.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>282</STARTINDEX>
+    <ENDINDEX>286</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1357</ID>
+    <SENTENCE>NA ESTONCE SA ŠEST OFENZIVACA Primjećuje se da je Ćorluka malo pao, što je normalno.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1318</ID>
+    <SENTENCE>LINIJSKI sudac Plamen Georgijev spasio je život bugarskog nogometaša Georgija Ilijeva nakon što se ovaj srušio na travnjak i pao u nesvijest tijekom utakmice 21. kola prve bugarske nogometne lige.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>128</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1336</ID>
+    <SENTENCE>Nakon što je Nippon Ichi Software pretrpio totalnu katastrofu u ovoj godinu s obzirom na to da im je profit u odnosu na 2009. godinu pao za nevjerojatnih 97 posto, odlučili su se na izradu novog naslova u serijalu Disgaea.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1373</ID>
+    <SENTENCE>Francuska skijašica krenula je u spustašku utrku i pala na ravnom dijelu tri sekunde nakon starta.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7826</ID>
+    <SENTENCE>Njegova ukupna zarada pala je za više od 29 % protekle godine, zbog rezanja plaće i bonusa.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7801</ID>
+    <SENTENCE>Tu su ljudi koji mi samo mogu pomoći sa svojim pričama i od njih mogu naučiti gdje me sve alkohol može odvesti i koliko nisko mogu pasti.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pasti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>131</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7817</ID>
+    <SENTENCE>Na vas nije pao strop i niste propali s podom.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1276</ID>
+    <SENTENCE>Bio sam mršav, imunitet mi je pao, imao sam dijareju koja nije prestala, hemeroide, bio sam psihički razdražljiv, a na kraju sam dobio i upalu pluća koju puna tri tjedna nisam uspio smiriti antibioticima - otkrio je.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+      <SENSEID>V.009.11</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1251</ID>
+    <SENTENCE>"Ma dajte molim vas, kome bi to psić slučajno pao s prozora, pa da se ne spusti iz stana vidi može li mu se pomoći ? S tim čovjekom i ranije smo imali problema, bezobrazan je i ćudljiv pa nam je bilo čudno kad je nabavio štene", rekao je jedan od stanara zgrade.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1285</ID>
+    <SENTENCE>Na svakom treningu, dok igrači trče uvodne krugove, članovi stručnog stožera u krugu se dodavaju loptom, a cilj je da ona ne smije pasti.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pasti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>131</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1311</ID>
+    <SENTENCE>U očekivanju odluke Feda dolar se stabilizirao, nakon što je od početka rujna njegova vrijednost prema košarici valuta pala za 6,3 posto.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1225</ID>
+    <SENTENCE>Cijena dionice T-HT - a pala je više od 7 posto, na 230 kuna, uz promet od 2,38 milijuna kuna.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1306</ID>
+    <SENTENCE>Bez riječi je nastavio bježati, a u jednom se trenutku okliznuo i pao, podigao se i nestao u mraku.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1335</ID>
+    <SENTENCE>Udario je u desni rub kolnika i pao.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7900</ID>
+    <SENTENCE>Neki investitori očekuju da će ukoliko ubrzo ne dođe do formiranja nove vlade euro pasti u odnosu na dolar do 1,1870. Ako usporedimo ovu političku nesigurnost kroz referendume u Francuskoj i Nizozemskoj kada je odbijen Ustav EU vidljivo je da je euro tjedan dana prije referenduma pao za nekih 2 posto, dok je u periodu od dvadesetak dana nakon objavljivanja rezultata referenduma euro nastavio pad za dodatnih 4 posto.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pasti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7811</ID>
+    <SENTENCE>Nakon samog nabrajanja suradnji zbog ovog bi se albuma moralo pasti na dupe, no kad krene tih sat vremena, stražnjica je prikovana od čuđenja zbog prosječnosti, ako je i to dosegnuto.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pasti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1303</ID>
+    <SENTENCE>Sad je pao na drugo mjesto, otkako sam našao adaptere u Češkoj.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>10</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7823</ID>
+    <SENTENCE>Ako je vjerovati brojkama, i sad bi mogli pasti od Liverpoola.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pasti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.08</SENSEID>
+      <SENSEID>V.009.10</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7807</ID>
+    <SENTENCE>Bježeći od pasa jedna je ovca sa stijene pala na kolnik magistrale.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7840</ID>
+    <SENTENCE>Neto dobit za 2008. godinu pala je za 27 posto, na 86 milijuna eura.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1235</ID>
+    <SENTENCE>Nakon dvadesetak sekundi stup se prepolovio i pao na Golf.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1218</ID>
+    <SENTENCE>Radi redarove intervencije Slash je bio pošteđen težih posljedica, no poludjeli fan ga je ipak bio uspio 'zakvačiti' tako da je i on sam izgubio ravnotežu i zamalo pao sa pozornice.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7867</ID>
+    <SENTENCE>U društvo milijunaša ušla je i dionica pulske Uljanik plovidbe, koja je pala 4,04 posto, na 1380 kuna, uz 1,4 milijuna kuna prometa.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1349</ID>
+    <SENTENCE>Konačna odluka pala je, pak, nešto kasnije.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1327</ID>
+    <SENTENCE>Bila je to dionica Hrvatskih telekomunikacija koja je na tjednoj razini pala simboličnih 0,15 posto, na 272,6 kuna.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1345</ID>
+    <SENTENCE>Jedina auto sjedalica koja je doslovno pala na testiranju i zaradila ocjenu "loše" je CAM Viaggiosicuro S157 (9-18 kg).</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.10</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1374</ID>
+    <SENTENCE>Pretpostavlja se da je Mijić pao u more.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1320</ID>
+    <SENTENCE>Euro je u petak pao na svoju najnižu razinu u godinu i pol, na 1,2433 dolara.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1298</ID>
+    <SENTENCE>Na tržištu RH u ožujku 2010. pala je cijena pšeničnog krmnog brašna za 3 % u odnosu na veljaču.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1250</ID>
+    <SENTENCE>Palantir Ithila također je pao u njihovo vlasništvo.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1205</ID>
+    <SENTENCE>Predsjednik Vrhovnoga suda Branko Hrvatin istaknuo je pak da je broj neriješenih predmeta pao ispod 900.000 i da je stanje s kaznenim predmetima gotovo sređeno.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7832</ID>
+    <SENTENCE>Napomenuo je da se o ovome mora progovoriti kako ljaga ne bi pala na sve nas.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.13</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1265</ID>
+    <SENTENCE>U Imotskom polju padne u prosjeku 126 mm oborina godišnje, od toga vegetacijskom razdoblju pripada svega 33 %.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>padne</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1359</ID>
+    <SENTENCE>Vrijednost Nokijinih dionica na burzi u New Yorku od sredine travnja pala je za 42 posto i sada iznosi oko 8,82 dolara, a zanimljivi su i odnosi prihoda i broja prodanih uređaja.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1258</ID>
+    <SENTENCE>Gledajući na razvod mojih roditelja, koji mi je tada teško pao, na poneki financijski krah, na gubljenje jasne vizije o tome što želim, na otkaze, na prekide, na sve ono što je tada bilo tako teško, iz današnje perspektive, ne bih ništa mijenjala.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7864</ID>
+    <SENTENCE>U jutarnjem trgovanju je londonski burzovni indeks FTSE 100 pao za 0,34 posto, frankfurtski za 0,16 posto, a pariški CAC za 0,28 posto.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7876</ID>
+    <SENTENCE>Stoga se uprava Wolfsburga odmah bacila na dovođenje novog trenera, a izbor je pao na bivšeg trenera Stuttgarta, koji je potpisao dvogodišnji ugovor.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1387</ID>
+    <SENTENCE>Pala dionica HT-a No, dio ulagača jučer je nastojao kapitalizirati dobit koji su ostvarili proteklih dana.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>Pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>4</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1249</ID>
+    <SENTENCE>Lanjska je pobjednica tako na neslavan način završila obranu naslova, a zbog njezine je predstave u drugi plan pao uistinu impresivan doseg Belgijanke koja igra tek treći turnira nakon dvogodišnje stanke zbog rođenja djeteta.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1393</ID>
+    <SENTENCE>Poluvrijeme zadovoljavajuće, drugo mora biti još bolje, ali želja je bila prevelika i prvi pogodak pao je nakon izbacivanja obrane te lobom Gerića na crti (kad ima metar i ćevap).</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1224</ID>
+    <SENTENCE>Skupina od 19 pripadnika Al Qaede ujutro 11. rujna 2001. otela je četiri putnička zrakoplova koji su poletjeli iz Bostona, Newarka i Washingtona za zapadnu obalu SAD-a i zabila se s njima u dva tornja WTC-a u New Yorku te u zgradu Pentagona kod Washingtona, dok je četvrti pao u polje u Pennsylvaniji.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>273</STARTINDEX>
+    <ENDINDEX>276</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7880</ID>
+    <SENTENCE>No prednje gume čiste put stražnjima, što je posebno važno ljeti, kad vozači nauče na suho, pa onda naglo padne pljusak koji natopi cestu i otopi ulje i mast iz asfalta.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>padne</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1333</ID>
+    <SENTENCE>Odluka je pala desetak sekundi prije kraja, kod 81: 79 je Finley izgubio loptu, napravljen je prekršaj, a Christie sa linije slobodnih bacanja fiksirao konačni omjer.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1268</ID>
+    <SENTENCE>Priznaje da je Ivan jabuka koja je pala daleko od stabla.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1308</ID>
+    <SENTENCE>Uvijek vesela i nasmiješena Amerikanka, Resi Stiegler (22), teško je pala u prvoj vožnji veleslaloma u austrijskom Lienzu zbog čega je utrka nakratko prekinuta.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1203</ID>
+    <SENTENCE>Najmanje 14 ljudi je poginulo dok je 12 ozlijeđeno kada je autobus kojim su putovali pao niz 40 metara visoku liticu.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7896</ID>
+    <SENTENCE>Više od 1,7 milijuna kuna prometa ostvarila je dionica Ine čija je cijena blago pala, za 0,01 posto, a pala je i cijena dionice Atlantske plovidbe, za 1,62 posto.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1233</ID>
+    <SENTENCE>Ministarstvo navodi da su ozlijeđena maloljetnica i njezina prijateljica bile na kolutovima koje je vukao gliser oznake 1907 PU, a kad su se kolutovi pri skretanju sudarili, A.S.F. je pala u more i ozlijedila lijevo bedro.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>184</STARTINDEX>
+    <ENDINDEX>188</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1297</ID>
+    <SENTENCE>Cijena sirovog šećera mogla bi pasti čak i do 25 posto u iduća dva mjeseca zahvaljujući odličnom urodu u Indiji i Brazilu, vodećim svjetskim proizvođačima.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pasti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1363</ID>
+    <SENTENCE>Plaćam i ja prosjek 3.9X, ništa nisam pao, ali eto, 2. godina u 2 djela.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.10</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7855</ID>
+    <SENTENCE>Cijena eura pala je, pak, s jučerašnjih 1,4992 na 1,4858 dolara.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.09</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1209</ID>
+    <SENTENCE>Nedavno sam pročitao priču u kojoj je jedan stari monah, nekoliko dana pred smrt, pao u trodnevnu komu.</SENTENCE>
+    <TARGETLEMMA>pasti</TARGETLEMMA>
+    <TARGETWORD>pao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.009.11</SENSEID>
+      <SENSEID>V.009.12</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+</SET>

@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>7956</ID>
+    <SENTENCE>Naime, Zakon o izboru zastupnika u Hrvatski sabor propisuje da zastupniku prestaje mandat prije isteka vremena na koje je izabran ako je pravomoćnom sudskom presudom osuđen na bezuvjetnu kaznu dulju od šest mjeseci.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>166</STARTINDEX>
+    <ENDINDEX>172</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7965</ID>
+    <SENTENCE>Zbog sudjelovanja u otmici Bastalić je u prvom postupku osuđen na tri godine i dva mjeseca, a Jaić na godinu dana.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1578</ID>
+    <SENTENCE>Pribjegavajući retorici makartizma, političke pojave koja je nestala početkom 50-ih godina i koja je osuđena i u zemlji gdje je nastala, Hrvatska demokratska zajednica i njeno sadašnje vodstvo legitimirali su se pred hrvatskom i europskom javnošću kao skupina dešperatera opasnih i nečasnih nakana.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1458</ID>
+    <SENTENCE>Da je kojim, sretnijim, slučajem Ivo Sanader posve autonomno, trenutačno i bez poticaja konsternirane javnosti osudio istup svoga egzaltiranog radikala koji, ničim izazvan i u prigodi neosporive pobjede HDZ-a, ponovno sije sjeme mržnje i netolerancije spram neistomišljenika, koristeći retoriku ultrašenja i obračuna s "avetima prošlosti", mogao je poentirati i u takvoj ekscesnoj situaciji.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1440</ID>
+    <SENTENCE>Rusija, Kina, Francuska, Njemačka i ostale osudile su obje bliskoistočne strane zbog nasilja i pozvale ih da ispune svoje obaveze iz mirovnog plana.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudile</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1415</ID>
+    <SENTENCE>Jergović može oživljavati i veličati "sramotu hrvatskog pravosuđa" i "mučeništvo intelektualne veličine", odnosno s ideološkim predrasudama napadati suca koji je na međunarodnoj sceni pobrao lovorike kao predsjednik vijeća koje je osudilo bivšeg zapovjednika jasenovačkog logora Dinka Šakića.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>231</STARTINDEX>
+    <ENDINDEX>238</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1437</ID>
+    <SENTENCE>Guverener Floride na odlasku Charlie Crist razmišlja o tome da posthumno pomiluje karizmatičnog pjevača "Doorsa" Jima Morrisona koji je u toj američkoj saveznoj državi osuđen na šest mjeseci zatvora zbog kršenja javnog morala, pišu američki mediji.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>168</STARTINDEX>
+    <ENDINDEX>174</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1544</ID>
+    <SENTENCE>Continental, za koji je sud u ponedjeljak odlučio da je kriv, osuđen je za sada na 200.000 eura kazne, a njegov mehaničar na 15-mjesečnu uvjetnu zatvorsku kaznu.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1567</ID>
+    <SENTENCE>I Hrvatsko Ministarstvo obrane osudilo je uništavanje pretpovijesnih nalazišta u Zapadnoj Sahari, koje su počinili pripadnici UN-ovih vojnika među kojima i pripadnik Oružanih snaga RH, te je naložilo istragu, objavio je MORH.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7975</ID>
+    <SENTENCE>Ministrica unutarnjih poslova Michele Alliot-Marie najoštrije je osudila "kukavički i neprihvatljiv napad" i obećala da će se "učiniti sve kako bi se pronašli počinitelji".</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1524</ID>
+    <SENTENCE>Papa Ivan Pavao II osudio je rasnu diskriminaciju, nazvavši je grijehom koji degradira čovječnost.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1558</ID>
+    <SENTENCE>Sud je prvookrivljenog Pernića, bivšeg direktora Sektora za kreditiranje gospodarstva tadašnje Istarske banke, i drugookrivljenog Lalovića, tada člana Uprave trgovačkog društva Marpi iz Marčane, osudio na dvije godine zatvora, uvjetno na pet godina, a trećeokrivljenog Petričevića, tadašnjeg tajnika pulskog HDZ-a, na godinu dana zatvora, uvjetno na dvije godine.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>195</STARTINDEX>
+    <ENDINDEX>201</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7901</ID>
+    <SENTENCE>Ne sjećam se da je on ikad prije, pa ni kada me fizički napao Predrag Trutin, iti jednom riječju osudio taj nasilni čin, a u to vrijeme bio je šef oporbe.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7987</ID>
+    <SENTENCE>Farrow je, naime, u Rimu osuđen na 5 godina zatvora zbog droge i kako tu kaznu nije izdržao, Talijani imaju prednost u odnosu na nas.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1534</ID>
+    <SENTENCE>Trostruki ubojica Vlastimir Kihalić, jedan od sedmorice osuđenika u Hrvatskoj koji su osuđeni najtežom mogućom kaznom, trenutno se nalazi na psihijatrijskom liječenju koje mu je, kao sigurnosnu mjeru, odredio prvostupanjski sud.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1512</ID>
+    <SENTENCE>Opačić je postao "lice s tjeralice" jer je pobjegao iz srbijanskog zatvora u Srijemskoj Mitrovici gdje je 2001. zbog ubojstva osuđen na 14 godina zatvora.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>126</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1471</ID>
+    <SENTENCE>Na riječkom Županijskom sudu u ponedjeljak je na tri godine zatvora osuđen Kristijan Budimilić (23) iz Rijeke zbog spolnog odnosa s djetetom.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1540</ID>
+    <SENTENCE>Bivši hrvatski veleposlanik u Belgiji Čučić pravomoćno je u prosincu prošle godine osuđen na godinu dana zatvora zbog nasilja u obitelji, odnosno zlostavljanja bivše supruge Magali Boers.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1467</ID>
+    <SENTENCE>Braniteljske udruge, koje vjeruju da je Norac osuđen na temelju montiranoga političkog procesa, pozvale su na taj skup sve političke stranke, državne, županijske i lokalne vlasti.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1427</ID>
+    <SENTENCE>Zbog upletenosti u ubojstvo novinara i trojica bivših policajaca su osuđena na zatvorske kazne.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1568</ID>
+    <SENTENCE>IGRAČI Crvene Zvezde nosili su majice s likom Uroša Mičića koji je prije nekoliko dana osuđen na deset godina zatvora zbog pokušaja ubojstva policajaca.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7934</ID>
+    <SENTENCE>Šef jednog od klanova te grupe osuđen na 21 godinu zatvora u Kalabriji živi je nekoliko godina u Švicarskoj, a njegov slučaj ni u kom slučaju nije jedinstven.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1523</ID>
+    <SENTENCE>Predsjednik je pomilovao i Sinišu Rimca, bivšeg pripadnika rezervnog sastava MUP-a kojem je za jednu godinu umanjio osmogodišnju kaznu na koju je osuđen zbog ubojstva u slučaju 'Pakračka poljana'.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1582</ID>
+    <SENTENCE>Zbog toga je domaća poljoprivredna proizvodnja osuđena na propast, a jedino bi se novom poljoprivrednom strategijom na nacionalnoj razini i ulaganjem u nove hladnjače i otkupne stanice nešto moglo spasiti, ali za to je već kasno.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7913</ID>
+    <SENTENCE>Smrtonosnom injekcijom pogubljen je Shawn Humphries koji je osuđen zbog ubojstva prodavača u trgovini 1994. Njegova smrt proglašena je u 23,18 sati po srednjoeuropskom vremenu, a pogubljen je nakon što je guverner Mark Sanford nešto ranije odbio molbu za pomilovanjem.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1588</ID>
+    <SENTENCE>Vladajući i opozicija osuđeni su, međutim, na dogovor jer je ovo prvi put da se Ustav mijenja, a da vladajuća koalicija istovremeno nema dovoljnu, dvotrećinsku većinu u Saboru.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1407</ID>
+    <SENTENCE>Prvo je bio osuđen na četiri godine zatvora, tri godine gubitka građanskih prava, prava zaposlenja u državnoj službi, prava na objavljivanje i zabranu javnog nastupa, a zbog intervjua Švedskoj televiziji 1977. ponovno je osuđen na dvije godine zatvora i četiri godine gubitka građanskih prava.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>221</STARTINDEX>
+    <ENDINDEX>227</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7926</ID>
+    <SENTENCE>Na potpori je zahvalila i Olga Muratti, nositeljica koalicijske liste, koja je dobila 10 vijećničkih mjesta, a svi su osudili letak o Dubravki Šuici koji je '' osvanuo '' na dan izbora, ogradili se od njega i kazali kako takvo što ni u kojem slučaju ne odobravaju.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7957</ID>
+    <SENTENCE>SARAJEVO - Premda su relativno niske kazne na koje je Haaški sud sredinom ožujka osudio generala Armije BiH Envera Hadžihasanovića i brigadira Amira Kuburu za ratne zločine počinjene nad Hrvatima u središnjoj Bosni izazvale ogorčenje dijela javnosti, objašnjenje ove presude - zasad objavljeno samo na francuskom jeziku - moglo bi baciti posve novo svjetlo na rat između Hrvata i Bošnjaka u BiH tijekom 1993. godine, ali i na ulogu Hrvatske u ratnim zbivanjima u BiH, prenosi današnji zagrebački Vjesnik.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1501</ID>
+    <SENTENCE>Na smrt su osuđeni i Saddamov polubrat Barzan al-Tikriti i bivši irački glavni sudac Awad Hamed al-Bandar, dok je bivši podpredsjednik Taha Yassin Ramadan osuđen na doživotnu zatvorsku kaznu, a još su trojica osuđenika dobila 15 godina zatvora.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1449</ID>
+    <SENTENCE>Ovaj nesuđeni ugostiteljski djelatnik je osuđen 2004 i 2008, dakle oba puta za vrijeme najrvatckije od svih stranaka. Daj malo i njih tuži ili ti je u pržunu lipo s dečkima.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1428</ID>
+    <SENTENCE>U presudi se posebno ističe da je Andrej Nikolaidis osuđen zbog ironije, sarkazma i "negativnog govora o umjetničkim dostignućima" Emira Kusturice.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1445</ID>
+    <SENTENCE>Prema njegovim riječima, u ovom trenutku ima 500 prijava, a 700 Srba je osuđeno. Predstavnici Zajednice Srba iz Hrvatske i BiH rekli su novinarima da Hrvatska "ne može u EU dok ne ispuni europske standarde zaštite ljudskih prava, što znači i mogućnost ostvarivanja prava Srba koji su iz nje izbjegli ili prognani". Član predsjedništva te zajednice Radmilo Rončević kritizirao je vlasti u Srbiji te rekao da "dok ne dođu na vlast oni koji nisu komunistički unuci, neće biti za Srbe boljih dana". Predstavnici Zajednice Srba iz Hrvatske i BiH najavili su da će na obljetnicu Oluje, 4. kolovoza u 9.30 sati, održati prosvjedni skup ispred hrvatskog veleposlanstva u Beogradu.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeno</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1469</ID>
+    <SENTENCE>"Nasilju nema mjesta u nogometu", osudio je incident sportski direktor Bochuma Thomas Ernst.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1473</ID>
+    <SENTENCE>Željko Milovanović je osuđen kao neposredni izvršitelj ubojstva.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7914</ID>
+    <SENTENCE>Dala je izjavu kojom priznaje krivicu za progon nesrpskog stanovništva u BiH kao i za zločin protiv čovječnosti, na osnovu koje je u veljači 2003. godine osuđena na 11 godina zatvora.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>154</STARTINDEX>
+    <ENDINDEX>161</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7978</ID>
+    <SENTENCE>Smith je kasnije osuđen na zatvorsku kaznu zbog uzrokovanja štete od 80 milijuna dolara.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7925</ID>
+    <SENTENCE>Ovako smo bili osuđeni na par kafića teen orijentacije i beskonačno jodlanje.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1464</ID>
+    <SENTENCE>Dok su zločini i značaj nacističke ideologije i režima već najmanje pola stoljeća neprijeporni, a njihovi vođe osuđeni, komunistička ideologija i režim nisu naišli na usporediv odgovor.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1413</ID>
+    <SENTENCE>Naime, oni su zatražili očitovanje Vijeća za medije HHO-a, ali kako potonje tijelo trenutno ne djeluje, predsjednik Ivo Banac je u ime cijele organizacije ipak osudio ovakav Burićev potez.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>160</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1441</ID>
+    <SENTENCE>Bivši ruski naftni tajkun Mihail Hodorkovski i njegov bliski suradnik Platon Lebedev ostat će u zatvoru do 2017. nakon što su u četvrtak osuđeni na 14 godina zatvora u procesu, kojeg Zapad smatra politički montiviranim, javljaju svjetske agencije.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7938</ID>
+    <SENTENCE>Nakon što je Ivan Turudić bez ijednoga dokaza osudio Hrvoja Petrača na šest godina zatvora kao organizatora otmice Tomislava Zagorca, mogu preporučiti odvjetnicima Rahima Ademija i Mirka Norca da budu spremni na sve.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1531</ID>
+    <SENTENCE>OPĆINSKI kazneni sud u Zagrebu osudio je Icu Matekovića na godinu dana zatvora zbog krivotvorenja dokumenata i ovjeravanja neistinitog sadržaja.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7905</ID>
+    <SENTENCE>"Ovo što joj se sad pripisuje kao propust što su Karadžić i Mladić još uvijek na slobodi, čista je glupost, jer to nije njena greška. Pa njen posao nije ni bio da ih traži i hvata. Na jednom od transparenata je pisalo:" Haag je srpski sud ", što je laž, jer je osuđeno višestruko više Srba nego Hrvata.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeno</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>261</STARTINDEX>
+    <ENDINDEX>268</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7928</ID>
+    <SENTENCE>Rimljani će bespomoćnog Briana napokon uhititi i osuditi na razapinjanje.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuditi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1555</ID>
+    <SENTENCE>DEN HAAG – Haaški je sud u petak osudio bivšeg zapovjednika Operativne zone središnja Bosna generala Tihomria Blaškića na kaznu zatvora od 45 godina.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1579</ID>
+    <SENTENCE>"Da je ovo komunistički pamflet, sasvim sigurno ga ne bi potpisali predstavnici HNS-a, HSU-a, HSP-a i IDS-a", ustvrdio je Arsen Bauk odgovarajući na tvrdnju HDZ-ova zastupnika Frane Matušića da je SDP već optužio i osudio premijerku, a da, u maniri komunizma, nedostaje samo egzekucija.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>215</STARTINDEX>
+    <ENDINDEX>221</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1493</ID>
+    <SENTENCE>Od tada do danas nije bilo političke volje da ga se ukloni, iako su njegovo postavljanje osudili mnogi, od predsjednika Republike Stjepana Mesića do lokalnih čelnika Karlovačke županije, pa i tadašnje vodstvo HDZ-a.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1402</ID>
+    <SENTENCE>Uvjetno je osuđen 2004. godine, i to na tri godine.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1438</ID>
+    <SENTENCE>Korumpiranost društva odražava se i u činjenici da mediji mogu nekažnjeno javno progoniti i proglašavati krivima ljude od kojih su neki privedeni, ali koji još nisu pravomoćno osuđeni za korupciju.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>176</STARTINDEX>
+    <ENDINDEX>183</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1459</ID>
+    <SENTENCE>No Sveta Stolica je, otvarajući konferenciju, rekla da Katolička crkva, za razliku od mnogih protestantskih crkava, nikada nije osudila teoriju britanskog znanstvenika Charlesa Darwina.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1530</ID>
+    <SENTENCE>Izrael je u subotu osudio odluku brazilskog predsjednika Luiza Inacia Lule da Silve da prizna palestinsku državu u granicama iz 1967. koju je on objavio u pismu u petak.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7942</ID>
+    <SENTENCE>Ugledati se na srednje europske države koje imaju vrlo jak sindikat, osuditi američki sistem te ga izbaciti iz pora hrvatskog društva !!!!!!!</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuditi</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7946</ID>
+    <SENTENCE>On je ujedno i prvi svećenik, odnosno vjeroučitelj koji je zbog pedofilije osuđen na zatvorsku kaznu i vrlo brzo nakon pravomoćne presude krenuo na izdržavanje kazne.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7933</ID>
+    <SENTENCE>Promjena imena kompanija označavala je na neki način prekid s padom prihoda i problematičnom prošlošću (biši izvršni direktor Sanjay Kumar osuđen je na 12 godina zatvora i osam milijuna dolara kazne zbog financijskih malverzacija).</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>139</STARTINDEX>
+    <ENDINDEX>145</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1561</ID>
+    <SENTENCE>U svojim političkim stavovima više puta smo osudili i pokušaje radikalnih skupina našeg naroda da se i naš grad Viroviticu stavi na neke nove granice.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1436</ID>
+    <SENTENCE>On je u oštrom govoru osudio postupke međunarodne zajednice, a pozdravljajući Sabor kao "glasački iskaz hrvatskog naroda, politički izboren i moralno dopustiv oblik zaštite hrvatskog naroda".</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1510</ID>
+    <SENTENCE>Vijeće za ratne zločine Okružnog suda u Beogradu osudilo je 12. ožujka 2009. 13 pripadnika nekadašnje Teritorijalne obrane Vukovara i paravojne postrojbe "Leva Supoderica" zbog ratnog zločina na Ovčari nad najmanje 193 hrvatska ratna zarobljenika iz bolnice u Vukovaru, dok su ostala petorica optuženih dobila oslobađajuće presude.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1456</ID>
+    <SENTENCE>Kolumnist Globusa bio je odrješit: Tončica Čeljuska nije podobna za vođenje središnjeg Dnevnika HTV-a zato što je njezin suprug nepravomoćno osuđen na zatvorsku kaznu zbog krivotvorenja isprave, a ona lagala pred sudom.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>141</STARTINDEX>
+    <ENDINDEX>147</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1585</ID>
+    <SENTENCE>Šare je osuđen na šest mjeseci uvjetno, a neće ići u zatvor ako u roku od jedne godine ne počini drugo kazneno djelo.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1457</ID>
+    <SENTENCE>Sud u Finskoj osudio je danas na deset godina zatvora Finca, koji je namjerno virusom HIV-a zarazio pet žena i imao nezaštićene seksualne odnose sa još petnaest.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1532</ID>
+    <SENTENCE>Kregar se, posve promašeno, poziva na neke propise, ali u cijelosti 'zaboravlja' rezoluciju Vijeća Europe 1481, koja je vrlo jasno osudila komunističke zločine i sve zablude koje Kregar i danas tako brižno njeguje, stoji u priopćenju Zbora braniteljskih udruga iz Domovinskog rata Grada Zagreba.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>131</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7976</ID>
+    <SENTENCE>Galileo Galilei je 1633. godine osuđen za herezu zbog zastupanja Kopernikove teorije heliocentričnog sistema i bio je primoran da se javno odrekne svojih radova i povuče tvrdnje da se Zemlja okreće oko Sunca, a ne obratno.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7923</ID>
+    <SENTENCE>Dapače, njemački vojni sud osudio je na smrt strijeljanjem pedesetak talijanskih oficira zbog toga što su kapitulirali pred partizanima.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1554</ID>
+    <SENTENCE>ŠIBENIK — Nepravomoćnom presudom Općinskog suda u Šibeniku, pod predsjedanjem sutkinje Nives Nikolac, proglašen je krivim i nepravomoćno osuđen na kaznu zatvora u trajanju od pet mjeseci Karlo Pekas (58) iz Lozovca kod Šibenika.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7984</ID>
+    <SENTENCE>Županijski sud u Zagrebu nepravomoćno ju je u petak osudio na 18 mjeseci.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7924</ID>
+    <SENTENCE>Vuković je suspendiran zbog toga što je 8. lipnja na Županijskom sudu u Rijeci nepravomoćno osuđen na devet mjeseci zatvora zbog optužbi za posredovanje u nabavi oružja za pokušaj dvostrukog ubojstva automobilskom bombom u listopadu 2008. godine u Rijeci.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7920</ID>
+    <SENTENCE>Nacionalni dan borbe protiv nasilja nad ženama u Hrvatskoj se obilježava u sjećanje na 22. rujna 1999. godine kada je Mate Oraškić, na Općinskom sudu u Zagrebu, tijekom brakorazvodne parnice, ubio suprugu Gordanu Oraškić, odvjetnicu te sutkinju, zbog čega je osuđen na maksimalnu kaznu od 40 godina zatvora.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>259</STARTINDEX>
+    <ENDINDEX>265</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1522</ID>
+    <SENTENCE>Mikšić je zbog klevete u veljači 2006. godine osuđen uvjetno na dva mjeseca zatvora, a tada nam je kazao kako je cijelo suđenje apsurdno.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1504</ID>
+    <SENTENCE>Jesu li Hrvati sudbinski osuđeni, da uvijek od dva zla traže, a ponekad i izaberu manje, umjesto da od dva dobra biraju bolje ?</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7977</ID>
+    <SENTENCE>Osudili su i nasilje nad dvojicom mladića, Draženom i Igorom, koje je, kako navode, kukavički pretukla jedna organizirana fašistička banda dok je patrolirala gradom tražeći gejeve i lezbijke.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>Osudili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1461</ID>
+    <SENTENCE>Iznimno od odredbe stavka 1. točke 2. i 3. ovoga članka, obavljanje civilne službe ne prekida se civilnom ročniku koji je pravomoćnom presudom osuđen na kaznu maloljetničkog zatvora do dvije godine ili na bezuvjetnu zatvorsku kaznu do dvije godine i kojemu do kraja civilne službe nije ostalo više od dva mjeseca.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>143</STARTINDEX>
+    <ENDINDEX>149</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1597</ID>
+    <SENTENCE>Hrvatsko novinarsko društvo (HND) danas je oštro osudilo Mamićev istup te uvrede i prijetnje koje je uputio novinaru tportala.hr a od policije i državnog odvjetništva zatražilo je sankcioniranje izvršnog dopredsjednika NK Dinama.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1525</ID>
+    <SENTENCE>Srpski je predsjednik osudio nasilje u Beogradu nakon prosvjednog skupa "Kosovo je Srbija" i kazao kako vlada kao organizator mora podnijeti izvješće i preuzeti odgovornost.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1533</ID>
+    <SENTENCE>Iako je negirao optužbe, Morrison je osuđen na šest mjeseci zatvora zbog nećudorednog ponašanja i profanacije.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1551</ID>
+    <SENTENCE>SPLIT — Vijeće za mladež splitskog Općinskog suda osudilo je nepravomoćnom odlukom na dvije i pol godine zatvora maloljetnog I.P. za izazivanje teške prometne nesreće 29. listopada u Makarskoj u kojoj su poginule dvije mlade pješakinje Ana Andrijašević i Kate Erceg.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1486</ID>
+    <SENTENCE>Nakon što je sutkinja Marsha Revel u utorak Lindsay Lohan osudila na 90 dana zatvora zbog kršenja uvjetne kazne 27-godišnja glumica je počela histerično plakati i preklinjati svoju odvjetnicu da učini nešto, no fotografije snimljene u sudnici tog dana su otkrile što holivudska zvijezda uistinu misli o sudu, presudi i presjedajućoj sutkinji.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1468</ID>
+    <SENTENCE>Istom presudom su pripadnici te jedinice Branko Berček, Duško Maričić i Nenad Bujošević osuđeni na 40 godina, dok su Leonid Milivojević i Nenad Ilić osuđeni na 15 godina zatvora.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>149</STARTINDEX>
+    <ENDINDEX>156</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1549</ID>
+    <SENTENCE>Ostali su još samo doslovni ljudi i plastične balote, a sve je gotovo skriveno među stablima i osuđeno na beznačajnu sporednost.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeno</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7996</ID>
+    <SENTENCE>Hoće li Homer Simpson spasiti rodni Springfield od ekološke katastrofe ili je idilični gradić osuđen na propast, a pivoljubac Homer na linč kojim mu prijete bijesni sugrađani, jer nesreću je, naravno, sam skrivio ...?</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1595</ID>
+    <SENTENCE>Treneri obje momčadi osudili su navijanje gostiju, a Arsene Wenger dodao je kako ljudska glupost očito ne poznaje granice.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1560</ID>
+    <SENTENCE>Za kazneno djelo za koje je Zagorec osuđen moguća je kazna od jedne do deset godina.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1570</ID>
+    <SENTENCE>Nenad Filipović, kojeg se teretilo da je organizirao ove pljačke, osuđen je na četiri godine zatvora zbog pljačke poslovnice pošte Ulici Božidara Magovca u ožujku 2006, kao i Dražen Gebaj.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7954</ID>
+    <SENTENCE>Čak je i Europska komisija osudila taj Putinov verbalni ispad.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7941</ID>
+    <SENTENCE>Sumnjaju da se iza Simovićeve izjave, kako se i sam mislio predati policiji kada stigne u Beograd, krije pokušaj da ubije Kalinića i na njega prebaci krivnju za zločine zbog kojih su osuđeni.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>183</STARTINDEX>
+    <ENDINDEX>190</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1590</ID>
+    <SENTENCE>MOSKVA - Rusija je osudila odluku tajlandskog suda da izruči navodnog ruskog trgovca oružjem Viktora Buta Sjedinjenim Državama.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1416</ID>
+    <SENTENCE>ZAPOVJEDNIK KFOR-a talijanski general Fabio Mini je najoštrije večeras osudio ubojstvo dvojice Srba iz Goraždevca kod Peći.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1553</ID>
+    <SENTENCE>William Stevenson (71), bivši pomorac, osuđen je u odsutnosti na pet godina zatvora.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1514</ID>
+    <SENTENCE>Prema pisanju portala Sarajevo - x, Jurišić je odlukom prvostupanjskog suda osuđen na 12 godina zatvora zbog ratnog zločina nad kolonom pripadnika JNA 15. svibnja 1992. godine.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7994</ID>
+    <SENTENCE>U velikom su nepravomoćno osuđeni, u malom nepravomoćno oslobođeni.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1566</ID>
+    <SENTENCE>Predsjednik splitskoga SDP-a i saborski zastupnik Marin Jurjević osudio je rasplet krize splitske gradske vlasti, istaknuvši kako je za tu stranku jedino rješenje raspisivanje novih izbora, a ne kadrovske promjene.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1591</ID>
+    <SENTENCE>Svi smo mi nekako osuđeni na mjesto u kojem živimo i nekako uvijek kasnije kroz život shvatimo kako su najbolje godine prošle.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1430</ID>
+    <SENTENCE>Stvari bi za Kiefera Sutherlanda, sina legendarnog Donalda, koji se sam prijavio policiji u New Yorku, mogle bi biti nezgodne, jer je za prošlogodišnji incident, kada je uhvaćen pijan za volanom, osuđen na pet godina uvjetne kazne.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>196</STARTINDEX>
+    <ENDINDEX>202</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1432</ID>
+    <SENTENCE>Hamdan je u kolovozu osuđen na pet i pol godina zatvora, uključujući vrijeme provedeno u pritvoru.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7944</ID>
+    <SENTENCE>U presudama na ponovljenom suđenju za zločin na Ovčari, izrečenima 12. ožujka 2009., Vijeće za ratne zločine Okružnog suda u Beogradu osudilo je 13 pripadnika nekadašnje Teritorijalne obrane Vukovara i paravojne postrojbe Leva Supoderica zbog ratnog zločina nad najmanje 193 hrvatska ratna zarobljenika iz bolnice u Vukovaru, na kazne od pet do maksimalnih 20 godina zatvora, dok su ostala petorica optuženih dobila oslobađajuće presude.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osudilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1581</ID>
+    <SENTENCE>"Drakulić je osuđena pod desnom nacionalističkom Vladom Franje Tuđmana devedesetih i čini se da ona još uvijek vodi tu istu bitku", piše dalje Chan.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1562</ID>
+    <SENTENCE>Najzad, ja imam taj spisak od 1400 ljudi koji su osuđeni, koji su pobjegli i bili su van domašaja HVO-a.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđeni</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1485</ID>
+    <SENTENCE>Nova je vlada osuđena na uspjeh, istaknuo je Zlatko Kramarić u ime Kluba LS-a, ali ga mora postići što prije.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđena</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7981</ID>
+    <SENTENCE>Sean O 'Neal je osuđen prema tri točke optužnice za seksualno zlostavljanje štićenica od 15 i 16 godina i jednoj za seksualno zlostavljanje djeteta, trinaestogodišnje Hrvatice.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1515</ID>
+    <SENTENCE>Louisu osuđen je na 170 godina zatvora jer je oteo i seksualno zlostavljao dječaka, pri čemu je snimao pornografske materijale.</SENTENCE>
+    <TARGETLEMMA>osuditi</TARGETLEMMA>
+    <TARGETWORD>osuđen</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.008.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+</SET>

@@ -1,0 +1,2990 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>9648</ID>
+    <SENTENCE>Gnušamo se one plastične navlake jer smatramo da se nemre oprat.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprat</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4969</ID>
+    <SENTENCE>Vedran je u odličnom susretu slavio nad Lukom 7: 5 i djelomično oprao gorak okus poraza s prošlih turnira na kojima je Luka bio bolji.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4816</ID>
+    <SENTENCE>One proizvode taj silni smrad, no od njih nećete dobiti smrtonosnu legionarsku bolest, ali će vam biti vrlo neugodno ako vas netko pita kad ste zadnji put oprali noge !</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>155</STARTINDEX>
+    <ENDINDEX>161</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4991</ID>
+    <SENTENCE>No, s druge strane, ti su se dugovi stvarali uz blagoslov, a u slučaju propalog koncerta Rolling Stonesa i po izravnom nalogu istih onih gradskih struktura koje su ovom smjenom pokušale oprati vlastiti obraz koji su uglavnom sâme ukaljale.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>186</STARTINDEX>
+    <ENDINDEX>192</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4863</ID>
+    <SENTENCE>Uvod u konfuznu večer bilo je snažno nevrijeme koje je oko 20 sati opralo Kamanje i malobrojne kampere koji su trodnevni festival odlučili provesti u tom mjestu.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>opralo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9629</ID>
+    <SENTENCE>Britanski znanstvenici proveli su istraživanje i ispitali jednu grupu ljudi koji su oprali i jednu koji nisu oprali ruke.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4895</ID>
+    <SENTENCE>To šta je Kosorica napravila treba je progoniti čitav život, jer nisu ta dva momka jedine njene žrtve, sjetite se kako je oprala pod s Jadrankom Cigelj, a prat će ta podove s još mnogo leševa.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>128</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4858</ID>
+    <SENTENCE>Zbog otuđenog automobila tražili su 100 tisuća tadašnjih njemačkih maraka, a pustili su ga sutradan ujutro nakon što su ga oprali od krvi.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>129</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4919</ID>
+    <SENTENCE>- Ako nemate maramicu prekrite usta i nos rukavom, a ne rukom ako nemate mogućnost odmah oprati ruke.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9609</ID>
+    <SENTENCE>Napadnute komade odjeće oprati ili duboko zamrznuti.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4846</ID>
+    <SENTENCE>Budnom oku mistera nisu promakle Ivanine gaćice te je komentirao: 'Ivana mogla bi oprati gaćice da ti ne budu tako žute !' 'Misica se na Dinovo zadirkivanje nije obazirala te samo nastavila svoje pripreme za počinak.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4907</ID>
+    <SENTENCE>Nije problem ako vam se žuri oprati ih, pa ih perete bez namakanja ; ipak, nastojte češće oprati ih uz namakanje.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4997</ID>
+    <SENTENCE>Splitski gradonačelnik i predsjednik danas osnovane Hrvatske građanske stranke Željko Kerum imao je potrebu pojasniti, odnosno "oprati" se od nacionalističkih izjava izrečenih u emisiji "Nedjeljom u dva" te poručiti da i dalje stoji iza svega što je tada o njima izrekao.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4984</ID>
+    <SENTENCE>Na inicijativu Župana M. Conera, Mladen Markešić preuzeo je potpuno uništeno poduzeće, Mesnu industriju "CROMAX" iz ruku HDZ a. Tako da su oni oprali ruke.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>143</STARTINDEX>
+    <ENDINDEX>149</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4965</ID>
+    <SENTENCE>A jedini HSP-ovac u sabornici i ovoga puta dokazao je da pravaši u Saboru služe isključivo kao HDZ-ova rezerva. &amp; nbsp ; &amp; nbsp ; Liberali i Pupovčevi manjinci "oprali" su se od sramote tako što su napustili sabornicu prije glasanja.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>161</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9624</ID>
+    <SENTENCE>Objasniti ćemo vam kako možete oprati novac.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5000</ID>
+    <SENTENCE>(Jer znanstveno je dokazano da pranje ruku može oprati ruke od bilo kojeg lopovluka.) Tako da su vladajući čisti kao suza.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4990</ID>
+    <SENTENCE>On / ona će se prepustiti vašim milovanjima, vi ćete ga prvo skinuti, nasapunati tijelo, oprati mekom spužvicom, šamponirati kosu i na kraju dobro ga istrljati ručnikom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4848</ID>
+    <SENTENCE>Da, oprao me da nije za povjerovati.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>4</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4960</ID>
+    <SENTENCE>Piše se i o Paris Hilton, Tari Reed, Lindsay Lohan, baš kao što se kod nas piše o Vlatki Pokos, Aleks Grdić, Nikolini Pišek i ostalim strašno važnim osobama za budućnost planeta. Očito da ti je medijska negativna kampanja oprala mozak.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>222</STARTINDEX>
+    <ENDINDEX>228</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9631</ID>
+    <SENTENCE>Frendu je pomoglo da je cijeli uredjaj rastavio, oprao u destiliranoj vodi i ostavio par dana da se DOBRO osusi.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4841</ID>
+    <SENTENCE>Ujutro nakon nanošenja samo nastavite sa svojom uobičajenom rutinom što znači da kosu možete oprati ali i ne morate jer se tijekom osam sati sna proizvod potpuno upije u vlasi.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4953</ID>
+    <SENTENCE>Po njegovim riječima "ne može se ničim oprati zločin i obrisati krv koja je ovdje (u Varivodama) prolivena".</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4977</ID>
+    <SENTENCE>Operacija u Toskani nazvana je "Istočni novac" jer su preko Tohtahunova novac u zapadnoj Europi "oprali" i policiji poznati "poslovni ljudi" iz vrha ruske mafije.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4850</ID>
+    <SENTENCE>Nije za prek Foruma, bum te vjutro nazval pa ti velim detalje, inače je oprana u salonu kraj radijatora i čeka.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprana</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4901</ID>
+    <SENTENCE>Moje je mišljenje da bi uhićenje bivšeg premijera još dodatno bio uteg HDZ-u, jer HDZ se ne može oprati od toga da je to bio njihov predsjednik Vlade, da je to bio njihov predsjednik stranke i da su svi današnji ministri u hrvatskoj Vladi kadrovirani od Ive Sanadera.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4923</ID>
+    <SENTENCE>Taj veseli Mario može slobodno zatvorit praonicu jer malo kaga on može oprat !</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprat</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4966</ID>
+    <SENTENCE>Nakon što je u prošlom broju Nacionala objavljena tema o novinarsko - diplomatskom skandalu čiji je glavni lik zamjenik glavnog urednika Jutarnjeg lista Davor Butković, taj je komentator napisao čak dva teksta u kojima je pokušao "oprati" vlastito ponašanje i umanjiti međudržavnu aferu koju je inicirao.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>231</STARTINDEX>
+    <ENDINDEX>237</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4885</ID>
+    <SENTENCE>I da se nikad i nigdje od njega neće moći oprati.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4985</ID>
+    <SENTENCE>Ribu koju ste očistili i oprali narežite na manje komade i pri tom odbacite glave i repove.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9635</ID>
+    <SENTENCE>Nema svete vode koja ga može oprat od toga.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprat</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4884</ID>
+    <SENTENCE>Yo se dolaskom na farmu ozbiljno primila posla - oprala je suđe, skuhala kavu, stavila kvasac da se diže, zamijesila rezance, nahranila psa i proučila krušnu peć koja im je na raspolaganju.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4806</ID>
+    <SENTENCE>Zar to nije čista ljubav koju je Isus iskazao svojim učenicima kad im je oprao noge jer je tada rekao da nije došao da mu služe nego da on služi.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9638</ID>
+    <SENTENCE>Sve radne alate odmah nakon uporabe oprati sapunicom, kako bi se odstranili ostaci smole.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4903</ID>
+    <SENTENCE>Njemu je bilo ozlijeđeno lice i arkada koja je počela krvariti, pa se vratio u kafić kako bi se oprao i sanirao ozljedu.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4959</ID>
+    <SENTENCE>- Nisam imao vremena oprati zube prije utakmice, a tamne naočale nosio sam jer je moja bivša djevojka bila na stadionu, A, znate, ja jako volim žene - objasnio je neimenovani, ali itekako zamijećeni navijač londonskog kluba.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9684</ID>
+    <SENTENCE>Izvaditi rebra iz telećih prsiju, meso oprati, obrisati čistom krpom i vezati tankim špagom da zadrži lijep oblik.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9653</ID>
+    <SENTENCE>Perilica bez vode za nekoliko je minuta u mogućnosti oprati mrlje sa odjeće i to bez pomoći deterdženata.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9688</ID>
+    <SENTENCE>U svrhu znanosti: mrgreen:, ostavila sam veš namakat preko noći i oprala bez detergenta, samo sa malo sode, kao što bih prala sa kuglom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4976</ID>
+    <SENTENCE>Sve u svemu, VIS Peri Deri dobro su 'oprali' na ovom festu i usprkos činjenici da je njihov nastup zbog okolnosti, ni u kom slučaju njihovom krivicom, više sličio nekoj vrtnoj zabavi nego nastupu na rock festivalu, vidjelo se i čulo da se radi o vrlo zahvalnom live - izvođaču i vrlo susretljivim momcima.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9604</ID>
+    <SENTENCE>Sasvim zrele jagode otrijebiti i oprati.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4967</ID>
+    <SENTENCE>Zato bi bilo preporučljivo uzimati jagode iz bio uzgoja, te svakako prije konzumiranja dobro oprati u hladnoj vodi i pod laganim mlazom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4880</ID>
+    <SENTENCE>Kao i u Rabcu na ponašanje vjetra utjecali su lokalni neverini, a jedriličare je oprala i kiša.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4986</ID>
+    <SENTENCE>Naravno, od iznimne je važnosti oprati lice odmah nakon tjelovježbe.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9690</ID>
+    <SENTENCE>Ako bi samo jedan od onih koji nakratko posjete pacijente zaboravili oprati ruke uzrokovali bi više infekcija nego kad bi svi zaposleni zaboravili prati ruke tek jednu četvrtinu vremena.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4917</ID>
+    <SENTENCE>Navodno se radi o novcu koji je Sanader oprao u Hrvatskoj i zatim pohranio u inozemstvo.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9664</ID>
+    <SENTENCE>USKOK sumnja da je preko Nevenke Jurak, vlasnice Fimi Media, u jednoj promidžbenoj kampanji za Carinu iz proračuna izvukao i oprao milijun i 700.000 kuna, javlja HTV.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4912</ID>
+    <SENTENCE>Na presici Croatia Recordsa dobro je "oprao" Olivera Dragojevića ".</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4957</ID>
+    <SENTENCE>U sklopu istrage Državno odvjetništvo će istražiti Zagorca i njegove suradnike iz Hypo Alpe Adria banke, a posebnu pažnju posvetit će se Günteru Striedingeru, kojega je hrvatsko Državno odvjetništvo u spisu kojeg je poslalo Austrijancima, a u kojem je zatražilo pravnu pomoć, osumnjičilo da je preko tvrtki u Lichtensteinu pomogao oprati oko 260 milijuna eura.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>331</STARTINDEX>
+    <ENDINDEX>337</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9606</ID>
+    <SENTENCE>Ma oprao bi te da imaš lamba, boli me dupe.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>3</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9689</ID>
+    <SENTENCE>Sve je friško oprano i opeglano.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprano</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4896</ID>
+    <SENTENCE>Jagode oprati, očistiti i ocijediti.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4874</ID>
+    <SENTENCE>Ostalim HSS-ovcima očito je trebao izlaz kako bi oprali ljagu sa svog ministra, pa su napravili igrokaz s udrugom žena i preko noći promijenili stav.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4941</ID>
+    <SENTENCE>"Vi biste oprali ruke", poručio je oporbenjacima Boris Kunst (HDZ), prozivajući ih da žele prikriti odgovornost njihove vlade što je prodajom Ine MOL-u "posijala sjeme zla".</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9619</ID>
+    <SENTENCE>Ne može li nakon toga oprati ruke ?</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9639</ID>
+    <SENTENCE>Ljuta je jer su radnici koji kopaju cestu zatvorili Rudešku na križanju s Aninom i Jablanskom, tako da vozači da bi oprali svoj automobil do auto - praonice moraju preko pješačkog prijelaza, a tako će biti sve do 10. kolovoza.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4891</ID>
+    <SENTENCE>Staklenke za kompot dobro oprati, osušiti, na dno staviti nekoliko klinčića, zatim red kupina, red šećera, to ponvaljati dok se staklenka ne napuni.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4979</ID>
+    <SENTENCE>Navodno je riječ o novcima koje je bivši premijer 'oprao' i potom pohranio u inozemstvu.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9692</ID>
+    <SENTENCE>Na kraju smo oprali prašinu i znoj na dobrom kupancu isprobavajući desetak vodenih tobogana u Aquacityju.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9637</ID>
+    <SENTENCE>Vuna se treba oprati u čistoj vodi pa umočiti u otopinu vode i boraksa i zatim dobro osušiti.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4998</ID>
+    <SENTENCE>Peteljku celera oprati i narezati na ploške.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4827</ID>
+    <SENTENCE>Prošlost bi se izbrisala a legalizirala nova - stara kasta HDZ-ovih vlastodržaca, koji bi svoj prljavi novac u novim okolnostima oprali na najlagodniji način – uz pomoć Pašalićeve vlasti.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4817</ID>
+    <SENTENCE>Očišćeni špinat dobro oprati, ocijediti ga, malo usitniti, kratko prepržiti na ulju, a zatim ohladiti. pomiješati sir i vrhnje, dodati tome jaja, i ohlađeni i preprženi špinat.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4945</ID>
+    <SENTENCE>Meso oprati, isjeći na komade, naliti vodom i skuhati napola.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>5</STARTINDEX>
+    <ENDINDEX>11</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4913</ID>
+    <SENTENCE>Ako bi istraga o Fimi Mediji pokazala da je Sanaderov BMW kupljen nelegalnim novcem, za HDZ bi to bila vrlo neugodna činjenica jer bi to značilo da su 'oprali' novac izvučen iz javnih tvrtki.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>152</STARTINDEX>
+    <ENDINDEX>158</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4832</ID>
+    <SENTENCE>Preventivno cijepljenje nije poželjno, ali se nakon svakog izleta treba dobro okupati i oprati kosu jer se krpelji tako najbolje "speru" s tijela.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9618</ID>
+    <SENTENCE>Također treba prati standardiziranu količinu rublja za određeni tip bubnja (tipično 5-6 kg) jer se u slučaju preopterećenog bubnja rublje neće kvalitetno oprati dok će se u slučaju nedovoljno opterećenog bubnja nepotrebno trošiti energija.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>154</STARTINDEX>
+    <ENDINDEX>160</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9625</ID>
+    <SENTENCE>U trenutku kad je vidjela da će se Granić, zajedno sa svojim šogorom Darinkom Bagom, naći na meti USKOK-a zbog mešetarenja dionicama "Končara", pilatovski je od njega oprala ruke.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>167</STARTINDEX>
+    <ENDINDEX>173</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9640</ID>
+    <SENTENCE>BTW, ako ga posudiš, sigurno ćeš ga morati i oprati !</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4828</ID>
+    <SENTENCE>– Izraditi pozivnice za vjenčanje, otići kod bake na ručak i oprati prozore.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9617</ID>
+    <SENTENCE>List navodi da su "milijarde funti", koje su od državnih fondova "opljačkali bivši predsjednik Franjo Tuđman i njegovi ortaci", oprane preko banaka u Londonu, te offshore računa na Karibima i na Kanalskim otocima.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprane</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4948</ID>
+    <SENTENCE>Anus je ionako vaš, te ako ste ga dobro oprale i ako je vaš partner penis obrisao maramicom prije oralnog seksa, ne bi smjelo biti nikakvih problema.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprale</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4900</ID>
+    <SENTENCE>Jagode dobro oprati i očistiti od lišća te narezati na četiri djela.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4835</ID>
+    <SENTENCE>Za postizanje jednako kvalitetne čistoće ruku uobičajenim sredstvima, trebalo bi ih oprati oko 150 puta dnevno i za to utrošiti oko 2 sata.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9652</ID>
+    <SENTENCE>Purica se mora dobro očistiti od perja i žila, oprati, obrisati, može se nabosti i slaninom, posoliti i neko vrijeme ostaviti da navlači sol, a zatim se veže špagom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4955</ID>
+    <SENTENCE>"Kad je Krist, da bi nas očistio, oprao i otkupio, trpio na križu, bila je prisutna i Djevica Marija.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9622</ID>
+    <SENTENCE>Na vrijeme je Dinamov trener upozoravao da treba braniča, a ne Balabana, no Zdravko Mamić tada ga je "oprao" da je "nezahvalan".</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4882</ID>
+    <SENTENCE>Pokupiš li smjerno njegov razbacani veš, i odeš li ga oprati nadajući se da će voda isprati tragove ...?</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4857</ID>
+    <SENTENCE>Čak i ako nemate perilicu, možete ga 'ručno' oprati toplom vodom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4944</ID>
+    <SENTENCE>Bila u dm - a, na pazaru, bacila smeće, napravila krevet, obrisala prašinu, pomela, oprala suđe, skinila zavjesu / oprala / ponovo stavila, ispeglala mašinu robe, složila robu iz sušilice, stavila kuhat ručak.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4890</ID>
+    <SENTENCE>Treba odabrati zrele, ali ne mekane plodove i oprati ih.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9680</ID>
+    <SENTENCE>Celer oprati i narezati na ploškice.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4810</ID>
+    <SENTENCE>Predložila je Luci da malo stisnu Miru jer "mala iza sebe još nikada nije oprala suđe".</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4973</ID>
+    <SENTENCE>Dodir s kožom: mjesto dodira dobro oprati vodom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4905</ID>
+    <SENTENCE>Ja sam spremao stol, pa počeo cuclat slaju, a ona je, kad je nakon 20 minuta (!) sve suđe bilo oprano i poslagano – još šest puta proprala sudoper.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprano</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4865</ID>
+    <SENTENCE>Isto slatko može se kuhati i na ovaj način: 1 kilogram krupnih jagoda očistiti po gornjoj uputi, oprati ih i staviti na cjedilo da otkaplju.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4851</ID>
+    <SENTENCE>Mi vjerujemo da su međunarodni tribunali često za Domovinski rat jedna farsa s kojom se pokušava oprati savjest.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4978</ID>
+    <SENTENCE>Kad god se u nekom kozmetičkom testeru pronađe E. coli, to znači da je netko otišao do zahoda, nije oprao ruke i onda zaronio prste u kremu.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4883</ID>
+    <SENTENCE>U svojim pismima, sveti Gašpar piše: "Naš život neka bude potpuno okrenut Božjoj ljubavi, Bogu koji nas je tako zavolio da je postao našim Otkupiteljem i Žrtvom ljubavi za nas. On nas je zavolio i oprao u vlastitoj Krvi."</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>197</STARTINDEX>
+    <ENDINDEX>202</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4952</ID>
+    <SENTENCE>Pipa u WC-u je toliko blizu umivaoniku da je nemoguće oprati ruke bez da vam ruka ne miluje glatku keramiku istog.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4982</ID>
+    <SENTENCE>Danas sam napravila skoro pa generalku (ostali su mi još samo prozori) ; usisala i izribala prizemlje i kat, izribala oba kupatila, oprala namještaj, prozračila madrace i promijenila posteljinu, skuhala ručak, oprala veš i ubacila ga u sušilicu i suše u suđericu.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9678</ID>
+    <SENTENCE>Svaku čašu moram oprati prije nego popijemo vode.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4943</ID>
+    <SENTENCE>Ali time svejedno nije uspio oprati onu sramotu s Gotovinom, kad je preko Ive Pukanića (i posredno Hrvoja Petrača kao Gotovinina jataka) ušao u samoubilačku igru oko predaje odbjeglog generala.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9667</ID>
+    <SENTENCE>Tvoj "uberauto" s puno konja a kočnicama iz Zastave 101 (o čemu najbolje govori tvoja nedavna (ne) sreća) i može nekoga oprati samo na ravnoj cesti.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9607</ID>
+    <SENTENCE>Očito pogođen udarom engleske javnosti, Pedersen se pokušao "oprati" tvrdnjama kako nije želio iznuditi penal iako video materijal jasno pokazuje njegove proteste.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4823</ID>
+    <SENTENCE>Ipak je on čist, smije oprati zube, pa ne nosi taj prljav teret na sebi.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4909</ID>
+    <SENTENCE>Oprala sam ih i počešljala, ali neću ih stavljati - smije se Natali.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>Oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4875</ID>
+    <SENTENCE>Kanio se pred javnošću oprati od "objeda i laži", a pao je u vlastitu trapulu poput pučkoškolca.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4939</ID>
+    <SENTENCE>Odvukao se u kupaonicu umiti se, oprati zube, obrijati se.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9661</ID>
+    <SENTENCE>Nakon što je vijest procurila u javnost, a New York Daily News ju poštenski "oprao", njen glasnogovornik, Rob Shuter, rekao je medijima kako Jessica sve poklone s Video Music Awards - a, pa tako i Crossfire planira donirati ustanovi Operation Smile koja omogućuje plastične operacije djeci s urođenim deformacijama lica.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9633</ID>
+    <SENTENCE>Kad je pukla bruka, stranka je od svog vojnika oprala ruke.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4929</ID>
+    <SENTENCE>Nakon toga oprati lice prokuhanom kamilicom ili mlakom vodom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9660</ID>
+    <SENTENCE>Također, svako ćete jutro morati pažljivo oprati mališanov analni otvor kako biste uklonili jajašca.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9668</ID>
+    <SENTENCE>Spusten (2 vrece smjese u gepeku) Zatamljen (jesi se oprala, nisam) Koje usisnike mu je napravila korozija.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9700</ID>
+    <SENTENCE>Samo ga treba oprati vodom i bit će dobro.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9650</ID>
+    <SENTENCE>A prije toga Kazališni trg kitila su imena i nekoliko antinarodnih veličina pa ga je trebalo oprati imenom najvećeg sina naših naroda i narodnosti.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4950</ID>
+    <SENTENCE>U svakom slučaju nakon takve penetracije trebate dobro oprati penis ili, prije nastavka s vaginalnom penetracijom, nataknite kondom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9666</ID>
+    <SENTENCE>Rekli su nam da bi kamioni koji napuštaju gradilište morali oprati gume prije nego što izađu na ulicu, no oni to ne jednostavno poštuju.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4983</ID>
+    <SENTENCE>Oprao sam joj odjeću, jer ona je nema gdje oprati.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>Oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9621</ID>
+    <SENTENCE>Ovim sredstvima možete oprati i održavati kuhinjske površine i opremu.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9687</ID>
+    <SENTENCE>Da, lako je kad ti je uvijek skuhano, oprano i složeno, a ti imaš svoje novce, nešto daš starcima, a nešto ostane tebi !</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprano</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4860</ID>
+    <SENTENCE>Kiša ih je oprala, vjetar pothladio, a zima ukočila.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4815</ID>
+    <SENTENCE>Povrćem se mogao otrovati jedino ako je ono bilo špricano, a ti ga prije davanja nisi dobro oprala.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4826</ID>
+    <SENTENCE>Nakon što je nasilnik napustio mjesto događaja uzevši polupraznu bocu coca - cole podigli su prijatelja i odveli ga oprati.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4970</ID>
+    <SENTENCE>Ondje se svaka životinja prije operacije mora oprati, dijelom ošišati, obrijati i dezinficirati, a potom se odvodi u neku od operacijskih sala ", ispričao je Matičić pokazujući pritom životinje koje su toga dana već čekale na operaciju.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4801</ID>
+    <SENTENCE>Silkonska četkica može se oprati i u stroju za pranje posuđa.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9642</ID>
+    <SENTENCE>Uzeti nešto veće krastavce, dobro ih oprati a zatim isjeći na kolutove.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4824</ID>
+    <SENTENCE>Njih su dvoje su uhićeni 15. srpnja u akciji USKOK-a i policije, a sumnjiči ih se da su preko offshore tvrtki oprali više od tri milijuna eura.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4849</ID>
+    <SENTENCE>- Meni vrag nije dao mira i onako bolesna sam oprala kosu i držala svojim učenicama aerobik.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4949</ID>
+    <SENTENCE>Zadovoljna korisnica vadi iz perilice rublje koje je oprala kugla i oduševljeno ga miriše.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4958</ID>
+    <SENTENCE>Očistiti rižu, oprati u hladnoj vodi i spustiti u kipuću vodu kojoj smo dodali vrlo malo soli.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4906</ID>
+    <SENTENCE>"U kuhinji je najteže oprati suđe, kad su ti uvjeti nikakvi, a ima ga tonu, suđa od 12 ljudi. ’, dodala je Jelena.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4859</ID>
+    <SENTENCE>Dva kilograma kupina propasirati kilogram drenjina oprati, preliti vodom i kuhati ih dok ne smekšaju.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9646</ID>
+    <SENTENCE>Uprljanu obuću usput smo oprali na jednom potoku, zatim smo pojeli sendviče i popili kavu i, nakon tri sata laganog hoda, došli smo do autobusa.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4838</ID>
+    <SENTENCE>Ono kaj se dalo skinuti sam oprala na ruke, krov bum na kolicima prala vani, ali problem je kaj je drška za guranje sva od plijesni i nisam još probala oprati.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4968</ID>
+    <SENTENCE>Slatkiši, koje trudnice vrlo često konzumiraju, a posebno oni koji se lako lijepe za zube, nikako nisu poželjni, a smiju se jesti samo ako se neposredno nakon njihove konzumacije mogu oprati zubi.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>184</STARTINDEX>
+    <ENDINDEX>190</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4855</ID>
+    <SENTENCE>Hrana i piće: Piti isključivo flaširanu vodu, dobro oprati ili oguliti svježe voće prije konzumacije.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9645</ID>
+    <SENTENCE>Muž uđe u kupaonicu jer želi oprati majicu u perilici za rublje.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4980</ID>
+    <SENTENCE>"Bili smo okruženi kamerama, a kad nekoga zavodite, baš ne idete tamo gdje svi blicaju prema vama", tvrdi Laurie pokušavajući se oprati od tračeva.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4904</ID>
+    <SENTENCE>Ne smeta je ni jaka kiša koja je dobro oprala splitske ulice.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4935</ID>
+    <SENTENCE>PRIPREMA: Prije svega potrebno je dobro oprati i obariti tripice, odnosno kuhati ih u vodi barem pola sata.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4825</ID>
+    <SENTENCE>Oguljeni i oprani krumpir kuhamo zajedno s češnjakom u zasoljenoj vodi, izvadimo ga iz vode i propasiramo pire koji vratimo u vodu gdje se kuhao, dodamo maslac, papar i kuhamo na laganoj vatri neprestano miješajući dok ne dobijemo rijetku kašu a zatim dodamo gljive, vrhnje. pustimo da zavrije te poslužimo.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprani</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4922</ID>
+    <SENTENCE>Premijerka će morati oprati još puno suđa (jer upravo prilikom te zadaće je osmislila veći dio rebalansa, otkrila je nedavno u intervjuu za Gloriju) ukoliko želi sačuvati Hrvatsku od financijskog kolapsa.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4924</ID>
+    <SENTENCE>Imam li ja pravo da se silom oprem onomu, što hoće da mi dušu kida ?</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprem</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9681</ID>
+    <SENTENCE>Zbog visoke fitocidnosti potrebno je nakon primjene detaljno oprati uređaje postupkom opisanim u uputi (amonijačni postupak).</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4988</ID>
+    <SENTENCE>Upravo je preko plasmana "Amforinih" proizvoda Gucić u Hercegovini "oprao" najmanje 20-ak milijuna maraka.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4847</ID>
+    <SENTENCE>Kad se Danis Tanović popeo na pozornicu Oscara, zapadna hemisfera odahnula je i oprala savjest uz misao "evo, mi zbilja suosjećamo s vama", a mi koji se i dalje nalazimo u (geografskoj) poziciji da nas mogu zadesiti opaka sranja od istog tog zapada možemo očekivati da će se naših budućih problema sjetiti kad prođu i naknadno zadovoljavati naš ponos spominjanjem u pop kulturi.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9696</ID>
+    <SENTENCE>Svakako, prije lijepljenja vrećice za urin, trebalo bi blagom sapunicom oprati spolovilo, zatim ga isprati sterilnom vodom, osušiti sterilnim ručnikom, i nalijepiti vrećicu ; a zatim, čim spazite unutra urin, skinuti vrećicu ne dodirujući prstima otvor, i odjuriti u alaboratoriju za mikrobiologiju.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9659</ID>
+    <SENTENCE>Stroj ga je izbacio tamo gdje se odvaja krupni otpad, a on ga je oprao i odlučio vratiti.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4802</ID>
+    <SENTENCE>Ako su nečistoće stare ili debeloslojne postupak treba ponoviti te podlogu obavezno oprati vodom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4877</ID>
+    <SENTENCE>Nije nošena, oprana jednom kad je kupljena.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprana</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9641</ID>
+    <SENTENCE>Ako UN počiva na jednakosti suvereniteta, ne bi li trebao pomoći svojoj članici Iraku u slučaju napada SAD-a ili je barem prethodno izbaciti iz članstva i tako pilatovski oprati ruke ?</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>171</STARTINDEX>
+    <ENDINDEX>177</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4809</ID>
+    <SENTENCE>Prava će prijateljica neko vrijeme šmrcati s vama i uvjeravati vas da ste sto puta bolji komad od svoje "nasljednice", ali će vas obavijestiti kad zaključi da je "stvarno dosta", prisiliti vas da napokon operete kosu i iziđete iz izolacije.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>operete</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>204</STARTINDEX>
+    <ENDINDEX>211</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4911</ID>
+    <SENTENCE>Naglasio je da Vlada, premijerka i HDZ ne čine ništa kako bi utjecali na bilo koje tijelo kaznenog progona, pokrenuli politički postupak, ili nečijim izručenjem '' pilatovski oprali ruke '' i rješavali se bivših dužnosnika.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>175</STARTINDEX>
+    <ENDINDEX>181</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9603</ID>
+    <SENTENCE>"Strašno sam razočaran i praktički me velika sramota nakon svega što se dogodilo, zaista me je sram. Istina je da sam vrlo ljut na igrače, a imali smo jutros i sastanak gdje sam sve igrače dobro oprao. Tu nema alibija, ta se utakmica jednostavno morala dobiti ili najmanje izvući remi", rekao je Vučević.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>195</STARTINDEX>
+    <ENDINDEX>200</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9608</ID>
+    <SENTENCE>Oprati ih, odstraniti oštećene i prazne školjke.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>Oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9620</ID>
+    <SENTENCE>Meso oprati i izvaditi kost, a zatim mu dati oblik spljoštene lopte i vezati ukiž vezicomda zadrži taj oblik.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>5</STARTINDEX>
+    <ENDINDEX>11</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4808</ID>
+    <SENTENCE>Iz komunalnih tvrtki koje već rade s Eko Velebitom - predaju toj tvrtki baliranu ambalažu, a ona je transportira, tumače da se ne radi o robi za koju se netko treba tući jer nema vrijednost dok nije oprana i izbalirana.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprana</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>199</STARTINDEX>
+    <ENDINDEX>205</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9602</ID>
+    <SENTENCE>Samo korištenje platnenih pelena sada izgleda ovako: obući djetetu pelenu sa zaštitnim papirićem i staviti zaštitne gaćice (ako su potrebne), nakon upotrebe skinuti, ako je uprljana stolicom zaštitni papirić baciti u kanalizaciju, pelenu ostaviti u kanti, svaka tri dana oprati u perilici, osušiti i ponovno koristiti.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>271</STARTINDEX>
+    <ENDINDEX>277</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4920</ID>
+    <SENTENCE>Oprane želuce narežite na tanke ploške.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>Oprane</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4822</ID>
+    <SENTENCE>I onda mi je sinulo da bih mogao oprati odjeću dok se tuširam.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9658</ID>
+    <SENTENCE>Tada će se i ta stranka oprati.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+      <SENSEID>V.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4844</ID>
+    <SENTENCE>Nakon vađenja iz marinade, kunića dobro oprati, nabosti ga narezanim režnjevima češnjaka i obložiti ga ploškama pancete.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4937</ID>
+    <SENTENCE>Stranačka kolegica Ingrid Antičević Marinović upitala je nije li premijerka Jadranka Kosor predloženim sporazumom "oprala ruke" kao Poncije Pilat predajući pitanje granice na rješavanje arbitraži.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9613</ID>
+    <SENTENCE>Nakon što ste ispljunuli, isperite usnu šupljinu vodom, a možete i oprati zube (zbog eventualnog zadaha).</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4931</ID>
+    <SENTENCE>Komentar gospodina nakon dolaska: "Ženo, ovaj put si stvarno brza. Nisam niti ruke stigao oprati".</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9665</ID>
+    <SENTENCE>Oprala prozore, grilje, zavjese (samo u jednoj sobi), kuhinju, usisala, oprala podove, obišla cijeli stan na koljenima dok sam oprala sve lajsne od parketa, oprala podove, obrisala sve radijatore, sav namještaj namazala pronto mlijekom, sva vrata i sve ostalo drveno što mi je došlo pod ruku. (za neupućene stan mi ima 150kvadrata) Oprala dvi mašine suđa, i nešto na ruke, skuhala ručak, ispekla 4kg rog paprika za zimnicu, skuhala par kila salse (ne znam točno - jedna gajba pomidora).</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>Oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4918</ID>
+    <SENTENCE>Solidna pregradna mreža između putničkog i prtljažnog prostora stoga je bila također prednost Tourana, baš kao i originalna kadica za prtljažnik koja je precizno prilagođena konturama prtljažnika, može se oprati i ne klizi.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>205</STARTINDEX>
+    <ENDINDEX>211</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4871</ID>
+    <SENTENCE>Njegovi su tekstovi poetični, lijepi i teški, ali vrlo prisni, zbog čega je i grupa Mika Male napravila velik album i otvorila vrata mnogim istomišljenicima koji se nisu poistovjetili s marketinškim prikazom današnjeg društva u kojem su ljudi sretni jer su kupili novi mobitel, oprali rublje novim deterdžentom, popili novi lijek za sreću ili se pak nahranili nezdravom, ali lijepo upakiranom hranom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>278</STARTINDEX>
+    <ENDINDEX>284</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9670</ID>
+    <SENTENCE>Čini se da je Bajić mrtav - hladan mogao i stati iza USKOK-a i oprati uši Žganjeru zahvaljujući minulom — timskom ! — radu.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4964</ID>
+    <SENTENCE>Pretpostavka policije je ta da je Reiser svoju suprugu ubio u automobilu te ga je nakon ubojstva pokušao oprati vodom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4870</ID>
+    <SENTENCE>Najprije bi oprali jednu stranu ulice, onda bi se okrenili, pa oprali drugu stranu.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9699</ID>
+    <SENTENCE>Marasović tvrdi kako se splitski SDP najavama o podnošenju ostavki svojih vijećnika nastoji, pod pritiskom SDP-ove središnjice iz Zagreba, 'oprati' zbog suradnje s Kerumom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>140</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9685</ID>
+    <SENTENCE>Za razliku od vune i gotovih vunenih proizvoda gobleni se (moga znanja) ne peru, pa se onda ni to pofarbano ne bude opralo.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>opralo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9672</ID>
+    <SENTENCE>Varga je prodajom droge zaradio 24 milijuna kuna, a dio tog novca je oprao kupujući automobile, stanove i brodove.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4995</ID>
+    <SENTENCE>Sjeo je u travu, u jednu ruku uzeo bocu u drugu kornjaču i polako, polijevajući je, s nje oprao i zadnju mrvu zemlje.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9677</ID>
+    <SENTENCE>Potom skinuti onečišćenu odjeću nakon čega treba obavljati dekontaminaciju pranjem čistom vodom u vremenskom trajanju koliko je to već propisano uputom za pružanje prve pomoć (npr. antifriz – dobro oprati, benzin 20 minuta, kiseline 20-30 minuta, lužine 60 minuta).</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>198</STARTINDEX>
+    <ENDINDEX>204</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9636</ID>
+    <SENTENCE>Sol će ukloniti i mrlje od alkoholnih pića s odjeće, ali nakon što sol upije tekućinu iz mrlje, odjeću je potrebno odmah oprati ili barem isprati mlakom vodom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9657</ID>
+    <SENTENCE>Ako čistite patku, ne zaboravite izrezati dvije  lijezde s obje strane trtice koje imaju vrlo neprijatan vonj.  eludac razrezati po sredini, izbaciti sav njegov sadr  aj, oguliti tanku,  ućkastu unutrašnju opnu i dobro oprati.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>223</STARTINDEX>
+    <ENDINDEX>229</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9683</ID>
+    <SENTENCE>Anita Malenica je bila posve neobjektivna, navijala je za crvenu reklamu, i to joj je bio zadatak, čudio sam se od Mislava Togonala da ju nije doslovno nogirao s ekrana kad je oprala predsjednika Mesića.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>176</STARTINDEX>
+    <ENDINDEX>182</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4881</ID>
+    <SENTENCE>Nezadovovoljan pristupom i činjenicom da su već do poluvremena primili 50 poena domaći trener Kurtović je u svlačionici očito dobro "oprao" svoje igrače koji u nastavak ulaze daleko angažiranije.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9662</ID>
+    <SENTENCE>U kući je vladala ratna atmosfera, a gazda je naredio djevojkama da se mora oprati veš.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4805</ID>
+    <SENTENCE>Sad se probaju od Sanadera oprat ?</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprat</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4836</ID>
+    <SENTENCE>Kako bi i vaše kućanstvo bilo spremno, vrijeme je za pripremu deka i vunene odjeće koju treba oprati i osvježiti kako bi spremno i mirisno dočekali hladnije dane.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4908</ID>
+    <SENTENCE>"Povjerenstvo 'Iustitia et pax' Hrvatske biskupske konferencije sjetila se reagirati na korupciju u Hrvatskoj, opalivši više po medijima i po komunistima nego po lupežima i opravši ruke svoje institucije tako vješto kao da im je evanđelje napisao Poncije Pilat", komentira Inoslav Bešker.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>opravši</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>173</STARTINDEX>
+    <ENDINDEX>180</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4807</ID>
+    <SENTENCE>Međutim, njen je problem što joj je mater udbašica oprala mozak, pa stalno plače za tamnicom Hrvata (srboslavijom) i megaubojicom titom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4889</ID>
+    <SENTENCE>Kako smo imali prilike vidjeti po snimkama koje nam je Schüpbach pustio u Lausanni, Del Ponte je rijetko bila škrta na riječima kada je trebala "oprati" vladine dužnosnike, posebno u Beogradu.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4852</ID>
+    <SENTENCE>Zbog toga je, prije odlaska na put, preporučljivo provjeriti ispravnost motora i temeljito ga oprati, sredstvom za čišćenje i vodom pod velikim tlakom (posebice hladnjak).</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9669</ID>
+    <SENTENCE>"Tu ideju da sam ja pio viski s Miloševićem dok su nekoliko kilometara dalje ubijali muslimane su plasirali Emir Hadžihafizbegović i još neki moji bivši studenti. Mogu ja piti i vodku dok netko ubija muslimane, ali prvo moram znati tko to čini", objašnjavao je Kusturica pokušavajaući oprati ruke od povezanosti s Miloševićem, ali zločine njega i njegove vlade ipak nije želio osuditi.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>285</STARTINDEX>
+    <ENDINDEX>291</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4812</ID>
+    <SENTENCE>Pjer je priznao da se još nije oprao i uvjeravao je stanarke da mu ispod pazuha ne smrdi.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4845</ID>
+    <SENTENCE>Prema tome, uređaj samostalno određuje potrebnu razinu vode i točno ispravan broj okretaja centrifuge pri pranju te profil sušenja i temperaturu u sušilici kako bi rublje bilo savršeno oprano i osušeno.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprano</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>185</STARTINDEX>
+    <ENDINDEX>191</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4830</ID>
+    <SENTENCE>Nisam te ni pogodio kako treba – govorio je Djurčević te potom ispalio još jedan pucanj uz riječi kako je oprao ljagu sa svoga imena.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4926</ID>
+    <SENTENCE>PEPSI UMJESTO LAKA Upravo ste oprali kosu i želite je oblikovati, ali užasnuti primjećujete da kod koće nemate ni gela niti laka za kosu.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9654</ID>
+    <SENTENCE>Neki od njih rado bi danas "oprali ruke" od TLM-a i vratili državi − njezino.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprali</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4932</ID>
+    <SENTENCE>Simboličnu ulogu Kristovih učenika preuzeli su predstavnici dvanaest zadarskih župa, kojima je, svakom pojedinačno, nadbiskup Prenđa oprao i poljubio noge.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4843</ID>
+    <SENTENCE>Ako nije došlo do većih zaprljanja najbolje ga je oprati vodom iz akvaterarija kako se ne bi uništio biološki filter na spužvi.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9693</ID>
+    <SENTENCE>Paprike oprati, prerezati na četvrtine te svaku četvrtinu na tanke listiće.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4916</ID>
+    <SENTENCE>Ipak, Europski sud pravde danas je simbolično oprao ruke od slučaja u kojemu je tvrtka Lindt tužila malog austrijskog proizvođača čokolade zbog patenta na čokoladnog zeca.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4996</ID>
+    <SENTENCE>Očistiti i dobro oprati šaroge te ih posušiti papirnatim ručnikom.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9679</ID>
+    <SENTENCE>Pa znala je i Jadranka isto, čak su pokušali staviti na banku i oprati taj novac ali ih je banka prijavila.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9694</ID>
+    <SENTENCE>Evo još jedne: beskurpulozna do krajnjih granica, što proizlazi upravo iz načina na koji je dobila stan - prosto odvratno, a bogami i kako je oprala pod s Jadrankom Cigelj na TV-u.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprala</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>142</STARTINDEX>
+    <ENDINDEX>148</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4974</ID>
+    <SENTENCE>Nakon komune Cenacolo put je hodočasnike vodio prema ispovjedaonicama u kojima je trebalo "skinuti terete, oprati i očisti se i obući nova odjela".</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9656</ID>
+    <SENTENCE>"Dao sam otkaz jer me bilo sram doći prljav na posao, a nisam se imao gdje oprati", ispričao je.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4840</ID>
+    <SENTENCE>Oprati krumpire izbosti ih vilicom i neoguljene ih peči na 200 C jedan sat ili u mikrovalnoj na najjačem 15 minuta.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>Oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4869</ID>
+    <SENTENCE>Carwash je virtualna auto - praonica u kojoj će sve vaše želje ispunjavati tri oskudno odjevene plavuše kojima je, bar osnovna, zadaća oprati VW Bubu na seksi načine.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4893</ID>
+    <SENTENCE>"Nešto ti moram reći o mojim roditeljima prije nego uđeš. Za vrijeme večere mi ne razgovaramo. Tko prvi progovori, mora poslije oprati posuđe."</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9623</ID>
+    <SENTENCE>Jednom onečišćeni peloid više se ne može oprati i on od ljekovitog postaje običan mulj, tvrdio je.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9612</ID>
+    <SENTENCE>Pravi Hrvati trebali bi oprati ruke od bilo kakvog rasizma !</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9615</ID>
+    <SENTENCE>Staklo je lakše dezinficirati i oprati od drva.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>oprati</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4879</ID>
+    <SENTENCE>Zahvaljujući vjerojatno i još svježim sjećanjima na epidemiju SARS-a, u zračnoj luci u Torontu nakon odlaska na zahod ruke je opralo 95 posto muškaraca i 97 posto žena.</SENTENCE>
+    <TARGETLEMMA>oprati</TARGETLEMMA>
+    <TARGETWORD>opralo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.007.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>126</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+</SET>

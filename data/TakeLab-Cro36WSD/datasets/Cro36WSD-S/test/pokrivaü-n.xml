@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>4639</ID>
+    <SENTENCE>Dobio je pokrivače, a spavao je napuštenim mjestima.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivače</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4704</ID>
+    <SENTENCE>Cijeli dom okovan ledom, stijene, koje su izgledale veličanstveno u kristalnom ruhu, pogled koji je sezao sve do mora i okolnih vrhova, bistro plavo nebo, sunce koje se reflektira od bijelog pokrivača, tišina vjetra koji je klizao po obroncima i mala ekipica u domu sa nogama koje su se isparavale na hladnoći:), koja je pala na nulu.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>191</STARTINDEX>
+    <ENDINDEX>200</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9531</ID>
+    <SENTENCE>Dobro se utoplite u vreći za spavanje ili ispod par pokrivača.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4782</ID>
+    <SENTENCE>Namještaj svake od ovih soba pomno je izabiran i naručivan sa svih strana svijeta uključujući tibetanske svilene pokrivače, engleske kožne naslonjače, švedske krevete, marokanske pločice i talijanski mramor za kupaonice.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivače</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>113</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4608</ID>
+    <SENTENCE>Pokrivač će s reprezentacijom odraditi cijeli mali ciklus priprema, s tri utakmice u tjedan dana – protiv Austrije, Walesa i Estonije.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>Pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9553</ID>
+    <SENTENCE>Pored elegantne svilene posteljine, svila je također dostupna kao punjenje za pokrivače i jastuke.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivače</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4681</ID>
+    <SENTENCE>Ukoliko zbog tehnološkog procesa rada u prostoriji, postoji opasnost od eksplozije, krov treba biti projektiran i izveden s laganim pokrivačem u skladu s posebnim propisima.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>142</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9511</ID>
+    <SENTENCE>Osim Platka i Ravne gore, bijeli pokrivač zahvatio je ovih dana i Delnice.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4736</ID>
+    <SENTENCE>Za još bolju zaštitu spavača, preporuča se pokrivač s tkaninom VESPER - Antimoskito line.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9538</ID>
+    <SENTENCE>Četvrtak je osvanuo pod još debelim slojem snježnog pokrivača, a ujutro ga je na pojedinim predjelima bilo i preko 3o centimetara.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4657</ID>
+    <SENTENCE>Dok su u Korenici i Zavižanu još jučer izmjerena 32 centimetra snježnog pokrivača, prve snježne pahulje u ponedjeljak bi, prema podacima Državnog hidrometeorološkog zavoda, osim Like i Gorskog kotara trebale zabijeliti središnju Hrvatsku i Slavoniju, ali i gradove na obali – Zadar, Pazin, Nin i Rijeku te Krk i Pag.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9536</ID>
+    <SENTENCE>U Gradsko društvo Crvenog križa Metković i Gospić poslane su pošiljke koje sadrže: - hranu: brašno, ulje, tjesteninu, rižu, sol, marmeladu, riblju konzervu, juhe u vrećici, paketiće kave i keksa ; - higijenske proizvode: sapun, deterdžent za posuđe i rublje, pastu za zube i šampon za kosu ; - pokrivače i madrace te agregate i aparate za isušivanje prostorija.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivače</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>294</STARTINDEX>
+    <ENDINDEX>303</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4610</ID>
+    <SENTENCE>Dala mu je međutim jedan vojni pokrivač.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9557</ID>
+    <SENTENCE>Žele puno pokrivača i da u sobi bude toplo.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9568</ID>
+    <SENTENCE>U Bukureštu je snježni pokrivač dosegao pola metra i poremetio cestovni promet, a zbog neprestanih snježnih padalina i snažnih vjetrova zatvorene su zračne luke Baneasa i Otopeni, objavile su vlasti u Bukureštu.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9580</ID>
+    <SENTENCE>U zračnoj luci Ronald Reagan u Washingtonu palo je oko 25 cm novoga snijega, a u zapadnom Marylandu i do 40 cm, na 60 do 90 cm postojećeg snježnog pokrivača, od oluje tijekom prošloga vikenda.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>156</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4700</ID>
+    <SENTENCE>Možda mu je potreban topao pokrivač prije duge hladne zime.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9594</ID>
+    <SENTENCE>Oceani bi trebali porasti za jedan metar do kraja stoljeća jer njihova vrućina ubija ledeni pokrivač.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4770</ID>
+    <SENTENCE>Mi ćemo tražiti da ispod svakog '' zelenog pokrivača '', gdje će se koristiti pesticidi, bude postavljena membrana koja će skupljati i reciklirati svu vodu koja se koristi, na taj način nijedna kap vode neće se upiti u tlo.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9562</ID>
+    <SENTENCE>Snježni pokrivač povećat će se još do 10 cm, u gorju i više.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4775</ID>
+    <SENTENCE>Sakrili su je ispod pokrivača između prednjih i stražnjih sjedala u Golfu.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4672</ID>
+    <SENTENCE>Johannes je ležao leđima okrenut prema njoj, ispod oba pokrivača, glave zabijene između dvaju jastuka.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4697</ID>
+    <SENTENCE>Tu treba spomenuti i količinu pokrivača koju koristite, sobnu temperaturu i druge faktore koji jednako ne odgovaraju oba partnera.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9519</ID>
+    <SENTENCE>Zbog remećenja javnog reda i mira, on je zadržan u prostoriji za zadržavanje u prizemlju zgrade PP-a gdje je od pokrivača (deka) svezao čvor, zavezao oko vrata, a drugi dio za krevet i objesio se, navodi se u policijskom priopćenju.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4673</ID>
+    <SENTENCE>I Dalmatinska zagora je zabijelila pod snježnim pokrivačem.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9585</ID>
+    <SENTENCE>Ledenjak se odlomio još početkom kolovoza, a zabrinuti znanstvenici su naveli i kako je samo ovog ljeta nestalo više od 200 kvadratnih kilometara ledenjaka, odnosno 23 posto ukupne površine ledenog pokrivača Kanade.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>198</STARTINDEX>
+    <ENDINDEX>207</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9548</ID>
+    <SENTENCE>Visina snježnog pokrivača iznosi do 75 centimetara u sjevernim dijelovima države New Jersey, 60 centimetara u okolici New Yorka i oko 45 centimetara u Bostonu.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4689</ID>
+    <SENTENCE>Neki su se ipak meškoljili ispod pokrivača.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4667</ID>
+    <SENTENCE>Unatoč snježnom pokrivaču koji je prekrio dugoselske ulice i onemogućio dolazak neke djece, od njih stotinjak uspjelo je doći samo četrdesetak, priredba je održana u veselom tonu.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivaču</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4769</ID>
+    <SENTENCE>Pokrivač je odličnim udarcem sa 25 metara u 24. minuti svladao Rioua za svoj drugi prvenstveni pogodak ove sezone.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>Pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4637</ID>
+    <SENTENCE>Nešto malo veći i dubljii bazen na napuhavanje, veličine 457x107x22 cm, s pumpom, filterom za površinsko čišćenje, ljestvama za ulazak, podlogom i pokrivačem ove sezone nudi se od 999 kuna, što je nešto manje od petine prosječne plaće u Hrvatskoj.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>157</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9600</ID>
+    <SENTENCE>Prijepodne snijega će biti samo u gorju, uz stvaranje snježnog pokrivača, a poslijepodne i ponegdje u nizinama unutrašnjosti.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4691</ID>
+    <SENTENCE>Za Vaše noći gospodo sabornici, odabrali ste tople i meke pokrivače, a njima ste gospodo prepustili mokre i smrdljive deke.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivače</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4617</ID>
+    <SENTENCE>Bilić jednostavno mislio iznenaditi Capella sa pokrivačem na lijevom beku a vidili smo kako je to prošlo.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9596</ID>
+    <SENTENCE>Napad je izveden sa sjevera i juga odabranim komunističkim trupama, obučenim u bijelu tkaninu, čija se zaštitna boja slila s bojom debelog snježnog pokrivača nad zaleđenim Finskim zaljevom.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>157</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4797</ID>
+    <SENTENCE>Radovi su se odvijali u gotovo ekstremnim klimatskim uvjetima što znači da je za vrijeme 5 zimskih mjeseci u područjima kojima prolazi trasa dalekovoda temperatura konstantno ispod ništice, a nerijetko se spušta i ispod - 40 ° C uz visoki snježni pokrivač i često jak vjetar.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>247</STARTINDEX>
+    <ENDINDEX>255</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4777</ID>
+    <SENTENCE>Zrakoplovne kompanije JetBlue Airways i American Airlines svojim će putnicima u ekonomskoj klasi ukinuti besplatne pokrivače za vrijeme leta.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivače</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4613</ID>
+    <SENTENCE>Snijeg se zadržao i na moru: u Karlobagu je u 19 sati izmjerena visina snježnog pokrivača od 6 cm, dok je na pulskom aerodromu, Rijeci i u Bakru palo dva centimetra snijega.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4620</ID>
+    <SENTENCE>Pokrivači za opekline sastoje se od znanstveno oblikovanih gel obloga za hlađenje i posebnog nosača.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>Pokrivači</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4692</ID>
+    <SENTENCE>Prodavanje priče o sevdalinkama išlo je puno lakše zbog neupućenosti hrvatskog čitatelja u bosansku tradiciju koja se istopila poput artičkog ledenog pokrivača.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>159</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4742</ID>
+    <SENTENCE>Na Zavižanu ima 180 centimetara snijega, na Sljemenu 80. U središtu Zagreba snježni pokrivač doseže visinu od 20-ak centimetara.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9564</ID>
+    <SENTENCE>Veći broj kasetastih odjeljaka jamči da će ispuna biti ravnomjernije raspoređena po čitavom pokrivaču te neće biti hladnih predjela.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivaču</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4790</ID>
+    <SENTENCE>Talijanski znanstvenici smatraju da takvi pokrivači mogu pomoći u borbi protiv topljenja ledenjaka u Alpama.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivači</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4622</ID>
+    <SENTENCE>Iako u samom gradu visina snježnog pokrivača i nije baš velika u Rezovačkim Krčevinama ga ima ipak nešto više što omogućava skijanje.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4706</ID>
+    <SENTENCE>Pokrivači i jastuci koji su punjeni pahuljicama, biljnom vunom ili perjem ne dolaze u obzir za alergične osobe.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>Pokrivači</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4719</ID>
+    <SENTENCE>Podjednako otkriva svoje čari u svim godišnjim dobima, bilo zimi bijelo snježnim pokrivačem, u proljeće, buđenjem života na padinama, ljeti tamnozelenom bojom lišća vinove loze ili u jesen čitavim spektrom boja, raznim nijansama žute, smeđe, crvenkaste.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4716</ID>
+    <SENTENCE>Kao što se može očekivati u toplijem svijetu, neki pokazatelji - poput topline sadržane u vodama oceana ili temperatura nad kopnom - rastu, dok drugi - poput snježnog ili ledenog pokrivača - bilježe pad.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>188</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4774</ID>
+    <SENTENCE>Sažetak: Prikazana je analiza meteoroloških parametara (Temperaturne sume, količina oborine, trajanja sijanja sunca te učestalost uzastopnih dana bez oborine, dana različitih temperaturnih karakteristika i dana sa snježnim pokrivačem) značajnih za poljodjelsku proizvodnju u razdoblju listopad 1992 - rujan 1993. Ekstremne vremenske prilike, veoma kišovit listopda 1992, dugotrajna suha razdoblja u zimi 1992/1993. te suho i veoma toplo ljeto 1993, imali su uglavnom negativan utjecaj na poljodjelsku proizvodnju.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>223</STARTINDEX>
+    <ENDINDEX>233</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4728</ID>
+    <SENTENCE>I doista, kad susretnete nekog sunarodnjaka u stranoj okolini, zar nije baš humor ono vezivno tkivo, onaj pokrivač koji nas grije kad je sve ostalo hladno i nepoznato ?</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4717</ID>
+    <SENTENCE>"Primijetio sam nešto pored puta prekriveno prljavim pokrivačem žućkaste boje. Mislio sam da je neka crkotina, jer ljudi tu svašta bacaju. Vrhom cipele podigao sam pokrivač i zaprepastio se. Ispod pokrivača je bilo tijelo žene, sve u modricama, po čelu, dojkama, rukama. Prizor je bio strašan ! Njeno lice već mi se urezalo u pamćenje", ispričao je Marković koji je umjesto očekivane lešine svinje, ispod pokrivača ugledao ljudsko tijelo.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4671</ID>
+    <SENTENCE>Navucite čarape kako bi se ugrijale noge i proširile krvne žile - zatim skinite čarape i pustite da vam jedna noga viri ispod pokrivača.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>126</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4612</ID>
+    <SENTENCE>Skadarsko jezero najviše vode dobiva dotokom bogate rijeke Morače koja uvijek ima dovoljno kvalitetne vode jer dolazi iz planinskih predjela na kojima ni na početku ljeta nije rijetkost zateći snježne i ledene pokrivače.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivače</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>210</STARTINDEX>
+    <ENDINDEX>219</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4796</ID>
+    <SENTENCE>POPULACIJA tuljana koja živi na kanadskoj obali Atlantika trpi jer država još lovcima dopušta ubijanje stotina tisuća tih životinja svake godine, unatoč jasnim dokazima da se ledeni pokrivač brzo stanjuje, navode aktivisti za zaštitu životinja.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>182</STARTINDEX>
+    <ENDINDEX>190</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4698</ID>
+    <SENTENCE>Osamnaest je osoba umrlo od hladnoće od utorka u Poljskoj gdje je snježni pokrivač od 17 centimetara poremetio zračni, cestovni i željeznički promet, rekao je za agenciju AFP glasnogovornik nacionalne policije Mariusz Sokolowski.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4765</ID>
+    <SENTENCE>Dunlopillo vrhunski i visokokvalitetni proizvodi, počevši od anatomskih i višezonskih ležaja - madraca, izrađenih od latexa ili COLTEX spužve, ergonomskih i elastičnih konstrukcija podloga prilagodljivih prema potrebama različitih individualnih korisnika, kao i prateći asortiman potpornih jastuka i pokrivača koji reguliraju tjelesnu temperaturu, a svojom međusobnom i za korisnika optimalnom interakcijom zatvaraju krug zdravo spavanje – spavač – krevetni sustav, zadovoljavaju i one najosjetljivije spavače.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>300</STARTINDEX>
+    <ENDINDEX>309</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4649</ID>
+    <SENTENCE>Počelo je doba globalnog zagrijavanja, ledeni pokrivači na polovima otapaju se i razina mora raste, Zemlja kakvu smo poznavali tisućama godina, a postojala je još milijardama prije nas, uskoro više neće biti ista.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivači</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4645</ID>
+    <SENTENCE>Iako bi pokrivač odbijao većinu sunčeve energije, toplina bi prodirala i ostajala zarobljena unutra.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4668</ID>
+    <SENTENCE>Treba izdvojiti puno vremena za ovakve pokrivače koje radim jer se ipak sastoje od tri sloja koje treba pažljivo prišiti da se ne raspadnu.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivače</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4686</ID>
+    <SENTENCE>Istaknuo je kako cijeli slučaj još treba istražiti, a potpunu sliku će dobiti tek kad dobije dodatne informacije o konfiguraciji tla i biljnom pokrivaču.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivaču</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>143</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4732</ID>
+    <SENTENCE>"Da bar imam pernati pokrivač kao ti."</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4766</ID>
+    <SENTENCE>Pokrivač Eva je jednoslojan, a vlakna su utkana srednje gusto, što omogućava dobro prozračivanje i regulaciju temperature.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>Pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4714</ID>
+    <SENTENCE>A snježnog pokrivača na ovdašnjim je cestama poprilično.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9525</ID>
+    <SENTENCE>Doktorica i Marta V. koje su prve pronašle nesretnu Ivu kazale su da je ležala u krevetu, a kada su podignule pokrivač vidjele su da su joj najlonke navučene, ali da su joj gačice spuštene i zamrljane krvlju.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9587</ID>
+    <SENTENCE>OSIJEK – Unatoč tomu što je pretrpjela nekoliko temperaturnih šokova, većina usjeva pšenice ipak je u vrlo dobrom stanju ušla pod snježni pokrivač, a stručnjaci kažu i kako se može reći da su ostvareni i vrlo dobri sklopovi.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9541</ID>
+    <SENTENCE>Dobio sam dva pokrivača i jastuk.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4785</ID>
+    <SENTENCE>Austrijski Crveni križ smjestio je putnike u jednu obližnju dvoranu i opskrbio ih poljskim krevetima, pokrivačima i toplim napitcima.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4642</ID>
+    <SENTENCE>Iz Dinama doznajemo kako će se pokrivač s terena skinuti samo jednom prije utakmice ; u utorak navečer, kada će na Maksimiru trenirati nogometaši PAOK-a.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4627</ID>
+    <SENTENCE>Iako mnogi misle da se ispod pokrivača ne događa ništa više od pipkanja, kamere Velikog Brata uhvatile su Jovanu u vrlo nezgodnom trenutku.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4646</ID>
+    <SENTENCE>Kako su im šatori bili posve uništeni, promrzlim i blatnjavim ljudima lokalni su stanovnici davali pokrivače kako bi se ugrijali.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivače</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4726</ID>
+    <SENTENCE>Idealno za djecu, opuštajuća podneva ili kao dodatni pokrivač na krevetu.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4688</ID>
+    <SENTENCE>Snijeg je počeo padati u noći s utorka na srijedu oko 23.30 sata tako da su grad i okolica ujutro bili prekriveni s desetak centimetara snježnog pokrivača.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9526</ID>
+    <SENTENCE>Još prije par godina, čudili smo se kako u susjednoj nam Sloveniji, već nije rijetkost da vas pozovu na predstavljanje nekog automobila, kao da se radi o padelama ili pokrivačima, na čije smo prezentacije već svi navikli.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>167</STARTINDEX>
+    <ENDINDEX>178</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4624</ID>
+    <SENTENCE>Dolazi do vrata, pogleda kroz prozor i ugleda je kraj prozora pokrivenu, viri joj razbarušena glava ispod bolničkog pokrivača.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4747</ID>
+    <SENTENCE>Preklapanja cerada na svim spojevima omogućuju što nepropusniji zaštitni pokrivač koji se istovremeno može jednostavno otvoriti.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4748</ID>
+    <SENTENCE>Kako je tek zimi, kada će ovdje bljesnuti cijeli milijun šarenih žaruljica pod bijelim pokrivačem ?</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9505</ID>
+    <SENTENCE>On je nešto što očekujete od mene, ali i nešto što će vas iznenaditi. "Prije nego je otišla natrag u gledalište, Alicia Keys nam je ispričala i kako planira provesti božićne blagdane:" Randez vouz u mom krevetu, jastuk, pokrivač, hrana. "O razlozima zbog kojih nikad ne radi za Božić, dodala je:" Sedam mjeseci nisam bila kod kuće, važno mi je otići kući i vidjeti svoju obitelj, biti na poznatom mjestu.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>220</STARTINDEX>
+    <ENDINDEX>228</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4723</ID>
+    <SENTENCE>Snježni pokrivač koji je prekrio Kinu izazvao je kaos u prometu.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4634</ID>
+    <SENTENCE>Pokrivač je periv na 30 ° C i nakon pranja ostaje mek i elastičan.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>Pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4721</ID>
+    <SENTENCE>- Neće se odgoditi, pa neće valjda biti - 20. Slično je bilo na utakmici Spartak - Barcelona, no tamo je bilo 40 centimetara 'bijelog pokrivača' pa su onda Rusi uključili grijanje.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9547</ID>
+    <SENTENCE>Tijela ubijenih rođaka bila su omotana dekama, plahtama i pokrivačima, te vezana špagom.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9524</ID>
+    <SENTENCE>Iako nas vrijeme još uvijek zna iznenaditi hladnim zimskim pokrivačem, jedno je sigurno, proljeće se sve više približava i u naše domove unosi svježinu prirode, kao i peti broj časopisa "Moj životni stil" u kojem donosimo pregršt zanimljivih priča i trendova iz svijeta dizajna interijera.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4636</ID>
+    <SENTENCE>Uspoređujući ovaj događaj sa 19.12.2009. malo je toplije, a i jugo će probiti duboko na sjever pa se stvaranje debljeg snježnog pokrivača očekuje ponajprije u unutrašnjosti Istre.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9571</ID>
+    <SENTENCE>A grč u ruci, pa povremeni trzaji lakta ili koljena, okretanje po noći i grebanja, pa krađa pokrivača i prigovaranje zbog kašljanja u snu.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4710</ID>
+    <SENTENCE>U pozadini je jesenjski Varaždin sve učestalije i sve jače mijenjao svoje boje kao da nam pokušava reći kako lijepo može izgledati kako bi ga upamtili prije nego ga snježni pokrivač okuje i ukroti.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>173</STARTINDEX>
+    <ENDINDEX>181</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4680</ID>
+    <SENTENCE>Gusti snijeg počeo je jučer poslijepodne opet padati na širem rovinjskom području, a s obzirom na niske temperature može se očekivati podebljanje postojećeg bijelog pokrivača.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>174</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4763</ID>
+    <SENTENCE>Korištenjem montirane hale nije moguće izbjeći blago "popuštanje" pokrivača, protiv ovoga neželjenog učinka koristimo jednostavan sustav tzv. tunela u pokrivaču, koji je dovoljno jednom u 2 godine zategnuti i pokrivač je cijelo vrijeme čvrsto zategnut.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9517</ID>
+    <SENTENCE>Dlačni pokrivač se temeljito prokvasi prsanjem ili pranjem sa spužvom, osobito mjesta koja ektoparaziti najčešće napadaju.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4629</ID>
+    <SENTENCE>Najbolji način održavanja vunenog pokrivača je zračenje na sjenovitom i vjetrovitom mjestu.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9584</ID>
+    <SENTENCE>Na Plitvicama ima više od 30 cm snijega a snježni pokrivač zabijelio je i u drugim područjima Like.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4641</ID>
+    <SENTENCE>Nakon seksa nije poželjno da svatko pokupi svoj jastuk i pokrivač i ostavi voljenu osobu.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9555</ID>
+    <SENTENCE>Pretežno se koristi geotekstili kao zaštitni pokrivač.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4724</ID>
+    <SENTENCE>Iako je dobar dio Hrvatske pod snježnim pokrivačem, za hrvatsku reprezentativnu košarku danas počinje još jedno radno ljeto.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivačem</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4670</ID>
+    <SENTENCE>Mjere: 200x90x12,7cm, izmjenjive pregrade, gornji pokrivač za madrac, nečujan kompresor.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4740</ID>
+    <SENTENCE>No, neki su u njemu i uživali, poput lavova smještenih u Blair Drummond Safari Parku koji su uživali na bijelom pokrivaču.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivaču</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4632</ID>
+    <SENTENCE>Najviše ih misli kako je 'krivac' za trudnoću Bane Janković, za kojeg je jedan od bivših farmera rekao da se seksao s Natalijom ispod pokrivača.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4750</ID>
+    <SENTENCE>Tako je prošle godine prvi snijeg pao već 4. rujna na Zavižanu, a visina snježnog pokrivača iznosila je 4 centimetra, dok je 2006. godine prvi snijeg, također na Zavižanu, pao već zadnjeg dana kolovoza.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4643</ID>
+    <SENTENCE>Stalno se maze i nježno ljube, a mazio ju je i ispod pokrivača.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4603</ID>
+    <SENTENCE>Ispostavilo se na kraju da su Hermana spasila tri starija brata koji su se odricali svoga obroka i pokrivača te su bili razočarani bratovom laži.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4604</ID>
+    <SENTENCE>Do 4.30 sati ujutro je na stazi dežurala ekipa brojnih trenera, servisera i volontera kako bi se sačuvao i do visokog natjecateljskog stupnja doveo 60 cm debeli utabani snježni pokrivač.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivač</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>177</STARTINDEX>
+    <ENDINDEX>185</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>4614</ID>
+    <SENTENCE>Poduzetni par sakrio je ruke ispod pokrivača, koji se polako dizao i spuštao.</SENTENCE>
+    <TARGETLEMMA>pokrivač</TARGETLEMMA>
+    <TARGETWORD>pokrivača</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.005.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+</SET>

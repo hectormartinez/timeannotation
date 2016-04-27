@@ -1,0 +1,2438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>2882</ID>
+    <SENTENCE>Boja ploda je rezultat visoke koncentracije antioksidativnih pigmenata (antocijanina) u bobama.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8669</ID>
+    <SENTENCE>U krletku im postavite gnijezdo s jednim otvorom, poželjno na više mjesto.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>više</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2961</ID>
+    <SENTENCE>Na drvenom dijelu mini kuhinje dobro je rješenje i lak visokog sjaja.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8668</ID>
+    <SENTENCE>Zbog svega toga mnogim visokim zgradama nedostaje trinaesti kat, bolnicama soba, a avionima trinaesti red.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2816</ID>
+    <SENTENCE>Je li to zbog vašeg šefa, suradnika, vrste posla ili plaće za koju smatrate da nije dovoljno visoka ?</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoka</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2985</ID>
+    <SENTENCE>Dvori nude vlastite proizvode s etiketom, a posebno su ponosni na zaštićeno maslinovo ulje i babić visoke kvalitete.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8661</ID>
+    <SENTENCE>U vrijeme mandata Jasenke Gojšić napravljeni su veliki iskoraci u razvoju CARNetove mrežne infrastrukture, pa je tako danas u CARNet mrežu spojeno 205 ustanova iz sustava znanosti i visokog školstva na 306 lokacija u 33 grada širom Hrvatske.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>182</STARTINDEX>
+    <ENDINDEX>189</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2830</ID>
+    <SENTENCE>UV zračenje je visokog i vrlo visokog intenziteta, pa je pri izlasku potrebna primjerena zaštita kože i očiju.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2959</ID>
+    <SENTENCE>Ljubo Jurčić, SDP-ov kandidat za premijera, u svojem je govoru istaknuo kako je, unatoč velikom prirodnom i stvorenom kapitalu, Hrvatska suočena s visokim vanjskim dugom i visokom zaduženošću građana.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2885</ID>
+    <SENTENCE>Tržište je promptno reagiralo što je rezultiralo strjelovitim rastom cijene do najviših 61 kuna.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najviših</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2870</ID>
+    <SENTENCE>Naglasio je da su u vrijeme dolaska na vlast Račanove vlade početkom 2000. i država i Ina bile "u tragičnoj situaciji", zbog višegodišnjeg negativnog trenda gospodarskog rasta, visoke nelikvidnosti, 32 tisuće nezaposlenih (do polovice 2000. bilo ih je 400 tisuća), "enormnog" broja stečajeva.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>177</STARTINDEX>
+    <ENDINDEX>183</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2930</ID>
+    <SENTENCE>Yao Ming, 29-godišnji 231 centimetar visoki kineski centar, trebao moći započeti sezonu 2010/2011, nakon što pauzira sljedećih godinu dana.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2910</ID>
+    <SENTENCE>Izložba se i ove godine održavala pod visokim pokroviteljstvom Ministarstva gospodarstva, rada i poduzetništva i Ministarstva znanosti, obrazovanja i športa.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8687</ID>
+    <SENTENCE>HR500 najnovija je nadogradnja Media Centar serije, vaš je idealan partner za gledanje i snimanje TV kanala u visokoj rezoluciji te gledanje sadržaja sa svih tipova optičkih diskova (Blu-Ray, DVD, CD). Digitalni HD tuner dopušta vam da gledate jedan visokorezolucijski ili standardni kanal dok snimate drugi.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2873</ID>
+    <SENTENCE>Glava je još uvijek nabijena na kolcu najvišeg vrha Tasmanije (Ben Lomond, 1573 metra) kao primjer drugima koji se hoće zajebavati s 'Oštricom Pacifika'.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najvišeg</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8606</ID>
+    <SENTENCE>Istodobno razmjerno visok krov i karavanski ravan strop ostavljaju dovoljno prostora za glave dugajlija.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8698</ID>
+    <SENTENCE>Zavrtio se poput lijevka na površini jezera, visok kao kuća. A onda se srušio.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2886</ID>
+    <SENTENCE>Najveći će gubitnici biti HDZ i HSS, koji drže najviše malih općina.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najviše</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2947</ID>
+    <SENTENCE>- Zadar u budućnosti neće imati problem s visokim igračima.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2839</ID>
+    <SENTENCE>Njemačka policija na visokom je stupnju pripravnosti kad su u pitanju napadi u školama nakon što je Tim Kretschmer, 17-godišnji Nijemac, ljubitelj nasilnih videoigara, usmrtio 15 osoba prije točno dva mjeseca, 11. ožujka, većinom u svojoj bivšoj školi u Winnendenu, na jugu Njemačke, a zatim počinio samoubojstvo.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2864</ID>
+    <SENTENCE>Uskoro će ondje izrasti zgrada "Shard 'koja će sa svojih 310 metara biti najviši europski neboder.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najviši</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8688</ID>
+    <SENTENCE>Ako imate visok krvni tlak, australski znanstvenici imaju novo rješenje za vas, ali možda ostanete bez prijatelja.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2925</ID>
+    <SENTENCE>"Korisnici Adobea od svojih radnih stanica zahtijevaju vrlo visoku izvedbu kako bi ostvarili svoje kreativne vizije koristeći najnovija rješenja na području razvoja video uradaka, dizajna i interneta", istaknuo je stariji direktor za upravljanje proizvodima tvrtke Adobe Simon Hayhurst.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2939</ID>
+    <SENTENCE>Tako je jučer najviši krvni tlak 170/100 izmjeren kod jednog 40-godišnjeg Šibenčanina koji se bavi financijama.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najviši</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2965</ID>
+    <SENTENCE>Riječ je o uređaju vrhunskih tehničkih karakteristika s širokim 178 mm ekranom visoke rezolucije 1440x234 piksela te mogućnošću odabira između tri načina rada: Wide, Normal i Cinema.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2853</ID>
+    <SENTENCE>Postigao je, podsjeća dpa, da opća skupština UN-a premoćnom većinom zatraži uključivanje najvišeg suda UN-a.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najvišeg</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2903</ID>
+    <SENTENCE>Uostalom, kad je riječ o europskim temama, premijer se često telefonski konzultira s predvodnikom oporbe jer o toj temi postoji visok stupanj suglasnosti, potvrdio je jedan od Nacionalovih sugovornika iz oporbenih krugova.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>133</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8693</ID>
+    <SENTENCE>Iz toga pak, ističe se, nedvojbeno proizlazi da za sada ostaje na snazi odredba Zakona o visokim učilištima kojom se eksplicite utvrđuje da visinu školarina za studije na javnim učilištima utvrđuje Ministarstvo znanosti i tehnologije.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8633</ID>
+    <SENTENCE>Neke su bile prisutne duže, neke kraće, neke s visokim stručnim obrazovanjem, a neke bez ikakvog formalnog obrazovanja, ali sve ih je povezivala zajednička ljubav prema poslu kojeg su obavljale i želja da naprave što više i što bolje.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8608</ID>
+    <SENTENCE>Našavši se ondje, Alan i još tri dječaka u kampu moraju dati sve od sebe kako bi ispunili visoka očekivanja svog vodiča Vica (Kevin Bacon) koji je odlučan u tome da dječake dovede do krajnjih granica – a možda i dalje od toga.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoka</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8622</ID>
+    <SENTENCE>Vladar Dubaija šeik Mohamed ben Rašid Al-Maktum u ponedjeljak navečer u tom je gradu otvorio najveću zgradu na svijetu, toranj Burdž Kalifa, visok 828 metara, objavile su agencije.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>141</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8603</ID>
+    <SENTENCE>Lijes nakon dolaska na patologiju nije otvaran, pa će se tek obdukcijom utvrditi odgovara li visoki stupanj raspadanja vremenu od 19 dana, koliko se ne zna gdje je Britt Lapthorne.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8630</ID>
+    <SENTENCE>Sjeverna Koreja je ispalila oko 200 granata, a Južna Koreja im je uzvratila s njih oko 80. Južna Koreja je odmah izdala naredbu da se uvede najviši stupanj sigurnosti.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najviši</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>140</STARTINDEX>
+    <ENDINDEX>147</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2999</ID>
+    <SENTENCE>A onda svečani ceremonijal, na najvišoj stepenici pobjedničkog postolja Hrvatska.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najvišoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8636</ID>
+    <SENTENCE>Jedini dokaz da je visoki stupanj opreza ipak prisutan bio nam je kad smo uz prethodni dogovor s glasnogovornikom pokušali snimiti zajedno marokanske i španjolske vojnike.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2809</ID>
+    <SENTENCE>One sadrže visoke količine vitamina B koji je nužan za normalno funkcioniranje živčanog sustava, piše net.hr.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2976</ID>
+    <SENTENCE>- Ako se gradi momčad za visoke domete, onda ne prodaješ dva najbolja igrača.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2998</ID>
+    <SENTENCE>Zbog posebna dizajna čak će i oni koji krenu s drugoga kata zgrade, odnosno nižeg tobogana, na cilj doći u isto vrijeme kao i oni koji krenu s višeg tobogana.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>višeg</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>143</STARTINDEX>
+    <ENDINDEX>148</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2912</ID>
+    <SENTENCE>Dragovan je naglasio da stranka tim izborima postavlja najviše standarde demokracije unutar svoje strukture te je ujedno i jedina sposobna postaviti takve standarde u Hrvatskoj.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najviše</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8644</ID>
+    <SENTENCE>S druge strane se "obojene" ljude ne smije postavljati na visoke položaje ako nisu uspjeli na nižim položajima.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2840</ID>
+    <SENTENCE>Ugrađeni objektiv ima žarišni raspon koji odgovara 28-102 mm (ekvivalent 35-milimetarskom formatu), a aparat je opremljen i optičkim stabilizatorom slike koji odlično funkcionira u kombinaciji s maksimalnom osjetljivošću od ISO 160. LCD zaslon dijagonale 2,5-inča i visoke rezolucije omogućuje jasan pregled kritičnih detalja.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>266</STARTINDEX>
+    <ENDINDEX>272</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2802</ID>
+    <SENTENCE>Visok trend skupljanja PET ambalaže nastavljen je i u narednim mjesecima.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>Visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8674</ID>
+    <SENTENCE>Ivić smatra da Messi može podnijeti tolike napore: "Messi je nizak, nije težak, a opet je čvrst na nogama. Igrači s takvom konstitucijom duže traju. On ima obveze prema naprijed i prema natrag, ali Guardiola mu dopušta da se ne troši previše kao vezni igrači. Mislim da će trajati dugo i da će dugo igrati na visokoj razini. Ako se sve to ostvari, mogli bi ga za pet - šest godina proglasiti najboljim nogometašem u povijesti."</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>309</STARTINDEX>
+    <ENDINDEX>316</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2880</ID>
+    <SENTENCE>Učestalost ponovnog krvarenja je 70 %, a visoka smrtnost je rezultat uznapredovale bolesti jetre.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoka</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2992</ID>
+    <SENTENCE>To je drugi najviši transfer svih vremena u Nizozemskoj, nadmašuje ga jedino prijelaz Ruuda Van Nistelrooya iz PSV-a u Manchester United za 30 milijuna.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najviši</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2813</ID>
+    <SENTENCE>Stoga su predstavnici tvrtke – učenici ekonomskog usmjerenja i mentorica profesorica Silvija Kekez – sudjelovali na 10. Nacionalnom savjetovanju o gospodarstvu i poduzetništvu koje se održalo u organizaciji Ministarstva u Šibeniku 801. - 03. lipanj) i uz još dvije pozvane srednje, kao i tri visoke škole, predstavili projekt te osvojili treće mjesto.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>292</STARTINDEX>
+    <ENDINDEX>298</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2820</ID>
+    <SENTENCE>Na nepcu je vino perfektno mekano i uravnoteženo, ugodne uljaste i sirupaste teksture a visoki alkohol je odlično uravnotežen ostatkom sladora.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8655</ID>
+    <SENTENCE>Ovom neugodnom događaju nisu prisustvovali visoki civilni dužnosnici - predsjednik Republike, premijerka i ministar obrane - koji su bili na otvaranju konferencije.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2889</ID>
+    <SENTENCE>Thortex TIMBA - TECH sustav za popravak drva visokog učinka posebno razvijen za obnavljanje i popravak svih vrsta drva.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8694</ID>
+    <SENTENCE>"U znanstvenom opusu prof. Kurjaka i njegovih suradnika dostupnog putem mreže u bazi Medline, utvrđena je pojavnost višestrukih, tj. suvišnih publikacija i publikacija sa značajnim udjelom teksta koji se preklapa s već objavljenim, te pojavnost i drugih oblika povreda Kodeksa Odbora za etiku u znanosti i visokom obrazovanju ili općeprihvaćenih normi u objavljivanju u biomedicinskim časopisima." - stoji u trećem zaključku Odbora za etiku i visokom obrazovanju.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>443</STARTINDEX>
+    <ENDINDEX>450</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2946</ID>
+    <SENTENCE>Anketu je ispunilo 71 ispitanika srednje životne dobi, uglavnom zaposleni s nadprosječno visokim obrazovanjem odnosno magisterijem i doktoratom.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2854</ID>
+    <SENTENCE>Uz prijavu na natječaj potrebno je priložiti: životopis, presliku diplome, presliku domovnice, potvrdnicu visokog učilišta kojom se potvrđuje da pristupnik spada u 10 % najboljih studenata ili se nalazi među 10 najboljih diplomiranih studenata, ako je broj studenata na tom smjeru manji od 100 te potvrdu o nekažnjavanju.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2841</ID>
+    <SENTENCE>Temeljni cilj projekta je rano otkrivanje melanoma što omogućuje uspješno liječenje i visoku stopu preživljavanja.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2860</ID>
+    <SENTENCE>Naime, postavlja se pitanje je li čak i visok stupanj organizacijske ("pravne") integriranosti jamac da postoji primjerena funkcionalna integriranost potrebna za provedbu Bolonjskog procesa.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8671</ID>
+    <SENTENCE>"Ivan Čizmek je predlagao" zagrebačko dvomostovlje ’, po uzoru na ljubljansko tromostovlje, znači, micanje zelenog nasipa i podizanje pruge na visoku konstrukciju kako bi se proširio prolaz kroz nadvožnjak kod Runjaninove ulice.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>143</STARTINDEX>
+    <ENDINDEX>149</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8678</ID>
+    <SENTENCE>Visoka kvaliteta izrade i završne obrade svih naših proizvoda pa tako i ove ogrlice nudi kvaltetan, vrhunski proizvod.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>Visoka</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2849</ID>
+    <SENTENCE>"Od nečega smo na početku ipak morali živjeti. Imali smo hladan pogon od 19 zaposlenika, svi visokoškolovani, što znači i s visokim primanjima pa smo uz razvoj CRM-a odlučili ponuditi usluge 'networkinga' i implementacije sustava za nadzor rada ICT sustava", pojašnjava Šarić.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2977</ID>
+    <SENTENCE>Cijena te dionice kretala se od 7350 kuna do najviših i zaključnih 7500 kuna.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najviših</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2898</ID>
+    <SENTENCE>Uz agresivniji izgled te mnoštvo aerodinamičkih dodataka, tu je i neizostavni stražnji "šank", a iz Subarua poručuju da motorizacija nije mijenjana, no da je poboljšana stabilnost pri visokim brzinama, baš kao i sam handling.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>184</STARTINDEX>
+    <ENDINDEX>191</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2956</ID>
+    <SENTENCE>"Sa svime što 21 ima za ponuditi – visoki ulozi i rizici, fantazija koja se ostvaruje u Vegasu, činilo se kao da je ovaj film odlična prilika.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2876</ID>
+    <SENTENCE>Uz "midi" dužinu izbjegavajte balerinke i niske pete koje će noge učiniti nezgrapnima, visoke pete i platformke noge će izdužiti i učiniti ih (još) privlačnijima.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2981</ID>
+    <SENTENCE>Po pogledu na svijet i po godinama smo bliski i mislim da kao stručni ljudi možemo dosta toga napraviti na lokalnoj razini gdje se, treba reći, ne odlučuje o visokoj politici, nego o praktičnim stvarima ; rasvjeti, komunalnim pitanjima i sličnom, kazuje Ivica Katić odgovarajući na upit o svojoj motivaciji za promjenu stranačkog barjaka.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>158</STARTINDEX>
+    <ENDINDEX>165</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2916</ID>
+    <SENTENCE>Uz snažnog 194 cm visokog Gordona, koji će vjerojatno uskoro završiti u NBA ligi, najviše tinte Witte je potrošio na 19-godišnjeg krilnog centra Leona Radoševića o kojem se jako dobro raspitao.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8697</ID>
+    <SENTENCE>Predsjednik Savjeta je stožerni brigadir Ivan Obrovac, članovi Savjeta su umirovljeni generali i visoki časnici: stožerni general Petar Stipetić, general bojnik Živko Juzbašić, stožerni brigardir Petar Bajan, pukovnik Nikica Burić, pukovnik Vlado Marić, bojnik Antonio Roca, bojnik Davor Jović i brigadir Predrag Matić, savjetnik Predsjednika Republike za branitelje.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8665</ID>
+    <SENTENCE>Vrlo je vrijedan drveni polikromirani kipić Majke Božje s Isusom na glavnom oltaru (visok 54 cm), koji pripada ranogotičkoj plastici.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2821</ID>
+    <SENTENCE>Jedan od uzroka niske proizvodnje svakako su visoki troškovi u samoj proizvodnji, od kojih se istiće berba na koju od ukupnih troškova otpada 60 – 70 %.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2907</ID>
+    <SENTENCE>Naime, visoki dužnosnik ministarstva kulture Ruske federacije objavio je kako je ministarstvo Boratu odbilo dati dozvolu za distribuciju, tumačeći tu odluku 'mogućnošću da film uvrijedi određene etničke i vjerske skupine'.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2929</ID>
+    <SENTENCE>Uz sve standardne POS funkcije, MICROS 3700 POS pruža i širok raspon funkcija za optimizaciju procesa te visoku razinu usluga i zadovoljstva gostiju.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8679</ID>
+    <SENTENCE>Imat će dva mosta koja se okreću iznad publike i 2 metara visoki dio na kojem će biti grupa.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2901</ID>
+    <SENTENCE>Što znači da nije stekla višu stručnu spremu dana 30. svibnja 2005. godine, kako je pogrešno navedeno u tekstu.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>višu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2944</ID>
+    <SENTENCE>Učinkovitu promociju novih tehnologija na šire tržište moguće je ostvariti kroz različite poticajne financijsko / fiskalne / zakonodavne / infrastrukturne mehanizme, poput inicijative za nabavku čišćih i energetski učinkovitijih vozila, ograničenja ulaska vozila s visokim emisijama polutanata u osjetljive urbane zone uz davanje privilegije ulaska vozila s niskim štetnim emisijama.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>265</STARTINDEX>
+    <ENDINDEX>272</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2883</ID>
+    <SENTENCE>Široki 17,3 "zaslon visoke razlučivosti na Aspire 7551 donosi mnoštvo prostora za usporedne operacije i zabavu.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2884</ID>
+    <SENTENCE>Njegovi putopisi po kvaliteti ulaze u sam vrh domaće produkcije i imaju visoku gledanost.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2829</ID>
+    <SENTENCE>Ukoliko smo jedinstveni, originalni i na visokoj razini, Bokart art glass može dugoročno pridonjeti svojoj regionalnoj okolini i kulturnom uzdizanju društva.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2958</ID>
+    <SENTENCE>Osim izvrsne upravljivosti i okretnosti, Renault / Nissan Alliance B platforma u kombinaciji s visokim krovom te međuosovinskim razmakom od 237 cm, Twingu omogućuju pregršt prostora u unutrašnjosti.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2852</ID>
+    <SENTENCE>Osim toga, važno je i zajedničko provođenje više aktivnosti sa HGK u cilju kvalitetnije promocije obrtništva i ukupnog gospodarstva.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>više</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8626</ID>
+    <SENTENCE>Na sniženje cijena pristali su gotovo svi proizvođači lijekova protiv visokog kolesterola.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2918</ID>
+    <SENTENCE>Isto je i u Kutini, gdje se Nadzorni odbor Petrokemije prekjučer sastao upravo zbog visoke cijene i smanjene isporuke plina.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8689</ID>
+    <SENTENCE>Hrvatski makroekonomist Dubravko Mihaljek, zaposlen u Banci za međunarodna poravnanja u Baselu, kaže da se i globalno počinje sve više postavljati pitanje koliko dugo banke mogu "izbacivati" visoke profite.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>191</STARTINDEX>
+    <ENDINDEX>197</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2923</ID>
+    <SENTENCE>Za zagađivače okoliša u Europskoj uniji predviđene su visoke kazne od 10 godina zatvora i plaćanje milijun i pol eura odštete, a hrvatsko Ministarstvo zaštite okoliša, prostornog uređenja i graditeljstva povlači tužbe protiv INA-e pred samo donošenje osuđujućih presuda, tvrdi Balenović.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8610</ID>
+    <SENTENCE>Najviši rast, od 47,7 milijuna kuna, zabilježio je ST Cash fond ST Investa, a slijedili su ga HPB novčani fond te HI-cash fond Hypo Alpe-Adria Investa.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>Najviši</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2859</ID>
+    <SENTENCE>Ljeti je više takvih zahtjeva, no moram istaknuti kako smo primjetili da su s vremenom ljudi postali svjesniji opasnosti koje nose visoke temperature i izloženost suncu pa se kronični bolesnici bolje čuvaju - kaže Nakić dok je ministar Milinović članovima obitelji, prijateljima, susjedima i znancima takvih bolesnika uputio poseban apel za učestalijim kontaktima s njima jer bi im to moglo spasiti život.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>131</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8670</ID>
+    <SENTENCE>Dva visoka dužnosnika administracije brifirali novinare u Washingtonu, pod uvjetom da ostanu anominni, prema uvjetima koje je odredio State Department.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoka</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>4</STARTINDEX>
+    <ENDINDEX>10</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8683</ID>
+    <SENTENCE>Iz svega je, u biti, vidljivo kako hrvatska Vlada, unatoč apeliranju na Inu da ne povisuje ionako visoke cijene naftnih derivata, zapravo još uvijek i sama raspolaže načinom na koji bi benzin građanima ipak mogla učiniti barem nešto jeftinijim.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2943</ID>
+    <SENTENCE>Fox News dodaje da je tu informaciju potvrdio još jedan visoki obavještajni dužnosnik.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2887</ID>
+    <SENTENCE>Prva hrvatska alpinistička ženska ekspedicija, koja se uspjela na popeti na šesti vrh na svijetu - 8.201 metara visok Cho Oyu, vratila se danas u Zagreb.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2894</ID>
+    <SENTENCE>Između ostalog pod udžbenicima u smislu navedenog Pravilnika podrazumijevaju se obvezni udžbenici za potrebe redovnog ili izvanrednog školovanja na visokim učilištima (sveučilište, veleučilište, fakultet, umjetnička akademija, visoka škola u daljnjem tekstu visoka učilišta) prema nastavnom programu koji utvrđuje visoko učilište.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoka</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>258</STARTINDEX>
+    <ENDINDEX>264</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2936</ID>
+    <SENTENCE>Svi modeli su detaljno nacrtani i ukoliko podesite detalje prikaza na iole visoke moći ćete uživati u mnogim detaljima.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8643</ID>
+    <SENTENCE>Plava zastava koja se na Zrću vijori iz godine u godinu garancija je visoke kakvoće usluge, čistoće mora i obale, opremljenosti i uređenosti plaže te sigurnosti posjetitelja na jednoj od najljepših plaža u Europi.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8621</ID>
+    <SENTENCE>No, prevagu u pobjedi s visokih osam obrana donio je golman Soro.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8677</ID>
+    <SENTENCE>El-Baradei, koji je dao izjavu u frankfurtskoj zračnoj luci, putuje u jednodnevni posjet Teheranu na razgovore s visokim iranskim dužnosnicima.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>113</STARTINDEX>
+    <ENDINDEX>120</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2843</ID>
+    <SENTENCE>Odajući priznaje manjinama što imaju puno ljubavi i volje za očuvanje svog identiteta, predsjednik Savjeta za nacionalne manjine Aleksandar Tolnauer je u uvodnoj riječi istaknuo i podatak da je za kulturno stvaralaštvo manjina lani u Hrvatskoj izdvojeno 35 milijuna kuna, što je, kaže, najviši iznos za tu svrhu izdvojen u Europi te izrazio uvjerenje da će tako biti i nadalje.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najviši</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>286</STARTINDEX>
+    <ENDINDEX>293</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8648</ID>
+    <SENTENCE>Zadovoljni visokim vodstvom dozvolili smo gostima iz Ludbrega da agresivnijom igrom smanje naše vodstvo i dobiju treću četvrtinu s osam koševa – kaže Damir Krpan, koji je u zadnjoj četvrtini naredio ozbiljnu i angažiranu igru, tako da ukupna visoka pobjeda nije izostala.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoka</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>242</STARTINDEX>
+    <ENDINDEX>248</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2836</ID>
+    <SENTENCE>ŠIRE područje Like ponovno je danas prije podne zahvatilo sniježno nevrijeme, a jak vjetar mjestimice stvara visoke sniježne nanose.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8667</ID>
+    <SENTENCE>Uzgred rečeno, dodaju, takav dopis u HNB nije nikad stigao, ali je, prema saznanjima HNB-a, upućen na neke druge visoke adrese u Hrvatskoj, kako bi se pojačao politički pritisak na središnju banku.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>113</STARTINDEX>
+    <ENDINDEX>119</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8681</ID>
+    <SENTENCE>Sve do kraja meča sam držao strašno visoku razinu igre - rekao je Nadal.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2982</ID>
+    <SENTENCE>Naveli ste dosta visok titar protutijela na streptokoke.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2810</ID>
+    <SENTENCE>Ali Hrvatska se vara ako misli da za te propuste neće platiti visoku cijenu.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2805</ID>
+    <SENTENCE>Dobro promiješano i korigirano cementno brašno skladišti se u posebnom silosu i priprema za obradu na visokim temperaturama.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2941</ID>
+    <SENTENCE>Postavite više cijene da ljudi prepoznaju vašu vrijednost.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>više</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2906</ID>
+    <SENTENCE>Dinamičko vozačko sjedalo je testirano i na visokim Alpskim prijelazima na 3.000m nadmorske visine, te je potvrđeno da zračni sustav savršeno funkcionira i u uvjetima promjene tlaka zraka.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2808</ID>
+    <SENTENCE>Tako za dobar dio građana put do stana ili poboljšanja postojećih stambenih prilika i nadalje određuje popriličan raskorak između visokih cijena stanova i (niske) razine prosječnih plaća koje uvjetuju i njihovu kreditnu sposobnost.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2993</ID>
+    <SENTENCE>GLASNOGOVORNICA haaškog Tužiteljstva Florence Hartmann u izjavi za nedjeljni sarajevski Dnevni Avaz nije potvrdila niti demantirala mogućnost da se Veselinu Šljivančaninu, jednome od vukovarske trojke, sudi u Hrvatskoj, ističući međutim kako je planirano da se tom bivšem visokom časniku JNA sudi pred Haaškim sudom (ICTY).</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>272</STARTINDEX>
+    <ENDINDEX>279</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2905</ID>
+    <SENTENCE>Istovjetna situacija je sa Senadom Dautovićem, šefom policije u ratu i nakon rata, kojega istražuje i Haaški tribunal i kojega je također visoki predstavnik smijenio sa svih funkcija, novo radno mjesto našao je u šumskom poduzeću Koprivnica u Bugojnu, a Hrvatima koji su ranije radili u toj tvrtki tamo također mjesta nema.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8620</ID>
+    <SENTENCE>Viši zamjenik visokog predstavnika naglasio je da pravo na kulturni, vjerski, jezički i nacionalni identitet mora biti zajamčen za sve građane BiH te da su različiti kriteriji neprihvatljivi.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2991</ID>
+    <SENTENCE>Struka upozorava da upravo tinejdžersko doba predstavlja visoki rizik za autodestruktivna ponašanja mladih, kada im se u času može činiti da nema izlaza.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2891</ID>
+    <SENTENCE>Poanta je u Hrvatskoj kao zemlji, odnosno destinacija životnog stila s visokom dodanom vrijednošću, a ne masovnog turizma.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2878</ID>
+    <SENTENCE>Čelnike nekih visokih učilišta koja žele istaknuti pozamašne iznose za usluge obrazovanja brine bivši predsjednik Nacionalne unije studenata Clarke, koji bi se radije priklonio uvođenju neke vrste takse za diplomce nego dopustio sveučilištima da "od studenata dobiju onoliko koliko požele".</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2908</ID>
+    <SENTENCE>Uz to, zbog nerazvijena zdravstva na Kosovu je postotak smrtnosti djece visok, a 10 posto djece pati od neuhranjenosti.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2926</ID>
+    <SENTENCE>Navest ću Vam primjer nekih trudnica koje u trudnoći imaju fibrinogen i do 14, naravno tada pogotovo ako se radi o trudnicama s visokim tlakom inerveniramo s antikoagulantnom terapijom niskomolekularnim heparinom.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2904</ID>
+    <SENTENCE>Predaje na visokoj školi BA Heidelberg na studiju logistike.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2955</ID>
+    <SENTENCE>- Evakuirali smo stanovnike u krugu od 200 metara od mjesta puknuća cijevi, a stanje je bilo visokog stupnja opasnosti nekih pola sata.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2948</ID>
+    <SENTENCE>Sada kada je i s najvišeg mjesta ustanovljeno da Hrvatskoj "ne treba Obama", očekujem javna izjašnjavanja o "našem Danilu Turku ’," našem Morganu Tsvangiraju ’ i "našem Mireku Topolaneku ’.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najvišeg</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8651</ID>
+    <SENTENCE>"Iznimno je važno poslati poruku da je ne samo vlada, već i Sabor spreman na reforme. Hrvatski javni i privatni dug je dosta visok i za njegovo refinanciranje potrebno je povjerenje ulagača. Stoga je dobro poslati poruku da postoji volja za provedbom reformi", rekla je Murgasova.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2975</ID>
+    <SENTENCE>"Vodafon McLaren Mercedes radi na najvišoj razini u Formuli 1 i integrira tehnologiju osobnih računala u svakom pogledu svoga automobilskog dizajna, razvoja i utrke – kao i svojih poslovnih operacija," rekao je Deepak Advani, stariji potpredsjednik i direktor marketinga tvrtke Lenovo.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najvišoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8690</ID>
+    <SENTENCE>Plavo tijelo s klipsom i vrhom od kroma visokog sjaja.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8686</ID>
+    <SENTENCE>Visokogorski planinari, "himalajci" iz Njemačke i Švicarske, pri pokušaju uspona na Dhaulagiri (8172 m), šesti najviši vrh svijeta, 1955. godine su ujedno bili i prvi "pokusni kunići" među alpinistima čija je zadaća bila utvrditi vrijednost vegetarijanske prehrane u krajnje nepovoljnim vremenskim prilikama koje vladaju na najvišem planinskom lancu na svijetu, Himalaji.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najvišem</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>324</STARTINDEX>
+    <ENDINDEX>332</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2951</ID>
+    <SENTENCE>- Grad Dubrovnik je naručio i izradio kartu buke još 1999. godine u kojoj se vidi kako su ugostiteljski objekti izvori najveće buke, a donesena je i odluka kojom se manifestacije visoke buke više ne održavaju unutar povijesne jezgre, čime je jasno istaknuto kako se želi očuvati kulturna baština - kazala je Asja Skaramuca.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>185</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2806</ID>
+    <SENTENCE>Ne samo što nije primjereno već je i veoma neudobno vježbati i koristiti se spravama u npr. cipelama s visokom potpeticom.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8613</ID>
+    <SENTENCE>Uz sve ove, realno više nego zabrinjavajuće događaje koji su obilježili njegov prvi tjedan u uredu, Ivo Sanader morao se suočiti i s neobično visokom razinom lošeg publiciteta.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>142</STARTINDEX>
+    <ENDINDEX>149</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2856</ID>
+    <SENTENCE>Veći gabariti najviše se vide u prtljažniku koji je porastao na čak 500 litara (u Altei prima također uvjerljivih 41 litara).</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najviše</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2881</ID>
+    <SENTENCE>Znanstvenicima je trebalo preko 40,000 pokušaja kako bi uspjeli uzgojiti kristal dovoljno visoke kvalitete, i preko njega vidjeti trodimenzionalnu strukturu enzima.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8642</ID>
+    <SENTENCE>Za one koji žele znati više o obitelji gospodje Pusić: Eugen Pusić, otac Zorana i Vesne Pusić, bio je visoki jugoslavenski državni dužnosnik u godinama poslije II. svjetskog rata, sudionik komunističke, titoističko - staIjinističke pravničke prakse u Zagrebu i Hrvatskoj koja je iza sebe ostavila bilancu od nekoliko desetaka tisuća mrtvih i zatvorenih Hrvata.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8607</ID>
+    <SENTENCE>Izbjegavajte preuske haljine, kao i prekratke haljine osobito ako nećete obući visoke potpetice.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2922</ID>
+    <SENTENCE>Novo izdanje visoke srednje klase razvučeno je do 4,9 metra i tehnološki sjajno opremljeno, sa 8-stupanjskom automatikom.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2827</ID>
+    <SENTENCE>Stipendije imaju ključnu ulogu u uklanjanju financijskih prepreka u visokom obrazovanju te izravno utječu na povećanje broja visokoobrazovanih.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8602</ID>
+    <SENTENCE>Pritom, ubojstvo visokih dužnosnika u armenskom parlamentu dogodilo se samo nekoliko dana nakon što je predsjednik Gruzije Eduard Ševardnadze najavio da će kategorički provoditi politiku da njegova zemlja bude primljena u NATO najkasnije do 2005. godine.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2987</ID>
+    <SENTENCE>U gotovo svim kriznim situacijama, a ima ih svakodnevno - nastavio je Mateša - Vlada je sa sindikatima mogla o svemu razgovarati uz visok stupanj uvažavanja i poštivanja dogovorenog.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2963</ID>
+    <SENTENCE>Bez pretjerivanja, svi koji su nazočili utakmici mogu mirne duše svjedočiti o jednoj pravoj istinskoj sportskoj predstavi, neopterećenoj nerealno visokim ambicijama klupskih čelnika.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>153</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2871</ID>
+    <SENTENCE>A moram priznati da me najviše nasmijavaju tipovi koji sa kontinenta dolaze na more i sablažnjuju se nad visokim cijenama, a šta je s nama koji tu na moru živimo ???</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8627</ID>
+    <SENTENCE>Skoro je široka koliko je i visoka.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoka</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2900</ID>
+    <SENTENCE>Jaeger je ukazao da Srbija više neće moći očekivati visoke stope rasta od 5 do 6 posto godišnje, kao što je to bilo u proteklih nekoliko godina, te će morati mijenjati model vođenja ekonomije.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2815</ID>
+    <SENTENCE>Tih, živahan i upravljiv, performantan zahvaljujući svom električnom motoru koji razvija 47 kW (64 ks), kompaktno gradsko vozilo od 3,48 m, nudi za svoja četiri putnika jednostavnu i smirujuću vožnju i visok nivo udobnosti i sigurnosti.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>202</STARTINDEX>
+    <ENDINDEX>207</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2874</ID>
+    <SENTENCE>Brod, dug 50 metara, zbog visokog se vodostaja rijeke Save kretao velikom brzinom, što je otežavalo zaustavljanje.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2826</ID>
+    <SENTENCE>Bilo je čak i nekih prijedloga iz ruskog najvišeg vrha da se rublja uzme kao rezervna valuta, barem na prostoru bivšeg Sovjetskog Saveza, u državama koje ekonomski gravitiraju prema Moskvi.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najvišeg</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8604</ID>
+    <SENTENCE>Samaranch je prije dvije godina proveo dva dana u madridskoj bolnici zbog vrtoglavice, a 2001. godine hospitaliziran je u Švicarskoj zbog umora i visokog krvnog tlaka.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>153</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2819</ID>
+    <SENTENCE>Najbolje reference u kompaktnoj klasi imaju Mazda 3, Toyota Corolla, Hyundai Elantra, a visoku kvalitetu imaju i Škode Octavije.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoku</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8614</ID>
+    <SENTENCE>Već sa 25 godina drži govore na sudu, sa 30 je kvestor (predstojnik ureda za upravu državnom imovinom), zatim edil (policijski činovnik koji nadzire gradnju i održavanje javnih zgrada, koji se brine za red na ulicama i priređuje javne igre), pa pretor (predstavnik najviše sudbene vlasti), a sa 43 godine postaje konzul (jedna od dviju najviših izbornih državnih osoba).</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najviših</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>336</STARTINDEX>
+    <ENDINDEX>344</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2834</ID>
+    <SENTENCE>Brandtovi radovi su u stilu "čiste" reportažnu fotografije visoke čistoće.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2979</ID>
+    <SENTENCE>Čelnik grupe T-HT - a Ivica Mudrinić naglasio je da u ovoj godini kompanija planira zadržati visoka ulaganja u infrastrukturu od čega će dvije trećine otići za gradnju optičke alternative postojećim telefonskom utičnicama.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoka</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8650</ID>
+    <SENTENCE>Zahvaljujući visokoj političkoj i društvenoj stabilnosti, snažnom gospodarstvu, razvijenoj infrastrukturi (željeznički, cestovni, zračni i riječni promet), iznadprosječnoj kupovnoj moći, privlačnom poreznom sustavu za multinacionalne kompanije, zemljopisnom položaju i povijesnim razlozima, Austrija je postala jedan od vodećih inozemnih trgovinskih partnera i ulagača u zemljama srednje, istočne i jugoistočne Europe.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2804</ID>
+    <SENTENCE>Meta tagovi meta ključne riječi su zapravo temelj i tu treba posvetiti najviše vremena da bi se došlo do zadovoljavajućih rezultata.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>najviše</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2994</ID>
+    <SENTENCE>Njegova majka Shweatlana sa svojih je 218 centimetara najviša žena u Aziji, a otac Sanjay, koji je visok 194 centimetra, pokraj nje se osjeća kao patuljak.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8646</ID>
+    <SENTENCE>Kamkorder je kompatibilan i s baterijom visokog kapaciteta, što još više produžuje vrijeme snimanja.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8625</ID>
+    <SENTENCE>Nedavne izjave jednoga visokog komunističkog dužnosnika o "pozitivnim vrijednostima vjere" samo pokazuje proturječnost u kojoj živi ta još uvijek "ortodoksna" komunistička zemlja.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2911</ID>
+    <SENTENCE>Pa zašto bih ja svoju višu plaću trebao iznivelirati s tvojom preko vrtića i ZET pokaza ?</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>višu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2850</ID>
+    <SENTENCE>Treća konferencija kanadskih studija pod nazivom "Migracija, globalizacija i hibridnost: kanadska i hrvatska iskustva" otvorena je večeras u Zagrebu pod visokim pokroviteljstvom hrvatskoga predsjednika Ive Josipovića.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>153</STARTINDEX>
+    <ENDINDEX>160</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8612</ID>
+    <SENTENCE>Upravo su suprotno organizatori proslave tretirali drugog visokog gosta, predsjednika Stjepana Mesića, koji ne samo da je održao govor, nego je zbog njegovih obaveza službena proslava čak bila pomaknuta za tri dana.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2899</ID>
+    <SENTENCE>Poznavanje i aktivna upotreba frazeologije stranog jezika dokaz je visokog stupnja znanja stranog jezika zato je vrlo važno da se studenti ruskog jezika i književnosti što bolje upute u tu problematiku.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8692</ID>
+    <SENTENCE>Mjesta ima dovoljno za smještaj petero odraslih osoba, ali će se oni višeg rasta osjećati malo skučeno.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>višeg</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8623</ID>
+    <SENTENCE>Na Sanaderu se nužno prelama visoka politika i najaktualniji problem korupcije.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoka</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2866</ID>
+    <SENTENCE>Utorak, 25. studenoga 2008. Izviješće Europskog centara za nadzor zlouporabe i ovisnosti o drogama EMCDDA objavljeno početkom studenog pokazalo je da je uporaba droga u Europi prošlu godinu ostala na vrlo visokoj razini, a godišnje od zlouporabe droga umire sedam do osam tisuća ljudi.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>205</STARTINDEX>
+    <ENDINDEX>212</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8654</ID>
+    <SENTENCE>Da ne bude da samo njurgam, neke stvari su super napravili - novo more iz zraka po mjesečini super izgleda i nema više onih ponavljajućih tekstura.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>više</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8609</ID>
+    <SENTENCE>Hipersfera je nešto kao isturena komunikacijska stanica pričvršćena za stup visok 20 kilometara.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2867</ID>
+    <SENTENCE>Taj bi podatak, s obzirom na broj kardiovaskularnih incidenata nastalih uslijed visokog tlaka, mogao koristiti mnogima.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8653</ID>
+    <SENTENCE>"Ušli smo u fazu izrade potrebnog zakona i već u drugoj polovici siječnja predložit ćemo Skupštini zakon o referendumu prilagođen ovom vremenu. Nakon službene objave zakona, donijet ćemo odluku o raspisivanju referenduma na kojem ćemo pitati naš narod podupire li Dayton i protivi li se nametanju odluka i zakona visokog predstavnika", ističe Dodik.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visokog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>313</STARTINDEX>
+    <ENDINDEX>320</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8637</ID>
+    <SENTENCE>Međutim, ovaj pojam nije samo vezan za azijske zemlje ; u Europi se on veže za Irsku ("Keltski tigar") zahvaljujući njenom snažnom razvoju tijekom 1990-ih te uz Estoniju ("Baltički tigar") koja bilježi visoke stope rasta danas, na početku 21. st.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoke</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>202</STARTINDEX>
+    <ENDINDEX>208</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2822</ID>
+    <SENTENCE>Neboder bi trebao inače biti visok oko 160 metara i drugi je po visini planiran u Zagrebu.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2915</ID>
+    <SENTENCE>Prethodno su visoka izaslanstva na Trgu dr. Franje Tuđmana položila vijence i zapalila svijeće za poginule branitelje.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoka</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8647</ID>
+    <SENTENCE>BEČ - Potreban je europski plan za Srbiju i potpora proeuropskim snagama kako bi mogla izaći iz krize, rekao je austrijski veleposlanik pri Ujedinjenim narodima u Ženevi i bivši visoki predstavnik Međunarodne zajednice u BiH Wolfgang Petritsch u razgovoru za austrijski dnevni list "Kurier" od subote.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>178</STARTINDEX>
+    <ENDINDEX>184</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8617</ID>
+    <SENTENCE>U to vrijeme, cijeli svijet je znao da je Ante Gotovina postao visoki casnik Hrvatske vojske koji je uspješno vodio akciju "Maslenica" u siječnju 1993. Isto tako, u to vrijeme Francuski časnici nalaze se na teritoriju UNPA zona u Hrvatskoj i redovito komuniciraju i pregovaraju sa Generalom Gotovinom, a Francuske obavještajne službe djeluju u Hrvatskoj i sasvim sigurno su provjerili identitet bivšeg pripadnika "svoje" Legije stranaca.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2888</ID>
+    <SENTENCE>Kip u Swiebodzinu visok je 33 metra i bit će postavljen na uzvisini od 17 metara.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visok</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2927</ID>
+    <SENTENCE>Dva su keramička oblika dominantna: vrčevi (kuglasti ili ovalni trbuh i visoki cilindrični vrat s vrpčastom iksoidnom ručkom, dno ovalno ili s omfalosom) i terine (s ojačanim obodom ustiju i ravnim dnom), bilo da su ornamentirane ili neornamentirane.</SENTENCE>
+    <TARGETLEMMA>visok</TARGETLEMMA>
+    <TARGETWORD>visoki</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+</SET>

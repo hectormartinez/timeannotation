@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>7313</ID>
+    <SENTENCE>Ova protutužba reakcija je Beograda na odluku Međunarodnog suda pravde u Haagu da se proglasi nadležnim za tužbu Hrvatske protiv Srbije za povredu Konvencije o sprečavanju i kažnjavanju genocida, podnesenu 1999. godine.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>139</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7321</ID>
+    <SENTENCE>U posljednje vrijeme smatra se kako je upravo ovaj vid povrede intelektualnog vlasništva postao osnovnim poslom brojnih skupina organiziranog kriminala, budući da su prilike za zaradu i potencijalne kazne u velikom nesrazmjeru, za razliku od klasičnih kaznenih djela poput trgovine drogom.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>348</ID>
+    <SENTENCE>AMERIČKI i izraelski mediji već duže vremena špekuliraju kako je nedavni incident, kada je Sirija prosvjedovala zbog povrede svog zračnog prostora od strane izraelskih borbenih aviona, bio ništa drugo do zračni napad koji je uništio sirijsko postrojenje za proizvodnju nuklearnog oružja.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>231</ID>
+    <SENTENCE>2. Daljnji zahtjevi kupca iz bilo kojeg pravnog razloga, kao na pr. zahtjevi za naknadu štete zbog manjkave ili zakašnjele isporuke, iz pozitivne povrede ugovora, zahtjevi zbog povrede obveza izvan ugovora, naročito obveza savjetovanja i objašnjavanja, uključujući i dugovanja pri sklapanju ugovora su isključeni.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>177</STARTINDEX>
+    <ENDINDEX>184</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>386</ID>
+    <SENTENCE>U policiji kažu da temeljem do sada prikupljenih informacija nisu utvrđene povrede pravila postupanja djelatnika Uprave za posebne poslove sigurnosti.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>365</ID>
+    <SENTENCE>Možda je ipak zahtijevanje igranja pod svaku cijenu, što je pitanje profesionalizma, uzelo danak u još jednoj teškoj povredi.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>269</ID>
+    <SENTENCE>Osim ove flagrantne povrede procedure argumenti iznijeti u Odluci o osnovanosti žalbe stanara iz Hrvatske netočni su i neprihvatljivi.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>262</ID>
+    <SENTENCE>Zahtjev filmskog redatelja Romana Polanskog da se odbaci tužba protiv njega zbog povrede procesnih pravila, prizivni sud u Kalifoniji je odbacio, izvješćuju američke TV postaje.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>399</ID>
+    <SENTENCE>Podnio prijavu s prijedlogom za pokretanje kaznenog postupka nadležnom Državnom odvjetništvu protiv direktora trgovačkog društva zbog povrede odredaba Kaznenog zakona.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7378</ID>
+    <SENTENCE>Kod izricanja kazne za stegovno djelo uzima se u obzir osobito: težina povrede i nastale posljedice, stupanj odgovornosti, okolnosti pod kojima je stegovno djelo učinjeno, raniji rad i ponašanje predsjednika suda, suca odnosno državnoodvjetničkog dužnosnika i druge okolnosti koje utječu na izricanje kazne.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>336</ID>
+    <SENTENCE>Nadalje, Ustavni sud Republike Hrvatske na sjednici održanoj 15. srpnja 1998. konstatirao je da su zakoni koji su suprotni međunarodnom ugovoru istodobno i protuustavni, jer su povreda načela vladavine prava iz članka 3. Ustava, kao jedne od temeljnih vrednota hrvatskog ustavnog poretka.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>177</STARTINDEX>
+    <ENDINDEX>184</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>202</ID>
+    <SENTENCE>Anej Sam, ili pravim imenom Spaso Čanković, izjavio je da mu je žao što je Nives dobila samo novčanu kaznu od 7.108 kuna za povredu časti i ugleda te smatra da je trebala ići u zatvor.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7352</ID>
+    <SENTENCE>Do sada su se izvori statistike povreda na radu vodili tako da zadovolje zahtjeve nacionalnih zakonodavstava.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7330</ID>
+    <SENTENCE>Neki od najčešćih etičkih problema povezanih s uporabom Interneta su ovisnost o Internetu, lažno predstavljanje, povreda privatnosti, anonimne prijetnje, socijalna izolacija, promoviranje spolne, rasne, vjerske, etničke i druge nejednakosti, polarizacija grupe, zlouporaba i iskrivljavanje lika / djela, ograničavanje pristupa Interneta u svijetu, informacijsko "prekrivanje" i mnogi drugi.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>113</STARTINDEX>
+    <ENDINDEX>120</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>363</ID>
+    <SENTENCE>Winterstein smatra kako bi Ustavni sud BiH trebao odrediti što u Mostaru predstavlja povredu nacionalnih interesa jer bi se na taj način izbjegle zapreke i blokade u radu tijela vlasti u Mostaru pri pojavi međunacionalnih nesporazuma.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>217</ID>
+    <SENTENCE>Dugotrajnim nepravilnim držanjem zglobova može doći do istegnuća, nagnječenja ili drugih povreda tetiva, živaca i drugih tkiva.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>380</ID>
+    <SENTENCE>Prozivanje crkve je teška povreda ustavnosti, smatra Srakić i dodaje da je došlo vrijeme kada je crkva izišla 'iz sakristije' i kad biskupi imaju pravo izreći svoje mišljenje.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>324</ID>
+    <SENTENCE>Ispričavam se svakom članu sindikata, u ime svih povjerenika i članova povjereništva, ako je došlo do povreda prava pojedinca u prošlom mandatu, člana CSH, gdje se nije adekvatno reagiralo na pisani zahtjev istoga za rješavanje radno pravnih problema, što zbog subjektivnih ili objektivnih razloga.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>284</ID>
+    <SENTENCE>Osnovni cilj statistike povreda na radu je osigurati adekvatne i pravodobne podatke o povredama na radu u svrhu njihova spriječavanja.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>377</ID>
+    <SENTENCE>Pa narušena je tajnost glasovanja. Zakonski razlog za poništenje izbora. Štimac ova je povreda dovoljna i ne mući se sa drugim nepotrebnim stvarima. Ustavni sud će isto tako ocijeniti.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>207</ID>
+    <SENTENCE>U priručniku su prikazani su i komentirani osnovni instituti novoga službeničkog zakonodavstva, s posebnim osvrtom na odredbe koje uređuju prijam u službu, sukob interesa i povrede službene dužnosti, ocjenjivanje i premještaje, te stavljanje na raspolaganje i prestanak službe.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>173</STARTINDEX>
+    <ENDINDEX>180</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7334</ID>
+    <SENTENCE>Vrijeme trajanja utakmice može biti produljeno samo od strane sudaca u slučaju povrede igrača, namjernog odugovlačenja igre i sličnog o čemu sudac mora obavijestiti mjeritelja vremena i predstavnike ekipa.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>323</ID>
+    <SENTENCE>Osoba koja kontrolira ljutnju može pažljivo birati riječi i može izbjeći povredu tuđih osjećaja.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>329</ID>
+    <SENTENCE>Kako je izvijestila PU zagrebačka, istragom započetom prošle godine je utvrđeno da je 34-godišnji M. J., na poticaj 34-godišnjeg D. Š. i 40-godišnjeg S. K. počinio kaznena djela zloporabe položaja i ovlasti, krivotvorenja službenih isprava te povrede obveze vođenja trgovačkih i poslovnih knjiga.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>243</STARTINDEX>
+    <ENDINDEX>250</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7379</ID>
+    <SENTENCE>DIP je dobio izvješće HDZ-a koji je izvijestio o povredi tajnosti i kupnji glasova u 11. izbornoj jedinici za dijasporu, konkreno u BiH.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>334</ID>
+    <SENTENCE>Njihovo prvo natjecanje nakon položenog ispita, koji je vodio regionalni direktor IPSC-a CRO. P.S.A., g. Dubravko Gvozdanović kao glavni ispitivač, proteklo je bez povreda IPSC pravila te vrlo dobrim pojedinačnim nastupima, odnosno rezultatima, a mi im želimo puno uspjeha u daljnim natjecanjima.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>171</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>383</ID>
+    <SENTENCE>Uzmite staro bolno iskustvo, povredu, nepraštanje i bacite cijeli događaj u vodu.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7371</ID>
+    <SENTENCE>U slučaju povreda poslovnih običaja i pravila struke kao i drugih navedenih povreda Sud može izreći jednu od osam predviđenih mjera od opomene do oduzimanja obrtnice i zabrane obnašanja funkcija u tijelima Komore i dr.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7323</ID>
+    <SENTENCE>On je rekao da je to novi zločin koji je Izrael počinio protiv palestinskog naroda te da to predstavlja tešku povredu prava i konvencija.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>285</ID>
+    <SENTENCE>Šehić ima dvije povrede na istoj nozi, dok Roce i dalje liječi hematom iznad koljena.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>292</ID>
+    <SENTENCE>Na njima je ustanovljeno da treba isključiti mogućnost da su to povrede prirodnog porijekla.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>287</ID>
+    <SENTENCE>Zbog teških povreda glave djevojka i dalje u kritičnom stanju, a mladić je zadobio težu ozljedu grudnog koša.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>335</ID>
+    <SENTENCE>Državni inspektorat je također u Pulaprometu pronašao povredu propisa na koja smo ukazivali, dok je jedina naša odbačena prijava ona gdje smo zatražili utvrđivanje zakonitosti skupljanja smeća koje su u vrijeme štrajka odradili gradonačelnik, u pratnji nekih direktora i pročelnika.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>257</ID>
+    <SENTENCE>Predsjednik Republike ne može na prijedlog Vlade raspustiti Hrvatski sabor dok traje postupak za utvrđivanje njegove odgovornosti za povredu Ustava.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>140</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>275</ID>
+    <SENTENCE>Javnost se sa sjednica tijela društva može isključiti samo u slučaju vođenja stegovnog postupka protrv člana društva zbog najteže povrede interesa i ugleda društva i njezinih članova, zbog teške povrede javnog morala i zbog djelovanja protivnog Ustavu Republike Hrvatske.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7393</ID>
+    <SENTENCE>S obzirom da je do dogovorenog poskupljenja došlo neovisno o prihodima i troškovima pojedinih izdavača, u Agenciji smatraju da se radi o teškoj povredi Zakona.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>144</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7375</ID>
+    <SENTENCE>U Ozlju, na biračkom mjestu koje se nalazi u obiteljskoj kući, prijavljena je povreda tajnosti glasovanja.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7388</ID>
+    <SENTENCE>Naime, koalicijski lideru ne mogu se dogovoriti ni oko toga treba li se Musharrafu suditi za povredu ustava.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>290</ID>
+    <SENTENCE>Izvršenje kazne za laku povredu službene dužnosti zastarijeva u roku jedne godine, a za tešku povredu službene dužnosti u roku dvije godine od konačnosti rješenja kojim je kazna izrečena.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>349</ID>
+    <SENTENCE>Pljuska Mornar Brodospasu stigla je jučer nakon odluke Ligaškog odbora koji je u pet točaka prihvatio primjedbu na zapisnik, ali isto tako odlučio kako isključeni igrač nije ometao igru i kako nije bilo materijalne povrede pravila.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>215</STARTINDEX>
+    <ENDINDEX>222</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>360</ID>
+    <SENTENCE>Kako se navodi, tijekom stegovnoga postupka za povredu stegovne odgovornosti, Jozi Certi miruju članska prava i dužnosti.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7368</ID>
+    <SENTENCE>Pretragom stana u njegovom je posjedu pronađeno još 800 američkih dolara, 1.650 eura, dvije digitalne vage, vrećice s tragovima kokaina bačene u smeće te 223 grama laktoze za miješanje s kokainom koja je bila skrivena u unutrašnjosti radio kazetofona. Protiv Pejića je još 1998. godine vođen stegovni postupak zbog osnovane sumnje da je prodavao amfetamin te je zbog povrede službene dužnosti udaljen iz policije, no on je nakon zastare slučaja vraćen na posao.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>367</STARTINDEX>
+    <ENDINDEX>374</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>240</ID>
+    <SENTENCE>No, drugačije je ako se plati naknada nematerijalne štete (Zakon govori o naknadi štete zbog povrede tijela, narušenja zdravlja ili smrti).</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7318</ID>
+    <SENTENCE>Odbijanje kontrole smatra se teškom povredom za što se izriče mjera izvanrednog otkazivanja ugovora o radu.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7312</ID>
+    <SENTENCE>Ako se prije početka utakmice dogodi neki prekršaj vezan uz prostor za zamjenu igrača, igra ne može započeti dok se povreda Pravila igre ne otkloni.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>272</ID>
+    <SENTENCE>Bojanić, koji je prikupio te podatke, smatra da ove brojke govore o malom broju osuda zbog povrede časti i ugleda.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>321</ID>
+    <SENTENCE>Blagojevich se na sudu morao suočiti s optužbama između ostaloga za ucjenu, udruživanje u zločinačku organizaciju, povredu poštanske tajne i pokušaj iznude.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>266</ID>
+    <SENTENCE>Njemačka farmaceut Bayer objavilo je da je u SAD-u podnio tužbu protiv izraelskog konkurenta Teve zbog lažnog oglašavanja i povrede patenta.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>384</ID>
+    <SENTENCE>Zaposleniku sigurnosne službe se za tešku povredu službene dužnosti odnosno stegovnog prijestupa uz disciplinske kazne određene Zakonom o državnim službenicima i namještenicima, odnosno stegovne kazne određene Zakonom o službi u Oružanim snagama može izreći i disciplinska, odnosno stegovna kazna prestanka radnog odnosa uvjetno na vrijeme od 3 do 12 mjeseci.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>350</ID>
+    <SENTENCE>Ured pravobraniteljice za djecu lani je zaprimio 20 posto više prijava za povredu prava djece nego godinu prije, a dominiraju pritužbe zbog nasilja nad djecom koje čine gotovo 30 posto svih prijava, izvijestila je pravobraniteljica za djecu Mila Jelavić.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>267</ID>
+    <SENTENCE>Kod oboljelih od hemofilije postoji nedostatak faktora VIII, odnosno faktora A (AHG), što rezultira nemogućnošću stvaranja ugrušaka i zaustavljanja krvarenja nakon povrede.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>171</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>396</ID>
+    <SENTENCE>Svako neobilježeno reproduciranje materijala drugih autora, kao što su doslovno prepisivanje iz knjiga i časopisa ili prepisivanje dijelova tuđih radova s minimalnim izmjenama i predstavljanje takvog teksta kao svog smatra se plagijatom i povredom autorskog prava.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>239</STARTINDEX>
+    <ENDINDEX>247</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7302</ID>
+    <SENTENCE>Visina novčane kazne ovisi i o vrsti povrede radne dužnosti, koja prema opisu sadrži više povreda iz članka 169. i / ili 170. Kolektivnog ugovora, a koje su obuhvaćene jedinstvenim iznosom kazne (više povreda istovremeno, kao posljedica jedne protupravne radnje).</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7326</ID>
+    <SENTENCE>Na tiskovnoj konferenciji koju su održali hrvatski BSA i odvjetnički ured Vukmir, Nikola Dujmović, predsjesnik hrvatskog BSA i advokat Mladen Vukmir objavili su kako je pravomoćnim prekršajnim rješenjem utvrđena povreda autorskih prava na računalnim programima neovlaštenim umnožavanjem ukupno 60 kopija raznih računalnih programa članova BSA, ukupne vrijednosti 245.000 kuna, od strane trgovačkog društva Autronic Computers d.o.o. iz Zagreba.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>212</STARTINDEX>
+    <ENDINDEX>219</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7386</ID>
+    <SENTENCE>Iz Zadarskog sveučilišta, pak, tvrde kako Blažanović nije dobio otkaz zbog sudske presude, nego zbog povrede radnog odnosa, što bi se moglo protumačiti kako nije dolazio na posao.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>394</ID>
+    <SENTENCE>Napadač Arsenala i hrvatski nogometni reprezentativac Eduardo propustiće ostatak sezone zbog nove povrede.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>216</ID>
+    <SENTENCE>Kako ???, predlažete rado, DA DOBIJE OTKAZ, baš uprkos neka radi godinu dana džaba, da izgladi povredu načela iz služenog kućnog reda, etike, humanosti i druge prirode posla. Ako je točno da je dip. ing. (samo ne razumijem da mu je tek 26 god. sa stažom 5 god.) neka ispravi gReške sa svojim društvom, daa se to, i neka ostane u svom rodnom mjestu, koje treba stručne ljude više nego promrzli Sunce, a bogme ne niču brzo i lako ni ing. ko gljive poslije kiše.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>244</ID>
+    <SENTENCE>Prema evidenciji medicinske službe hospitalizirane su tri osobe sa lakim tjelesnim povredama.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>337</ID>
+    <SENTENCE>Direktor dubrovačkog gradskog prijevoznika, Đuro Deranja ističe kako se ne radi o nikakvoj povredi privatnosti radnika već o pravu poslodavca da evidentira dolazak i odlazak s radnog mjesta, odnosno vrijeme koje je radnik proveo na poslu.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>247</ID>
+    <SENTENCE>"U presudi se ne navodi povreda konkretnih propisa kojima se za vrijeme oružanog sukoba štiti imovina civilnog stanovništva. Ne navode se ni radnje kojima bi Zorana Banić to počinila", kaže se u odluci Vrhovnog suda, gdje stoji da se u zadarskoj presudi "ne navodi ni jedna okolnost koja bi ukazivala na to da je optuženica na bilo koji način sudjelovala u donošenju odluke da se gađaju i ruše civilni objekti, ili da je takvu odluku provodila".</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>395</ID>
+    <SENTENCE>Područje ortopedije obuhvaća tretman oboljenja i povreda koštanog, mišićnog i vezivnog tkiva.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>236</ID>
+    <SENTENCE>Naime, Kusturica je tužio Nikolaidisa zbog povrede časti, jer je ovaj pisao o redateljevoj povezanosti s Miloševićevim režimom.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7390</ID>
+    <SENTENCE>Rezultati istraživanja otkrili su da je djelatnost protupravnog prikupljanja i trgovanja osobnim podacima u prvom redu zanimljiva organiziranim spam i phishing grupama, na isti način kao što je i ozbiljna i sustavna povreda autorskog prava, odnosno softversko piratstvo, biznis kojim se bave organizirane skupine sastavljene od dilera, ali i od pojedinaca s darom za zaobilaženje kriptografskih rješenja koja proizvođači softvera koriste za ograničavanje neovlaštenog korištenja svojih proizvoda.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>216</STARTINDEX>
+    <ENDINDEX>223</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7328</ID>
+    <SENTENCE>Lakom povredom službene dužnosti, osim povreda utvrđenih u Zakonu o državnim službenicima, smatra se nekorektan odnos prema suradnicima i strankama za vrijeme rada.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>400</ID>
+    <SENTENCE>Takav dokaz istovremeno osigurava od pada elemenata zida koji mogu dovesti do povreda i ugroze života ljudi.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7354</ID>
+    <SENTENCE>Oslobođenje od kaznene odgovornosti ne pretpostavlja oslobađanje od odgovornosti za povredu službene dužnosti ako kazneno djelo ujedno predstavlja i povredu službene dužnosti.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7310</ID>
+    <SENTENCE>Najčešći uzrok povredeu dobi do 4 godine bio je udarac ili pad (16 ispitanika), u dobiod 5. do 9. godine prometna neserća djece pješaka (14 ispitanika) a u dobi od 10 do 14 godinasvi uzroci povrede bili su podjednakozastupljeni.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>190</STARTINDEX>
+    <ENDINDEX>197</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7345</ID>
+    <SENTENCE>Na svu sreću pištolj je bio napunjen "ćorcima" pa nije došlo do ozbiljnijih povreda, iako se ni nastale ne mogu smatrati bezazlenim.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>312</ID>
+    <SENTENCE>Drugotužitelj Kolnoa d.o.o. iz Zagreba u tužbi kojom osporava rješenje tuženika ističe da je isto nepravilno i nezakonito zbog pogrešno i nepotpuno utvrđenog činjeničnog stanja, pogrešne primjene materijalnog prava te bitne povrede odredaba Zakona o upravnom postupku.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>224</STARTINDEX>
+    <ENDINDEX>231</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>293</ID>
+    <SENTENCE>Ante Drmić, pročelnik vukovarskog Ureda za prognanike kojega je nekolicina Vukovaraca optužila da je od njih tražio mito za kuću ili stan na koje su ionako imali pravo, a što je dnevno.hr 27. listopada i objavio u autentičnoj video snimci, zatražio je od nas da objavimo ispravak neistinite informacije, te da mu se ispričamo zbog povrede njegova ugleda i časti, ili, pak, da iznesemo dokaze za objavljene informacije.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>331</STARTINDEX>
+    <ENDINDEX>338</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7322</ID>
+    <SENTENCE>"Iranski muslimani ne sjećaju se ovakvih povreda šerijatskog zakona za vrijeme islamske vladavine (od revolucije 1979., kad je na vlast ošla teokracija). Ova vrsta nedostojnog ponašanja progresivno otvara vrata mnogim neželjenim posljedicama, kao što su povrede religijskih i svetih vrijednosti", stoji u tim novinama, a i ostale tvrdolinijaške novine objavile su kontroverznu sliku, ali bez komentara.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>246</ID>
+    <SENTENCE>Ozljedu će liječiti masažama i limfnim drenažama, operacije ipak neće biti, piše njemački Bild, koji također dodaje kako je hrvatski napadač najprije izgubio mjesto u početnom sastavu momčadi iz Hamburga, zatim mu je 'miniran' transfer u Stuttgart, da bi ga sad u konačnici pogodila teška povreda.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>289</STARTINDEX>
+    <ENDINDEX>296</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>303</ID>
+    <SENTENCE>Marinovića se tuži zbog povrede dužnosti čuvanja odvjetničke tajne, a mogao bi se suočiti s kaznom i do 10 godina gubitka prava bavljenja odvjetničkim poslovima.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>391</ID>
+    <SENTENCE>ZAGREB - Sindikat državnih službenika upozorio je u utorak da već drugu godinu profesionalni vatrogasci prije odlaska na intervenciju zrakoplovima Oružanih snaga moraju potpisati izjavu da se prevoze na osobnu odgovornost, a u slučaju materijalne štete, povrede ili smrti neće od Ministarstva obrane tražiti odštetu.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>254</STARTINDEX>
+    <ENDINDEX>261</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>381</ID>
+    <SENTENCE>Navodi razne oblike nasilja: fizičke napade i nanošenje ozljeda, prijetnje, izazivanje osjećaja straha i osobne ugroženosti, vrijeđanje, povredu dostojanstva te ekonomsko nasilje.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>367</ID>
+    <SENTENCE>Nepoštivanje propisanog radnog vremena i odredaba ugovora sa Zavodom o posebnim uvjetima rada iz članka 11. stavka 3. ovoga Pravilnika predstavlja težu povredu radne dužnosti zdravstvenih radnika.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>152</STARTINDEX>
+    <ENDINDEX>159</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>364</ID>
+    <SENTENCE>Prije toga, Jeremić je pred ministarskim odborom Vijeća Europe ponovio srbijansku poziciju prema kojoj je proglašenje neovisnosti Kosova "nelegalno" i predstavlja povredu međunarodnog prava.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>163</STARTINDEX>
+    <ENDINDEX>170</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>205</ID>
+    <SENTENCE>Sa slučajem donošenja rješenja o istrazi protiv Protege i određivanju istražnog zatvoru bez prisustva samog osumnjičenika i njegovog branitelja na novouvedenom posebnom ročištu na kojem se o tome raspravlja te naknadnim ispitivanjem Protege, USKOK se prvi put u svojoj praksi susreo, pa su se u hodu rješavale i nove pravne dileme, no navodno time nije došlo do povrede ljudskih prava bivšeg prvog čovjeka državne banke.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>362</STARTINDEX>
+    <ENDINDEX>369</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>259</ID>
+    <SENTENCE>- U smislu Zakona o zaštiti nasilja u obitelji nasilje je svaka primjena fizičke ili psihičke sile na integritet osobe, izazivanje osjećaja straha, osobne ugroženosti ili, pak, povrede dostojanstva, zatim fizički napad bez obzira je li nastupila tjelesna ozljeda ili ne, verbalni napadi, spolno uznemiravanje i ograničavanje slobobe kratanja, objašnjavala je Radoš-Srzentić napominjući da je iz svega navedenoga vidljivo da nasilje postoji u više oblika od tjelesnog, mentalnog, ekonomskog, seksualnog, verbalnog do privatnog i javnog, koja se koriste za zlostavljanje partnera, djece i starijih osoba.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>177</STARTINDEX>
+    <ENDINDEX>184</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7389</ID>
+    <SENTENCE>U točki razno u ugovoru se navode i koje će se odredbe ugovora u svakom slučaju smatrati bitnom povredom samog ugovora, te spominje i Glavni ugovor o plinskom poslovanju i članci tog ugovora koji će se također smatrati njegovom bitnom povredom.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>235</STARTINDEX>
+    <ENDINDEX>243</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>280</ID>
+    <SENTENCE>Jer ako se pokaže da je za povredu zakona o građenju odgovoran investitor, troškovi usklađivanja - "spuštanje" zgrade za premašenu visinu - past će na teret Euroagrama.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>371</ID>
+    <SENTENCE>Predsjednik Suda čast pri HGK Josip Kos, čestitavši novim sucima prvostupanjskih i drugostupanjskih vijeća, naglasio je djelovanje Suda časti koje je samostalno tijelo te preventivno djeluje na članice Komore kako ne bi dolazilo do povreda dobrih poslovnih običaja i morala.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>232</STARTINDEX>
+    <ENDINDEX>239</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>279</ID>
+    <SENTENCE>Dvojica dubrovačkih policajaca koji su noćas priveli 26-godišnju Australku E.L.L. po hitnom su postupku zbog niza nepravilnosti i povreda službene dužnosti rješenjem načelnika Policijske uprave dubrovačko - neretvanske udaljeni iz službe.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7331</ID>
+    <SENTENCE>"U Turskoj smo radili vrlo kvalitetno, i odlično pripremili momčad. Međutim ove povrede su nas vratile dobrano unazad. Imali smo jasne konture momčadi, a sada je sve palo u vodu. Naravno, moramo biti optimisti i nadati se njihovu što bržem oporavku." - dodao je trener Splićana.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7338</ID>
+    <SENTENCE>Frankova žalba se temeljila na tvrdnjama o bitnim povredama Kaznenog zakona u postupku i prijedlogu ukidanja presude te vraćanju predmeta prvostupanjskome sudu na ponovni postupak.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>249</ID>
+    <SENTENCE>Pevecove optužuju za zlouporabu položaja i ovlasti, zlouporabu ovlasti u gospodarskom poslovanju te zbog povrede vođenja trgovačkih knjiga.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>227</ID>
+    <SENTENCE>Na popisu ozlijeđenih još je uvijek Mumlek, Sklepić, Granić i Gregorić, ali ozbioljnija povreda vezana je samo uz Ivana Jolića, koji je operirao prepone i njegov povratak neće biti prije kraja kolovoza.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>296</ID>
+    <SENTENCE>Glasnogovornik PU vukovarsko - srijemske Krunoslav Žgela potvrdio nam je da je policija u spomenutom ugostiteljskom objektu utvrdila postojanje dvaju kaznenih djela - nedozvoljena uporaba autorskog djela ili izvedbe umjetnika izvođača i povreda prava proizvođača, za koje je predviđena novčana ili kazna zatvora.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>237</STARTINDEX>
+    <ENDINDEX>244</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>313</ID>
+    <SENTENCE>Prema informacijama Županijskog centra 112, vatrogasci su od sinoć imali 36 intervencija na uklanjanju stabala i grana na cestama te zbog povreda prouzročenih padovima na snijegu.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>145</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7320</ID>
+    <SENTENCE>Ako početnici iz znatiželje pokušavaju izvesti nešto za što njihovo tijelo nije dovoljno ojačalo izlažu se riziku od povrede.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>308</ID>
+    <SENTENCE>Od svih povreda ljudskih prava utvrđenih u odnosu na Hrvatsku, s više od 90 posto udjela zastupljene su povrede članka 6. Europske konvencije koji sadrži splet prava sadržanih u pravu na pravično (pošteno) suđenje.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>342</ID>
+    <SENTENCE>S druge strane, jedna američka organizacija za zaštitu ljudskih prava tužila je školu koja je kaznila učenice zbog nezgodnih fotografija na servisu MySpace, smatrajući to povredom njihove privatnosti.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>171</STARTINDEX>
+    <ENDINDEX>179</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>362</ID>
+    <SENTENCE>Sve ostale povrede su sanirane, a za njegov potpuni oporavak sada treba vremena ', izjavila je Jandrić za portal Sarajevo-x.com.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>270</ID>
+    <SENTENCE>Tužilaštvo je u svojoj žalbi predlagalo izricanje kazne u duljem trajanju, a Budišin branitelj, odvjetnik Željko Olujić da se zbog povrede odredbi kaznenog postupka, pogrešno i nepotpuno utvrđenog činjeničnog stanja i povrede Kaznenog zakona, presuda ukine i predmet vrati na ponovno suđenje ili da se presuda preinači i Budiša oslobodi optužbe.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>131</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7327</ID>
+    <SENTENCE>Iako je snimanje s javnih površina dopušteno, a policija nije pronašla nikakve dokaze, Mračić je priveden u policiju, a ogorčeni glavni urednik novina Vedran Vidučić naglasio je kako će tužiti sve aktere priče, jer je riječ o izravnoj povredi ljudskih prava i udaru na slobodu medija.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>235</STARTINDEX>
+    <ENDINDEX>242</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>304</ID>
+    <SENTENCE>Također, prihvaćeno je i Izvješće o poduzetim aktivnostima u vezi nezakonitog rada i zapošljavanja malodobnika u razdoblju od 1. travnja do 30. rujna ove godine, u kojem je u 42 nadzora otkriveno i procesuirano 105 povreda zakona.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>215</STARTINDEX>
+    <ENDINDEX>222</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>253</ID>
+    <SENTENCE>Ovdje je riječ o povredi propisa o radu i radnim odnosima.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povredi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>242</ID>
+    <SENTENCE>Zanimljivo je kako su Ministarstvo pomorstva, prometa i veza i ministar Željko Lužavec namjerno zanemarivanje pravnih povreda postupka natječaja upravo interpretirali tezom da se MUT i posebno Spie Batignolles uvode u taj posao "kao partneri od posebnog interesa za Hrvatsku".</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povreda</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7337</ID>
+    <SENTENCE>Izmjenom Zakona o sudovima, koji su na snagu stupili krajem prošle godine, umjesto Ustavnog suda tom će se problematikom baviti redovni i specijalizirani viši sudovi, a Ustavni samo ako je do povrede tog prava došlo pred Vrhovnim sudom.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>192</STARTINDEX>
+    <ENDINDEX>199</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>241</ID>
+    <SENTENCE>Provjerom je otkriveno 212 prekršaja vezanih uz obračun i plaćanje PDVa, a zbog povrede Zakona o porezu na dodanu vrijednost podnesene su 194 prekršajne prijave.</SENTENCE>
+    <TARGETLEMMA>povreda</TARGETLEMMA>
+    <TARGETWORD>povrede</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+</SET>

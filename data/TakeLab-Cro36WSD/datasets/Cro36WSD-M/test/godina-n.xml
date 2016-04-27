@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>9136</ID>
+    <SENTENCE>Paul je otkrio problem s 15 godina.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9149</ID>
+    <SENTENCE>- Već u tridesetoj godini života naše lice postaje za broj veće i vidi se razlika od ranih dvadesetih godina. To znači da se mišići počinju opuštati i postaju širi.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3833</ID>
+    <SENTENCE>Prema kriterijima koje je donijela Vlada, u aukciji mogu sudjelovati svi poduzetnici koji imaju potencijala za održivi razvoj, trgovačka društva, obrtnici i drugi poduzetnici koji su u teškoće upali nakon 1. srpnja 2008. godine.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>221</STARTINDEX>
+    <ENDINDEX>227</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3852</ID>
+    <SENTENCE>Kao i svake godine DND Šibenik organizira aktivnosti u povodu 20. studenog-Konvencije o pravima djeteta, a ove godine toga dana obilježavamo i obljetnicu šibenskog stjecanja statusa grada prijatelja djece.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3810</ID>
+    <SENTENCE>Velški veteran u redovima Manchester Uniteda Ryan Giggs i službeno je potpisao jednogodišnje produljenje ugovora s klubom s Old Trafforda koje će ga vezati do lipnja 2011. godine.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>172</STARTINDEX>
+    <ENDINDEX>178</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3912</ID>
+    <SENTENCE>Krajem godine planiramo i novu turneju po Češkoj i Slovačkoj.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3884</ID>
+    <SENTENCE>Dodao da time "se stavlja točka na jedan otvoreni tekst, na jednu otvorenu priču koju smo nastojali ispričati svih ovih godina i ta točka bi onda trebala omogućiti da ta priča bude efikasno i dobro ispričana u našem društvu, a isto tako da bude dobro primljena i da se dobro čuje izvan našeg društva, među susjednim zemljama, a isto tako i unutar Europske unije".</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3831</ID>
+    <SENTENCE>Ne riješimo li način financiranja, nećemo moći ni izvršiti sve obveze prema državi, koje posljednjih godina ispunjavamo do posljednje lipe.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3921</ID>
+    <SENTENCE>Crnogorac se mirno pokupio iz svoje kancelarije pristavši na sporazumni raskid ugovora koji je trajao do ljeta 2010. godine.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9191</ID>
+    <SENTENCE>U zadnjih deset godina Norveška je Hrvatskoj za čišćenje mina donirala 17 milijuna eura, a ove će godine donirati 12 milijuna kuna.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3937</ID>
+    <SENTENCE>Prosječna mirovina koja je prošle godine u prosječnoj plaći uglavnom iznosila više od 41 posto samo je u kolovozu prošle godine pala na 39,69 posto, međutim siječanjskih 39 posto svojevrstan je "crni" rekord.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3804</ID>
+    <SENTENCE>Pa kaj nisi čul ona ti je prvo otišla u penziju, pa zamrznula penziju, pa produžila raditi do kraja godine a radi čega slušaj sad - da uvali sineka u sanitetski prijevoz kaj je samo prvi korak do privatiziranje sanitetskog prijevoza (ak niste znali neki domovi zdravlja npr. U ZGB su to već napravili i ispostavilo se kao vrlo unosan biznis) kojim bi onda suvereno vladala njihova familija.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9200</ID>
+    <SENTENCE>"Naravno da smo i dalje u kontaktu, redovito se čujemo i imamo jako dobar odnos. Mislim da je važno njegovati prijateljstvo s osobama s kojima ste nekoliko godina besprijekorno surađivali."</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>156</STARTINDEX>
+    <ENDINDEX>162</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9167</ID>
+    <SENTENCE>Promjene se odnose na Turističku zajednicu Grada Požege radi usklađenja sa realiziranim programima i manifestacijama u 2010. godini, zatim kod Vijeća srpske nacionalne zajednice, vjerskih zajednica, HPD Sokolovac i LZD Vila Velebita.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3863</ID>
+    <SENTENCE>Premda je GUP usvojen krajem prošle godine, a usvajanju je prethodila javna rasprava, s posebnim naglaskom na temu samog Marjana, ova stavka prošla je posve nezapaženo.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3850</ID>
+    <SENTENCE>Pojavile su se nove fotografije mučenja iračkih zatvorenika u zloglasnom bagdadskom zatvoru Abu Gharib snimljene sredinom prošle godine.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3902</ID>
+    <SENTENCE>Međutim, državna televizija u veljači prošle godine nije željela emitirati već pripremljenu emisiju o "deustašizaciji Hrvatske".</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3813</ID>
+    <SENTENCE>Apeliramo na Ministarstvo da, ako ne bude dovoljno vremena, omogući ispisivanje uspjeha na kraju godine ručno, kako bi se djeca mogla upisati u srednje škole, a da se originali isprintaju naknadno - kaže Bože Ujević, ravnatelj splitske OŠ "Kamen-Šine".</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3993</ID>
+    <SENTENCE>Prvo obnavljanje modela dešava se 2002. godine, kada dobiva stražnju klupu s tri sjedeća mjesta, što mu i zakonski omogućuje da prevozi do pet osoba.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3952</ID>
+    <SENTENCE>A kako javljaju strani mediji, ljubitelj ženske publike mogao bi se iduće godine približiti i granicama Lijepe naše.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3821</ID>
+    <SENTENCE>1947. godine po prvi put ga održava '' Creme de la Creme '' iz Sängerna, dirigenti i režiseri na prostorima l ’ Archevêchéa, u katedrali St-Sauveur i 6 drugih mjesta.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9185</ID>
+    <SENTENCE>Ja san isto prije svoje 18 godina pila kad bi išla vanka, nije se ništa dogodilo nikad.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3879</ID>
+    <SENTENCE>Carmela Bousada, žena koja je u 66. godini postala najstarija majka na svijetu, izjavila je da je američkoj klinici za plodnost lagala o godinama, tvrdeći da ima 55 godina, kako bi je podvrgnuli oplodnji.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godinama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>145</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3923</ID>
+    <SENTENCE>Moj je djed pedesetih godina izučio zanat koji je prenio na svoje petero djece.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9142</ID>
+    <SENTENCE>Taj podatak potvrdio nam je i Danijel Pavlić, ekološki aktivist iz Hrvatske Kostajnice, koji je sa grupom istomišljenika godinama organizirao akcije protiv olagališta nukelarnog otpada na Trgovskoj gori.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godinama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>129</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3961</ID>
+    <SENTENCE>Rijeka, Pula i Dubrovnik su, također, visokorangirane na toj crnoj ljestvici, a najsvjetliji primjer pruža Ličko - senjska županija u kojoj, osim dviju prijava u pretprošloj godini, nisu imali niti jednog prijavljenog napasnika.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>174</STARTINDEX>
+    <ENDINDEX>180</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3893</ID>
+    <SENTENCE>Lourdes je poznat i kao mjesto u kojem se svake godine u proljeće organizira veliko vojničko hodočašće, na kojem se okupi i po 20 tisuća vojnika i časnika, u posljednje vrijeme i pripadnici Hrvatske vojske.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9107</ID>
+    <SENTENCE>Ima, također, i pored svih kontrola i Zadrana koji koriste povlastice bolovanja i to godinama i dobro glume bolesnike.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godinama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9132</ID>
+    <SENTENCE>Ove godine tu su titulu ponijeli Yeah Yeah Yeahs.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>4</STARTINDEX>
+    <ENDINDEX>10</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3876</ID>
+    <SENTENCE>U vrijeme SSSR-a navodili su da je osnovan 1924. godine i nastao iz klubova Boljševik i Staljinec, a sada se povijest dodatno redefinira pa se Zenit nadovezuje na FK Murzinka, osnovanu 1914. godine, što bi klubu trebalo dati dodatnu patinu carske važnosti te ga svrstati u red najstarijih ruskih nogometnih klubova s dugom povijesnom tradicijom.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3944</ID>
+    <SENTENCE>Međutim, Sloboda posluje sa stabilnim dobitkom od 3,4 milijuna kuna (godinu prije 3,65 milijuna kuna), dok Koestlin ima "stabilne" gubitke od 5,8 milijuna kuna (godinu prije 5,3 milijuna), koji je djelomično rezultat i visoke amortizacije.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>161</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3967</ID>
+    <SENTENCE>Važno je napomenuti i to kako je vukovarac.net Fintić pokrenuo 2002., dok je godišnji najam prostora za smještaj stranice i naziv domene svake godine platio netko drugi.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>143</STARTINDEX>
+    <ENDINDEX>149</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3968</ID>
+    <SENTENCE>Na pitanje kakvi su trenutačni odnosi između vlasnika "Primoštena" d.d. i općinskih vlasti koji su već dvije godine punili novinske stupce međusobnim sukobima, obračunima i optužbama, primoštenski općinari ih nazivaju "idiličnima".</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3991</ID>
+    <SENTENCE>Prototip vozila bit će izložen na salonu u Ženevi, a gotov automobil pojaviti će se početkom 2009. godine.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3891</ID>
+    <SENTENCE>Mesić se zauzeo za provedbu zakona preporučivši Vladi da hitno imenuje državnog odvjetnika koji će provoditi onu politiku koja je pobijedila na izborima 3. siječnja prošle godine.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>172</STARTINDEX>
+    <ENDINDEX>178</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9159</ID>
+    <SENTENCE>- Kao i uvijek, i ova kolekcija nije dobno ograničena te će je moći nositi žene od 16 do 60 godina.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9169</ID>
+    <SENTENCE>I Davidenko i Ljubičić su u posljednjih pola godine ostvarili svoje najveće rezultate u karijeri.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9187</ID>
+    <SENTENCE>Janici je i sljedeće godine (2006.), na njen 24. rođendan, najviše bilo žao navijača, jer nakon što je prvu vožnju, prema vlastitim riječima "vozila kao krava", u želji da publici nadoknadi u drugoj, krenula je na sve ili ništa i ostala bez štapa i rukavice, nakon što se na startu prejako odgurnula.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3943</ID>
+    <SENTENCE>Ministarstvo je do sada kroz ovaj projekt u prethodne dvije godine dodijelilo ukupno više od 11 milijuna kuna poticaja.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3815</ID>
+    <SENTENCE>Posljednjih godina Coca-Cola sve više gubi dah u utrci sa najvećim konkurentom Pepsi Colom, čija je strategija fokusiranje na negazirana i zdravija pića.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3907</ID>
+    <SENTENCE>Film se u Europi počinje prikazivati krajem svibnja, u Hrvatsku dolazi krajem lipnja, a već se naveliko najavljuje kako će "Seks i grad" biti najgledaniji film ove godine, i to u cijelom svijetu.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>170</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9144</ID>
+    <SENTENCE>Sada, petnaestak godina kasnije, ne mogu vjerovati da mi je bilo neugodno pojaviti se s dvogodišnjim djetetom i nekoliko godina nakon što su to obavili kolege s kojima sam studirala, jer to tada nije bilo uobičajeno.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3951</ID>
+    <SENTENCE>"Napravila mi je uslugu. Ona sada mora raditi moj posao, brinuti se o Ronnieju 24 sata dnevno, a ja sam slobodna i sama. Prijatelj mi je poslao mali lijes koji služi kao kutijica za prsten. To mi se jako svidjelo pa sam stavila vjenčani prsten unutra, napravila malu ceremoniju i pokopala taj brak zauvijek", komentirala je Jo, koja se u javnosti, nakon što je prije više od godine dana pukla vijest o Woodovom bijegu od kuće, rijetko pojavljuje u javnosti.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>375</STARTINDEX>
+    <ENDINDEX>381</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9106</ID>
+    <SENTENCE>Godine 2001. prešao je u Chelsea, s kojim je ove sezone postao prvak Engleske.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>Godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9184</ID>
+    <SENTENCE>Drugu zlatnu medalju osvojio sam 1969. godine na sveafričkom festivalu u Alžiru.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3838</ID>
+    <SENTENCE>Do kraja godine standard života će pasti za 20 posto.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3835</ID>
+    <SENTENCE>9. Troškovi mirovina razdoblja u toku godine izračunavaju se primjenom metode broja godina do određenog datuma koristeći akutuarijsko određivanje stope troška mirovina na kraju prethodne financijske godine, usklađene za značajne, tržišne promjene od toga vremena i za značajna skraćenja, podmirenja ili druge značajne promjene.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3984</ID>
+    <SENTENCE>- Krivo ste me osudil i - nevješto se u petak ponovno pokušao obraniti Riječanin Andrija Kosanović (40) nakon što mu je sutkinja Ika Šarić pročitala presudu kojom je njemu i partneru Elisu Vujadinoviću (33) "dala" 20 godina zatvora proglasivši ih krivima za brutalno ubojstvo 59-godišnjeg soboslikara Mumina Mujadžića u svibnju 2008. godine.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>217</STARTINDEX>
+    <ENDINDEX>223</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3862</ID>
+    <SENTENCE>Za 80,8 milijuna kuna Hrvatska dobiva 1.950.000 doza cjepiva za tri godine, s godišnjom isporukom od 650.000 doza.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3983</ID>
+    <SENTENCE>Budući da je MAS već nakon izbora 2005. godine imao veliku većinu u donjem domu parlamenta, najveći ulog u općim izborima bio je senat koji već četiri godine kontrolira desna oporba, protuteža Moralesovoj vladavini.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3928</ID>
+    <SENTENCE>Djeca se po ovom programu mogu osigurati od rođenja do navršene 14. godine života.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3801</ID>
+    <SENTENCE>Na izborima 1997. i 2000. godine takvih je birača bilo oko 15 posto.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9181</ID>
+    <SENTENCE>Željko Kipke posljednji je put gostovao u Kulturnom intervjuu prije nešto više od godine dana, a iako nam to i nije običaj, navest ćemo točan datum - 15. travnja 2004. U svom dnevniku, nedavno objavljenom pod naslovom "Od veljače do veljače", Kipke je o tom razgovoru zapisao jednu rečenicu: "Uglavnom se pričalo o umjetnosti kao provokaciji te umjetniku kao provokatoru par excellence".</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9175</ID>
+    <SENTENCE>No sljedećih godina sve je to velikom brzinom propadalo i nestajalo: tvornica je zatvorena, nono je umro, ribarski su brodovi preuređeni u turističke, izletničke.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9173</ID>
+    <SENTENCE>Ovo posljednje, najvrednije priznanje za 40 godina apstinencije uručit ćemo g. Josipu Kovačeviću u Domu umirovljenika Pešćenica.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3977</ID>
+    <SENTENCE>Od siječnja ove godine član je zagrebačke Mladosti, a s klubom Mravince-Dalmacijacement iz Solina čak sedam puta je osvajao naslov državnoga prvaka i Hrvatski kup.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3998</ID>
+    <SENTENCE>Turski izvoz u BiH raste u posljednje tri godine, a ove godine njegov će rast biti oko 10 posto.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3979</ID>
+    <SENTENCE>Zato će ova godina, prema predviđanjima, biti teška i u informatičkom svijetu, a ne samo financijskom sektoru.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3908</ID>
+    <SENTENCE>SPLIT — Rješenjem Vrhovnog suda Republike Hrvatske ukinut je pritvor Marku Ercegu (39) iz Podprologa i Robertu Ujduru (26) iz Vrgorca, koji su nepravomoćnom presudom Županijskog suda u Splitu, zbog kaznenog djela posjedovanja i dilanja 48 kilograma marihuane, osuđeni na po četiri godine zatvora.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>281</STARTINDEX>
+    <ENDINDEX>287</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3930</ID>
+    <SENTENCE>Prema dokumentaciji koje smo u posjedu, Pliva nije imala dozvolu za stavljanje dijalizatora u promet niti ju je zatražila sukladno preporuci koju je 27. rujna 1999. godine dobila od Hrvatskog zavoda za kontrolu lijekova.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>165</STARTINDEX>
+    <ENDINDEX>171</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3829</ID>
+    <SENTENCE>"Danas imamo oko 100 tisuća dugotrajno nezaposlenih. U recesijama 80-ih i 90-ih godina prošlog stoljeća bilo ih je i više od jednog milijuna. Moramo usmjeriti sve napore prema tome da ne dopustimo da se to ponovi", rekao je Brown.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3881</ID>
+    <SENTENCE>Najvjerojatnije se ipak radi samo o Phaetonu aktualne generacije, koji je za potrebe testiranja prerađen u duhu CC-a, i nema previše veze sa stvarnim CC-om, koji će stići na tržište za nekoliko godina.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>194</STARTINDEX>
+    <ENDINDEX>200</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9165</ID>
+    <SENTENCE>PREDSJEDNIK sportskog društva Real Madrid, Ramon Calderon, u petak se oprostio sa zahtjevnom funkcijom koju je obnašao protekle dvije godine.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>140</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9134</ID>
+    <SENTENCE>"Ne može se govoriti o podvali ni prijevari, jer su svi podaci kojima sada barata HSS već dva mjeseca, od 26. studenog 2002. godine, dostupni svim mjerodavnim institucijama, pa tako i toj političkoj stranci", kaže Starčević.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3846</ID>
+    <SENTENCE>Pa stavio je tamish ovdje negdje katalog Bocanov iz 30 i neke godine, pa nema veze s ovom tvojom tamburom.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9180</ID>
+    <SENTENCE>Otto Frank ga je objavio 1947. godine, a otada je tiskan u milijunima primjeraka i preveden na 65 jezika.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9128</ID>
+    <SENTENCE>Sve u svemu bi nam prema najavama trebalo stići više od 120 gostiju što je za ovaj dio godine, budući da Duhovi ove godine padaju dosta rano - solidna brojka.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9154</ID>
+    <SENTENCE>Dijelovi su pak u potpunosti pokriveni u prve dvije godine, odnosno do 50.000 prijeđenih kilometara.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3960</ID>
+    <SENTENCE>Dodao je da će za nekoliko godina dobiti vino pa će vidjeti rezultate svoga truda.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3909</ID>
+    <SENTENCE>Zovem se Robert i nemam DM, nego ima ga moja kcerka koja se zove Lana (tip1) i ima 7 godina.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9140</ID>
+    <SENTENCE>Djecu treba u određenim godinama testirati, ukoliko se dijete tijekom djetinjstva ističe svojim ponašanjem treba na vrijeme učiniti sve da se uoče problemi.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godinama</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3989</ID>
+    <SENTENCE>Blagdansko vrijeme krajem godine nije prekinulo satnicu engleskoga nogometa, uglavnom to čine vremenske neprilike, a osim uobičajenih treninga i utakmica klubovi se u ovom razdoblju sjećaju i onih potrebnih pomoći.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3995</ID>
+    <SENTENCE>Rob Mewse (56) bio je "zgrožen" kad je prije godinu dana prepoznao svoju siluetu na tom programu koji gradove prikazuje iz ulične perspektive.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3844</ID>
+    <SENTENCE>Zahvalan sam Gospodinu na grupi mladih koji su se odazvali na doček nove godine u našu Misijsku kuću te tako skupa mogli dočekati novu godinu.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3927</ID>
+    <SENTENCE>Ove ćete godine naime, zaista imati prilike naučiti što je to kompromis.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3976</ID>
+    <SENTENCE>Toranj će biti visok 54 metar ili 1776 stopa, što će simbolizirati godinu u kojoj je proglašena američka neovisnost.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3966</ID>
+    <SENTENCE>ZAGREB – Predsjednica Gradske skupštine Grada Zagreba, Tatjana Holjevac sazvala je za sutra 12. srpnja 2006. godine s početkom u 10,00 sati, u staroj Gradskoj vijećnici tematski skup na temu ` Otvorena pitanja vezana uz DTK `.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3913</ID>
+    <SENTENCE>- Od kraja 2008. godine dosad su napravljena dva kruga poziva za iskaz interesa, a drugi krug trajao je do kraja 2009. godine.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3910</ID>
+    <SENTENCE>Samo ime mu kazuje kako počinje hladno doba godine kad nam je najdraže ušuškati se u vlastitom domu.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9195</ID>
+    <SENTENCE>Naime, Njemačka je još od kraja devedesetih godina prošloga stoljeća uvjetovala uvođenje eura obvezom dotad fleksibilnijih članica EU (Francuska, Italija, Španjolska) da se pridržavaju odredbi Pakta.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3922</ID>
+    <SENTENCE>Iločki su podrumi u turizam investirali 35 milijuna kuna, a DM je i u recesijskoj godini ostvario 95 mil. kuna dobiti.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godini</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3934</ID>
+    <SENTENCE>Deset posljednjih godina u Kaliforniji nije sagrađen niti jedan novi strujni izvor a rezerva snage, koja je prije 10 godina iznosila 35 posto, u međuvremenu je posve iscrpljena.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3809</ID>
+    <SENTENCE>Taj pad podjednako je pogodio Grčku, Portugal, Tunis, Cipar, Španjolsku i Italiju, pa je potpomognut sa znatno manjim brojem Amerikanaca u Europi ove godine ozbiljno ugrozio planove mnogih turističkih zemalja.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>156</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9112</ID>
+    <SENTENCE>Tamo je igrao 5 godina i na kraju prešao u talijanski klub AS Bari.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9126</ID>
+    <SENTENCE>Catherine je bilo devetnaest godina kada ju je Dickens upoznao i zaljubio se u nju.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+      <SENSEID>N.002.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3936</ID>
+    <SENTENCE>Najkasnije u proljeće iduće godine, s ovakvim poražavajućim stanjem narudžbi, naši škverovi polako će ostajati bez posla, a do kraja godine potpuno bez posla.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3822</ID>
+    <SENTENCE>Voditelji ŽSV-a mr. Goran Pavelin za srednjoškolske i prof. Jadran Bašić za osnovnoškolske vjeroučitelje predstavili su sudionicima skupa plan i program rada ŽSV-a za 2008/2009. godinu s ciljem njegova usvajanja.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>178</STARTINDEX>
+    <ENDINDEX>184</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3823</ID>
+    <SENTENCE>Zabavni program HTV-a ove godine ide u izravni prijenos koncerata s trgova u Zagrebu, Osijeku, Splitu i Rijeci, a kamerom će popratiti i doček u Dubrovniku.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3932</ID>
+    <SENTENCE>- Grad Zadar je, navodno, zbog neisplativnosti i loših vremenskih uvjeta, ove godine odustao od 'Adventa na Poluotoku', pa smo mi odlučili organizirati ga bez ijedne kune od ikoga.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9127</ID>
+    <SENTENCE>Prije nekoliko dana, djelatnici zagrebačke tvrtke Emporion plus d.o.o. započeli su s radovima na adaptaciji zgrade Palače Pejačević koju je Grad Virovitica dao u koncesiju na 20 godina tvrtki Gramatinvest d.o.o. iz Zagreba, vlasnika Ivice Matića.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>178</STARTINDEX>
+    <ENDINDEX>184</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3834</ID>
+    <SENTENCE>Suviše su se davali upravo u svojoj maloj sredini, koja se čudesno pokrenula i ove godine, otkad su početkom siječnja bubnjevi objavili da stvar u Imotskom opet preuzimaju maškare.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3985</ID>
+    <SENTENCE>Kiklopa za publicistiku dobio je Igor Mandić za knjigu 'Sebi pod kožu: dnevnički pabirci', a inozemna knjiga godine je 'Istanbul: grad sjećanja' nobelovca Orhana Pamuka.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3959</ID>
+    <SENTENCE>Udjel neživotnih osiguranja u ukupnoj premiji u odnosu na prethodnu godinu dana porastao je sa 75,82 na 78,46 posto, dok je udjel životnih osiguranja proporcionalno smanjen na 21,56 posto.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3946</ID>
+    <SENTENCE>Za ulaz u EU, do 2010. godine, treba zamijeniti 5,76 % fosilnog dizel - goriva biodizelom, odnosno zasijati repicom gotovo pet posto od svih današnjih oranica i vrtova.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9137</ID>
+    <SENTENCE>Navode i izjave predsjednika Hrvatskog novinarskog društva Dragutina Lučića i Hrvatskog sindikata novinara Katje Kušec, a na kraju priopćenja navodi se da je u prosincu prošle godine HRT bio "žestoko napadnut" tijekom parlamentarne rasprave te slučaja smjenjivanja Tihomira Ladišića s mjesta voditelja emisije "Otvoreno".</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>176</STARTINDEX>
+    <ENDINDEX>182</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3900</ID>
+    <SENTENCE>Nebrojene osobne intervencije Ranke Spevec inspekciji svakog utorka u tjednu, kao jedinog dana predviđenog za stranke, traju već godinu dana, no bez uspjeha, jer nadležnih inspektora jednostavno nema u radnim prostorijama.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godinu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>129</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3803</ID>
+    <SENTENCE>Krajem godine jednako je javnost iznenadila i vijest da Zlatan Zuhrić Zuhra postaje 'solo', no njegov blagoslov završetku veze očito je izostao jer je po medijima izjavljivao da se nada mirenju.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3949</ID>
+    <SENTENCE>U usporedbi s istim periodom prošle godine navedeni rast iznosi 36,06 %. 'Uz to, Dalekovod najavljuje i tri nova važna projekta za koje su potpisani ugovori kao što su isporuka i izgradnja konstrukcije u SD' Krešimir Ćosić 'na ŠRC Višnjik u Zadru, izgradnja krovišta na Areni Spaladium u Splitu te izgradnja i opremanje zgrade Hitne pomoći u Zagrebu.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9123</ID>
+    <SENTENCE>Otkrio ju je Pierre Méchain 1781. godine ali je svoje otkriće objavio naknadno pa se objekt nije našao u drugom izdanju Messierova kataloga.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godine</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>3877</ID>
+    <SENTENCE>Postupak izmjene propisanih radova u Osnovi gospodarenja i Programu za gospodarenje šumama, a izrađuje se kada se u tijeku gospodarenja šumama i šumskim zemljištima, unutar 10 godina za koje su elaborati izrađeni, dođe do odstupanja od propisanog načina gospodarenja zbog elementarnih nepogoda, štetočina bilja, sušenja, propadanja šuma, stanja prirodne obnove ili sječe većih razmjera za potrebe infrastrukture.</SENTENCE>
+    <TARGETLEMMA>godina</TARGETLEMMA>
+    <TARGETWORD>godina</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.002.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>176</STARTINDEX>
+    <ENDINDEX>182</ENDINDEX>
+  </INSTANCE>
+</SET>

@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>5060</ID>
+    <SENTENCE>Stanarsko pravo, koje nije pravo vlasništva nego zaštićeno pravo korištenja, još se prema starom jugoslavenskom zakonu stanaru oduzimalo ako bi nenajavljeno i neopravdano izbivao iz stana dulje od šest mjeseci i ako ne bi plaćao stanarinu.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9791</ID>
+    <SENTENCE>NEFORMALNA udruga građana iz Dubrovnika "Nazbilj" na specifičan je način čestitala rođendan dubrovačkoj gradonačelnici Dubravki Šuici, a cijeli performans samo je još jedan izraz neslaganja Dubrovčana s "odlukama gradske uprave koji život Dubrovčana, posebice u staroj gradskoj jezgri čine nepodnošljivim za življenje".</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staroj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>262</STARTINDEX>
+    <ENDINDEX>268</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9792</ID>
+    <SENTENCE>Tada će on po dobrom starom slavenskom običaju eksati svoje piće, busnuti se u prsa, a ostatak ćete pročitati u crnoj kronici ili, puno bolje – zanimljivostima.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5127</ID>
+    <SENTENCE>Kao stari član Diners Cluba oslobođeni ste plaćanja upisnine po odabranoj kartici, ali plaćate godišnju članarinu.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>4</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9731</ID>
+    <SENTENCE>Tim sredstvima financirana je briga za starije i nemoćne članove te organizacija izleta i ljetovanja.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5005</ID>
+    <SENTENCE>Staru hrastovinu izrezali su u "duge" debele 22 cm i sušili 10 godina.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>Staru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5182</ID>
+    <SENTENCE>Najstariji tekst u zbirci – koja donosi eseje i kronike iz dvijetisućitih svrstane u tematske cjeline – dao je tako presudan ton cijeloj kolekciji Pavičićevih sjajnih ogleda.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>Najstariji</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>10</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5018</ID>
+    <SENTENCE>Sedam godina kasnije Kassie se vraća u New York i susreće sa starim prijateljem.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5056</ID>
+    <SENTENCE>Sva ova draga jela pripadaju obitelji starih pirjanaca, srodnih francuskim fricasseima i ragoutima, prokuhane i promiješane kulinarske genetike sredozemno - srednjoeuropskog gastronomskog kruga, i u ovoj ili onoj izvedenici, tipične su pjatance za gablec i marendu.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5062</ID>
+    <SENTENCE>U veziji 8.7 je napravljena automatska rutina kojom možete svim artiklima zamijeniti staru "šifru" tarife sa novom šifrom.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5007</ID>
+    <SENTENCE>Bilo kako bilo, u nizanju novih i starih stvari, prebrzo je završio koncert.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5078</ID>
+    <SENTENCE>- Gradska knjižnica brine ne samo o djeci i mladima, već i o osobama starije životne dobi, kazao je Pehar.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5085</ID>
+    <SENTENCE>Sidneš među stare ljude, ujitro na kavi ili pridveče na pivi, sveisto, i slušaš.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stare</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9776</ID>
+    <SENTENCE>Ime šestog samostalnog studijskog albuma, lidera manchesterskih indie legendi The Stone Roses, Iana Browna nosit će naziv "My Way ’, a bit će objavljen 28. rujna i naslijedit će dvije godine stari naslov" The World Is Yours ’.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>191</STARTINDEX>
+    <ENDINDEX>196</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5068</ID>
+    <SENTENCE>U modernizaciju starih i otvaranje novih poliklinika, gdje posebno dominira izgradnja zagrebačke, ukupne površine 12.000 četvornih metara i čije je otvaranje predviđeno za proljeće 2006., Agram je izdvojio dodatnih 300 milijuna kuna.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5030</ID>
+    <SENTENCE>Na pozadini tih promjena mnogima se čini da se već pojavilo novo globalno doba oslobođeno od starih struktura, doba koje je stari način razmišljanja u kategorijama centra i periferije čini zastarjelim i neupotrebivim.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>129</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5004</ID>
+    <SENTENCE>Trogirani, naime, rade na remontu starog broda libijske trgovačke mrnarice koji plovi pod ratnom zastavom.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5197</ID>
+    <SENTENCE>Iste godine započeo je novi val napada na starije žene koji uključuje i pet ubojstava u gradu Claremontu u neposrednoj blizini Los Angelesa.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5075</ID>
+    <SENTENCE>Snima klavirsku glazbu u staroj prezbiterijanskoj crkvi koja je preuređena u tonski studio, a on stoji na pozornici gledajući van u nešto što su nekad bile klupe zato što misli da je netko vani.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staroj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5058</ID>
+    <SENTENCE>Zadnje dvije godine primijenjuje se programska koncepcija prema kojoj se na Velikom trgu organiziraju sadržaji namijenjeni mlađoj populaciji (Company Contatto), a na Porporeli glazbeni nastupi za one nešto starije, ljubitelje lakoglazbenih nota i glazbe za ples.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>206</STARTINDEX>
+    <ENDINDEX>213</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5179</ID>
+    <SENTENCE>Htio sam imati novu energiju, imam nove ljude u bendu (nitko nije iz starog benda), krenuo sam ispočetka, radio sam dosta, ali opet je sve leglo prilično brzo.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5160</ID>
+    <SENTENCE>Odakle ideja za hotel u starom kaštelu, kakve će sve sadržaje nuditi te o investiciji i financijama upitali smo Waltera Peculića.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5147</ID>
+    <SENTENCE>Treći međunarodni kazališni festival Butrint 2000. održat će se u 300 godina starom gradu na jugu Albanije, koji se smatra jednim od najznačajnijih arheoloških nalazišta u Europi.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5013</ID>
+    <SENTENCE>Vidite detalje starinskih ponjava, starih ručnika, jastuka, tu su šlinge, nec, čipka, pa i formetne sa stare djedove košulje a vidjeli ste, ima i zlatoveza.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5090</ID>
+    <SENTENCE>Mogu, primjerice, prirediti jednu božićnu ili uskrsnu priredbu ili kakav koncert gdje bi se naplaćivale ulaznice (naravno po veoma sniženoj cijeni) ; izrada i prodaja božićnih i uskrsnih čestitki ; tombola ; sakupljanje papira i starih novina i t. d. Moguće je da se zajednica financira i "članarinom", mjesečnim doprinosom od vlastitog džeparca i pomoći župe.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>229</STARTINDEX>
+    <ENDINDEX>235</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5073</ID>
+    <SENTENCE>- Budući da se dio skele morao demontirati u komadu, koje kada smo spustili na zemlju vidjeli da bi bila prava šteta da ih se razreže i otpremi u staro željezo, odlučili smo potražiti nekoga kome će to poslužiti.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9705</ID>
+    <SENTENCE>Nisam još dovoljno sazrijela za starije, ali ako se zaljubim ovdje u Dubrovniku u nekog bogatog Rusa, priviknut će se i na starije ', kroz smijeh je rekla Alka Vuica.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5185</ID>
+    <SENTENCE>Ako volite stari rock, koji nije uopće agresivan, već onako sladunjav za vožnju autom, imate barem preko četrdeset godina, ovo bi vam se moralo svidjeti.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5192</ID>
+    <SENTENCE>Osim toga stari ne izgledan nenormalno i nesuvislo kad se skine s broda.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5141</ID>
+    <SENTENCE>I ne znam zašto bi nabavljali stari, nesigurni i neodobreni model intrauterinog uloška.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5151</ID>
+    <SENTENCE>"Pršo još uvijek ne daje sve od sebe. Bio je puno opasniji nakon drugog poluvremena, ali nije to onaj stari Pršo", piše Evening Times.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5155</ID>
+    <SENTENCE>- U vrijeme dok je pripadao Studentskom centru, koji je bio samostalna pravna jedinica u okviru Sveučilišta u Splitu, stari Studentski dom je zatvoren zbog derutnosti i neuvjetnosti.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5187</ID>
+    <SENTENCE>Uzimam ovu pjesmu o Bogu, dobrom starom Bogu mome koji uvijek je ostao tako sjajno mlad i uz vaš dolazak, dok vas čovjek ovako promatra, vi ste pjesma Bogu mojemu.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5177</ID>
+    <SENTENCE>Nakon što je proteklu sezonu proveo u Umagu, mladi bjelovarski rukometaš Tibor Jurjević vratio se u staro jato i tako otvorio vrata prelaznog roka ostalim pojačanjima koja je najavio predsjednik Željko Maletić.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5158</ID>
+    <SENTENCE>I ovoga Badnjaka se spremalo i darivalo božićne ručkove za naše starije, mahom usamljene sugrađane.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5161</ID>
+    <SENTENCE>Ima nekoliko ovisnika starije generacije, ali među mladima takvih problema nema - kazao je Buovac.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9758</ID>
+    <SENTENCE>Velike su šanse da će se u kući naći stari ljubavnici ili zakleti neprijatelji.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5044</ID>
+    <SENTENCE>Bio je to najstariji finale u povijesti WTA Toura, a na kraju je pobijedila 33-godišnja Tanasugarn protiv sedam godina starije protivnice kod koje se posebno u trećem setu osjetio umor, budući da je u prethodna dva meča (protiv Stosur i Peer) provela po tri sata na terenu.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>119</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5126</ID>
+    <SENTENCE>To je zbog toga što je prestao važiti "stari" Zakon o ograničavanju uporabe duhanskih proizvoda (N.N. 128/99,14/00 i 55/00) kojim je bila propisana navedena zabrana.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5169</ID>
+    <SENTENCE>Kako smo saznali od dežurnog vatrogasca, nakon kiše imali su samo dvije - tri intervencije, i to u staroj gradskoj jezgri, gdje su neki podrumi poplavili.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staroj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5106</ID>
+    <SENTENCE>Tvornica prešanih proizvoda koja je već dugo na izdisaju, najvjerojatnije će se preseliti na novu poduzetničku zonu Podi gdje će se zapravo graditi nova tvornica jer je postojeća zastarjela i spremna je za staro željezo.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>206</STARTINDEX>
+    <ENDINDEX>211</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9777</ID>
+    <SENTENCE>Bila je 116 godina jedina splitska gimnazija, za vrijeme stare Austrije državna, potom su se u njoj školovali samo svećenički kandidati.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stare</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5091</ID>
+    <SENTENCE>Vulkanizeri bi mogli započeti naplaćivati od krajnjeg kupca zbrinjavanje starih guma prilikom kupovine i montaže novih.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5140</ID>
+    <SENTENCE>Stari gospodin rekao je staroj gospođi kako je uvijek bolje platiti nego izgubiti život, možda dečki imaju noževe.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>Stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5019</ID>
+    <SENTENCE>Židovsko groblje broji ukupno 608 grobova, uključujući i 20-ak ploča uzidanih u južni zid prenesenih sa starog Židovskog groblja.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5162</ID>
+    <SENTENCE>Naime dan kad sam izašao iz Petrovog rodilišta u Zagrebu skromno zamotan u tanku deku, temperatura je bila - 23 stupnja (imam sliku), stari je odlučio da je to pravo vrijeme da se mali počme čeličit !</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9773</ID>
+    <SENTENCE>Struka, statičari i ostali, mrtvo - hladno su nas upozorili da stanje stare kuće nije u onakvom stanju, u kakvom su nas uvjeravali da je kada smo ju kupovali.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stare</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9786</ID>
+    <SENTENCE>Nastavili su starim stazama, gušt i entuzijazam nisu izgubili, ali su već davno kreirali i jednu novu razinu očekivanja.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9763</ID>
+    <SENTENCE>Pokazalo se da u pojedinim zemljama EU postoji interes za uvozom liječnika, te istodobno povećani interes među liječnicima novoprimljenih zemalja za odlazak na rad u stare zemlje članice.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stare</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>166</STARTINDEX>
+    <ENDINDEX>171</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5014</ID>
+    <SENTENCE>Ključni se trenutak dogodio u 51. minuti nakon brze akcije "stare dame".</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stare</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9760</ID>
+    <SENTENCE>Neki ljudi, koji bi mogli zamijeniti svoje sadašnjim automobile za nove, odlučuju se umjesto toga za vozila bez lizinga, podižući prosječno vrijeme razmjene staro za novo i vraćajući više novih modela rabljenih automobila u stok automobila na cesti (balansirajuća petlja Tržišta rabljenih automobila, B5).</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>157</STARTINDEX>
+    <ENDINDEX>162</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9723</ID>
+    <SENTENCE>Dvojica dječaka, starih 5 i 7 i pol godina nestala su iz vrtića u Splitu oko 11.40 sati.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5022</ID>
+    <SENTENCE>No, rame uz rame s novim idejama i potragom za novim jezikom preživljavali su stari načini organizacije, još od jakobinskog terora – Francuske revolucije – i mitske slike naoružanog, militantnog heroja.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9741</ID>
+    <SENTENCE>Stvar se tek dodatno komplicira, jer Bandić je, prema šefu zagrebačkog Izbornog povjerenstva Đuri Sessi, istu krivu adresu prijavio i MUP-u, što bi u principu značilo da se nikad nije ni preselio sa stare adrese, piše Večernji list.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stare</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>199</STARTINDEX>
+    <ENDINDEX>204</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5071</ID>
+    <SENTENCE>U Europi imaju snažnu potporu, pa su jako povezani sa starim kontinentom.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5102</ID>
+    <SENTENCE>U uvali Čikat se nalazi spomenik prof. Ambrozu Haračiću, a upravo njemu moramo zahvaliti za današnji izgled Čikata, koji je nekad bio pust i gol, da bi pod Haračićevim vodstvom 1886. godine bilo osnovano Društvo za uljepšavanje i pošumljavanje Malog Lošinja, a na Čikatu zasađeni prvi borovi, dakle stari više od 120 godina.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>299</STARTINDEX>
+    <ENDINDEX>304</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5063</ID>
+    <SENTENCE>To je druženje, veselje i pronalaženje u čovjeku, iako je star i bolestan, puno dobrog i pozitivnog, otvaranje puta do ljudskoga srca, dokazivanje da su naše različitosti bogatstvo – rekla je voditeljica odjela socijalnog rada Karolina Martinuš, koja je kao predstavnica Lobor - grada plesala s korisnikom Željkom Vuzmekom.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>star</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9717</ID>
+    <SENTENCE>Novac potrošen za izgradnju paviljona koji je u Veneciji ionako trebao biti samo jedan dan tako će završiti u starom željezu, no čini se da priči tu ipak nije kraj.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5087</ID>
+    <SENTENCE>Tijekom dugoga razdoblja geološke prošlosti, od starije jure (prije približno 190mil. godina) do kraja krede (prije približno 65mil. godina) platforma je bila izolirana od kopnenih utjecaja, tj. okružena dubokim oceanom Tethysom, a pod utjecajem dinamičnih procesa iz dubine Zemlje postupno se od rubova današnje Afrike kretala prema sjeveru.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9781</ID>
+    <SENTENCE>Ako se želite dobro provesti, vidjeti riznicu nekada velikog Osmanlijskog carstva, osjetiti mističnost Harema ili u tren oka "skoknuti" iz dobre, stare Europe u tajanstvenu Aziju, sve to možete u Istanbulu.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stare</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.07</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5104</ID>
+    <SENTENCE>Takav prijedlog Povjerenstva za definiranje sadržaja i revidiranje ugovora za korištenje prostora stare bolnice u utorak su prihvatili članovi Poglavarstva Dubrovačko - neretvanske županije i suglasili se kako je trenutačni prilično fleksibilan način raspolaganja kompleksom neodrživ.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stare</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5103</ID>
+    <SENTENCE>Užasno, ne znam što da više kažem jer je moj život od djetinjstva bio jako težak, a pogotovo u ove starije dane.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9742</ID>
+    <SENTENCE>Država će Hrvatskom zavodu za zdravstveno osiguranje sanirati neplaćene obaveze dobavljačima starije od 150 dana u iznosu od 34 milijuna kuna, kao i 129 milijuna kuna za zdravstvenu zaštitu staračkih i poljoprivrednih domaćinstava.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9729</ID>
+    <SENTENCE>Neosporno je dokazano da pčelinji proizvodi: med, propolis, pelud, matična mliječ, pčelinji otrov i vosak imaju višestruku važnost u borbi protiv bolesti današnjice ; kardiovaskularne bolesti, karcinom, tegobe starije životne dobi i dr.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>210</STARTINDEX>
+    <ENDINDEX>217</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5050</ID>
+    <SENTENCE>Uspio je uzvratiti Živković, da bi sve na staro vratio Daniel Varga, dok se po prvi put u listu strijelaca tek u 19. minuti upisao Udovičić koji je nešto kasnije pobrao veliki pljesak za svjetski pogodak.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5118</ID>
+    <SENTENCE>- Pišem priču o redatelju koji je, istražujući stare dokumente, otkrio da je potomak De Sadea.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stare</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5145</ID>
+    <SENTENCE>Ima puno rodinih gnijezda po trijemovima kuća, a na ovim starim stupovima smjestilo ih se desetak.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9752</ID>
+    <SENTENCE>Osim otvaranja novih privatnih domova na splitskim Mejašima, gdje niče novi dom za koji je zaslužna Katolička udruga Lovret, ali i vrijedna donacija dviju sestara Milke i Tonke Matošić, koje su darovale zemljište, te luksuznog doma koji gradi tvrtka SEM 1986 na Gripama, problem manjka kapaciteta u gradu bi mogla riješiti i inicijativa o pretvaranju hotelskog kompleksa u Duilovu u dom za starije.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>390</STARTINDEX>
+    <ENDINDEX>397</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5025</ID>
+    <SENTENCE>Osim to što su na staru cestu, očito, svi zaboravili.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5077</ID>
+    <SENTENCE>Osim toga, od Grada Rijeke prima plaću 14 tisuća i 300 kuna i vozi službeni "renault lagunu", dok je privatno vlasnik "škode octavije" stare pet godina.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stare</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>140</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9775</ID>
+    <SENTENCE>Djecu i one starije traktorskim prikolicama vraćamo u Tordince, a negdje stotinjak ih se vraća pješice do Tordinaca oko 19 sati.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5128</ID>
+    <SENTENCE>Došli su nam nešto stariji i fizički opušteniji, ali takva je pretežno bila i publika te večeri u Tvornici, a glazba koju su odlučili proizvesti za zagrebačku publiku bila je slična jer su se na njihovoj play listi našle i starije stvari, ali nešto manje opuštenije jer SLF itekako žari i pali.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>223</STARTINDEX>
+    <ENDINDEX>230</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5026</ID>
+    <SENTENCE>A stari bik mu je odgovorio: "Sine, polako !"</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.07</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5089</ID>
+    <SENTENCE>I opet je tu ono staro pravilo - veza, iako to nije posao u Ministarstvu financija ili Zagrebačkoj banci.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9799</ID>
+    <SENTENCE>Legacy of Kain zapravo i nije toliko star serijal kako se na prvi pogled može pretpostaviti, no od prvog nastavka prošlo je čak 12, a od zadnjeg pet godina.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>star</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5053</ID>
+    <SENTENCE>Poslije uvjerljive, više igrom nego rezultatski, pobjede nad Šibenikom, novi - stari trener Slaven Belupa Mile Petković izrazio je zadovoljstvo nastupom farmaceuta u svim linijama, a posebno količinom stvorenih prilika.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5164</ID>
+    <SENTENCE>Hotel na Pločama s pogledom na staru gradsku luku i Lokrum obnovljen je lani i sada ima 159 soba i 7 apartmana s nizom pratećih sadržaja koji odgovaraju visokoj razini kvalitete, a zapošljava 85 stalnih i 30-ak sezonskih djelatnika.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5023</ID>
+    <SENTENCE>S radom je počela ustanova za smještaj starih i nemoćnih osoba u staroj školi Fumeti, čime je Mjesni odbor Grandići izgubio društvene prostorije koje će dobiti kada se na Svetome Pavlu pored Želiski izgradi vatrogasni dom.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staroj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5015</ID>
+    <SENTENCE>Obersnel je rekao kako je navedeno dobra vijest, dok je loša ta što Rijeka ostaje bez proizvodnog pogona, jedne od najstarijih rafinerija u ovom dijelu Europe.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>najstarijih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5099</ID>
+    <SENTENCE>Odjel za zdravstvo i socijalnu skrb raspolaže sa cca 120 milijuna kuna za obavljanje svih poslova vezanih za decentralizaciju – redovito financiranje zdravstvenih ustanova, domova za starije i nemoćne osobe, centara za socijalnu skrb i jedinica lokalne samouprave (gradova i općina) i to temeljem odluka Vlade RH o minimalnim financijskim standardima za financiranje decentraliziranih funkcija u području zdravstva i socijalne skrbi donesenih za tekuću godinu.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>183</STARTINDEX>
+    <ENDINDEX>190</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5038</ID>
+    <SENTENCE>I nastavak je Zagreb sjajno otvorio, a pogodio je Jefton (47), dok je osam minuta kasnije stari majstor Vugrinec još jednom zatresao suparničku mrežu.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.07</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5037</ID>
+    <SENTENCE>Organizatorica natjecanja Becky Chapman otkrila je stare prijavnice dok je čistila svoj ured.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stare</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5149</ID>
+    <SENTENCE>Zglobna hrskavica je kao spužva ; hranjive sastojke prima samo izmjenom tekućina – istisnemo staru da nova donese hranjive sastojke.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staru</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>93</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5079</ID>
+    <SENTENCE>Mene je djevojka sa broja 12 ranije spomenute ulice Piwske u staroj Warszawi prvi put odvela u "Želazovu volu" podno Warszawe, gdje se nedjeljom održavaju koncerti Chopinove glazbe.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staroj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5070</ID>
+    <SENTENCE>DOBIT ĆE GA: Princeza i žabac zato što se događa u starom New Orleansu (koji još leži uništen uraganom), glavni likovi su crne boje kože (kao i predsjednik), soundtrack mu je jazz (američka umjetnost) i animiran je staromodnom disneyevskom animacijom (još jedna američka umjetnost).</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5041</ID>
+    <SENTENCE>Ona na Osejavi doživjela je oštećenja, a u toj je park - šumi polomljeno oko 180 stabala, uglavnom borova starih 70 do stotinu godina.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5198</ID>
+    <SENTENCE>Muškarci se ponekad ne znaju riješiti starih prijatelja iz istog razloga zbog kojeg deset godina nose iste bokserice: iz lijenosti.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9746</ID>
+    <SENTENCE>Mario Party je igra za ekipu, igra u kojoj nikad neće pobjediti onaj tko misli da će biti pobjednik, igra koja će vas u isto vrijeme naljutiti koliko i naljutiti, igra čiji poprilično dječji humor neće otjerati starije igrače – naprotiv nasmijat će svakoga ko ima imalo smisla za humor.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>211</STARTINDEX>
+    <ENDINDEX>218</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9787</ID>
+    <SENTENCE>Organizatori su najavili i drugo izdanje festivala "Polis Jadran Europa" koji će se održati od 7. do 9. prosinca u staroj pulskoj tiskari, Circolu i Domu hrvatskih branitelja.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staroj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9767</ID>
+    <SENTENCE>U strogoj jezgri Petrinji, ima toliko neiskorištenog stambenog prostora (pogledajte samo Nazorovu ulicu) da je naprosto smijesno i krajnje neodgovorno u vrijeme globalne recesije tesko zaradjeni novac poreznih obveznika trositi na kojekakve futuristicke vizije i graditi nove stambene blokove, prije nego se adekvatno razrijese stari povijesni punktovi.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>328</STARTINDEX>
+    <ENDINDEX>333</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5142</ID>
+    <SENTENCE>Radi se o starijem muškarcu.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starijem</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5146</ID>
+    <SENTENCE>- Osjećam se istodobno i staro i mlado, osam sam godina u Svjetskom kupu, rekla je Jelušić na 23. rođendan.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>staro</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5166</ID>
+    <SENTENCE>Predsjednik HES-a Dubravko Čorak izjavio je za Hinu da se 9.250 članova HES-a neće priključiti štrajku, te da je načelo obračuna plaća u novom i starom kolektivnom ugovoru u HEP-u ostalo isto, štoviše vrijednosni bod je, kao osnovica za obračun plaće, povećan za devet posto.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>151</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9779</ID>
+    <SENTENCE>Njegovi roditelji, stari i nemoćni u zabiti nedaleko slovenske granice, živjeli su godinama sami.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5035</ID>
+    <SENTENCE>"Ima nekih sporijih pesama, ali i bržih. Sigurno ima i smiješnih pesama, ali i onih koje otkrivaju moju prošlost od prije mnogo, mnogo godina. Živjela sam u LA-u i prolazila kroz različite faze, od totalnog zaljubljuvanja u nekog frajera koji ti ne dozvoljava da mrdneš kako ne bi srela nekog starog lovatora kojem perika pada s glave" pojasnila je svoju poetiku Ke $ ha.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>293</STARTINDEX>
+    <ENDINDEX>299</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5163</ID>
+    <SENTENCE>Projekt je pokrenuo Hrvatski kuharski savez (HKD) s ciljem obrade starih, tradicijskih i autohtonih jela, prilagođenih modernijem načinu obrade, a za svojevrsno "prvo izdanje" Baština će imati po tri jela iz svih regija Hrvatske, porijeklo, kratka povijest i originalna receptura.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9709</ID>
+    <SENTENCE>Aljaski Malamut je jedan od najstarijih vucnih pasa.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>najstarijih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5001</ID>
+    <SENTENCE>Osim "Reda radi", još su tri izrazito slaba trenutka na ovom albumu: "Izvini" je bezlični pjesmičuljak gurnut između dva uvodna hita i ostavljen tu da trune, osuđen na brzi zaborav ; oda anoreksiji "Super sexy" je neuvjerljiva reciklaža starog zvuka OPO-a, uključujući Ivanin slabašan pokušaj da bude što sličnija Dragani.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>starog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>237</STARTINDEX>
+    <ENDINDEX>243</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9734</ID>
+    <SENTENCE>U nastavku vožnja kroz stari dio Muscata te dolazak do muzeja Bait Al Zubair, zaustavljanje kod palače Al Alam koja je rezidencija omanskog sultana, a predstavlja pravo arhitektonsko remek djelo.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stari</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5131</ID>
+    <SENTENCE>Te vrele zvijezde stare brže u upravo tako kako se vidi kojiput i vrlo nasilno otpuhuju energetske viškove.</SENTENCE>
+    <TARGETLEMMA>star</TARGETLEMMA>
+    <TARGETWORD>stare</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+</SET>

@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>8159</ID>
+    <SENTENCE>Bogato ilustriran priručnik koji bi trebao poslužiti kao izvor inspiracije za putnike u potrazi za sljedećom avanturom ili opuštajućim odmorom i preporučuje se svakome tko želi posjetiti nova mjesta i kulture.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1805</ID>
+    <SENTENCE>U suradnji s SMSonWeb.net display možete ukrasiti kvalitetnim slikama i sličicama, od prirodnih motiva do portreta svjetskih zvijezda ili animacijama koje vam također mogu poslužiti za čestitanje rođendana, raznih obljetnica, te ukoliko nekome na duhovit i simpatičan način želite nešto poručiti.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>172</STARTINDEX>
+    <ENDINDEX>181</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8179</ID>
+    <SENTENCE>Mnoge tvrtke koriste rezače za otpad, kako ne bi bio iskorišten u te svrhe, no vrlo često se zanemaruju manje važni dokumenti, koji strpljivim napadačima mogu poslužiti da stvore sliku o tvrtki, o navikama zaposlenika, o njihovim odnosima i slično.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>159</STARTINDEX>
+    <ENDINDEX>168</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8193</ID>
+    <SENTENCE>Površan je bio i prijatelj Bobo Novak, koji je u cijelom skandalčiću pronašao tek povod za novi, malo zbrzani i zbrdazdolni, nastavak svojeg višegodišnjeg obračuna s Krešimirom Nemecom, obračuna u kojemu je dosad redovito ("skoro desetak" puta, da se poslužim njegovim izumom) kao krunski argument spominjao moje prve dvije knjige i Nemecov ambivalentni odnos prema njima, pa se i sad time poslužio, na čemu mu nimalo ne zahvaljujem, dapače, molio bih ubuduće biti izuzetim od spominjanja u tom kontekstu.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>390</STARTINDEX>
+    <ENDINDEX>398</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8114</ID>
+    <SENTENCE>Naglasio je da su mu kao okvir za stvaranje vodiča poslužili stari bontoni.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1830</ID>
+    <SENTENCE>Primjena programčića nije ograničena i mogu nam poslužiti i za druge svrhe, primjerice za zabavu u obliku igrica, dnevnih viceva i drugih zabavnih sadržaja.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8200</ID>
+    <SENTENCE>U srpnju 1986. prodan je Kinezima za uistinu neobičnu zadaću: poslužio je kao plutajući lukobran prigodom gradnje nove luke u Shanghaiju, a nakon toga je otpremljen u staro željezo.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1950</ID>
+    <SENTENCE>U svakom slučaju, brojna rješenja, pretežno estetska, poslužit će u krojenju karoserija novih Citroëna, a postoji i mogućnost proizvodnje vrlo ograničenog broja primjeraka, namijenjenog za specifične one - make revijalne utrke.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužit</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1896</ID>
+    <SENTENCE>Špinat skuhan na pari poslužit će i za salatni preljev.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužit</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8188</ID>
+    <SENTENCE>Slijedeća, 2008. godina bi, također po sudu Baby - beefa, trebala poslužiti kao pripremni i prijelazni period na sustav poticaja po hektaru i gospodarstvu.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1932</ID>
+    <SENTENCE>Upoznavanje različitih kultura, običaja, zemalja, arhitektonskih dostignuća i svega ostaloga, idealno će poslužiti onima koji traže izvor inspiracije i za uređenje vlastitog doma.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1924</ID>
+    <SENTENCE>Imate li malo volje i vremena, uzgoj krastavaca bit će znatno lakši poslužite li se mrežom.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužite</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1826</ID>
+    <SENTENCE>Nemogućnost sagledavanja jasne razlike između označitelja i označenog može poslužiti kao dobar uvod u prostor obilježen gotovo mitskom, predjezičnom povezanosti riječi i stvari.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8148</ID>
+    <SENTENCE>To je s dobrim razlogom tako, a za što nam kao ogledni primjer može sasvim fino poslužiti ovaj naslov.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8134</ID>
+    <SENTENCE>Od komponenti koje čine prostor stvoren za vrhunski aktivni odmor u našem se krčkom odmaralištu planira sportski hotel sa stotinjak smještajnih jedinica vrhunske kategorije, koji će moći poslužiti kao pripremno mjesto dostojno najboljih svjetskih sportaša.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>187</STARTINDEX>
+    <ENDINDEX>196</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8185</ID>
+    <SENTENCE>Institut se pri ispitivanju poslužio s 20 ranijih snimaka Bin Ladenovog glasa i vjeruju da bi se na novoj snimci, koju je ovog mjeseca emitirala arapska televizija Al Jazeera, moglo raditi o oponašatelju.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1831</ID>
+    <SENTENCE>Škotska pjevačica slavnog dua Eurythmics osnovala je 2007. inicijativu SING, kojom je pozvala 23 pjevačice da snime ploču, od koje je zarada poslužila za lijekove, obrazovanje i zaštitu južnoafričkih žena i djece od AIDS-a.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>141</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8186</ID>
+    <SENTENCE>Jest zato da se vrednuje prostore i dogovori sve što će jednom poslužiti da bude zgrada u kojoj će sve, od svjetla do sjene, biti u funkciji života i u zoni estetskog.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8158</ID>
+    <SENTENCE>Uz lisnate paketiće poslužimo pirjano povrće i umak.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužimo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8102</ID>
+    <SENTENCE>On se uz plaću, koje se odrekao u korist siromašnih, 40 korizmenih dana do Uskrsa neće poslužiti ni čokoladom.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1842</ID>
+    <SENTENCE>Poslužite vruće u istoj posudi, a kao prilog zelenu salatu ili matovilac.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>Poslužite</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1995</ID>
+    <SENTENCE>Iako se na prvi dojam, odabir lokacije čini pomalo neobičan, arhitektura Westgate Shopping City centra poslužila je kao savršena inspiracija autorima Nivea Cro A Portera prvenstveno zbog svog u potpunosti još uvijek neistraženog estetskog doživljaja u svim svojim mogućnostima.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8174</ID>
+    <SENTENCE>Prema izjavi tog svjedoka, lopovi su pobjegli u mercedesu starijeg tipa, međutim, registracijske brojeve pločica koje je nastojao zapamtiti i potom ih rekao policiji (ZG 4620-AC ili ZG 6420-AC) ispostavilo se da ne pripadaju opisanom automobilu kojim su se poslužili nakon pljačke, pa se stoga pretpostavlja da su ili pločice ili vozilo ukradeni, ili pak, da je u pokušaju da učini dobro djelo, građanin krivo pročitao sadržaj registracijskih pločica.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>257</STARTINDEX>
+    <ENDINDEX>266</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1986</ID>
+    <SENTENCE>Izrežite i poslužite toplo.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužite</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1802</ID>
+    <SENTENCE>Druženje je trajalo oko četiri sata jer nas vrijeme baš i nije poslužilo, počela je padati kiša.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8130</ID>
+    <SENTENCE>Možete se poslužiti s ukopanom posudicom napunjenom pivom, sa suhom piljevinom, koju ćete prostrti oko svojih biljaka, ili ih jednostavno loviti, pomoću štapa u koji je zabijen čavao.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1902</ID>
+    <SENTENCE>A kao argument da bi se uistinu moglo raditi o nečemu nenormalnom kada je on u pitanju, poslužila im je činjenica da je posađeni krumpir na Glamočkom polju ove godine čak dva puta cvjetao.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1938</ID>
+    <SENTENCE>Jedno od dosadašnjih najvećih sputavanja biciklizma pokazalo se i dokazalo kada smo od UCI-a krajem prošle 2002. godine dobili ponudu da organiziramo "Svjetsko mountain bike maraton prvenstvo" i to niti manje niti više od onih kojima bi to trebalo poslužiti na čast, i kao promidžba Hrvatske, i Hrvatskog biciklizma, i Hrvatske sposobnosti organizacije jednog velikog biciklističkog natjecanja, i svega još ostaloga.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>248</STARTINDEX>
+    <ENDINDEX>257</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1874</ID>
+    <SENTENCE>Grubišić je Gusića istjerao iz lokala jer je pijan uznemiravao goste i vrijeđao ga nakon što mu je odbio poslužiti gemišt.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1877</ID>
+    <SENTENCE>U Večeru za 5 Ivu je prijavila prijateljica koja je došla na tu ideju zajedno s ostatkom društva nakon što ih je Iva ugostila u svom domu na proslavi useljenja i poslužila im desert s bananama, čokoladom i šlagom.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>162</STARTINDEX>
+    <ENDINDEX>171</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8161</ID>
+    <SENTENCE>Svaki jezik, na ovaj ili onaj način, može uspješno poslužiti svrsi.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1894</ID>
+    <SENTENCE>Primjer marketinškog retro rebrandinga toliko je dobar i toliko rijedak u nas da bi trebao poslužiti kao study case na ekonomskim fakultetima diljem Hrvatske.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1807</ID>
+    <SENTENCE>Možete iskoristiti pomoć tehnologije i poslužiti se pretraživačima kao što je "Google 'da biste provjerili odlomke pronađene na webu i stranicama koje nude pismene zadatke (vidjeti Evans, 2000.).</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8181</ID>
+    <SENTENCE>Konzole mogu poslužiti i kao nosači polica i skladišnih kada.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8165</ID>
+    <SENTENCE>U 18. minuti Theo Walcott je poveo kontranapad, te je poslužio Bendtnera, koji je iz drugog pokušaja loptu pospremio u mrežu.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8155</ID>
+    <SENTENCE>U tom smislu solidno mogu poslužiti i polugodišnji rezultati, a iz njih proizlazi da prodajni rezultati i zarade kompanija u prosjeku rastu više nego upola sporijim tempom od cijena dionica.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1829</ID>
+    <SENTENCE>Sve zajedno promiješamo, ugasimo plamen, dodamo ostatak ruma, još jednom promiješamo i poslužimo.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužimo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1871</ID>
+    <SENTENCE>Nakon prerade se u razvijenim zemljama od te količine posluži oko 80 napitaka, a cijena se kreće između jednog i tri dolara za šalicu.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>posluži</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>61</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1862</ID>
+    <SENTENCE>Naime, CBD ili kanabidiol može poslužiti kao uspješna alternativa kemoterapiji, a za razliku od kanabisa nema nikakve psihoaktivna svojstva tako da njegova konzumacija ne bi bila nezakonita.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1887</ID>
+    <SENTENCE>Rosanna Morabito se ne samo poslužila relevantnom literaturom o predmetu (pa i najnovijom) nego se u nju i kritički udubila, ne podliježući uvijek ni neospornim autoritetima.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8103</ID>
+    <SENTENCE>Kao inspiracija za film poslužili su mu "MASH ’ Roberta Altmana i" Animal House ’ Johna Landisa, prvi zbog svoje slobodne strukture, a drugi zbog luckastog humora.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1897</ID>
+    <SENTENCE>Letjelica bi nakon ispaljivanja iz pištolja trebala doseći visinu od 60 kilometara i poslužiti kao leteća lansirna platforma s koje bi se u orbitu ispaljivale različite vrste tereta.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1879</ID>
+    <SENTENCE>Kehoe mu je predočio izjavu jednog drugog dužnosnika međunarodne zajednice u kojoj stoji da je zgrada do policijske postaje, a radi se o školi, tijekom Oluje poslužila za smještaj 500 vojnika tzv.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>158</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1973</ID>
+    <SENTENCE>Ni Ana ne želi ostati uskraćena, priča iako nema aparat, a poslužiti će se i čitanjem sa usana (ako zatreba), kao i Matija.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1900</ID>
+    <SENTENCE>Kako je pojasnio ravnatelj, ova radionica nije namijenjena samo za edukaciju učenika nego i za obrazovanje obrtnika u toj branši, pa su se tako i brojni zadarski obrtnici tamo prvi put susreli s ovako suvremenim strojevima te se naučili njima rukovati i poslužili u izradi svojih proizvoda.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>254</STARTINDEX>
+    <ENDINDEX>263</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1928</ID>
+    <SENTENCE>Poslužiti za doručak uz toplo mlijeko ili čaj.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>Poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1994</ID>
+    <SENTENCE>To &amp; nbsp ; na prvi pogled bizarno postignuće trebalo bi poslužiti kao osnova za buduća istraživanja teških degenerativnih oboljenja poput Parkinsonove i Alzhemireove bolesti te multiple skleroze.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8191</ID>
+    <SENTENCE>Mobilni telefoni koji već danas mogu poslužiti i kao digitalne kamere, uređaji za pristup Internetu i glazbeni playeri, uskoro bi trebali dobiti i napredne televizijske funkcije.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8143</ID>
+    <SENTENCE>Postoji, ipak, jedan, koji nema takvih ograničenja (barem ne jasno zadanih), a još je uz to i besplatan, što nije manje važno, pogotovo kad treba poslužiti za procjenu vrijednosti znanstvenih časopisa koji su i sami besplatni.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8104</ID>
+    <SENTENCE>LJUBLJANA - Rješenje za slovensko - hrvatsku granicu trebalo bi biti "pravedno", kako granični prijepor u budućnosti "ne bi bio povod za međusobne prijepore" te da posluži i kao "osnova za jačanje prijateljskog suživota, suradnje i susjedstva", istaknula je u izjavi za javnost Komisija za pravednost i mir Slovenske biskupske konferencije.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>posluži</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>171</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1925</ID>
+    <SENTENCE>"Mi koji smo ćelavi ćemo poslužiti djeci kao uskrsna jaja. Pošto su djeca shvatila da imaju više mjesta za bojenje po našim glavama nego po jajima, onda ćemo im mi poslužiti kao manekeni", našalio se Drele.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>173</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1919</ID>
+    <SENTENCE>Kao temelj za stvaranje planova razvoja službe, odnosno eventualnu izradu studija o opravdanosti osnivanja novih arhiva, mogla bi poslužiti precizna vizija tipičnog, idealnog arhiva, utkana u pokušaj izrade normativa i standarda arhivske djelatnosti na nivou Republike Hrvatske 1987. godine (nije nikada realiziran do kraja) utvrđenog prema kriteriju količine gradiva smještenog u njegovim spremištima.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1996</ID>
+    <SENTENCE>Možete ih poslužiti hladne ili tople.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1895</ID>
+    <SENTENCE>Izmijenio je odluku o razvoju kapsule Orion, dijelu programa Constellation, koja bi trebala poslužiti kao "tehnološki temelj" za složenije letjelice koje će nositi astronaute izvan Zemljine orbite.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1909</ID>
+    <SENTENCE>Riječki gradonačelnik Vojko Obersnel jučer je na Aktualnom satu Gradskog vijeća objavio da je dobio pismo državnog tajnika u Ministarstvu znanosti, obrazovanja i sporta Stipe Mamića u kojem je navedeno da Vlada nije spremna dati jamstvo i sufinancirati izgradnju studentskog doma u sklopu Sveučilišnog kampusa, koji bi poslužio kao mediteransko selo za sportaše.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>319</STARTINDEX>
+    <ENDINDEX>327</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1889</ID>
+    <SENTENCE>Afera u Podravki poslužila je HUP-u da podgrije teze o državi kao lošem upravljaču i potakne prodaju državnog udjela, čemu su se zasad javno usprotivili predsjednički kandidat Nadan Vidošević, šef HNS-a Radimir Čačić te novi predsjednik NO-a Podravke Ljubo Jurčić.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1956</ID>
+    <SENTENCE>Juraj Šebalj: "Jednostavno smo morali nastupiti na Monteu. U protekle dvije godine nas je u ovo zimsko doba hvatala nostalgija na 2003. godinu, kada smo uspjeli napraviti dobar rezultat u JWRC-u. Ove godine se vozimo van sustava bodovanja, no to ne znači da nećemo dati sve od sebe. Idemo neopterećeni uživati u čarima ovog relija. Upravo zato smo uzeli automobil grupe N, sa pogonom na sva četiri kotača. Ako posluži ovakvo vrijeme, bit će veselo. U svakom slučaju nas čeka mnogo posla, jer se do relija moramo" uštimati "sa Subaruom.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>posluži</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>410</STARTINDEX>
+    <ENDINDEX>417</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1979</ID>
+    <SENTENCE>Ako imaš neki live linux (Fedora, Mint, Ubuntu) posluži se sa njima.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>posluži</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1832</ID>
+    <SENTENCE>Neću sad ovdje u detalje o razlozima ostavke, ali će mi ovo poslužiti kao uvod u ono što me uistinu muči.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8198</ID>
+    <SENTENCE>Lamelirane drvene pergole Drvene pergole poznate su konstrukcije za djelomično natkrivanje prostora i mogu poslužiti kao potkonstrukcija na koju se razvija raslinje i sl.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1855</ID>
+    <SENTENCE>Poruke i mailovi mogu unijeti romantiku u vezu, ali i poslužiti da javite koliko kasnite, no držati mobitel stalno na oku ili, još gore, svaki čas provjeravati inbox dok ste s njim na kauču ne spada u kvalitetno provedeno vrijeme.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1999</ID>
+    <SENTENCE>Redovito vježbanje i dijeta jedini su načini gubitka kilograma, ali dok čekate na rezultate odricanja možete se poslužiti optičkom varkom i izgledati mršavije isključivo pomoću pametnog odabira odjeće.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1822</ID>
+    <SENTENCE>Poznavanje mehanizma "primitivnog sakupljača" ekonomskim divovima poslužilo je da se obogate na tuđi račun.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1913</ID>
+    <SENTENCE>Za indikaciju težine akcije može poslužiti i mišljenje cijele ekipe da je objekt tehnički teži od objekata znatno veće dubine i da se u objekt spustilo osam speleologa od kojih se većina već nakon dvadesetak dana spustila 1219 m dubok Batman sistem u Austriji.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1966</ID>
+    <SENTENCE>I tako, dok je ona, nježno bockana jezikom jednog od trojice džukela, počela svršavati, on joj svuče cipelicu i posluži se njome, tamo gdje se naprijed sužava, umjesto pičke.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>posluži</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>119</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1912</ID>
+    <SENTENCE>To će nam poslužiti kao svojevrsna "uvertira" za turnir Eurolige koji nam slijedi za mjesec i pol dana, a odigrat će se u Londonu.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1985</ID>
+    <SENTENCE>Igralo se 3 X 20 minuta, utakmica je poslužila kao priprema pred zadnja dva kola lige koja se igraju slijedeću subotu u Brodu protiv RK Nexe odnosno RK Fenix (Osijek).</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1947</ID>
+    <SENTENCE>Pri postavljanju dijagnoze može poslužiti i angiografsko snimanje moždanih krvnih žila kada CT i MR nisu dostupni.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1936</ID>
+    <SENTENCE>Stević je imao vrašku sreću jer, umjesto da je psu poslužio kao večera, pao je direktno na njega te ga na licu mjesta od siline udarca usmrtio.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1971</ID>
+    <SENTENCE>Za dramski prijedložak Boban se poslužila kratkim romanom Horacea McCoya "I konje ubijaju, zar ne ?" objavljenim 1935. u SAD-u, koji je odmah privukao pozornost i čitatelja i kritičara.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1967</ID>
+    <SENTENCE>I ove godine vozit će se na istoj stazi uz svu dodatnu opremu (GSS, kibici, filozofi, statičari), a nadamo se da će i vrijeme poslužiti.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>126</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8123</ID>
+    <SENTENCE>Kao kruna svega na političku se odgovornost nadovezao izuzetno atraktivni dodatak da je posuđeni novac poslužio neimenovanoj skupini menadžera za zaobilazni otkup Podravkinih dionica preko nerezidentnog računa na Malti i varaždinske brokerske kuće FIMA.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1864</ID>
+    <SENTENCE>Pečeno pecivo spremimo u dobro zatvorenoj posudi poslužimo ga u staklenoj zdjeli.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužimo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8147</ID>
+    <SENTENCE>Poslužiti vruće uz prepržen kruh.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>Poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1828</ID>
+    <SENTENCE>Naveli su je da izradi i posluži se krivotvorenim ispravama Bosne i Hercegovine da bi ušla u RH.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>posluži</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8151</ID>
+    <SENTENCE>Ima i onih koji kažu da će slučaj Tarik poslužiti za obračun HTV-ovih šefova: Sutlića i Markote s jedne te Burića s druge strane.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8115</ID>
+    <SENTENCE>Jelo je gotovo i možemo ga poslužiti.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1981</ID>
+    <SENTENCE>Koristite li računalo za standardne uredske aplikacije i pretraživanje interneta gotovo svaki procesor će Vam sasvim pristojno poslužiti.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>136</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8160</ID>
+    <SENTENCE>S obzirom na delikatnu situaciju u kojoj se Pirate Bay nalazi, jer većinu prometa na njihovim trackerima čine ukradeni audio i video sadržaij, ovaj zahtjev ima ravno nula posto šanse da uspije, ali će poslužiti kao dobra reklama.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>201</STARTINDEX>
+    <ENDINDEX>210</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1964</ID>
+    <SENTENCE>Potom u tavu vratimo meso, dodamo sjeckani peršin promiješamo i možemo poslužiti.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1808</ID>
+    <SENTENCE>Za inspiraciju može poslužiti i isprobavanje vlasulja jer vjerno prikazuju budući stil.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1860</ID>
+    <SENTENCE>Što god da odabrali za glavno jelo, građani će, očekivano, najviše potrošiti na božićni ručak - od 90 do 150 kuna, ovisno o tome hoće li poslužiti svinjetinu, puretinu, piletinu ili janjetinu.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1820</ID>
+    <SENTENCE>Gosti ovoga hotela već su se naviknuli na obilnu ponudu prvoga dnevnog obroka, koji im se posluži kad ustanu, što obično nije rano ujutro.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>posluži</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8128</ID>
+    <SENTENCE>Vrijeme ju je većim dijelom poslužilo i najveći su joj problem bile velike vrućine i osip.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8136</ID>
+    <SENTENCE>Obnašatelj dužnosti pročelnika Odjela za kulturu Vladimir Torbica rekao je među ostalim, podsjećajući da dokument prihvaća Županijska skupština, da će on poslužiti za rad Županije u idućih pet godina.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>154</STARTINDEX>
+    <ENDINDEX>163</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1939</ID>
+    <SENTENCE>Maro Hajdarhodžić iz Mea Culpe, čiji su ugostiteljski objekti sa reklamama Coca Cole među ostalima poslužili kao ilustracija pritužbi udruge Nazbilj o lošem odnosu prema kulturnoj baštini zaštićenoj od UNESCO-a, ponudio je članovima udruge pomoć.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1898</ID>
+    <SENTENCE>Tužiteljstvo smatra da proteklo iskustvo s Gotovininim bijegom pokazuje da su jamstva hrvatske Vlade nedostatna, a da nošenje eletronske narukvice ne onemogućava bijeg, nego samo može poslužiti da se utvrdi — da je osoba pobjegla.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>184</STARTINDEX>
+    <ENDINDEX>193</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1833</ID>
+    <SENTENCE>Izoenzimi kao gen markeri mogu poslužiti za brojna istraživanja ali uz ograničenje na 20-50 % enzima ukupnog genoma koji se mogu analizirati metodom elektroforeze.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8127</ID>
+    <SENTENCE>- Ručna turpija za metal – poslužit će za rubove kućišta kao i za manje turpijanje pleksija.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužit</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1863</ID>
+    <SENTENCE>Radi se o velikoj obiteljskoj kući koja je putem Zaklade ponuđena osnivačima škole Sands da im posluži kao školska zgrada.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>posluži</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1990</ID>
+    <SENTENCE>Glavne elemente novoga pristupa koji su sjedinjeni na sceni nalazimo u Rigolettu — operi u kojoj se libretist F. M. Piave poslužio Hugoovom dramom Kralj se zabavlja da bi nakon niza problema s vlastima i cenzurom djelo konačno bilo praizvedeno u Veneciji u ožujku 1851. Dovesti na scenu dvorsku ludu koja je uz to i grbavac, zaviriti u tamne predjele ljudske sudbine natopljene strašću i poetičnom ljubavi, značilo je narugati se tradiciji i otvoriti se burama istine i žarištima svih emocija.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1945</ID>
+    <SENTENCE>Ujedno je svečanost poslužila kako bi se u obliku male izložbe predstavila bogata izdavačka djelatnost HKD Napredak.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužila</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1929</ID>
+    <SENTENCE>Ušli su unutra i poslužili se pivom ', izjavio je glasnogovornik policije David Kempas.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužili</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1850</ID>
+    <SENTENCE>Ideja profesora Colemana je da Internet na određeni način može poslužiti kao idealni alat da se te razlike premoste.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8163</ID>
+    <SENTENCE>Iz benda napominju kako se radilo o singl teaseru koji je poslužio za upoznavanje publike s imenom benda.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužio</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1854</ID>
+    <SENTENCE>U moderno vrijeme za to će poslužiti internet.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1961</ID>
+    <SENTENCE>Isušivačima će se koristiti žitelji poplavljene Ulice Šokadije, a poslužit će i u strizivojačkome naselju Soljaku, čiji su se stanovnici do sinoć borili s vodom iz Jošave. Nakon jučerašnjeg predaha od oborina, u Đakovštini od jutros pada slaba kiša.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužit</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>2000</ID>
+    <SENTENCE>Vrijeme je poslužilo hrabre bicikliste, a uz Cedevita Go napitke nitko se nije tužio na žeđ i vrućinu.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>poslužilo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1882</ID>
+    <SENTENCE>I to savršeno objašnjava zatvaranja hrvatskih branitelja, jer kome su oni uopće ikada bili potrebni, izuzev da im posluže kako bi ostali na vlasti, ali u drugom obliku ?</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>posluže</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1974</ID>
+    <SENTENCE>Poslužiti toplo i s kuglom sladoleda na vrhu.</SENTENCE>
+    <TARGETLEMMA>poslužiti</TARGETLEMMA>
+    <TARGETWORD>Poslužiti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+</SET>

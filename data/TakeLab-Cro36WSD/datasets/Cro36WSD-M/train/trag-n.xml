@@ -1,0 +1,3015 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>10163</ID>
+    <SENTENCE>U tih 10-tak godina Janis Joplin je ostavila traga u povijesti glazbe, a njezini hitovi "Get It While You Can", "Mercedes Benz", "Me And Bobby McGree" ostat će vječno upisana zlatnim slovima u svim glazbenim analizama.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5815</ID>
+    <SENTENCE>Kovačević je zaključio da nema pisanog traga da je Ćoriću oduzet automobil, niti traga da mu ga je Ljubičić dodijelio na korištenje.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5973</ID>
+    <SENTENCE>Mi vjerujemo da oni nisu nestali bez traga, već su se samo preselili k vječnom Bogu s kojim su sada sjedinjeni u ljubavi.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5811</ID>
+    <SENTENCE>"Ne mogu sa sigurnošću reći da nije postojala mogućnost da iskoristimo neke tragove koji su nas vodili do otmičara aviona", izjavio je Mueller dodajući kako nije bilo posebnog upozorenja o otmičarima ali to ne znači da nije bilo znakova koji su se mogli povezati s mogućim daljnjim događajima.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5969</ID>
+    <SENTENCE>Ti koji si bio veliki čovjek, stvaratelj i otac, za sobom si ostavio neizbrisiv trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10149</ID>
+    <SENTENCE>Nakon što je potpisao prisegu te i službeno postao trećim hrvatskim predsjednikom, Ivo Josipović održao je inauguracijski govor, a nisu ga omeli ni tragovi crvenog ruža koje mu je netom prije govora na licu ostavila supruga Tatjana.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5990</ID>
+    <SENTENCE>Uhićen je nakon što su DNK analize utvrdile tragove sperme na tijelima najmanje dvije žrtve.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5970</ID>
+    <SENTENCE>"Ništa nije ukradeno, u kući je organiziran tulum na kojem se konzumirala droga. Našli smo tragove opijata, no nigdje nema tragova provale. Sumnjamo da je netko imao ključeve kuće", stoji u policijskom izvještaju.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5956</ID>
+    <SENTENCE>Iako primarno glazbenik, John Lennon jedan je od onih ljudi koji su svoj trag ostavili u svim slojevima umjetnosti i šire.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10180</ID>
+    <SENTENCE>Karizmatični Portorikanac Ayuso tada je vukao "žute", u šest mjeseci ostavio je trag u Splitu kao da je tu igrao isto toliko godina.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5943</ID>
+    <SENTENCE>Trag na danima mode u Londonu je ostavila i hrvatska dizajnerica Đurđica Vorkapić sa svojom modnom markom Hippy Garden.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>Trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>4</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5884</ID>
+    <SENTENCE>Ne mogu reći da masti kožu, jednostavno ostavlja gusti silikonski trag koji bi na masnoj koži mogao izazvati osjećaj nelagode.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5925</ID>
+    <SENTENCE>Tragovi kočenja pokazuju da je Čolakov Ferrari nakon udara nekontrolirano vozio po travi još stotinjak metara, nakon čega se zapalio.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>Tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5974</ID>
+    <SENTENCE>Prema znanstvenim istraživanjima, tragovi te eksplozije ostat će na Kornatu minimalno 150 godina.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5941</ID>
+    <SENTENCE>Opis: Zubna pasta Omeobital sadrži gel zelene gline ; supstanciju bogatu mineralnim solima i elementima u tragovima koji djeluju kao adstrigens i tonik na zube i desni.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10193</ID>
+    <SENTENCE>Trag tog policajca vlastima je upućen samo 35 dana nakon otmice, tako da Kampusch tvrdi kako je 3061 dan od 3096 dana zatočeništva, provela zbog propusta vlasti.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>Trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>4</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5867</ID>
+    <SENTENCE>Inače je svestrana sportašica koja se bavila uspješno sa nekoliko sportova ali je najviše traga ostavila u streljaštvu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5983</ID>
+    <SENTENCE>To je jedan od glavnih poziva Crkve, život pretvarati tako liječeći, da već sada unutar našega života imamo tragove Neba.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5958</ID>
+    <SENTENCE>U pustoši u kojoj se nazire tek nekoliko napuštenih kuća i stado ovaca leš je uz makadamski put kilometar od glavne ceste u srijedu pronašla pastirica Božica Mršić, a ubrzo potom policija je blokirala cijelo područje u potrazi za tragovima zločina.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>230</STARTINDEX>
+    <ENDINDEX>239</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5813</ID>
+    <SENTENCE>Nakon deset mjeseci na Pantovčaku, predsjednik Josipović zapravo je tek zagrizao u svoj mandat i pred njim su još pune četiri godine u kojima će moći do kraja definirati kakav trag želi ostaviti u hrvatskoj politici.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>176</STARTINDEX>
+    <ENDINDEX>180</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10140</ID>
+    <SENTENCE>Ubojica je bio vrlo pedantan, pokupio je čahure i zrna, ali je izgleda ostavio još jedan trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5842</ID>
+    <SENTENCE>Trideset devet tragova niz je pustolovnih knjiga iz multimedijskog projekta koji obuhvaća čitanje, igranje online i skupljanje igraćih karata.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5953</ID>
+    <SENTENCE>Stoga su u OTC-u odlučili da je jednostavnije svim građanima ukinuti pravo na anonimni telefonski broj, te tako pokušati ući u trag traženim kriminalcima i mafijašima.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5832</ID>
+    <SENTENCE>S obzirom na rane i ozljede na stopalima, pretpostavlja se kako je pred policijom bježao bos što je najvjerojatnije učinio kako bi sakrio tragove svoga kretanja.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>145</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5874</ID>
+    <SENTENCE>Burne zabave, pušenje, alkohol i kokain ostavljaju tragove na licu Kate Moss, što je britanske dermatologe potaknulo da manekenki upute javni apel neka pođe na rehabilitaciju.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5908</ID>
+    <SENTENCE>Pouzdani trag koji su ostavljali za sobom bilo je, kao i prethodnih godina, brašno, kojim su prekrili prolaze poznatog šoping - centra, ZET-ove tramvaje i autobuse, a našlo ga se i u lobiju luksuznog hotela na Zrinjevcu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>13</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5890</ID>
+    <SENTENCE>Ekipa zadarskog GSS-a u ovom se trenutku nalazi na oko 1 kilometar od Vagana, javili su se i kažu kako ništa nisu vidjeli, nema nikakvih tragova, a vrhovi Velebita prekriveni su oblacima.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>137</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5949</ID>
+    <SENTENCE>Jedan od najuglednijih sportskih dnevnika na svijetu talijanska "La Gazzetta dello Sport" objavila je u petak listu sportaša i ekipa koji su obilježili 2010. godinu, a među deset sportašica koje su ostavile poseban trag nalazi se i najbolja atletičarka svijeta Blanka Vlašić.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>215</STARTINDEX>
+    <ENDINDEX>219</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5928</ID>
+    <SENTENCE>Stojaković je prije dolaska u NBA ligu igrao u Crvenoj zvezdi i PAOK-u, a najveći je trag ostavio u Sacramentu čiji je čaln bio od 1998. do 2006. Kratko je vrijeme igrao i za Indianu, a posljednje je četiri sezone proveo u Hornetsima.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5887</ID>
+    <SENTENCE>"Nije snijeg pao da pokrije brijeg, nego da se pokažu različiti tragovi", poručila je Kosor.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10122</ID>
+    <SENTENCE>"Malo je ljudi ikada ostavilo veći trag u State Departmentu ili u našoj zemlji.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5843</ID>
+    <SENTENCE>Iako na studentici nije bilo tragova silovanja, policija je sumnjala da se ono dogodilo.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5864</ID>
+    <SENTENCE>Tragovi su pronađeni u stijenama područja poznatog kao Nili Fossae koje je trebalo biti mjesto slijetanja misije Mars Science Laboratory (MSL) 2012. godine.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>Tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10165</ID>
+    <SENTENCE>Hrvatska službeno priznaje da je u srbijanskim logorima bilo zatočeno 8.000 hrvatskih građana, dok je, prema evidenciji Hrvatskog društva logoraša, ta brojka veća od 30.000. Prema službenim podacima, 300 logoraša ubijeno je u zatočeništvu, dok Društvo logoraša procjenjuje da je najmanje 3.000 njih u logoru usmrćeno ili im se tamo gubi svaki trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>343</STARTINDEX>
+    <ENDINDEX>347</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5873</ID>
+    <SENTENCE>Naš predsjednik Stanko Mazor nažalost umro je 15.03.2006. godine u svojoj 56. godini života, a iza sebe osim stvaralačkog rada, ostavio je neizbrisiv trag humanosti.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5893</ID>
+    <SENTENCE>Isti problem se može osjetiti i u ovom albumu iako u tragovima.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10167</ID>
+    <SENTENCE>Tako su poslije drugog sv. rata oni što su bili krivi na božjoj pravdi prijavljivali susjeda ili čak i rodbinu samo da bi svoj trag zameo.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10199</ID>
+    <SENTENCE>O tom utvrđuje sud, uzimajući iskaz policijskih djelatnika o procedurama i postupcima izuzimanja tragova.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10168</ID>
+    <SENTENCE>Svjetski broj 1 je na dobrom tragu da uhvati pravu formu za završnicu Mastersa u Monte Carlu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5998</ID>
+    <SENTENCE>Najstariji su tragovi života pronađeni u Čakovcu Oštarijskom i potječu iz neolitika, mlađega kamenog doba, u kome je kamen, uz drvo i kosti bio najvažniji materijal od kojeg su se izrađivali uporabni predmeti potrebni za svakodnevni život.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10186</ID>
+    <SENTENCE>Nigdje na njenom tijelu nisu nađeni tragovi novih zloćudnih bolesti.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5971</ID>
+    <SENTENCE>"Nestala bez traga", adaptacija romana Dennisa Lehanea, proslavljenog nakon što je Clint Eastwood adaptirao njegov roman "Mistična rijeka", ogledan je primjer presudne važnosti umijeća i umjetnosti filmske režije u dosezanju konačne kvalitativne razine djela.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5846</ID>
+    <SENTENCE>I: kalcij i magnezij su neophodni za ljudsko zdravlje ; što je voda tvrđa, to je bolja opskrba s tim elementima u tragovima preko pitke vode.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5820</ID>
+    <SENTENCE>Uklopivši duhovne postavke "Tajne" (svjetskog hita Rhonde Byrne) u katolički svjetonazor, autor termin "Mojsijev kod" u knjizi koristi kao sinonim za najmoćniji instrument kreiranja stvarnosti koji u sebi objedinjuje istinsku funkciju i praksu Zakona privlačnosti, smatrajući da tu uparavo na tom tragu izvedena neka od najvećih čuda u povijesti (počevši od Mojsija prije gotovo 350 godina), ali je nakon toga skriven i njime su se smjeli koristiti samo oni koji su mogli pristupiti inicijaciji najvišeg stupnja.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>297</STARTINDEX>
+    <ENDINDEX>302</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10129</ID>
+    <SENTENCE>Ostaci tragova biljaka na platnu poklapaju se sa sjemenkama tog podneblja, miomirisi i ulja koja su koristili u tom vremenu za pokop, čak i krvnu grupu su odredili po tragovima krvi, mnoštvo toga, ali ono što je najzanimljivije, barem meni, jest kad je znanstvenik rekao da je platno prekriveno tragovima kao da je spaljeno, ali da to nisu tragovi koji nastaju plamenom ili vatrom već nuklearnom eksplozijom i da nemaju objašnjenje kao je došlo do toga na platnu starom 2000 god., osim da je takvo što moglo nastati, kako on sam kaže - neprirodnim i neobjašnjivim putem, a to bi bilo uskrsnuće tijela o kojem kršćanstvo i propovijeda.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>295</STARTINDEX>
+    <ENDINDEX>304</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5945</ID>
+    <SENTENCE>Pao mi je zajedno s hlačama, bio je u đžepu, sa vješalice i dobio tragove.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10139</ID>
+    <SENTENCE>U njegovom tijelu pronađeni su tragovi zabranjenog steroida "norandrosterona".</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5992</ID>
+    <SENTENCE>Kapetan Širokog Šime Špralja je u Zadru također ostavio dubok trag na početku karijere.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5853</ID>
+    <SENTENCE>Oni su, po dosadašnjim policijskim saznanjima, ubijeni, a požar je zatim podmetnut paljenjem pokućstva zbog prikrivanja tragova.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10198</ID>
+    <SENTENCE>Protiv alkoholizma sam svakako i isto tako sam daleko, daleko od alkohola, a kamoli od alkoholizma i prije bih da se ukine i zabrani pijenje alkohola na javnome mjestu nego pušenje, jer alkohol je uništio, razorio i ostavio više tragova na obiteljima nego li cigareta.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>229</STARTINDEX>
+    <ENDINDEX>236</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10153</ID>
+    <SENTENCE>Bilježnica je pronađena u okviru policijsko - pravosudne akcije koju su srpske vlasti provele sa ciljem pronalaženja bilo kakvih tragova ili dokaza koji bi mogli navesti na trag koji vodi do odbjeglog Mladića.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>173</STARTINDEX>
+    <ENDINDEX>177</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5859</ID>
+    <SENTENCE>Danas na mjestu nekadašnjeg Borićevca nema nikakvih tragova.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.02</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5977</ID>
+    <SENTENCE>Nakon 21 godine profesionalne karijere, Oliver Rolf Kahn okončao je veliku nogometnu i vratarsku priču spektakularnom oproštajnom utakmicom između dvije institucije u kojima je ostavio neizbrisivi trag – Bayerna i njemačke reprezentacije u kojoj je, ovom prilikom, od Bayernovih igrača igrao samo Schweinsteiger.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>197</STARTINDEX>
+    <ENDINDEX>201</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5951</ID>
+    <SENTENCE>Oni moraju osjetiti da su jako važni, ali na fin, profesionalni način i trebaš im dati do znanja da ostavljaju traga.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10166</ID>
+    <SENTENCE>Nadalje utvrđuje da je standardna trajnost tragova uzrokovanih parom do dvije minute, a da je mogući uzročnik trajnijih tragova područja zasićena ledenim kristalima, pa se navodi da maksimalno područje, s takvim uvjetima može biti veliko do 150 km, dok je Johnson dokumentirao trag koji je dug 364 km.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10160</ID>
+    <SENTENCE>To je na tragu rušenja Vlade i vladajuće koalicije, i svakako urušavanja HDZ-a !</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5822</ID>
+    <SENTENCE>Postoje načini da se počiniteljima uđe u trag ', objašnjava Vidaković.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5896</ID>
+    <SENTENCE>Kad već pričamo o razgovorima, moramo naglasiti da su neka pitanja i odgovori totalno promašeni i nemaju veze sa apsolutno ničim logičnim, ali da bi uhvatili neki trag, igrači će zasigurno pokušavati naći skriveno značenje iza jasne rečenice koja primjerice priča o vremenu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>163</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10110</ID>
+    <SENTENCE>Tragovi toga su nađeni tek kad je u Švicarskoj državna tužiteljica Carla del Ponte prihvatila zahtjeve svoga milanskog kolege Antonija Di Pietra i ishodila da se skine bankarska tajna s računa koje su advokati imali u Ticinu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>Tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10169</ID>
+    <SENTENCE>I taman su svi bili nekako euforični da će "stvari krenuti naprijed", no od Arhangela do ove godine nije bilo ni traga ni glasa.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>113</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5862</ID>
+    <SENTENCE>"Iako su Sisak u posljednjih nekoliko desetljeća pogodile neke neprilike, koje su ostavile traga na gospodarskoj slici, smatramo da grad ima velikog neiskorištenog potencijala i zato najavljujemo daljnje širenje suradnje i pokretanje novih razvojnih projekata. Ističemo našu spremnost da se uključimo i u projekte vezane uz grad Sisak i njegove građane. Hypo Alpe-Adria banka tako ove godine sponzorira Sisački viteški turnir, prepoznavši ga kao najznačajniju manifestaciju u Sisačko - moslavačkoj županiji", rekao je Starčević.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5823</ID>
+    <SENTENCE>Niti psi tragači nisu lopovima uspjeli ući u trag, a istraga se nastavlja.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5939</ID>
+    <SENTENCE>Otkrića dvojice privatnih detektiva u tisku navela su lovce na trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5900</ID>
+    <SENTENCE>Površina je izbrušena "mat" (bez sjaja) i tragova, lagana za pranje i održavanje higijene.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5994</ID>
+    <SENTENCE>Atraktivna manekenka Vedrana Linardić priznaje da se voli sunčati i kupati u skrivenim uvalicama jer se tad može skinuti u toples, pa joj ne ostaju tragovi kupaćeg kostima na koži.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5860</ID>
+    <SENTENCE>Ne bi trebao ostati nijedan segment gospodarskog života izvan poreznog sustava i tu dolazimo na trag jedinstvenoj, ali znatno nižoj poreznoj stopi.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10114</ID>
+    <SENTENCE>Sutradan je mamac nestao, a pauku ni traga.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10195</ID>
+    <SENTENCE>U tom smislu, u pravu su oni koji s gnušanjem odbacuju desničarske nacionalističke bljezgarije, ali istodobno, suočeni s na brzu ruku obnovljenim nekritičkim adoracijama navodno simpatičnog komunizma s likom J. B. Tita, upozoravaju da je i u antifašističkom žitu bilo totalitarističkog kukolja i da su iza takvih ostajali tragovi smrti i žrtve s jednakim pravom na javni spomen u nazivlju ulica !</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>322</STARTINDEX>
+    <ENDINDEX>329</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10101</ID>
+    <SENTENCE>Sajam, koji se ove godine održao pod nazivom "Ostavi trag", u srpsku prijestolnicu doveo je neke od najpoznatijih proizvođača seksualnih pomagala, distributere, medije, producente i izvođače iz sfere erotike.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5869</ID>
+    <SENTENCE>Čisti sumpor, primjerice onaj oko vulkanskih kratera, može biti iznimno toksičan no u tragovima unesen u hrani ili termalnim vodama pomaže u liječenju infekcije bronhija, kroničnog laringitisa, rinitisa, kožnih osipa, astme te štiti protiv alergije.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10108</ID>
+    <SENTENCE>Bilo osvajač, seljak ili umjetnik - svak od njih ostavio je trag svog doba.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5995</ID>
+    <SENTENCE>Tom izjavom pokušala je navesti policiju na krivi trag, međutim, istražitelji su vrlo brzo shvatili da priča ne pije vodu i da je osim nje, batina dobila i njezina 17-godišnja prijateljica.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5987</ID>
+    <SENTENCE>Još uvijek se tamo vide tragovi života.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5972</ID>
+    <SENTENCE>Kod nas su tragovi te vrste genetske modifikacije još uvijek na popisu dozvoljenih u namirnicama ukoliko ne prelaze 0,9 posto proizvoda što se smatra tehnološkom kontaminacijom.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10131</ID>
+    <SENTENCE>Prema informacijama kojima raspolaže Večernji list, tijekom iznošenja Petkovićevog tijela iz kuće, na prstima su mu bili vidljivi tragovi tinte koja se koristi za uzimanje otisaka.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5906</ID>
+    <SENTENCE>OBDUKCIJA je pokazala kako na tijelu 32-godišnjeg Ilije Medića, koje je 1. veljače pronađeno u rijeci Cetini, nema tragova nasilne smrti te kako se nesretni muškarac najvjerojatnije utopio, izvijestila je PU šibensko - kninska.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10175</ID>
+    <SENTENCE>U travnju i svibnju su planirani i izleti na Obzovu (otok Krk) te Japetić – tragom prvog izleta Hrvatskog planinarskog društva, te sudjelovanje na pohodu Long Walk Day u organizaciji PD-a "Skitači" iz Labina, međutim, zbog iznimno lošeg vremena koje nas je pratilo ovog proljeća, spomenuti izleti nisu realizirani.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5833</ID>
+    <SENTENCE>Thomas će 14. kolovoza naići na koban trag, istrgnutu stranicu dnevnika na kojoj piše 15. kolovoza.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5834</ID>
+    <SENTENCE>Na popisu zatočenih i nestalih osoba iz Domovinskog rata nalazi se još 487 hrvatskih branitelja i civila s područja Vukovarsko - srijemske županije od kojih se većini svaki trag gubi upravo u ratnom Vukovaru.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>173</STARTINDEX>
+    <ENDINDEX>177</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5936</ID>
+    <SENTENCE>Na suvozačevu sjedalu ostali su i tragovi kože.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5993</ID>
+    <SENTENCE>Verdi se oprašta od napudrane tradicije i traga za stvarnim čovjekom, njega zanima unutrašnji čovjekov svijet, njegov psihički laboratorij koji je ugrožen zlom, sukobima i dubokim emotivnim potresima.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10111</ID>
+    <SENTENCE>Odvjetnik Marko Marinović i suprug Ingrid Antičević Marinović, najpoznatiji zbog skandala s njegovom nekadašnjom branjenicom Anom Magaš, tvrdi da je NLO ostavio trag na njegovom imanju u Smilčiću.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>161</STARTINDEX>
+    <ENDINDEX>165</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5916</ID>
+    <SENTENCE>Policija je obišla fakultet, no na sreću, bombi nije bilo ni traga.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5978</ID>
+    <SENTENCE>No, policajci su vrlo brzo osumnjičenom ušli u trag te ga uhitili.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5850</ID>
+    <SENTENCE>No, gotovo je sigurno kako su odlični nastupi hrvatskog reprezentativca ove sezone ostavili traga i sve češće utakmice Portsmoutha posjećuju agenti baš s nakanom da vide na djelu Niku Kranjčara.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5976</ID>
+    <SENTENCE>Od njih niti traga, niti glasa, a poštar je neki dan već donio i račun za travanj na kojem je uredno zaračunata kamata jer račun za ožujak nije plaćen u njihovom roku.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5821</ID>
+    <SENTENCE>On je ostavio dubok trag u vraćanju Hrvatske sa svih mogućih stranputica na pravi kolosijek.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5831</ID>
+    <SENTENCE>Na njihovu je tragu nastala posljednja tradicionalna gramatika hrvatskoga jezika Gramatika hrvatskoga ili srpskoga jezika autora Ivana Brabeca, Mate Hraste i Sretena Živkovića.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5903</ID>
+    <SENTENCE>Povucite je i ostavite traga na svoju okolinu !</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5848</ID>
+    <SENTENCE>Treći dio duše koja je stvarala "Lirske balade" ostao je u sjeni, no može ga se naći na stranicama Grasmerskog dnevnika – bar u tragovima.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5930</ID>
+    <SENTENCE>Neymar je takav, a već je počeo ostavljati trag i u nacionalnoj momčadi.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10157</ID>
+    <SENTENCE>Imamo primjera gdje su tvrtke nositelji te nagrade i nisu se ponašale u skladu s time, upozorio je Motušić želeći više optimizma na tržištu, te dogodine znatno veću konkurenciju za nagradu nego u 2008., gledajući na sadašnju krizu koja je ostavila traga.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>248</STARTINDEX>
+    <ENDINDEX>253</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5828</ID>
+    <SENTENCE>Istovremeno je prednji trag kotača proširen za 4 mm, a stražnjih za 2 mm.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10138</ID>
+    <SENTENCE>Tvrtke iz sektora robe široke potrošnje brojčano dominiraju na listi, a ostvarile su i najveći prihod od prodaje (udjel od 35 posto u prihodima 100 vodećih tvrtki), pokazujući time otpornost tog sektora na recesiju koja je prošle godine ostavila svoj trag u regiji.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>251</STARTINDEX>
+    <ENDINDEX>255</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10143</ID>
+    <SENTENCE>Dodao je da su već izuzeti neki tragovi te da predstoji izuzimanje mikrotragova iz pronađenog automobila, koji su pljačkaši ukrali vlasniku prije mjesec dana.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5855</ID>
+    <SENTENCE>4. Usvojiti i aktivno provoditi Nacionalni program izgradnje mira na tragu već usuglašene Platforme za izgradnju mira koje su u Vukovaru u prosincu 2005. podržale lokalne vlasti iz različitih poslijeratnih regija i organizacije civilnog društva.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5997</ID>
+    <SENTENCE>Žanko se nije pojavio na posljednje tri rasprave i unatoč tome što je sudac dva puta naložio policijsko privođenje njemu se jednostavno ne može ući u trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>154</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5913</ID>
+    <SENTENCE>"Od svojih početaka u zadarskome Kazalištu lutaka do danas, inovativnim i kreativnim redateljskim pristupom, promišljajući i pomičući granice lutkarstva, ostavili ste trajan trag u dugom razdoblju razvoja hrvatskoga lutkarskoga stvaralaštva", napominje ministar na početku čestitke.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>174</STARTINDEX>
+    <ENDINDEX>178</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5818</ID>
+    <SENTENCE>Ukratko, vi ste umirovljeni policajac koji pokušava pronaći bivšeg kolegu, te vas tragovi vode u hotel gdje se sama priča odvija.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10164</ID>
+    <SENTENCE>U jednu riječ, drama nije bila izvedena, Kamov je za koji mjesec umro, brat Vladimir predao rukopis Čerini, ovaj pak u ratnim godinama Krleži, i otada mu se gubi trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>162</STARTINDEX>
+    <ENDINDEX>166</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10109</ID>
+    <SENTENCE>Kako prenosi britanski Daily Mail, uzorci su skupljeni tijekom dana s automobila u krugu sveučilišta, a analiza je pokazala da prašina i pepeo sadrže tragove silikona, kisika, kalcija, aluminija i natrija, odnosno elemenata koji sačinjavaju vulkansku tvar.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>150</STARTINDEX>
+    <ENDINDEX>157</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5954</ID>
+    <SENTENCE>Na istom tragu je bila i nekadašnja prva dama SAD-a, a danas senatorica Hillary Rodham Clinton, koja je kazala da, unatoč anketi koja pokazuje da tek 59 posto žitelja New Yorka želi Igre, entuzijazam ponekad ne valja mjeriti brojkama, te da će New York kao konglomerat svih mogućih naroda i rasa s oduševljenjem dočekati i sportaše iz najmanje države.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10189</ID>
+    <SENTENCE>U prilog mu je išla kvalitetna izrada i atraktivan dizajn, a model 89 upravo je na tom tragu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>87</STARTINDEX>
+    <ENDINDEX>92</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10158</ID>
+    <SENTENCE>Jedna osoba uspjela je pobjeći te se za njom traga.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10177</ID>
+    <SENTENCE>Tragom svega navedenog odbacujemo sve insinuacije o štetnosti naše tvornice na zdravlje ljudi i okoliš.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>Tragom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10197</ID>
+    <SENTENCE>Iako su mu bili na tragu i raspolagali s velikim brojem informacija o okolnostima događaja, predao se sam.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5877</ID>
+    <SENTENCE>Kosor je dodala da je sve što Hrvatska čini na tragu dobrosusjedskih odnosa i u interesu ulaska Hrvatske i regije u Uniju.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10151</ID>
+    <SENTENCE>S druge strane, prva pravomoćna presuda za pranje novca je ona koja je donesena u Splitu prije desetak godina u slučaju Kalebić gdje je tužitelj bio Mladen Bajić, a tada je pranje novca dokazano upravo kroz nesramjer legalne zarade i vrijednosti imovine. Legalizacija novca stečenog kriminalom zametanjem tragova njegovog kriminalnog porijekla često se prakticira ulaganjima u vrijedne pokretnine: zlato, umjetnine i satove.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>305</STARTINDEX>
+    <ENDINDEX>312</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5810</ID>
+    <SENTENCE>- Imao je lakši moždani udar, koji nije ostavio nikakav trag na njemu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10127</ID>
+    <SENTENCE>Žena je, u ne tako davnoj prošlosti, u medijima bila uglavnom pokazivana na dva načina: ili kao majka i domaćica uz koju nije bila vezana seksualnost ni u tragovima ili kao seksi zavodnica koja mami i privlači muškarca i nudi mu putenost i užitak.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>155</STARTINDEX>
+    <ENDINDEX>164</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10144</ID>
+    <SENTENCE>Istinabog, novinarka je na rukama imala tragove tobožnjih uboda iglom, dakako, tek pažljivo nacrtane, no to je samo još jedan od dokaza "lakoće na takujinu" kod naših sugrađana, ali i nekolicine stranaca koje smo presreli.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5889</ID>
+    <SENTENCE>Koordinator lokalne ispostave Svjetskog fonda za zaštitu prirode (WWF) kaže da je od forenzičara čuo kako svi tragovi na cesti upućuju da je nepoznati kamiondžija tigricu pregazio namjerno.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5926</ID>
+    <SENTENCE>Vrijeme tih zimskih mjeseci ostavilo je, podsjetimo, velikog traga na maslinama, njihovom deblu i krošnjama.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5840</ID>
+    <SENTENCE>Jedan od internet portala koji isključivo donose vijesti o škotskom ligašu Celticu navodi da je tamošnji klub na Sharbinijevom tragu već neko vrijeme, ali upozoravaju da se Celtic vjerojatno neće moći nositi s jačim ponudama drugih klubova bačenih pred igrača koji je ponekad bio i na širem popisu hrvatskog izbornika Slavena Bilića, kao i član mlade hrvatske nogometne reprezentacije.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5868</ID>
+    <SENTENCE>Je li postojao tajni dogovor Miloševića i Tuđmana o "humanom preseljenju" stanovništva, pitanje je na koje danas može odgovoriti jedino Milošević, ili eventualni pisani tragovi, ako su ih za sobom ostavili, odnosno posvjedočili njihovi najbliži suradnici, no tek ako raspolažu i vjerodostojnom dokumentacijom koja bi takav plan potvrdila.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>169</STARTINDEX>
+    <ENDINDEX>176</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5910</ID>
+    <SENTENCE>Taj je biološki trag poslan na vještačenje u Centar za kriminalističko vještačenje "Ivan Vučetić" u Zagrebu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10142</ID>
+    <SENTENCE>SPLIT - U nastavku istrage nad dvojicom maloljetnika osumnjičenih za okrutno ubojstvo Stipe Dajaka (67) krajem prošlog mjeseca u njegovoj kući u Dućama saslušan je niz svjedoka među kojima i njihovi roditelji te prijatelj koji je policiji dao presudni trag za uhićenje.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>252</STARTINDEX>
+    <ENDINDEX>256</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5899</ID>
+    <SENTENCE>Ukazujući nam na put do nepromjenjive slobode i sreće, ova neprocjenjiva knjiga ostavit će duboki trag u našem životu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5966</ID>
+    <SENTENCE>Na tragu nedavno održane Druge europske konferencije o influenci (gripa), koja se početkom rujna odvijala na Malti, razgovarali smo s ravnateljem Hrvatskog zavoda za javno zdravstvo, prim. dr.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>3</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5917</ID>
+    <SENTENCE>Fehir, bivši pripadnik I. osječke bojne kojom je 1991. zapovjedao Glavaš, ranije je javno priznao da je pucao u zarobljenika i svjedočio o navodnoj Glavaševoj umiješanosti u zločine protiv civila. Glavaša se sumnjiči da je odgovoran za zlostavljanje troje srpskih civila te ubojstvo dvojice, od kojih se jednom gubi svaki trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>322</STARTINDEX>
+    <ENDINDEX>326</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5931</ID>
+    <SENTENCE>Upravo stoga jedan od gena, USP 25, koji smo mi do sada otkrili, nudi novi trag koji treba slijediti u istraživanju.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5965</ID>
+    <SENTENCE>Uz ostalo, Tužiteljstvo u Zenici optužuje Mehmedbašića i Muranovića da su jedan kontingent pomoći u medicinskoj opremi, dobiven od SAD-a, u kojem su bili EKG aparati i sterilizatori vrijedni 20.000 KM, te druga razna roba vrijedna oko 40.000 KM, preusmjerili za sada nepoznatom korisniku, jer se ovoj vrijednoj donaciji izgubio svaki trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>334</STARTINDEX>
+    <ENDINDEX>338</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5872</ID>
+    <SENTENCE>Bijelom Božiću zameo se trag, no blagdanskom raspoloženju malo tko je uspio pobjeći.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10194</ID>
+    <SENTENCE>Da su i žene itekako ostavile traga u klapskoj glazbi potvrdio je ženski duo Nataša i Marina, otpjevavši "Prid oltaron kleči diva", stari napjev sa Šolte koji "svjedoči o tome kakvu snagu i ljepotu daje topla i iskrena riječ naših baka ispjevana čistom dalmatinskom tercom".</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5921</ID>
+    <SENTENCE>Samo uklonite svaki trag prijašnjih dokaza, da ne poveže miris izmeta sa obavljanjem nužde u kući i za svaki slučaj upotrijebite deodorant.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5838</ID>
+    <SENTENCE>Tragom velike posjećenosti iz dijaspore Hrvatska matica iseljenika objavila je članak o našoj malo internet stranici.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>Tragom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5888</ID>
+    <SENTENCE>Napadač je pobjegao, no policija ga je uspjela identificirati i intenzivno traga za njim.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10107</ID>
+    <SENTENCE>Shank je na sasvim dobrom tragu tih naslova, no prilagođen sadašnjem vremenu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5886</ID>
+    <SENTENCE>"Velimir je svojim znanjem i iskustvom, ali i osobnošću, ostavio neizbrisiv trag u hrvatskoj rukometnoj obitelji, ali i hrvatskom sportu", piše u izrazu sućuti Hrvatskog olimpijskog odbora Kljunovoj obitelji.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5866</ID>
+    <SENTENCE>Prvi pisani trag koji spominje sanjkanje na Plešivici vraća nas u daleku 1907. što je bio i povod odabira imena, za sada jedinog registriranog sanjkaškog kluba "Plešivica 1907".</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5849</ID>
+    <SENTENCE>Još i danas su dobro vidljivi tragovi staroga toka rijeke Dobre koja se kretala u dva kraka ogulinskim poljem: jedan prema sjeverozapadu u područje Stelnice, a drugi sjeveroistočno u područje zvano Obruč.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5920</ID>
+    <SENTENCE>Idući trag nalazi se na poleđini albuma.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>6</STARTINDEX>
+    <ENDINDEX>10</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5883</ID>
+    <SENTENCE>On nam ujedno obnavljka stare i drage uspomene, koje su u našim srcima ostavile neizbrisivi trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5934</ID>
+    <SENTENCE>Rezultat revizije od proteklog vikenda trebao bi pokazati hoće li država iz vlastitih zaliha poljoprivrednim proivođačima moći nadoknaditi pšenicu koja je bez traga nestala iz silosa tvrtke "Đakovština".</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>159</STARTINDEX>
+    <ENDINDEX>164</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10130</ID>
+    <SENTENCE>Akcija tijekom zime 2007/08 je provedena u većini lovišta i zaštićenih područja u Primorsko - goranskoj, Ličko - senjskoj i Karlovačkoj županiji (gdje zimi ima snijega) tijekom čega je nađeno ukupno 138 znakova prisutnosti velikih zvijeri - 103 traga vuka, 29 tragova medvjeda i 6 traga risa.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>281</STARTINDEX>
+    <ENDINDEX>286</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5909</ID>
+    <SENTENCE>Policija je pored mjesta ubojstva našla rukavice, a jedan od privedenih imao je tragove krvi na odjeći.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5863</ID>
+    <SENTENCE>Podsjetimo, 8. veljače pjevač je fizički napao svoju djevojku i nanio joj teže tjelesne ozljede zbog kojih je Rihanna navodno morala otići i na estetski zahvat kako bi uklonila tragove ozljeda.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>177</STARTINDEX>
+    <ENDINDEX>184</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10156</ID>
+    <SENTENCE>Svatko u sebi vidi trag ove prisutnosti Duha koji sve mijenja.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10102</ID>
+    <SENTENCE>Ono što se u prošlosti smatralo nadgrobnim kamenom pa su ljudi pomalo i zazirali od mjesta koje je, po njima, prekrivalo nečiji grob, vremenom se očuvanom spomen pločom s crkve Sv. Stjepana, danas smatra živim tragom naše povijesti.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>210</STARTINDEX>
+    <ENDINDEX>216</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5825</ID>
+    <SENTENCE>Iako za sobom ne ostavljaju nikakve vidljive tragove, upućeni mogu biti sigurni da će, nanese li ih kojim slučajem put u to isto područje i sljedeće godine, tamo zateći identičan prizor.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5829</ID>
+    <SENTENCE>Uz poziv predstavnici su primili popis planinarskih putova na Medvednici (96) za koje je društvo zaduženo, GPS trag na karti s brojem za glavni put, a spojni putovi se su označeni brojkom i slovom, sukladno zaključku KPP od 20.10.2008. g. Dogovoreno je koji put će se dalje održavati, što treba ukinuti, te da se stvarno stanje na terenu uskladi s podacima KPP-e.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10183</ID>
+    <SENTENCE>Na istom tragu neodređenosti bili su i iz RTL-a: 'RTL Televizija priprema treću sezonu najpopularnijeg glazbenog showa Hrvatska traži zvijezdu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5801</ID>
+    <SENTENCE>Stvarne boje, forme, odrazi, tragovi i sjene pretočeni su u novu stvarnost različitu od slika svakodnevnog okružja i življenja.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5912</ID>
+    <SENTENCE>Upravo na tragu ozdravljenja juniorskog i kadetskog šaha donijeta je odluka da sve prvoligaške i drugoligaške ekipe moraju imati kadetsku ili juniorsku ekipu od 2009. godine.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10159</ID>
+    <SENTENCE>A Toše je na zemlji ostavio neizbrisiv trag koji se krije u svim srcima koji su ga imalo znali ili slušali njegove pjesme.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10112</ID>
+    <SENTENCE>Ako možemo - dati im potporu, ako je nisu zaslužili - reći im to u lice i na ljudski, dostojanstven način, jer su, u najmanju ruku, toliko zaslužili od nas navijača svojim neizbrisivim tragom u dresu našeg voljenog kluba.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragom</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>185</STARTINDEX>
+    <ENDINDEX>191</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10181</ID>
+    <SENTENCE>Splitski dnevnik piše da su se povijesti bolesti u ovim medicinskim dokumentacijama pozivale na otpusna pisma iz pojedinih bolničkih ustanova, dok USKOK-ovi istražitelji u bolnicama nisu pronašli nikakve tragove o njihovu tretmanu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>204</STARTINDEX>
+    <ENDINDEX>211</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5870</ID>
+    <SENTENCE>Kelp je bogat izvor niza minerala i elemenata u tragovima, uključujući i jod - čiji nedostatak može dovesti do slabog rada štitnjače.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10161</ID>
+    <SENTENCE>Zamislite gradove koje pokreću obnovljivi izvori energije, a smeća i automobila nema ni u tragovima.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5975</ID>
+    <SENTENCE>Za negativne ili neutralne kritike vrijedi praksa dekontekstualizacije kojoj treba sakriti svaki mogući trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5824</ID>
+    <SENTENCE>Stručnjaci su u mlijeku u prahu marke Sanlu pronašli tragove melamina koji može prouzročiti nastanak bubrežnih kamenaca, izvijestilo je u četvrtak kinesko ministarstvo zdravstva.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10170</ID>
+    <SENTENCE>Na tragu toga, Markovina upozorava da brodogradilišta posluju s gubitkom, dok njihovi kooperanti bilježe - dobitke.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>3</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5879</ID>
+    <SENTENCE>Na tragu takvih razmišljanja Dryzek i Goodin objašnjavaju mogućnost ali i nedovoljnost spontanog altruizma, te važnost sustavno organizirane javne pomoći.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>3</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5960</ID>
+    <SENTENCE>Policija je izvjestila da na tijelima nisu pronađeni tragovi nasilne smrti, te je isključeno da se radi o ubojstvu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10136</ID>
+    <SENTENCE>Brojni ovogodišnji zdravstveni problemi očito su ostavili traga na najboljem hrvatskom plivaču koji je ostao sekundu i 17 stotinki iza svoga i nacionalnog rekorda, istina isplivanog u danas zabranjenim odijelima.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5961</ID>
+    <SENTENCE>Mladićev "belgijski dvojnik" medijima je rekao da je 1978. živio u Hrvatskoj i da mu je djevojka iz Srbije što je vjerojatno policiju moglo navesti na pogrešan trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>160</STARTINDEX>
+    <ENDINDEX>164</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10141</ID>
+    <SENTENCE>Srbijanska protutužba i relativiziranje hrvatske tužbe na tragu su politike izjednačavanja krivnje i odgovornosti agresora i žrtve.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5804</ID>
+    <SENTENCE>Bez obzira koliko su sestre bile nadmoćne, duga će pauza ostaviti traga.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5826</ID>
+    <SENTENCE>Za one koji zagovaraju multikulturalno iščitavanje jugoslavenske povijesti takav je prikaz gotovo hereza i nije teško zamisliti kako bi oni koji odbijaju tezu o pradavnim mržnjama kao uzroku jugoslavenskih problema reagirali na Rusinowljev komentar: "Kako je sam Tito jednom rekao:" Povjesničari su zabilježili katastrofalnu činjenicu da ni jedna od 50 generacija na našemu teritoriju nije bila pošteđena ratnih razaranja i teških gubitaka. ’ "Ipak, za Rusinowa upravo su ta" različita iskustva "" ostavila duboki trag na kulturu i etos južnih Slavena ".</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>514</STARTINDEX>
+    <ENDINDEX>518</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10146</ID>
+    <SENTENCE>Snimljen prema pomalo proročkoj knjizi Stephena Kinga, krajem 80-tih film se činio kao još jedna od zlokobnih futurističkih fantazija, no danas, iako niti približno toliko drastično, tragovi prikazanih načina cenzure, restrikcija, kontrole i zabave mogu se pronaći svugdje u društvu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>183</STARTINDEX>
+    <ENDINDEX>190</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5933</ID>
+    <SENTENCE>Sveti Franjo je ostavio neizbrisivi trag u povijesti čovječanstva i povijesti Crkve.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5988</ID>
+    <SENTENCE>Cyberpunk je jako odjeknuo, zbog konteksta i zbog vizije – Gibson je prirodu matrice izveo iz najjednostavnijih tragova na zaslonu njegova vremena, to je vrlo lijepo, pa čak ako je zamisao cyberpunka prvenstveno da se koristi matricom, a ne da njoj služi.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>119</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10147</ID>
+    <SENTENCE>Tražila je odgovor da li na takvim mjestima ostaje neki trag, aura, bilo što što se može osjetiti kao oznaka, trag, sentiment, jeza.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10134</ID>
+    <SENTENCE>Dodao je da se rad na slučaju nastavlja jer je nakon uhićenja policija 'izuzela' još dokaznog materijala, među kojim i odjeću uhićenoga, na kojoj bi mogli pronaći nove tragove.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>168</STARTINDEX>
+    <ENDINDEX>175</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10162</ID>
+    <SENTENCE>Tragovi su toga razdoblja gotovo nestali.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>Tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5944</ID>
+    <SENTENCE>Među mnogim tehničko - tehnološkim novostima koje označavaju naše doba, bilježenje zapisa u digitalnom obliku zasigurno će ostaviti najdublji trag u arhivskoj struci.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>142</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10190</ID>
+    <SENTENCE>Iran je u prosincu pristao svoja nuklearna postrojenja otvoriti za inspekciju stručnjacima iz IAEA, nakon čega su pronađene moderne centrifuge i tragovi visoko obogaćenog urana.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>145</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10179</ID>
+    <SENTENCE>Prošlog petka, u trenutku kad je u njihovoj vili u zagrebačkoj Kozarčevoj ulici policija vršila pretres, Bruna Sanader je, zajedno sa majkom Mirjanom, nasmijana naspustila kuću i krenula prema gradu, no njihova su lica pokazivala zabrinutost i tragove neprospavane noći.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>244</STARTINDEX>
+    <ENDINDEX>251</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10174</ID>
+    <SENTENCE>Iz tog vremena još nismo naišli na tragove naselja, nego samo na nekropole (groblja), odnosno grobne humke različitih oblika i veličina, te različitih načina gradnje. Sve nas je to i navelo na ovaj izlet, u potragu za tumulusom koji se prema pričanju nalazi nedaleko od mjesta Točak Veljunski, a smješten je na strmini iznad rijeke Korane.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10113</ID>
+    <SENTENCE>Razumljivo je i sada zbog čega toliko je napora uloženo (i ulaže se dalje) da ga se uništi bez traga.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5836</ID>
+    <SENTENCE>Analiza je pokazala da u sedam uzoraka nije utvrđeno prisustvo GMO-a, a u četiri je utvrđeno prisustvo GMO-a samo u tragovima, tj. ispod 1 posto.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10124</ID>
+    <SENTENCE>U osam godina dugoj karijeri, ukupno 33. izbor drafta iz 2000. godine, promijenio je nekolicinu klubova, no nigdje nije ostavio dublji trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5808</ID>
+    <SENTENCE>Petnaest osoba je uhićeno, među kojima je i Marwan Assad (27), pripadnik Hamasa, za kojim Izrael traga.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5929</ID>
+    <SENTENCE>To je porez na ekstra imovinu kojoj treba ući u trag, što može napraviti ozbiljna vlast koja zna i želi uvesti red.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5985</ID>
+    <SENTENCE>Na tom tragu razvila se potreba da HBO svoja priopćenja za medije uobliči nešto drukčije.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5989</ID>
+    <SENTENCE>Gotovo četvrtina novorođenčadi u kineskome glavnom gradu pila je mlijeko zagađeno melaminom prije nego što je povučeno iz prodaje, a tragovi melamina otkriveni su i u jajima s kineskih farmi, prenose mediji.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>140</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5851</ID>
+    <SENTENCE>Šveđanka Kajsa Berqvist je ostavila trag na točno dva metra, dok je Ruskinja Marina Kupcova bila za dva centimetra niža.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5980</ID>
+    <SENTENCE>Visoki izvor tvrdi da je policija na tragu naručitelju ubojstva.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10185</ID>
+    <SENTENCE>Htio je da djelo ostane neotkriveno, pa je nakon ubojstva zapalio auto kako bi uništio i prikrio sve tragove.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>101</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5805</ID>
+    <SENTENCE>Sve navedene zvijeri imaju vidljive pandže izuzev risa i četiri prsta, izuzev medvjeda koji ima pet i čiji se trag bitno razlikuje - asocira na bosu nogu čovjeka.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>110</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5816</ID>
+    <SENTENCE>"Frances The Mute" je podijeljen na pet pjesama, simbolično nazvanih po glavnim akterima priče koja je inspirirana likovima iz dnevnika pronađenog na stražnjem sjedalu auta, a u njoj su zabilježeni slučajni prolaznici koji su autoru dnevnika služili kao tragovi za pronalazak njegovih bioloških roditelja.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>254</STARTINDEX>
+    <ENDINDEX>261</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5984</ID>
+    <SENTENCE>Trag o ovom "Visokom odpisu od 2/10 1884. br.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>Trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>4</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5827</ID>
+    <SENTENCE>Mnogi ljudi će ti prolaziti kroz život, ali samo pravi prijatelji će te voljeti i ostaviti trag u srcu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>91</STARTINDEX>
+    <ENDINDEX>95</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10172</ID>
+    <SENTENCE>Po prvi put nakon 15-ak godina mi se naziru tragovi pločica na trbuhu, koje su nekad davno tu bile.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5845</ID>
+    <SENTENCE>Dodao je da u policiji nije rečeno da postoji pisani trag, odnosno izjava svjedoka koji je vidio Anđelu da je te večeri došla kući.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5875</ID>
+    <SENTENCE>Materijalni tragovi prisutnosti Ilira na visoravni Nakovane su naselje na Gradu i kamene gomile pod njim.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10137</ID>
+    <SENTENCE>U nekadašnjoj rimskoj koloniji, osnovanoj 43 godine prije Krista, a danas drugom gradu po veličinu u Francuskoj, ostavio je dubok teniski trag.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>142</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5892</ID>
+    <SENTENCE>No da se potpuno uklone tragovi hrane koja je izazvala alergiju iz tijela majke i bebe treba i do 2 tjedna.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovi</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>31</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5982</ID>
+    <SENTENCE>Osim kao glava obitelji Carrington, Forsythe je svoj trag u hollywoodskoj industriji filmske zabave ostavio i kao Charlie u seriji i filmu "Charlijevi anđeli" kojega se nikad ne vidi, ali mu se čuje glas.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10125</ID>
+    <SENTENCE>Ako nastavimo razmišljati u ovom smjeru, možda će se napkon prihvatiti ono što je svima koji razmišljaju o sebi jasno, a to je da odnos između majke i djeteta ostavlja neizbrisiv trag na razvoj osobnosti, pa čak i prije samog rođenja.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>183</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10200</ID>
+    <SENTENCE>Apstraktnost slike prizora na rijeci, u luci ili u podmorju, na kojima su boje samo toliko izmijenjene kao trag svjetla, te odražavaju autorov potez ruke.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5857</ID>
+    <SENTENCE>Možda samo još jedan prijedlog inspiriran filmom, a na tragu ovih ljetnih dana: zaboravimo brigu o tome koliko imamo para i uživajmo u dugom toplom ljetu koje je pred nama.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragu</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10145</ID>
+    <SENTENCE>KUD je tijekom svog desetomjesečnog postojanja organizirao večer folklora i starih običaja "Kako su živili i radili naši stari" u Sv. Filipu i Jakovu u srpnju, Susret KUD-ova i klapa kod crkve Sv. Roko "Do budućnosti po tragovima vlastite prošlosti" u kolovozu.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>220</STARTINDEX>
+    <ENDINDEX>229</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5841</ID>
+    <SENTENCE>Trag o članovima Udruge vinogradara i vinara, kako na sjednici Gradskog vijeća Buja na kojoj je prihvaćen otpis duga tako i izvan "zidova ’ gradskog parlamenta, trenutno se ne vidi.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>Trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>4</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5812</ID>
+    <SENTENCE>Meteorolozi su za danas najavili povoljne vremenske prilike od 7 do 11 sati ujutro, a nakon toga se očekuje obilan snijeg i ledena kiša, koji će otežati potragu i sakriti tragove.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragove</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>171</STARTINDEX>
+    <ENDINDEX>178</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5901</ID>
+    <SENTENCE>Iz ove ustanove pozivaju građane da ne zanemaruju pozive, da se na pozive odazivaju jer se radi o jednostavnoj metodi testiranja postojanja i najmanjih tragova krvi u stolici, a što je nerijetko prvi znak raka, polipa, kao predstadija raka ili niza drugih bolesti debelog crijeva.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragova</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>152</STARTINDEX>
+    <ENDINDEX>159</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10182</ID>
+    <SENTENCE>Rimsko je pravo ostavilo dubok trag u svim budućim eur. pokušajima poboljšanja pravnih društava.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10133</ID>
+    <SENTENCE>Kako od mladića, međutim, i dalje nije bilo ni traga ni glasa, potraga je ubrzo ponovo nastavljena.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>traga</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.01</SENSEID>
+      <SENSEID>N.010.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>10155</ID>
+    <SENTENCE>Opće je poznato da je do 35. godine, koliko je doživio, ostavio duboki trag u svjetskoj glazbi.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>trag</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5919</ID>
+    <SENTENCE>Dodao je da je potrebno posvetiti pozornost i Makedoniji, u kojoj dobar dio stanovništva čine Albanci, a optimist je i u pogledu razvoja stanja u Srbiji, dok trenutačne reakcije pripisuje "dubokim tragovima nacionalističke propagande" koju je ta zemlja baštinila od vremena kada je na vlasti bio Milošević.</SENTENCE>
+    <TARGETLEMMA>trag</TARGETLEMMA>
+    <TARGETWORD>tragovima</TARGETWORD>
+    <TARGETPOS>n</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>N.010.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>197</STARTINDEX>
+    <ENDINDEX>206</ENDINDEX>
+  </INSTANCE>
+</SET>

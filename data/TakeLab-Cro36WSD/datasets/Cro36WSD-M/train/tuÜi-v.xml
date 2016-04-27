@@ -1,0 +1,2906 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>7472</ID>
+    <SENTENCE>Naime, ona pravednost koja se zove "uzajamna" (iustitia commutativa) traži da se vjerno poštuje razdioba posjeda i ujedno zabranjuje prestupati granice svojeg vlasništva te tako upadati u tuđe pravo.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>188</STARTINDEX>
+    <ENDINDEX>192</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>544</ID>
+    <SENTENCE>Mladi se sve češće tuku, napadaju, vrlo često bez ikakvog povoda ili s vrlo neuvjerljivim i banalnim razlozima.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>517</ID>
+    <SENTENCE>Čučić je, podsjetimo, prošle godine od strane zagrebačkog Općinskog suda, osuđen na 14 mjeseci zatvora radi zlostavljanja bivše supruge Magali Boers, koju je od ožujka 2001. do svibnja 2003. u Zagrebu i Bruxellesu svakodnevno napadao, vrijeđao, tjelesno nasrtao i tukao, čak I za vrijeme trudnoće.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>264</STARTINDEX>
+    <ENDINDEX>269</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>455</ID>
+    <SENTENCE>Duševnu bolesnicu Dragicu Petrović tukli su ciglom po glavi i zatim je ubili.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>580</ID>
+    <SENTENCE>Moreno je opet tukao no Kelava spašava Dinamo.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7473</ID>
+    <SENTENCE>Cijelim putem do Bjelovara na nju je vikao i tukao je, slamajući njezin otpor.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>529</ID>
+    <SENTENCE>Dan ranije je u Lyonu Borussia tukla sa 6: 1, ali ništa nije moglo dignit optimizam naših.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>527</ID>
+    <SENTENCE>Onda su me obojica tukla, a svakim udarcem ciljali su glavu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>563</ID>
+    <SENTENCE>Talijanski gosti zadarskoj policiji nisu znali reći tko je sve sudjelovao u sukobu s njima niti su mogli potvrditi da ih je tukao vlasnik restorana "Aqarijus" na Kornatima Zoran Ramov.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>129</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7435</ID>
+    <SENTENCE>Sve je bilo puno, Splićani su se tukli za kartu više, što nije ni čudo kad su nastupale i zvijezde poput Rade Šerbedžije, Stefana Milenkovića, Edina Karamazova.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>595</ID>
+    <SENTENCE>Ibričić je samog izbacio Šerića u novu prigodu, ali se bivši hrvatski reprezentativac spetljao i slabo tukao.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>437</ID>
+    <SENTENCE>Šta ti znači taj "Delete" kad citiraš tuđe komentare ?</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>493</ID>
+    <SENTENCE>Prije 30 godina su obilazili Tjentište i na televiziji plakali za Titom, uoči rata su se tukli s narodnom milicijom, a sada obavljaju javnu pokoru.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>508</ID>
+    <SENTENCE>Canseco je prije petnaest godina bio najbolje plaćeni igrač baseballa kada je za petogodišnji ugovor pokupio 23.5 milijuna dolara, ali se "proslavio" kada je vlasniku noćnog kluba šakom razbio nos, dok je kod kuće tukao ženu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>214</STARTINDEX>
+    <ENDINDEX>219</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>512</ID>
+    <SENTENCE>U desetoj minuti već treći korner za Dinamo, ovoga puta izveden je na prvu vratnicu, glavom je tukao Mamić, ali lopta prolazi pokraj gola.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>100</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7489</ID>
+    <SENTENCE>Gotovo filmski scenarij tučnjave, koja je u jednom trenutku bila na rubu potpune histerije među 20-ak djelatnika obaju tvrtki, počeo je kada su djelatnici Industrogradnje krenuli postavljati skelu oko pješačkog mosta i kada su ogromnim batovima počeli tući betonske stupove.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>252</STARTINDEX>
+    <ENDINDEX>256</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>464</ID>
+    <SENTENCE>Dok ju je tukao, klečao je na njezin prsima te joj zgnječio unutarnje organe.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>422</ID>
+    <SENTENCE>To je bilo prije nego što su huligani odlučili revnije obavljati posao stilista i na smrt tući normalan svijet koji je obukao "krivu" odjeću.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>420</ID>
+    <SENTENCE>Npr. neki roditelji smatraju korisnim poučiti sina kako se tući.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>516</ID>
+    <SENTENCE>Naravno da je teško razumijeti tuđe probleme, tuđe svađe i tuđu tvrdoglavost.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7494</ID>
+    <SENTENCE>Ona je ambiciozna i odlučna pronaći profinjenog partnera iz snova, a on je seljak kojem je neopisivo zabavno kad se žene tuku u blatu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>121</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>583</ID>
+    <SENTENCE>Da jel kao ne tuku ih radi toga !? hehe !</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+      <SENSEID>V.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>461</ID>
+    <SENTENCE>Ono, tuđe hoću, svoje ne dam !</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>5</STARTINDEX>
+    <ENDINDEX>9</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>578</ID>
+    <SENTENCE>S obzirom da su je svojedobno povezivali s negdašnjim ministorm Ivicom Kirinom te košarkašem Gordanom Giričekom, voditeljica je otkrila da partner koji ju je tukao nije javna osoba.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>158</STARTINDEX>
+    <ENDINDEX>163</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>593</ID>
+    <SENTENCE>On ju je tukao i vukao po stanu, a ona je zapomagala.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>599</ID>
+    <SENTENCE>No, njezin poslodavac je mislio kako se, zato što ju plaća, smije i iživljavati nad njom te joj je sa škarama odsjekao dijelove usana, udarao ju sa metalnom šipkom te ju je tukao dok više nije mogla hodati.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>173</STARTINDEX>
+    <ENDINDEX>178</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>579</ID>
+    <SENTENCE>U dokumentarcu kojeg su mogli vidjeti i gledatelji Nove TV, Michael Jackson ¸ je novinaru Bashiru izjavio kako ga je otac tukao dok je bio dijete.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>127</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>477</ID>
+    <SENTENCE>A ono dalje neću ni zbrajati. Uvjek smo živjeli u Hrvatskoj, nismo otimali tuđe teritorije ni radna mjesta, borili smo se za njih, a ne ko šupci koji doma ne mogu uspjeti pa onda se naseru negdje drugdje !</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>509</ID>
+    <SENTENCE>Ali generali nemaju djecu ja vas uvjeravam, jer onaj koji tuđu djecu ubija nema djece.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđu</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>547</ID>
+    <SENTENCE>"Dok smo se mi tukli za Hrvatsku, Sanader je češljao lutke u kazalištu", uzviknuo je Vekić, također popraćen gromoglasnim pljeskom.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7455</ID>
+    <SENTENCE>GWEN STEFANI jedna je od rijetkih poznatih osoba koje ne prišiju svoje ime na nečiju tuđu odjeću i za to poberu sve pohvale.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđu</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>85</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>447</ID>
+    <SENTENCE>Na predstavljanju vodiča poručio je "tim kukavicama" (nasilnicima) da s njim svako jutro trče a poslije "malo mogu boksati, tj. tući se s onima koji se znaju tući".</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>158</STARTINDEX>
+    <ENDINDEX>162</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>429</ID>
+    <SENTENCE>Ako preuzmemo tvornicu, uzet ćemo svoje, a ne tuđe, pa ako to bude smetalo vlasti, neka nas zatvore – kaže Radonja.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7459</ID>
+    <SENTENCE>Njega je u tri seta tukao Amerikanac Sam Querrey.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>565</ID>
+    <SENTENCE>Sve što tuđe tjelesne tekućine može unijeti u vaše tijelo â € "rizično je.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>538</ID>
+    <SENTENCE>Iskoristite tuđe znanje koje vam se nudi besplatno i postanite vrhunski promotor knjiga.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7404</ID>
+    <SENTENCE>G. B.: Ne tuku nas !</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+      <SENSEID>V.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7447</ID>
+    <SENTENCE>Unijeti malo lijepih nota u tuđe živote nikada nije na odmet.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7434</ID>
+    <SENTENCE>"U Hrvatskoj se novinari tuku, ubijaju i žive pod policijskom zaštitom. Napad na slobodu medija je napad na slobodno demokratsko društvo", kazao je Appelt.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>594</ID>
+    <SENTENCE>Čolić dodaje da ga nisu tukli kao što javljaju neki mediji, već da su ga samo malo okrznuli kad su mu skidali jaknu tražeći novac, piše Blic.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7433</ID>
+    <SENTENCE>Nakon akcije, s Kajom smo porazgovarali o tome kakav je osjećaj darivati krv i time spašavati tuđe živote, te dokad namjerava stajati u redu da bi darovao krv.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>98</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>539</ID>
+    <SENTENCE>- U Varaždinu nikada nisam izgubio, tamo sam uvijek volio igrati jer se Varaždinci nadigravaju i ne tuku po nogama.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>556</ID>
+    <SENTENCE>U kući ju je oficir udario, tukao i silovao, i prijeteći držao uperenu automatsku pušku.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>524</ID>
+    <SENTENCE>Loši crtići u kojima se svi tuku i imaju demonske face.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7418</ID>
+    <SENTENCE>Živjeli smo na socijalnom rubu gotovo cijelo desetljeće - tamo nije postojao nitko tko nije kockao, tukao se, varao, bio na rubu delinkvencije i kriminala.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>413</ID>
+    <SENTENCE>Trojica osmunjičenih terete se za tri kaznena djela i to povredu prava industrijskog vlasništva i neovlaštenu uporabu tuđe tvrtke, krivotvorenje znakova za obilježavanje robe, mjera i utega, te obmanjivanje kupaca.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7491</ID>
+    <SENTENCE>Djevojka veli da je ozljede glave i nadlaktice zadobila u vozilu kada su je policajci tukli.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>442</ID>
+    <SENTENCE>Tužitelji i predstavnici crkve su rekli da je otvorena istraga ali nisu naveli dodatne pojedinosti o optužbama za zlostavljanje protiv biskupa Waltera Mixe koji je već ponudio ostavku nakon optužbi da je tukao djecu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>204</STARTINDEX>
+    <ENDINDEX>209</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>532</ID>
+    <SENTENCE>On vas naprosto ne može saslušati, a kamoli prihvatiti tuđe mišljenje !</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7439</ID>
+    <SENTENCE>U 33. minuti Novaković je prošao s desne strane i dobro ubacio, tukao je Ahmad Sharbini, ali nije bio precizan.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>69</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7431</ID>
+    <SENTENCE>Vrlo vrijedno u situacijama kada biste samo slušali ljude koji imaju taj poseban dar za pričanje priča, zapravo te tuđe živote u nekakvoj prekrasnoj naraciji.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>119</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>546</ID>
+    <SENTENCE>Domaći su svoju priliku dočekali u 44. minuti, kada je Dominguez izveo savršene škarice i silovito tukao u donji lijevi kut Šovkovskog, ali ovaj mu je čudesno obranio !</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>483</ID>
+    <SENTENCE>Hoćemo li svi prekrižiti ruke i reći da smo učinili sve, a djecu će nam i dalje maltretirati i tući pojedinci ?</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>95</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>441</ID>
+    <SENTENCE>Hrvatski narod nikad nije bio otimački narod, niti materijalistički, kapitalistički, nego je svoje čuvao i ljubio, a tuđe poštovao.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7402</ID>
+    <SENTENCE>Izraditi meko glatko tijesto od prosijanog brašna, dodajući jaje, mast, med, šećer, mljevene bademe ili orahe, cimet, papar, prašak za pecivo i usitnjene klinčiće (tučene).</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tučene</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.08</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>170</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7437</ID>
+    <SENTENCE>"Uvijek sam željela glumiti u akcijskom filmu ; imam karakternu crtu da se volim tući," smije se glumica.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>490</ID>
+    <SENTENCE>"Stalno bi me tukla i vukla za kosu. Njezin pokojni muž je bio dobar prema meni, ali ona sa mnom nikad nije bila zadovoljna", rekla je Moik.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>411</ID>
+    <SENTENCE>Zašto poduzetni građani svoju relativno veliku uštedu ne ulažu u vlastite ili tuđe poslove, zašto ne iskorištavaju velik broj obrazovanih, a besposlenih ljudi da zajedno s njima zarade ?</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>78</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7479</ID>
+    <SENTENCE>Premda se izljev njegove ljubomore izrodio u gotovo javni skandal – Danijela je bježala iz Mlinova, a on ju je tražio, lovio i opet tukao – djevojci nitko nije pružio zaštitu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>132</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7436</ID>
+    <SENTENCE>Otac djevojčice uputio se u obućarsku radnju gdje je zatekao Šahmanija i počeo ga tući.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>528</ID>
+    <SENTENCE>A da se Missy ne boji upotrijebiti i tuđe materijale, pokazuju i pjesme "We Run This", za koju je podloga uzeta iz pjesme "Apache", te "My Struggles", za koju je iskoristila beat iz "What 's The 41 ?", koju inače izvodi Mary J. Blige.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>553</ID>
+    <SENTENCE>Na plaži kolovare navodno malo više po levantu tuklo pa je Puntamika logičan izbor.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuklo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>560</ID>
+    <SENTENCE>Stanovnica Matlyuba Akramova pokazala je novinarima 16-godišnju rođakinju za koju tvrdi da se skrivala na tavanu dok su kirgistanske bande tukle njezina oca u njihovom domu, tijekom etničkog nasilja koje je ondje izbilo prošli tjedan.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukle</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>139</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>406</ID>
+    <SENTENCE>Punih 15 godina držao ju je zatočenu u garaži, tukao je, prijetio smrću, tjerao na težak rad, a morala je čak vući plug po polju i orati kao konj !</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>500</ID>
+    <SENTENCE>Dizajneri na nedavnom fashion weeku u Londonu tukli su se da je dovuku u prvi red na svojim revijama, svjetski magazini sve je češće citiraju u modnim rubrikama, editorijali s njom počinju se nazivati najpoželjnijim, donosi nam fashion.hr.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>448</ID>
+    <SENTENCE>U sudačkoj nadoknadi prvog poluvremena Sopić je s 20-tak metara silovito tukao iz slobodnog udarca, Turina je jedva obranio te odbio loptu do Bartolovića, koji ju prima ali potom pada kao pokošen, pokraj njega bili su Ćorluka i Modrić.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7468</ID>
+    <SENTENCE>78 'Messi je pokušao iz slobodnjaka, nije loše tukao, ali Cesar odlično brani.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7492</ID>
+    <SENTENCE>- Od supruga sam se rastala jer me tukao.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7476</ID>
+    <SENTENCE>L. (38) iz Metkovića uhićen je zbog sumnje da je zlostavljao, tukao i na kraju silovao svoju trideset dvogodišnju ženu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>596</ID>
+    <SENTENCE>Da nisam tako postupio, on bi ponovno pijan došao u školu i nastavio tući klince, ovo mu nije prvi put, rekao nam je u ponedjeljak Danijel Rivić (24).</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7444</ID>
+    <SENTENCE>U dječakovim snovima se stalno pojavljivao jedan zeleni zmaj koji se volio tući, bio je naporan, ali ga je dječak ipak volio.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>552</ID>
+    <SENTENCE>Imaju ozlijede glave, leđa i ruku nakon što su ih bocama tukli rumunjski navijači, piše isti portal.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>451</ID>
+    <SENTENCE>Kada su nas počeli tući palicama i nekim drvenim predmetima, stalno su psovali.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>414</ID>
+    <SENTENCE>Županijski sud u Sarajevu ranije je osudio Lelovića na petnaest godina zatvora, utvrdivši kako je tada 18-godišnji Lelović dodao nož počinitelju ubojstva Nerminu Sikiriću, a Talića, koji je u trenutku počinjena zločina bio malodoban, na četiri godine zatvora zbog nasilničkog ponašanja, nanošenja tjelesnih ozljeda i pomaganja u skrivanju boksera kojim je Lelović u tramvaju tukao Mrnjavca.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>375</STARTINDEX>
+    <ENDINDEX>380</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7451</ID>
+    <SENTENCE>Ja sam drugu stavku potpisao pod prisilom jer su me tukli u policiji – rekao je optuženi.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>522</ID>
+    <SENTENCE>Svjedok je opisao kako ga je SS-ovac tukao jer se srušio na pod pri pogledu na mrtvu ženu s mrtvim djetetom u naručju koju je morao izvući iz vlaka i da je taj isti vojnik izvukao fotoaparat i snimio ženu uz komentar "Kakav prekrasan prizor".</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7406</ID>
+    <SENTENCE>Grci su ovime vjerojatno riješili problem djece koja se snimaju dok se tuku i seksaju, ali ništa ne kažu o problemu djece koja se tuku i seksaju, bez snimanja.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>581</ID>
+    <SENTENCE>Tukao sam se proiv Mladića ovdje, tukao sam se i tamo, uz blagoslov Tuđmana i Izetbegovića, odnosno njihova splitskog sporazuma.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>Tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>520</ID>
+    <SENTENCE>Nemoj se jutit ja se volin pačat u tuđe živote !</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>476</ID>
+    <SENTENCE>Vezali su ga lisicama, i automobilom najprije odvezli u prostorije Mjesnog ureda u Letovaniću gdje su ga tukli, a potom ga odvezli prema Sisku.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>564</ID>
+    <SENTENCE>51 - Još jedna super - akcija "bijelih", Grgurović je u priliku izbacio Kranjčara, a ovaj je vanjskim felšom tukao malo pored gola.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>114</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7425</ID>
+    <SENTENCE>Naravno ima mnogo napuštenih pasa koji gladuju po ulicama, koji se muče i tuku a onda završe u azilu ili usmrčeni.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>489</ID>
+    <SENTENCE>POBJEDOM kod Cleveland Cavaliersa (90: 87) moskovski CSKA postao je prva europska momčad koja je u gostima tukla ekipu iz NBA lige.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>465</ID>
+    <SENTENCE>Znaš da se Strep navodno ženio 5 puta i sve su ga žene tukle po glavi.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukle</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>518</ID>
+    <SENTENCE>Dječaci, u vrijeme napada stari 10 i 11 godina, su to objašnjenje ponudili na sudu. maloljetni delikventi gušili su i tukli dječake te su izjavili kako bi nastavili s torturom da se nisu umorili.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>410</ID>
+    <SENTENCE>"Ne kužim frajere koji tuku bilo koga, druge muškarce, a kamoli žene ! To je pokušaj ubojstva ! Svaki nasilnik mora biti sankcioniran prema zakonima njegove države. Takvi ljudi moraju usmjeriti energiju u neke plemenite svrhe ! Sve ih poslati u ring pa neka boksaju. U svakom slučaju, ja sam za sankcije bez presedana !"</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>558</ID>
+    <SENTENCE>"Nitko ne može fizički ugrožavati i tući branitelje i invalide. Ja ću tražiti hitno provođenje istrage i vjerojatno smjene onih koji su odgovorni za takvo ponašanje." - kazala je Kosor.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>450</ID>
+    <SENTENCE>Van der Vaart je snažno tukao iz slobodnog udarca iz velike daljine, a Gareth Bale je vješto glavom zahvatio loptu i promijenio joj smjer, od prečke u mrežu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>463</ID>
+    <SENTENCE>U skupini F Galatasaray je u izravnom obračunu za prvo mjesto tukao Panathinaikos 1-0 golom Mustafe Sarpa, dok je Dinamo Bukurešt s igračem manje uspio preokrenuti susret protiv Sturma i upisati vrijednu pobjedu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>62</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>576</ID>
+    <SENTENCE>Svejedno, Robinho se ne predaje iako ga tuku.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>484</ID>
+    <SENTENCE>BRANKA BOBAN - Kolegica Snježana Vasiljević upotrijebila je, govoreći o ruralnim područjima i novčanim kaznama za muškarce koji tuku žene, izraz "zbog toga što oni jedini doprinose gospodarskom uzdržavanju obitelji".</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7470</ID>
+    <SENTENCE>Možemo se nogom u guzicu tući što nam gradonačelnik nije sirovina i seljačina pa da nas javno sramoti na svakom kantunu kao što to radi splitski.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>590</ID>
+    <SENTENCE>"Ne bih komentirao njegovu izjavu jer ne komentiram tuđe izjave. Mogu samo reći da sam zaljubljen u običnog čovjeka, a ne u Mamića i ne mislim mu raditi promidžbu", kazao je gradonačelnik Bandić, kojeg ovog trenutka ipak više interesira gdje će nakon referenduma finalno biti smješten novi Dinamov stadion, a opcije su već odavno poznate ; stara maksimirska lokacija ili pak nova na Kajzerici, području na kojem je za sada planirana izgradnja prvonagrađenog rješenja Hrvoje Njirića, 'Plavi Vulkan' na nedavnom natječaju.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7500</ID>
+    <SENTENCE>Žirjanov je pogodio gredu, a Pavljučenko glavom tukao ravno u ruke švedskog vratara, da bi paniku među Šveđanima u sudačkoj nadoknadi još jednom izazvao Aršavin koji se sjurio u šesnaesterac i dodao Žirjanovu čiji su udarac Šveđani jedva blokirali.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>53</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7463</ID>
+    <SENTENCE>Ma tko ih je tukao, tko je poticao igrače na divljaštvo kako to sugeriraju u svojem reagiranju, ističuči mene kao izravnog krivca za sve što se događalo u Debeljaku - uzbuđeno će Bruno Torbarina, koji je kako to navode iz Sabunjara, vodio svoju momčad s klupe, unatoč jednogodišnjoj suspenziji.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>18</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>559</ID>
+    <SENTENCE>"Alo, nemojte mi se tu tući, ne volim nekontroliranu tuču. Ajmo, smirite se, mir i ljubav. Pogledaj tu cura, a vas dva se tučete bezveze. Bolje bi vam bilo da počnete malo više kurcem razmišljati. Ma znaš šta, pozdrav tvom kurcu, pozdrav mom kurcu, pozdrav svim vašim kurčevima ! Ajmo sviraj !"</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>491</ID>
+    <SENTENCE>Policija je protiv 62-godišnjeg predsjednika Uprave Croduxa, tvrtke koja se bavi prodajom ukapljenog naftnog plina, podnijela kaznene prijave za obmanu kupaca, nedopuštenu trgovinu, povrede prava industrijskog vlasništva i neovlaštenu uporabu tuđe tvrtke zbog neovlaštenog korištenja i isporuke boca obilježenih zaštićenim žigom Pro plina, prenio je HRT.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>243</STARTINDEX>
+    <ENDINDEX>247</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>426</ID>
+    <SENTENCE>Kako je opisao u memoarima, ondje su ga tukli i mučili, a medicinska pomoć pružena u Rumunjskoj tek nakon što je pristao otkriti svoje ime, čin, postrojbu i nosač aviona s kojeg je poletio.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>453</ID>
+    <SENTENCE>Nakon što su ga mještani pronašli, opkolili su ga i tukli motikama i šipkama, a policija ih je jedva obuzdala da ga ne ubiju.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7432</ID>
+    <SENTENCE>Jamstvo u novčanim transakcijama (ili posuđivanju novaca), kredit bez konzultacije s ordinarijem, poslovanje ili trgovina na svoju ili tuđu korist, osim s dopuštenjem ordinarija i dragovoljno prihvaćanje vojničke službe.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđu</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>139</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7408</ID>
+    <SENTENCE>Prema onome što je o Titovu ocu napisao jedan od Titovih biografa Fitzroy McLean u svojoj bogato ilustriranoj knjizi 'Tito, Jožin otac je bio kumrovečki kovač, vječita pijanica koji je tukao svoju ženu, po čemu je mali Joža zamrzio svoga oca.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>185</STARTINDEX>
+    <ENDINDEX>190</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>505</ID>
+    <SENTENCE>Najprije je Palazuelos opasno tukao, ali Weaver još bolje brani i izbija loptu u korner.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7409</ID>
+    <SENTENCE>Istraga je počela i policija je ubrzo saznala da je Georgije prekjučer krenuo u berbu trešanja s G.K. i Lj. S. Otišli su u kuće dječaka koji su im kasnije, neslužbeno doznaje Blic, pokazali gdje su odbacili motike kojima su tukli Georgija.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>224</STARTINDEX>
+    <ENDINDEX>229</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7462</ID>
+    <SENTENCE>Naravno, zna Sanader da nije popularno tući i po premijerki, i po ministrima, i po HDZ-u.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7446</ID>
+    <SENTENCE>To je zapravo čuvanje tuđe tajne koju sigurno ne bih otkrivala drugima.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7461</ID>
+    <SENTENCE>Kada je Erica pala, sestre su je počele tući.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>40</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>418</ID>
+    <SENTENCE>Sljedeće 2006. godine Alonso je tukao Schumachera u izravnom okršaju za naslov prvaka.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7482</ID>
+    <SENTENCE>Negoduju što im tuđe pčele dolaze na "njihov lonac".</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>435</ID>
+    <SENTENCE>Prvo malo o razvodu pa malo o mojim problemima poslije razvoda pa ću malo izmislit da me tukao pa da me i tata silovao dok sam bila mala pa ću bit naaaaaaajpoznatija.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7430</ID>
+    <SENTENCE>Tukli su ga bejzbol palicama i oteli mu dijete.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>Tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7485</ID>
+    <SENTENCE>Priznao je da su ga i majka i baka tukli remenom dok je bio dijete.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>598</ID>
+    <SENTENCE>Drugi je što ne prepričavam tuđe radove.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>469</ID>
+    <SENTENCE>To je slična priča kao s jamcima kredita kod nas, ona je izigrana i mora vraćati tuđe dugove - kažu Antičevićkini znanci.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>557</ID>
+    <SENTENCE>- Ovaj put njegov milicijski vod nije morao tući već iznuditi, ucijeniti, falsificirati, fabricirati, a sve kako bi me uklonio iz javnog života, navodi Glavaš.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>488</ID>
+    <SENTENCE>Veliki sudski proces vodi se u Genovi protiv 29 policajaca, među njima i protiv Fourniera, te protiv medicinskog osoblja zaposlenog u pritvoru jer su "tukli i zadavali ozljede" i proveli "samovoljni pretres" u školi Diaz gdje su noćili prosvjednici protiv globalizacije.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>151</STARTINDEX>
+    <ENDINDEX>156</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>466</ID>
+    <SENTENCE>Možda nisu ni svjesni ti REI KI majstori da će na taj način uništiti tuđe vječne živote jer su duboko ogrezli u to, da im je to postalo normalno pa o tome ni ne razmišljaju.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7416</ID>
+    <SENTENCE>S druge strane, već je upozoren kako u Ukrajini itekako tuku po nogama.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>567</ID>
+    <SENTENCE>U 60. minuti Ahmad Sharbini primio je loptu na boku (domaći tvrde da je bio u zaleđu) i tukao izravno na vrata Zadra, Vuković je obranio a natrčao Novaković i izjednačio.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>93</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>424</ID>
+    <SENTENCE>Majka i sin su Alenovu nevjenčanu suprugu godinama izolirali, izgladnjivali, vezali za krevet i tukli.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>421</ID>
+    <SENTENCE>Stari moj, pazi na navodne znakove u mojim postovim jer JAKO često kopiram tuđe tekstove i onda ih komentiram !</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>591</ID>
+    <SENTENCE>Kazao je kako su ga tukli nogama i rukama po glavi i trbuhu iako je na rukama već imao lisice, te da je zbog ružne scene morao odmah ući u restoran.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>417</ID>
+    <SENTENCE>Svjesni da predizborno vrijeme pojačava strasti, u HSLS-u su prihvatili Etički kodeks koji bi trebao osigurati fer igru u kojoj konkurenti neće tući ispod pojasa.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>144</STARTINDEX>
+    <ENDINDEX>148</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>439</ID>
+    <SENTENCE>Mališa bi ju silovao i tukao, dok bi žena držala stražu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7460</ID>
+    <SENTENCE>Mira koja nema dlake na jeziku odgovorila je: 'Tu se ne može tući, ali se može sisati'.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>543</ID>
+    <SENTENCE>I kad gube i kad tuku, oni su uvijek u Hajduku.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>548</ID>
+    <SENTENCE>A istina je da je novinar udaren više puta šakom u glavu, da su ga tukla njih dvojica, a ja sam ih samo pokušao razmiriti.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>67</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>531</ID>
+    <SENTENCE>(Tko bi pametan, uostalom, krao tuđe račune da bi se upisao u lokalnu videoteku - gdje svi i bez računa znaju kako se dotični zove !).</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7483</ID>
+    <SENTENCE>Tijekom vožnje, sin je djevojku tukao i vikao čemu se ona odupirala.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>506</ID>
+    <SENTENCE>Prvi udarac na utakmici imao je Jug, tukao je Bušlje, obranio Pavić.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>467</ID>
+    <SENTENCE>Tuđe se riječi, zamisli i sl. ne moraju uvijek točno navoditi (citirati), nego se mogu i parafrazirati (prepričati) uz navođenje autora.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>Tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>4</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>555</ID>
+    <SENTENCE>Njegovo je mišljenje da da netko drugi dobro koristi nastalu situaciju i uništava tuđu imovinu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđu</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>481</ID>
+    <SENTENCE>Učenici iz Gimnazije Lucijana Vranjanina bili su pod udarom i "kvartovske bande" koja je tukla prolaznike u pothodniku u blizini željezničke postaje Vrapče.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>541</ID>
+    <SENTENCE>Riješio bih neke svoje, ali i tuđe probleme.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>425</ID>
+    <SENTENCE>Maju je udomila obitelj iz Duge Rese, a mene i sestru Eminu gospođa Marija Munčić iz Ozlja, koja nas je tukla.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7475</ID>
+    <SENTENCE>- Bilo je grozno, tukli su me i vukli za kosu te govorili da će me srediti.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>503</ID>
+    <SENTENCE>Zaustavivši automobil s dinamovcima, počeli su ga udarati polugama, palicama i kamenjem, a iz vozila su izvukli trojicu navijača, koje su tukli, nanijevši im lakše i teške ozljede.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>138</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>571</ID>
+    <SENTENCE>Da mi je samo znati kako je on to ugrozio tuđe živote ?</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7469</ID>
+    <SENTENCE>Ako možemo o primjerima, onda potpuno teorijski, hipotetički i karikaturalno, vi možete dovesti diviziju strane vojske u drugu državu pod određenim okolnostima i da to ne mora biti proglašeno kao miješanje u tuđe poslove.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>208</STARTINDEX>
+    <ENDINDEX>212</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7464</ID>
+    <SENTENCE>Malo kasnije dobru šansu imao je i Badelj, ali je tukao ravno u vratara Prota.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>430</ID>
+    <SENTENCE>No nije ni trebao jer nitko nije reagirao kad ju je pred svima nogama i rukama tukao gdje god je stigao.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>525</ID>
+    <SENTENCE>U konvencionalnoj vatrenoj moći Indija je također u prednosti: ima više tenkova i aviona, te može tući pakistanski teritorij s gotovo 4200 topova, dok Pakistan za istu svrhu ima samo 1467 topovsko - haubičkih cijevi.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7413</ID>
+    <SENTENCE>Nastavili su se tući ispred restorana.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>478</ID>
+    <SENTENCE>Kada saslušate tuđe probleme, promijenit ćete pogled na vlastite !</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>428</ID>
+    <SENTENCE>On je pokušavao, pucao je, tukao je, ali nije imao svoju večer.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7421</ID>
+    <SENTENCE>Nije li možda istina da nije mogao ili znao doći na cilj pa je odspavao, dok su ostali sudionici "tukli more" i došli na cilj, a manje su, navodno, iskusni.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>98</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7499</ID>
+    <SENTENCE>Zaključno, ukoliko ste jedni od onih koji ne žele trošiti svoje i tuđe vrijeme na slaganje konfiguracije, skočite u poslovnice Svijet-Medija i pogledajte njihovu ponudu gotovih konfiguracija.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7420</ID>
+    <SENTENCE>Postoje situacije kada nekome ili nečemu, estetski, bolje pašu tuđe noge nego vlastite, ali što se tiče panoa slažem se da bi mu puno više odgovarale vlastite nego ove njegovog prethodnika.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>501</ID>
+    <SENTENCE>Prije dvadesetak dana, 7. studenog, tukao ju je, udarao po licu i čupao za kosu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7440</ID>
+    <SENTENCE>Javni prijevoz poskupi za dvije lipe i već sutradan imate 400 tisuća nezadovoljnika koji marširaju, urlaju, prevću automobile i tuku se s policijom.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>521</ID>
+    <SENTENCE>Ondje ju je nastavio tući.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>550</ID>
+    <SENTENCE>- Srbi, srpski neprijatelj, bjesomučno je tukao po ovom gradu iz svih pozicija.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7410</ID>
+    <SENTENCE>Najmlađi reprezentativac silovito je tukao, ali nije uspio izravnati rezultat.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>515</ID>
+    <SENTENCE>Lakše ćete razumjeti tuđe postupke, ali i manje bolno primati opravdane kritike svoga ponašanja.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>21</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>452</ID>
+    <SENTENCE>Šimek je tukao u 9. minuti za Varteks nakon dodavanja petom Pape, ali lopta nije završila u mreži.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7457</ID>
+    <SENTENCE>Ante Boljat je bio pod utjecajem 1,91 promila alkohola, kad se u svojoj kući posvađao sa zetom koji mu je dovezao kćer i udario ga šakom, jer mu je navodno tukao kćer i prijetio joj pištoljem.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>156</STARTINDEX>
+    <ENDINDEX>161</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>440</ID>
+    <SENTENCE>Trinaestogodišnji Bruce je vještinu učio strelovito brzo i u skladu sa svojom prirodom naučeno isprobavao na ulicama Hong Konga. Današnjim riječnikom bi mogli reći da je bio "maloljetni delikvent" ; -). Vjerojatno sa nešto više stila nego današnja mladež jer je istih tih godina osim što se tukao na ulici glumio u filmovima za mlade i još je postao prvak Hong Konga u cha cha cha plesu !</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>291</STARTINDEX>
+    <ENDINDEX>296</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7405</ID>
+    <SENTENCE>Negdje na 30 metara od gola gostiju oboren je Dado Klapan, isti je odmah izveo slobodni udarac uposlio Barnjaka koji negdje s 13-14 metara tuče u nezaštićen dio mreže vratara Šolića za 1: 0. Nastavljaju u istom tonu domaći pa se redaju prigode, u 22. minuti Barnjaku ulazi Bakota u blok, da bi u 32. minuti Klapan tukao, ali obranio je Šolić.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>314</STARTINDEX>
+    <ENDINDEX>319</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>468</ID>
+    <SENTENCE>Policija je utvrdila da je maltretiranje trajalo od lipnja 2007. do kolovoza ove godine te da ju je Korade tukao, ponižavao i vrijeđao, a Državno će odvjetništvo danas vjerojatno zahtijevati njegovo zadržavanje u pritvoru zbog daljnje istrage i prikupljanja dokaza za optužnicu po ovim točkama.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>575</ID>
+    <SENTENCE>Pa se jedva naviknu na drugu djecu, tuđe igračke, neka tamo teta, koja nije mama, zapovijeda.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7452</ID>
+    <SENTENCE>Nakon toga ju je nastavio tući, cipelariti po cijelom tijelu, glavi, urlati kako je voli, dok je ona plačući podnosila udarce.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>589</ID>
+    <SENTENCE>Svilan i Goran Milić, koji je prvih osam minuta svojeg Brisanog prostora dao ženi koju je 12 godina tukao muž, jedini su urednici Hrvatske televizije koji u slučaju Nacionalove Magali Boers, pretučene Čučić, i zbore i tvore.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>586</ID>
+    <SENTENCE>Takva atmosfera stvara solidarnost među djecom koji na tren zaboravljaju svađu i tuđe nedostatke.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7441</ID>
+    <SENTENCE>Bacali su baklje, stolice, tukli redom na koga su naišli.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7411</ID>
+    <SENTENCE>Prema neslužbenim informacijama, dvojica koja su tukla nesretnog mladića navodno su uspjela odskočiti i maknuti se u trenu nailaska automobila.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukla</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7458</ID>
+    <SENTENCE>Snimka jasno pokazuje kako nakon nesreće policajci dolaze do muškarca i počinju ga tući rukama i palicama iako on nepomično leži i ne pruža nikakav otpor.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>456</ID>
+    <SENTENCE>Nakon što ga je uputio u razloge zbog čega Srbi tuku Bošnjake, Karadžićevi vojnici ispili su po nekoliko gutljaja rakije te zapjevali.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+      <SENSEID>V.012.04</SENSEID>
+      <SENSEID>V.012.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7484</ID>
+    <SENTENCE>Kineskim vlastima zasmetalo je što je 44-godišnji Xue Feng pokušao za svoje poslodavce nabaviti detaljnu bazu podataka o kineskoj naftnoj industriji te su ga 2007. strpali u zatvor, ali je javnost za njegovo uhićenje doznala tek dvije godine kasnije ; u zatvoru su se čuvari iživljavali nad njim, gasili cigarete o njegove ruke i tukli ga pepeljarom u glavu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>330</STARTINDEX>
+    <ENDINDEX>335</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7488</ID>
+    <SENTENCE>Na svaku emisiju hrlile su horde djece, koje su bile naprosto začarane gomilama reklama koje su neprekidno tukle po njihovim mladim mozgovima.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukle</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>107</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7428</ID>
+    <SENTENCE>Obiteljski odnosi o kojima govore Skakavci duboko su poremećeni i odražavaju bolest društva u kojem se pokušavamo snaći kako bismo mogli preživjeti ne samo tuđu ili vlastitu starost, već i tuđu ili vlastitu sreću.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđu</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>156</STARTINDEX>
+    <ENDINDEX>160</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7490</ID>
+    <SENTENCE>Kasne i ne cijene tuđe vrijeme.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>475</ID>
+    <SENTENCE>Empatičari su osjetljivi na buku iz okoline, emocije, tuđu patnju, mirise.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđu</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>54</STARTINDEX>
+    <ENDINDEX>58</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7477</ID>
+    <SENTENCE>Loptu je primio na prsa i kad se očekivalo da će proparati mrežu, tukao je preko gola.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>416</ID>
+    <SENTENCE>Razjareni navijači nisu gledali čime se međusobno tuku i na koga što bacaju.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>54</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>480</ID>
+    <SENTENCE>Bošnjak je na suđenju rekao da su se tukli, a da su "u pauzama pregovarali", te da je Zeca gazio po leđima jer je ovaj tražio da ga izmasira.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>444</ID>
+    <SENTENCE>Bumbizavalo se, akoštavalo, tuklo direktno i od šponde, veselilo i tugovalo, a natjecatelji su žeđ gasili pivom.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuklo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>600</ID>
+    <SENTENCE>Tijekom suđenja, na kojem su bile prikazane fotografije na kojima se jasno vidi kako je on jedan od pijanih huligana koji su tukli Daniela Nivela, Warnecke je izjavio kako se kaje zbog svog čina, dodavši da je njegov udio u cjelokupnom slučaju mizeran.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>130</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>405</ID>
+    <SENTENCE>Tukao si se za sebe, svoju obitelj i državu, kao i svi ostali, a ne nikako za mene.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>Tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+      <SENSEID>V.012.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>5</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>470</ID>
+    <SENTENCE>Iz jedne takve akcije su postigli pobjednički gol ; Nazarenko je na 20 metara od gola prihvatio loptu i neobranjivo tukao u gornji lijevi kut srpskog golmana Dišljenkovića.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7495</ID>
+    <SENTENCE>Samo mu je srce drhtalo i glasno tuklo.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuklo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.07</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>445</ID>
+    <SENTENCE>47 '- Opasno je tukao Christopher Powers, no vratar Austrijanaca opet je nesavladiv.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>459</ID>
+    <SENTENCE>Ondje je odjednom, vjerojatno pod utjecajem alkohola, počeo tući sve oko sebe.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>588</ID>
+    <SENTENCE>Filmske kuće se doslovno tuku za dobru priču.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>498</ID>
+    <SENTENCE>CR je u 61. minuti tukao s ruba šesnaesteca, ali domaćine spašava vratar Lloris sjajnom reakcijom vadeći loptu iz samih rašlji.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7426</ID>
+    <SENTENCE>Rekao je da iz Morinja pamti optuženog Boru Gligića, koji mu je stalno govorio kako je on "parazit kojeg treba tući".</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>472</ID>
+    <SENTENCE>"Bili smo u kafiću kada sam izašao van na zrak jer sam dosta popio. Vraćao sam se unutra, podigao ruku i prijatelju viknuo: 'Ovo je Đakovo !', kada me policajac zgrabio i počeo tući. Valjda je mislio da sam ga želio udariti jer sam podigao ruku pa sam se refleksno počeo braniti dok me on na podu udarao. Došla su još njih četvorica i tukla me dok sam ja ležao na podu", priča Marko.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tući</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>177</STARTINDEX>
+    <ENDINDEX>181</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>570</ID>
+    <SENTENCE>Iako povremeno previše bliski "terasa" zvuku i mehanizmima hotelske zabave, "Live From Buena Vista" izvrsni su instrumentalisti sposobni dočarati tugu i veselje glazbe koja prvenstveno ima emotivni učinak na "korisnike".</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tugu</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7498</ID>
+    <SENTENCE>Bordeaux je stoga kontrolirao loptu veći dio prvog poluvremena, stvorio nekoliko kvalitetnih prilika i čak osam puta tukao prema golu, ali pogodak u prvih 45 minuta nisu uspjeli zabiti.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>117</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>473</ID>
+    <SENTENCE>Vidim da je tu neki korisnik tele2 koji traži osobne podatke da rješi tuđe probleme a ne čita što piše velika većina korisnika.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>74</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>577</ID>
+    <SENTENCE>U iskazu Nenada Filipovića piše da su ga "stražari tukli čizmama, a posebno se u tome isticao stražar koji je za sebe kazao da je bivši boksač iz okolice Vukovara".</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>51</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7450</ID>
+    <SENTENCE>- Kasnije sam bio čuvar u glinskom zatvoru, nisam tukao ni ubijao ljude, nisam počinio zločine, rekao je Đuro Šimunović.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7481</ID>
+    <SENTENCE>Ovoga puta tukao ga je puno teže nego u njihovom prvom dvoboju prije četiri godine u Cincinnatiju.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+      <SENSEID>V.012.04</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>436</ID>
+    <SENTENCE>Presing Španjolaca i nova velika šansa nakon kornera - Puyol je ostao sam na pet metara i glavom tukao preko gola.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukao</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7474</ID>
+    <SENTENCE>Ja shvaćam tuđe subjektivne zamjerke (neke i potpisujem), pa bi i drugi trebali shvatiti našu subjektivnu ljubav.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>495</ID>
+    <SENTENCE>Vojnici su po njemu gazili i tukli ga, te su ga mrtva donijeli kod kuće Ede Šiljega.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>542</ID>
+    <SENTENCE>Cijela stvar je eskalirala u međunarodni skandal, a Mugabe je odlučio protiv protivnika poslati i policiju i postrojbe posebne namjene, koje su po gradovima Zimbabvea tukle sve koji su se suprotstavili Mugabeu.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukle</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+      <SENSEID>V.012.06</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>167</STARTINDEX>
+    <ENDINDEX>172</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>584</ID>
+    <SENTENCE>Optuženi Paranos je također u lipnju prošle godine pucao prema ocu njegove snahe Ivanu Lončariću te njenoj sestri Vesni, a kaže zbog toga jer su ga tukli.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>148</STARTINDEX>
+    <ENDINDEX>153</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7407</ID>
+    <SENTENCE>'Tisućama godina, crnci su se odmarali u hladu, jeli banane, silovali žene i djecu koji su prolazili, tukli se s drugim crnim muškarcima i jeli ih, malo svirali bubnjeve, trčali za antilopama, opet pojeli par banana, napili se i tako ukrug.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tukli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7480</ID>
+    <SENTENCE>Žao mi je što mu se sve to dogodilo, ali volio bih s njime porazgovarati i upitati ga je li svjestan da je ugrozio svoj, ali i tuđe živote – dan nakon uspješno odrađene akcije na savskom nasipu pripovijeda Dražen Pezer, pripadnik ATJ-a Alfe.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>7419</ID>
+    <SENTENCE>No nije diktator, parlamentarna je, voli poslušati i tuđe mišljenje.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuđe</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>53</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>592</ID>
+    <SENTENCE>No unatrag nekoliko mjeseci povećao se broj muških poziva na 92. Prijavljuju da ih tuku žene.</SENTENCE>
+    <TARGETLEMMA>tući</TARGETLEMMA>
+    <TARGETWORD>tuku</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.012.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+</SET>

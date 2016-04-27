@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>8096</ID>
+    <SENTENCE>"Ne, jednostavno se ne mogu složiti s tim. Ovdje se radi o tenisu. Ponekad vam daruju, a ponekad oduzmu poen. To je ono lijepo i zanimljivo u tenisu. Ako svake dvije sekunde pozivate suca na red, to nema smisla." - zaključio je naš tenisač, čijih se energičnih prepirki sa sucima i lomljenja reketa tijekom meča, u Londonu i danas s nostalgijom prisjećaju.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzmu</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1745</ID>
+    <SENTENCE>Nakon pokretanja postupka, odluku o oduzimanju indeksa donosi disciplinski tužitelj prema čijoj se odluci indeks može oduzeti za još mjesec dana.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>125</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8014</ID>
+    <SENTENCE>To je broj mobilnih uređaja, odnosno različitih kartica koje je Polančec koristio, a koje mu je policija, kako neslužbeno doznajemo, oduzela tijekom pretresa.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>140</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8023</ID>
+    <SENTENCE>U prvom setu 20-godišinji je Šibenčanin čak tri puta zaredom oduzeo servis Austrijancu.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8087</ID>
+    <SENTENCE>Uhićenima su oduzeli i oko 100.000 kuna te više od 25.000 eura, za koje sumnjaju da su "zarađeni" preprodajom droge.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1618</ID>
+    <SENTENCE>Pronađeno oružje je oduzeto, a protiv 33-godišnjaka je podnesen optužni prijedlog zbog počinjenih prekršaja iz Zakona o oružju.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeto</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8017</ID>
+    <SENTENCE>Na 2: 2 u prvom setu izvukao sam par break lopti te mu uspio oduzeti servis na 5: 5. Bilo je to sjajno.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1603</ID>
+    <SENTENCE>Neslužbeno doznajemo da je nesreću izazvao neoprezni vozač Kie Picanto koji je oduzeo prednost motociklu.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>85</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1670</ID>
+    <SENTENCE>Jordan kaže kako se baš ni na koji način ne osjeća ugroženo zbog HSS-ova najnovijeg angažmana, niti misli da ću mu oduzeti i najmanji djelić biračkog tijela.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>115</STARTINDEX>
+    <ENDINDEX>122</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1712</ID>
+    <SENTENCE>Periša je, naime, putem javnog natječaja kupio parkirno mjesto za 800 njemačkih maraka, ali mu je Grad oduzeo isto zbog preniske cijene po kojoj ga je ovaj dobio.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1757</ID>
+    <SENTENCE>Kako javlja PU zadarska, 24-godišnjak s područja Zadra upravljući osobnim automobilom zadarskih registarskih oznaka, kojem je važnost prometne dozvole istekla, skretajući u lijevo oduzeo je prednost mopedu zadarskih registarskih oznaka s kojim je upravljao 20-godišnji Zadranin s kacigom.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>180</STARTINDEX>
+    <ENDINDEX>186</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1659</ID>
+    <SENTENCE>Sredinom prvog seta Ančić je prvi oduzeo Karloviću servis, poveo je 5-3. Međutim tada Karlović dva puta uzastopno oduzima Ančiću servis, radi seriju od četiri uzastopna gema te rješava set u svoju korist 7-5. U drugom setu je Ančić došao opet prvi do breaka sredinom seta, ali ga je ovaj put uspio i zadržati.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1627</ID>
+    <SENTENCE>Ako se za nekoga utvrdi da je surađivao i da se okoristio tom suradnjom, oduzet će mu se javne funkcije.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzet</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>79</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8007</ID>
+    <SENTENCE>Očito vam premijer Sanader želi oduzeti dio vanjskopolitičkog utjecaja.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8026</ID>
+    <SENTENCE>Ljubičić je dominirao čitavim tijekom susreta, prvi je put oduzeo servis Clementu odmah u prvoj igri, a prvi je set osigurao još jednim "breakom" za 4-1. Naš tenisač je i drugi set započeo kao prvi, "breakom" u prvoj igri.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8049</ID>
+    <SENTENCE>– Shvatili smo da Milan Bandić ovaj grad više ne vodi i zato smo mu oduzeli pravo da odgovara na zastupnička pitanja – rekao je Igor Rađenović, zastupnik SDP-a.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>68</STARTINDEX>
+    <ENDINDEX>75</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1795</ID>
+    <SENTENCE>Da na ovom US Openu ne propušta svoje prilike Karlović je dokazao u drugom setu, gdje je u sedmom gemu oduzeo servis Francuzu za 4: 3 te stečenu prednost zadržao do kraja za 6: 4 pobjedu.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8018</ID>
+    <SENTENCE>S obzirom da je htio rođenu ženu koja je dobrim dijelom financijski odgovorna za njegov uspjeh, strpat u ludnicu i podmetnuti joj kokain da je nekakva narkomanka i oduzet joj radnu sposobnost zato da upravlja njenom imovinom, neznam tko bi normalan mislio nešto pozitivno o takvom liku, uključujući njegovu obitelj.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzet</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>170</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8044</ID>
+    <SENTENCE>Valjda vam vlast namjerava u sklopu sveopće štednje želi oduzeti dio para koji ste prije dobivali pa ste sada digli nos.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8047</ID>
+    <SENTENCE>Policajci su ga uskoro zatekli kako vidno alkoholiziran vozi i opet mu oduzeli BMW "za opće dobro".</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>71</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1636</ID>
+    <SENTENCE>Četvorici koja izlaze Sud je zabranio bilo kakav kontakt sa svjedocima i oduzete su im putovnice.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzete</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>80</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1724</ID>
+    <SENTENCE>Prikovana za krevet, pokušavala se sjetiti ljetovanja koje joj je oduzelo do tada normalan život.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzelo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8098</ID>
+    <SENTENCE>Također, nastavlja Mesić, gospodin Hebrang kaže da ne bi pravomoćno osuđenim generalima oduzeo odlikovanja, međutim zakon kaže da onaj tko je pravomoćno osuđen mora ostati bez tih odlikovanja jer se radi o časti.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1758</ID>
+    <SENTENCE>Kod 2-1 u trećem setu opet je oduzeo servis protivniku, odmah potom otišao i na 4-1 i do kraja još dva servis - gema odradio dovoljno dobro da dođe do pobjede.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1784</ID>
+    <SENTENCE>Zašto je Grad baš u Kerumovu mandatu odlučio oduzeti dio posla Gradskoj sigurnosti, uhodanoj tvrtki na čiji rad nije bilo primjedbi, i dati ga nedavno osnovanoj Villi čija je jedina prednost gradonačelnikova bliskost s vlasnikom ?</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8019</ID>
+    <SENTENCE>Slovenija će uskoro preuzeti predsjedanje EU, a jedna će od njenih prvih inicijativa biti da se Hrvatskoj oduzme jedno slovo abecede i da Sloveniji.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzme</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1667</ID>
+    <SENTENCE>Dječak je, naime, zadobio snažan udarac u leđa zbog čega su mu oduzeti donji ekstremiteti pa je zadržan na liječenju na odjelu neurokirurgije splitske bolnice.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1751</ID>
+    <SENTENCE>"Zbog nepoštivanja odluke, taksisti će snositi odgovornost. Najprije financijsku, a ako se prekršaji ponove, oduzet ćemo im dozvole za rad", poručuje Mijo Bezer, koji je u Zagrebu zadužen za promet.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzet</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>115</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1701</ID>
+    <SENTENCE>Odmah na početku ogleda Veić je napravio ono što je iznimno teško u današnjem svijetu tenisa, oduzeti servis Ivi Karloviću.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>101</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1644</ID>
+    <SENTENCE>Dječak se skuterom kretao kolnikom Japodske ulice, a kada je nasuprot kućnog broja 66 ušao u raskrižje oduzeo je prednost automobilu citroen saxo kojim je upravljao 27-godišnjak iz Pule.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>103</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8073</ID>
+    <SENTENCE>Andrejev i Davidenko imali su u cijelom meču samo jednu break loptu, koju nisu iskoristili, dok su Bryan i Bryan od 8 prilika tri puta oduzeli servis ruskoj kombinaciji.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>142</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1689</ID>
+    <SENTENCE>U mihovljanskoj momčadi jedino je Nino Bujan oduzeo dva seta Denisu Petričeviću, a u ostalim partijama Tomislav Marušić s 3: 0 je izgubio od Marka Mataije, istim rezultatom Nikola Mikac od Borisa Preksavca, a bez dobivenog seta i par Bujan / Mikac poražen je od varaždinske kombinacije Mataija / Petričević pa je susret okončan rezultatom 4: 0 za domaćine.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1619</ID>
+    <SENTENCE>Domagoj Račić, ravnatelj "Otoka znanja": Pa, na našem webu, www.otok-znanja.hr ima desetak njihovih izjava gdje se dosta toga može čuti, s druge strane jučer na otvaranju izložbe desetak otočana je bilo, mi nastojimo biti potpuno transparentni i vrlo jasno komunicirati da nam je cilj prije svega donijeti na taj otok, a ne nešto od njih oduzeti ili na jedan neprimjeren način zadirati u tradicionalan način života, njihove vrijednosti ili zapravo na bilo koji drugi način činiti neku štetu samom otoku.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>338</STARTINDEX>
+    <ENDINDEX>345</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8029</ID>
+    <SENTENCE>Osvojila je Ruskinja čak 23 poena više (70-47) oduzevši pritom pet servisa prvoj tenisačici svijeta i prvoj nositeljici turnira.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzevši</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8079</ID>
+    <SENTENCE>Hoće li nakon američke doktorice politologije Dijane Pleštine status veleposlanika u Ministarstvu vanjskih poslova biti oduzet i bivšem ravnatelju Diplomatske akademije sa završenom srednjom školom Zoranu Bošnjaku ?</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzet</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>126</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8038</ID>
+    <SENTENCE>Zar nan dostojanstvo nisu oduzeli i liječnici koji u velikom broju uzimaju novce ljudima kako bi ih ličili i njihove poštene kolege koji sve to šutke gledaju ?</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1761</ID>
+    <SENTENCE>Sljedeće jutro na vrata su im pokucali HR momci u plavom, po nalogu INTERPOL-a im pretresli stanove i oduzeli računala.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>109</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1780</ID>
+    <SENTENCE>"Zaključili smo da bi nam taj pothvat oduzeo previše energije", kaže Hrvoje Filipović, čelnik Granolia.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1789</ID>
+    <SENTENCE>Odmah je oduzeo servis Federeru, zatim još jednom sredinom seta i sa 6: 2 došao je Argentinac do prednosti od 2: 1 u setovima.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1631</ID>
+    <SENTENCE>U oba završena slučaja tek bi mu oduzeli po 10 do 15 posto iznosa mjesečne plaće.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8039</ID>
+    <SENTENCE>Nakon puno godina zimske i proljetne ekspedicije nisu mi oduzele godišnji odmor, pa mi je čitav ostao na raspolaganju za ljetne aktivnosti.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzele</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1739</ID>
+    <SENTENCE>Irenu, mladu ženu u zadnjim danima trudnoće, liječnici obavijeste da će joj nakon poroda oduzeti dijete, jer se kao nezaposlena majka i bivša narkomanka nije sposobna brinuti o sebi i bebi.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>89</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1743</ID>
+    <SENTENCE>Ministar financija Ivan Šuker 'grčevito' grabi naprijed i teško da mu itko može oduzeti titulu vodećeg.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1652</ID>
+    <SENTENCE>Nadam se da država ima toliko snage da ovoga druga zatvori a imovinu mu oduzme. Baš sam pratio njegove odgovore i nije se sjetio reći da je ovo što je pokrao stekao kreditima, kao što je kazao Pašalić, da je digao kredite od Hypo banke.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzme</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1715</ID>
+    <SENTENCE>Šezdesetak bivših radnika Jugobanke u Splitu moglo bi Zagrebačkoj banci (ZABA) oduzeti dio nekretnina kojima se koristi u tom gradu ako na sudu dokažu da ZABA nije pravilno provela likvidaciju splitske podružnice nekadašnje Jugobanke.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>86</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1759</ID>
+    <SENTENCE>Prema dostupnim informacijama Nenadić si je oduzeo život hicem u glavu iz puške napunjene tzv. dum - dum mecima.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1772</ID>
+    <SENTENCE>Gotovo četiri sata ju je ponižavao, oduzevši joj odjeću i ključeve automobila, a slično je postupio i u najmanje 68 restorana u 32 američke savezne države tijekom posljednjih godina, dodao je tisak.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzevši</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8013</ID>
+    <SENTENCE>Naoružanje – pušku, bombe, streljivo - su mu oduzeli i prijavili ga Državnom odvjetništvu.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8009</ID>
+    <SENTENCE>Djelatnici Odjela kriminalističke policije Policijske uprave dubrovačko - neretvanske u jučerašnjoj pretrazi stana u Dubrovniku, u ulici Svete Marije, pronašli su i od 29-godišnjeg korisnika stana oduzeli, uz ostalo, manju količinu heroina i heptanona, digitalne vage te oružje.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>197</STARTINDEX>
+    <ENDINDEX>204</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8033</ID>
+    <SENTENCE>Cijela Njemačka i u četvrtak je tugovala za vratarom nogometne reprezentacije Robertom Enkeom koji si je u 32. godini oduzeo život bacivši se pod vlak.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>118</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1700</ID>
+    <SENTENCE>Na raskrižju ulica Male Sredice i Velike Sredice 33-godišnji vozač Yuga oduzeo joj je prednost i naletio na nju.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1798</ID>
+    <SENTENCE>Josipović je najavio da će uskoro, također na temelju zakona, Glavašu oduzeti i generalski čin.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1783</ID>
+    <SENTENCE>Norac, stoji u tužbi, smatra da je cijeli postupak u svezi oduzimanja njegovog vojnog čina proveden nestručno i protuzakonito te da se njemu ne može oduzeti vojni čin na način kako je to učinio predsjednik Josipović jer, kako se navodi, naprosto niti jednim zakonom nije propisano da se civilnim osobama može oduzeti vojni čin te da je stoga predsjednik Josipović prekršio Ustav i Zakon o obrani.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>149</STARTINDEX>
+    <ENDINDEX>156</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1687</ID>
+    <SENTENCE>Dana 14. svibnja 2001. Općinski sud u Zagrebu oduzeo je podnositeljici zahtjeva poslovnu sposobnost zbog toga što je bolovala od teške duševne bolesti, tj. paranoidne shizofrenije, koja ju je činila nesposobnom brinuti se o svojim vlastitim pravima i interesima.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>46</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1737</ID>
+    <SENTENCE>Uz potporu mjesnih odbora i bez javne rasprave te prilagođenom izmjenom prostornih planova tvrtke su namjerile oduzeti 127 hektara poljoprivredne zemlje u vlasništvu 200 obitelji.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1669</ID>
+    <SENTENCE>Drugi set bio je izjednačeniji, Verdasco je samo jednom oduzeo servis Ančiću koji nije iskoristio niti jednu od pet lopti za "break".</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1665</ID>
+    <SENTENCE>Ljubičić je odmah u prvom gemu oduzeo servis i kasnije rutinski čuvao svoj početni udarac.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>31</STARTINDEX>
+    <ENDINDEX>37</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1642</ID>
+    <SENTENCE>Pronađeni eksploziv i kapisle su oduzete.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzete</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>33</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1722</ID>
+    <SENTENCE>Nismo ovdje da raspravljamo o teologiji već o slobodama mišljenja, govora, demokracije. Ti meni ne možeš oduzeti moju vjeru niti ja tebi ne želim nametati svoju vjeru. I tu je stvar jasna. Da li se Vi zalažete za demokraciju ili totalitarizam ? Mi moramo živjeti jedni uz druge. Vjerujem da i Vi imate susjeda koji pripada nekoj konfesiji i da li ga zato mrzite što vjeruje u Boga ?</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>105</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8095</ID>
+    <SENTENCE>SISAK - Nakon što je na prošlotjednoj sjednici sisačkog Gradskog vijeća, predsjednik istog Veljko Novak, SDP-ovoj vijećnici Kristini Ikić Baniček oduzeo pravo glasa, danas je progovorila i ona sama.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>146</STARTINDEX>
+    <ENDINDEX>152</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1696</ID>
+    <SENTENCE>Oduzete pokretnine koje ne budu prodane u roku godinu dana mogu biti darovane u humanitarne svrhe.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>Oduzete</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1777</ID>
+    <SENTENCE>Mirjana Sanader nekorektnim smatra izjave iz MUP-a i tvrdi kako nisu ništa izmislile oko događanja ispred kuće kada su im policajci, kako je prethodno izjavila, zabranili uzlazak u kuću te oduzeli putovnice.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>189</STARTINDEX>
+    <ENDINDEX>196</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1668</ID>
+    <SENTENCE>A ako se ne daj Bože dogodi da otac istuče dijete, pa to vide susjedi i prijave ga, država mu može oduzeti vlastito dijete.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1633</ID>
+    <SENTENCE>Nakon otprilike sat vremena vijećanja, Pavleković je pustio Sulića da nastavak suđenja prati sa slobode, ali mu je zabranio napuštanje Zagreba te mu je oduzeo putovnicu.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>152</STARTINDEX>
+    <ENDINDEX>158</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1799</ID>
+    <SENTENCE>Međimurskom vlastelinu Eugenu Festetiću provedena agrarna reforma ostavila je zakonski dio zemljišta, a oduzela mu ostatak, podijelivši ga seljacima.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1788</ID>
+    <SENTENCE>Napomenuo je kako su na njegovoj listi onih kojima bi trebalo sve oduzeti, "prevaranti koji iskorištavaju državni proračun te javna poduzeća i kriminalci".</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1637</ID>
+    <SENTENCE>Kad su sve zbrojili i oduzeli, kolektivnom su mudrošću dokučili da ih Sanader neće pojedinačno ugroziti ni kolektivno diskreditirati.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>29</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1656</ID>
+    <SENTENCE>U redovitoj akciji Mir i dobro Policijska uprava zagrebačka oduzela je tijekom prosinca 17 komada različitog oružja, 17 tisuća komada streljiva te više od 20 tisuća komada pirotehničke galanterije.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1654</ID>
+    <SENTENCE>Naslov prvakinje joj je oduzet, a dodijeljena zabrana natjecanja.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzet</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>24</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1714</ID>
+    <SENTENCE>LONDON Ruska vlada oduzela je britansko - ruskom joint ventureu TNK-BP licencu za iskorištavanje plinskog polja Kovikta nedaleko Irkutska, što je potrdio i tamošnji sud odbivši žalbu tvrtke TNK-BP.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1733</ID>
+    <SENTENCE>Predlažemo Vam mogućnost posredovanja unutar političkog sustava koje bi dovelo do zadovoljavajućih rješenja i povratilo dostojanstvo građanima i institucijama koje im je oduzeto nesretnim odlukama Sabora i Ustavnog suda, kaže se u pismu.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeto</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>170</STARTINDEX>
+    <ENDINDEX>177</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8085</ID>
+    <SENTENCE>Na upit novinara ne čini li mu se da su afere koje sada izlaze na vidjelo više rezultat unutarstranačkih sukoba HDZ-a, nego li rad institucija, Josipović je rekao kako bi 'istaknuo da u konačnici kada se sve zbroji i oduzme kriminal nema stranačku boju'.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzme</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>217</STARTINDEX>
+    <ENDINDEX>223</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1754</ID>
+    <SENTENCE>Shrvani glumac odao se nakon prekida alkoholu i tabletama te je čak pokušao oduzeti si život rezanjem žila.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8046</ID>
+    <SENTENCE>Prema službenim informacijama, nesreća se dogodila kada je 50-godišnji D. T. iz Pule za volanom "toyote" Flacijusovom ulicom, a dolaskom na raskrižje s Ulicom Benediktinske opatije, oduzeo prednost prolaska motociklu "suzuki" kojim je upravljao Čakić.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>182</STARTINDEX>
+    <ENDINDEX>188</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1606</ID>
+    <SENTENCE>Jer prekrivač što ga ruke koriste, raširen krevet, penis, testisi, nije redovničin, nije Marianin, jer su ti oduzeli i naušnice, svilu i ogrlice dok još tijelo nije zaspalo.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>109</STARTINDEX>
+    <ENDINDEX>116</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8022</ID>
+    <SENTENCE>GRADSKI VIJEĆNICI SDP-a Aida Batarelo i Ivo Baldasar te članovi splitskog Gradskog odbora SDP-a složili su se da se Nevenka Bečić neprikladno ponijela kada je Gojku Čepi u utorak oduzela riječ, i da im je dosta njihove samovolje i terora te ispada koje više neće trpjeti.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>179</STARTINDEX>
+    <ENDINDEX>186</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8065</ID>
+    <SENTENCE>Općine i gradovi su dobili zeleno svjetlo za povrat ukupno 47.346 ha poljoprivredne zemlje koju je sredinom prošloga stoljeća raznim dekretima i bez ikakve naknade država oduzela privatnim vlasnicima.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>171</STARTINDEX>
+    <ENDINDEX>178</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1736</ID>
+    <SENTENCE>Za osvajanje prvoga mjesta više problema imala je tek u susretima protiv druge na rang listi, igračice domaćega Vodovoda, Justine Mihaljević, koju je pobijedila s 3: 2 i tradicionalno protiv svoje bivše klupske kolegice, a sada igračice Varaždina Dine Ratajec, koja joj je oduzela jedan set, dok je još po koji izgubljen set rezultat razigranosti i opuštanja.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>273</STARTINDEX>
+    <ENDINDEX>280</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8055</ID>
+    <SENTENCE>Odmah u prvom gemu je oduzeo servis Roddicku i taj put ga je čvrsto držao do kraja.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>28</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1662</ID>
+    <SENTENCE>U članku 93. riječ: "zabraniti" zamjenjuje se riječima: "oduzeti ovlast za".</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1628</ID>
+    <SENTENCE>Francuz je, doduše, najprije spasio dvije meč - lopte kod 4: 5, a zatim oduzeo servis Švicarcu za 6: 5. Tada je ostao na 15, ali još bolje izglede imao je u tie - breaku kada je poveo sa 4: 0. No, švicarski čarobnjak se nije dao, nizom spektakularnih poena preokrenuo je situaciju.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>72</STARTINDEX>
+    <ENDINDEX>78</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1740</ID>
+    <SENTENCE>Najlakše je oduzeti onima koji imaju malo !</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>19</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1661</ID>
+    <SENTENCE>Njihova je općina počela energično tražiti da joj se vrate oduzete šume.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzete</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>59</STARTINDEX>
+    <ENDINDEX>66</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8090</ID>
+    <SENTENCE>Više od tri posto djece tvrdi kako je pokušalo sebi oduzeti život.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>59</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8097</ID>
+    <SENTENCE>No, u HDZ-u, osim struje koja bi Mesiću, ako se uključi u politiku kontra većinske stranke, rado uskratila privilegije što mu slijede po završetku mandata, postoje i oni koji bi mu, makar privremeno, oduzeli mogućnosti što mu ih pruža spomenuti zakon, neovisno o njegovim namjerama.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>200</STARTINDEX>
+    <ENDINDEX>207</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1791</ID>
+    <SENTENCE>Svi oni tvrde da su ih Grgić i njegovi suradnici izigrali, nezakonito oduzeli dionice i smanjili udio u tvrtki.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1776</ID>
+    <SENTENCE>Zbog prijetnji ranijih godina pretražili su mu i kuću, te pronašli i oduzeli pušku koju je nezakonito držao.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1660</ID>
+    <SENTENCE>Oduzme li se od toga i državni poticaj od 42.000 kn koji SAD isplaćuje pri kupnji ovakvih automobila te efekt koji on izaziva kod ljudi jasno je zašto je Volt trenutno toliko tražena roba.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>Oduzme</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>6</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8072</ID>
+    <SENTENCE>Najnoviji slučaj je započeo sa 7. kolovozom, kada je PP Petrinja od Odsjeka maloljetničke delinkvencije PU zagrebačke, zaprimila zapisnik o tome da je odvjetnica Magali Boers podnijela kaznenu prijavu protiv 51-godišnjeg Čučića, koji je supruzi oduzeo dvije zajedničke kćeri - petogodišnju Laru-Helenu i sedmogodišnju Sarah-Emanuele.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>245</STARTINDEX>
+    <ENDINDEX>251</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1673</ID>
+    <SENTENCE>"Sate za koje Livaković tvrdi da nisam odradio sam proveo u sindikalnim aktivnostima jer sindikat kojeg ja vodim djeluje u šest firmi, a ne samo u HAC-u. To mi u firmi nisu htjeli priznati kao radno vrijeme pa sam ja ponudio da mi te sate oduzmu od godišnjeg odmora. No, u HAC-u nisu na to pristali i rekli su mi da ih moram odraditi, što sam ja i napravio", kaže Stanić i dodaje kako ga nitko nema pravo optuživati za nerad jer većinu svog vremena provodi u uredu i rijetko se događa da ode kući točno kad mu završi radno vrijeme.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzmu</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>239</STARTINDEX>
+    <ENDINDEX>245</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1682</ID>
+    <SENTENCE>- Želimo da mu se oduzme licencija.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzme</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1790</ID>
+    <SENTENCE>- Bez obzira na ishod utakmice sa Zadrom, gušt nakon 11 nanizanih pobjeda nam nitko ne može oduzeti.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeti</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1634</ID>
+    <SENTENCE>Čudim se Stankoviću što je izabrao ovog tipa za svoju emisiju N u2. Svoje goste bira po svojem izboru a u tome mu pomažu i neki drugi. Bilo kako bilo dobro je što mu se to dogodilo. Mi moramo trpiti njegove često nepoželjne goste u emisiji u najboljem terminu, pa neka sada vidi što se događa kada se nekome nešto nameće. Što se tiće Stankovićevih riječi: oduzeo nam je nešto što nije njegovo. Pa tome se ne treba čuditi, samo da ga podesjetimo što su Kusturičini sadašnji KOMŠIJE pokušali nama oduzeti.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>356</STARTINDEX>
+    <ENDINDEX>362</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1676</ID>
+    <SENTENCE>Jedino se nadam da neću imati problema sa servisima kao dosada na Opelu koji mi je poslije svakog servisa oduzeo par godina života i puno novaca iz džepa.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>112</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>8074</ID>
+    <SENTENCE>Prije 10tak godina studentima je dotični prostor oduzet i za vrijeme prošle uprave vraćen.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzet</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1614</ID>
+    <SENTENCE>U tie - breaku Čilić je dvaput imao minibreak prednosti, poveo je 3-1, a nakon promjene strana na 3-3 oduzeo je još jedan servis 27-godišnjem Španjolcu.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>108</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1703</ID>
+    <SENTENCE>Na današnjem ročištu obiteljski sudac je ponovno izrekao mjeru kojom je roditeljima oduzeo pravo da žive sa djetetom i to na rok od godine dana, piše Jutarnji list.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeo</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>90</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1793</ID>
+    <SENTENCE>To se dogodilo 10. prosinca 2004. Ta se poštanska povratnica nalazila u jednom spisu u Fondu za privatizaciju u sobi 249 i policija ju je također privremeno oduzela.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzela</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>157</STARTINDEX>
+    <ENDINDEX>164</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1765</ID>
+    <SENTENCE>Da su mu kojim slučajem policajci pretražili stan gdje živi oduzeli bi mu i taj pištolj tetejac, kao što su mu u ponedjeljak oduzeli pištolj kojim je prijetio, a onda možda on Dijanu ne bi imao čime ubiti.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzeli</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>1707</ID>
+    <SENTENCE>No, eto, zbog socijalne pravde taj njihov "preplaćeni" novac neće im biti pretočen u "prevelike" mirovine, nego će im biti oduzet i postati socijalni korektiv za podebljanje najmanjih mirovina.</SENTENCE>
+    <TARGETLEMMA>oduzeti</TARGETLEMMA>
+    <TARGETWORD>oduzet</TARGETWORD>
+    <TARGETPOS>v</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>V.006.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>123</STARTINDEX>
+    <ENDINDEX>129</ENDINDEX>
+  </INSTANCE>
+</SET>

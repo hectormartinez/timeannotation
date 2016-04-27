@@ -1,0 +1,3025 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <INSTANCE>
+    <ID>9863</ID>
+    <SENTENCE>Zbog oštećenog imunološkog sustava osobe s AIDS-om mogu imati teške i dugotrajne simptome aktivne herpes infekcije koja pomaže lakši prijenos oba virusa drugim osobama.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>90</STARTINDEX>
+    <ENDINDEX>97</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5344</ID>
+    <SENTENCE>Trenutno su 100 Mbps kartice u računalima (na nekima integrirane) i D-LINK - ov 8 portni switch i sve skupa još spojeno na Zyxel router od t - com - a sa aktivnim DHCP-om.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>154</STARTINDEX>
+    <ENDINDEX>162</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5334</ID>
+    <SENTENCE>Trećom fazom informatizacije HZZ-a informatizirali bi se sljedeći poslovni procesi iz projektne dokumentacije: utvrđivanje prava na materijalno pravnu naknadu, obračun i isplata naknada, poslodavci i radna mjesta, odabir kandidata, mjere aktivne politike zapošljavanja, informiranje stranaka, izrada statističkih izvješća, internet i intranet – razvoj novih usluga te knjigovodstvo posredovanja i poslovanja.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>238</STARTINDEX>
+    <ENDINDEX>245</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5321</ID>
+    <SENTENCE>Na planu redovnih dužnosti Mesić je aktivan koliko i na humanitarnome, i u tom kontekstu dao je još jednu u nizu zapaženih izjava na temu fenomena Bobetko, zaključujući kako je "odluka Žalbenoga vijeća Haaškoga suda očekivana".</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5282</ID>
+    <SENTENCE>U pronalaženju raznih načina da se mladim perspektivnim bendovima omogući sviranje, a da to ipak nisu kafići, donjostubički "STUB-KLUB" realizirao je ideju organiziranja koncerata na prostoru AMK Donja Stubica u Kolodvorskoj 26. Zgrade sa garažama koje se ne koriste, zemljište na kojem je izgrađen park za ekstremni biciklizam i susjedstvo u kojem su objekti napuštenih industrija učinili su se mladima idealnim da u tri tematska koncerta u posljednjih mjesec dana okupe aktivne glazbene grupe sa stubičkog i zabočkog područja.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>472</STARTINDEX>
+    <ENDINDEX>479</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9847</ID>
+    <SENTENCE>Koriste se za otpadne vode s pretežnim udjelom organskog opterećenja (npr. za gradove s jakom prehrambenom industrijom – mljekare, pivovare, klaonice) i to za kapacitete 2.000 – 30.000 ES. Proces pročišćavanja u lagunama je nisko opterećen biološki proces s povratom ili bez povrata aktivnog mulja.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>283</STARTINDEX>
+    <ENDINDEX>291</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5333</ID>
+    <SENTENCE>Uistinu je zadnji trenutak da se Hrvatska aktivnije uključi u svjetske tokove ili će opet ostati u zapećku.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>42</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5308</ID>
+    <SENTENCE>Zato što koži treba vremena za prilagodbu na nove aktivne sastojke.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5312</ID>
+    <SENTENCE>"Opće je stajalište da podržavamo integritet BiH. To znači da ne podržavamo bilo kakvo djelovanje u smislu podjele BiH. Istodobno, želimo biti aktivni u rješavanju problema koji postoje u BiH, ali ne možemo nametnuti rješenje i nitko to ne može. To je jako važno i u tome se slažem s predsjednikom Josipovićem", rekao je Tadić, dodajući da njegova vlada radi sve što može na pomirenju između Srba i Bošnjaka te najavio da će sljedeći tjedan srbijanski parlament donijeti rezoluciju "o ratnom zločinu u Srebrenici".</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>143</STARTINDEX>
+    <ENDINDEX>150</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9828</ID>
+    <SENTENCE>Shaq je napunio 36 godina i sigurno neće još dugo igrati, a četvrtoplasirani Wilt Chamberlain ubacio je 400 poena više od najboljeg strijelca među aktivnim košarkaškima u ligi, koji se trenutano nalazi na 27.411 ubačenih koševa.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5352</ID>
+    <SENTENCE>Upozorio je da se prečesto krši i ne poštuje aktivna uključenost socijalnih partnera u procese izmjena i dopuna i donošenja zakona i propisa.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>45</STARTINDEX>
+    <ENDINDEX>52</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5263</ID>
+    <SENTENCE>U raspravi su sudjelovali predstavnici nevladinih udruga aktivnih na zaštiti i promicanju ljudskih prava na području županije, Osijeka i Baranje te predstavnik SSSH.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>57</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5346</ID>
+    <SENTENCE>Pokazalo se da su aktivni samo fotografi.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5320</ID>
+    <SENTENCE>Kako bilo, Dinamo će u Kupu tražiti prvu ovosezonsku pobjedu nad Hajdukom, dok će igračima koje vodi Ante Miše osnovna misao na Maksimiru biti kako izboriti što bolji i aktivniji rezultat, koji bi im u uzvratu ostavljao nadu da će osvojiti vrijedni pokal.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivniji</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>169</STARTINDEX>
+    <ENDINDEX>178</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5300</ID>
+    <SENTENCE>Aktivna ili pasivna tehnologija ?</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>Aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9809</ID>
+    <SENTENCE>Parkovi prirode i nacionalni parkovi, raznovrsna ugostiteljska ponuda, probrani domaći specijaliteti organski uzgojene hrane, bezbrojne mogućnosti aktivnog odmora i izletničkih programa svrstavaju Zadar, Šibenik, koji se odlikuju jedinstvenim povijesnim i arhitektonskim spomenicima, i njihovu okolicu te otoke u sam vrh turističke ponude Hrvatske.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>147</STARTINDEX>
+    <ENDINDEX>155</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5272</ID>
+    <SENTENCE>Njena izgradnja počela je potkraj 80-ih, kad se zvala "Jurij Andropov", po jednom od posljednjih generalnih sekretara Komunističke partije SSSR-a, ali je preimenovana 1998. Sagrađena su četiri takva broda tipa "Kirov", ali su aktivna još samo dva.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>226</STARTINDEX>
+    <ENDINDEX>233</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5261</ID>
+    <SENTENCE>Ministar Jandroković izrazio je nadu kako će i ova rezolucija dodatno poboljšati uvjete zaštite civila zahvaćenih oružanim sukobima, te kazao kako će Republika Hrvatska nastaviti s aktivnim angažmanom u zaštiti civila i na drugim područjima.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>181</STARTINDEX>
+    <ENDINDEX>189</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5295</ID>
+    <SENTENCE>Potrebno je samo nekoliko minuta za instalaciju programa, nakon čega je on trajno aktivan u pozadini rada računala, čuvajući vas i vaše podatke.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>82</STARTINDEX>
+    <ENDINDEX>89</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5302</ID>
+    <SENTENCE>- Poticanje djece i mladih u njihovom aktivnom angažiranju u zajednici kao kreatora i aktera u programima primarne prevencije ovisnosti.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9886</ID>
+    <SENTENCE>Skupa s općim razlozima za provođenje vremena na aktivan način, zna se da svi imaju svoje individualne razloge.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>56</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5324</ID>
+    <SENTENCE>Manje razlike utvrđene su kad je riječ o čitanju i pisanju elektronske pošte i aktivnom bavljenju športom.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>79</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5304</ID>
+    <SENTENCE>Upućeni tvrde kako nije isključena mogućnost da Kovačević, koji se u aktivni SDP-ov stranački život uključio tek kandidaturom prije tri tjedna, i napusti stranku.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>69</STARTINDEX>
+    <ENDINDEX>76</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5305</ID>
+    <SENTENCE>Aktivna bolest i kraći period prije nje mogu biti uzrokom i bolesti zvane herpes zoster u odraslih, posebno u starijih ljudi.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>Aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5341</ID>
+    <SENTENCE>1996. osnovan je Karate savez Istarske županije, koji čine svi aktivni klubovi.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5235</ID>
+    <SENTENCE>Osim redovnog i aktivnog sudjelovanja u nastavi (predavanjima i vježbama) studenti su obvezni pripremiti se za nastavni sat što ima 10 % udjela u dobivanju konačne ocjene.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5201</ID>
+    <SENTENCE>Sistem ne koristi struju kad je aktivan, žice se mogu rezati bez učinka na deblokadu kotača.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>39</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5363</ID>
+    <SENTENCE>Vrhunac ovogodišnjeg Geneva Motor Show - a koji se održava u ožujku bit će svjetska premijera nove Mazde5, automobila koji ispunjava sve potrebe obitelji s aktivnim načinom života.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>156</STARTINDEX>
+    <ENDINDEX>164</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5314</ID>
+    <SENTENCE>Bio je i politički aktivan te se borio za pravo na slobodu govora ta za prava umjetnika.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>19</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5210</ID>
+    <SENTENCE>Inicijatori svojevrsne političke peticije spominju da bivši ministar vanjskih poslova u dobi od 62 godine ispunjava zakonske uvjete za odlazak u zasluženu mirovinu nakon što je zadnjih 20 godina proveo u aktivnoj politici.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>204</STARTINDEX>
+    <ENDINDEX>212</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9834</ID>
+    <SENTENCE>Ova je nagrada priznanje za njezin aktivni angažman u školovanju školskih knjižničara i za mentorski rad s njima.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5386</ID>
+    <SENTENCE>– U ovih devet godina otkako sam prestao aktivno igrati nogomet stalno sam aktivan na raznim funkcijama u nogometu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5271</ID>
+    <SENTENCE>To su proizvodi s aktivnim sastojcima iz ljekovitog bilja, uz dodatak eteričnih ulja i oligoelemenata.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9872</ID>
+    <SENTENCE>Za mlade ljude, koji su još spolno aktivni, gubitak potencije nakon operacije raka prostate predstavlja veliki problem.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>35</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5326</ID>
+    <SENTENCE>Još uvijek je aktivna, a 2008. izdala je album "The Crayons", zanimljiv uradak s modernom plesnom glazbom koji nema veze s njezinim prepoznatljivim stilom.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5297</ID>
+    <SENTENCE>Taj odnos je ono što me u mom radu najviše oduševljava, iako je malen broj aktivnih studenata koji odgovaraju idealnoj slici studenta.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9849</ID>
+    <SENTENCE>Srećom za buduće vlasnike manja masa i unaprijeđena aerodinamika (navodno će biti opremljen i aktivnim stražnjim krilom) nisu cijela priča.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9814</ID>
+    <SENTENCE>Srednji paket, LX Fresh, bogatiji je za alarmni uređaj, aktivne naslone za glavu na prednjim sjedalima, maglenke, kožne presvlake upravljača i ručice mjenjača, središnji naslon za ruke s dvostrukim pretincem te električno podesiva i grijana vanjska ogledala u boji karoserije.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>63</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9805</ID>
+    <SENTENCE>Za fotoaparat K-7 je razvijen novi sustav uklanjanja prašine, Dust Removal II, koji minimizira čestice prašine na senzoru i mrlje na snimljenim fotografijama, što je odgovor na potrebe aktivnih fotografa koji često mijenjaju objektive u uvjetima prašine i nečistoće.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>185</STARTINDEX>
+    <ENDINDEX>193</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5339</ID>
+    <SENTENCE>Aktivna solarna oprema kao što su pumpe, ventilatori mogu upotpuniti pasivni dizajn i poboljšati performanse sustava.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>Aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9815</ID>
+    <SENTENCE>Čak i u slobodnom vremenu budite što aktivniji.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivniji</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5337</ID>
+    <SENTENCE>Zanimljivo je spomenuti da je Safin jedan od rijetkih tenisača koji je protiv Samprasa imao pozitivan omjer tijekom aktivne karijere Amerikanca.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5303</ID>
+    <SENTENCE>Kao što je poznato, Hrvatska se nalazi na seizmički aktivnom području.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5306</ID>
+    <SENTENCE>No nesreća je što je ta vjera kršćanske Crkve o trajnoj prisutnosti Duha Svetoga, darovatelja, čuvara i unapreditelja života, u njoj i u njezinim vjernicima, više stajala u knjigama negoli u aktivnoj konkretnoj vjerskoj svijesti, u istinskom vjerskom iskustvu svakoga vjernika.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>191</STARTINDEX>
+    <ENDINDEX>199</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9888</ID>
+    <SENTENCE>Mislim da se kod njega stvorilo snažno uvjerenje da se mora vratiti u aktivnu politiku kako bi svojim povratkom preventivno spriječio daljnje širenje uvjerenja da je i on umočen u neke afere ', istaknuo je u intervjuu za Globus Šeks.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>70</STARTINDEX>
+    <ENDINDEX>77</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5323</ID>
+    <SENTENCE>Dok listovi ne dostignu svoju punu veličinu, preporuča se koristiti preparate na bazi aktivnih tvari ditianon i dodin.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>86</STARTINDEX>
+    <ENDINDEX>94</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9810</ID>
+    <SENTENCE>Sliku cijelog dana donekle popravlja segment obvezničkog tržišta gdje su institucionalni ulagači bili nešto aktivniji.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivniji</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>108</STARTINDEX>
+    <ENDINDEX>117</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5393</ID>
+    <SENTENCE>Procijenjuje se kako Iran ima više od 32 milijuna korisnika interneta što je zapadnjački prosjek, te nakon Kine i SAD-a najveći broj aktivnih blogera koji nesmetano i anonimno mogu kritizirati bilo koga, uključujući i samog iranskog predsjednika.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>133</STARTINDEX>
+    <ENDINDEX>141</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5382</ID>
+    <SENTENCE>Odgovor: ATP je potreban za aktivni prijenos tvari, tako da, ako nestane ATP-a, obustavlja se aktivni prijenos tvari.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>28</STARTINDEX>
+    <ENDINDEX>35</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9870</ID>
+    <SENTENCE>Na ovoj slici (D80) se recimo vidi kako se osvjetli grid i sve AF točke, no znima me da li se tako može 'zapaliti' i samo AF točka koja je aktivna ?</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>139</STARTINDEX>
+    <ENDINDEX>146</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9869</ID>
+    <SENTENCE>Arhivski i skladišni regali atraktivnog izgleda i izuzetno velikog izbora dimenzija idealni su za urede, arhivsko spremište te za aktivnu i pasivnu dokumentaciju.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>130</STARTINDEX>
+    <ENDINDEX>137</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5260</ID>
+    <SENTENCE>Nadzapovjednik Alojzije Šestan, zapovjednik Ratimir Hrešč i predsjednik Mihael Štebih uručili su mu Povelju najgardista, sablju Zrinske garde koja će mu nakon aktivnog staža ostati u trajno vlasništvo te prigodan dar.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>159</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5240</ID>
+    <SENTENCE>Među slavljenicima bio je, još uvijek "aktivan", ponetko kome je matura Učiteljske škole posljednja stečena "diploma".</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5255</ID>
+    <SENTENCE>Predavanja u ovoj knjizi vezana su uz problem zla iako po mnogome anticipiraju i teme na kojima je Hannah Arendt radila na kraju života, kada je svojim uvidima u "aktivni život" htjela dodati uvide u život uma, u pitanja volje i prosuđivanja.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>163</STARTINDEX>
+    <ENDINDEX>170</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9837</ID>
+    <SENTENCE>Za bratom dolazi u taekwondo klub Dan-Gun gdje je i danas aktivni natjecatelj.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9852</ID>
+    <SENTENCE>Centar je utemeljen na filozofiji aktivnog i energičnog načina života, brige o zdravlju i usvajanju zdravih navika.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>42</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5311</ID>
+    <SENTENCE>Kod njege kože muškaraca zbog brijanja postoji i rizik od posljedičnih postupalnih hiperpigmentacija, iritacija, kontaktnih dermatitisa, pseudofolikulitisa, folikulitisa i ostalih mogućih bakterijskih infekcija, stoga je odabir preparata za aktivnu njegu kože i više nego bitan za svakog muškarca !</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>241</STARTINDEX>
+    <ENDINDEX>248</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5230</ID>
+    <SENTENCE>Aktivna borba narodnjaka za hrvatsku državu i hrvatski jezik traje od daleke 1835. godine i Ilirskog pokreta, pa sve do Hrvatskog proljeća (1969-1974) i 1990. godine te stvaranja moderne Hrvatske narodne stranke.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>Aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9900</ID>
+    <SENTENCE>Miješajući bazni dio polako dodajte svu količinu aktivnog dijela, miješanje je potrebno dok smjesa ne postane potpuno homogena.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>49</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9813</ID>
+    <SENTENCE>Prema njima, oko 25 % seksualno aktivnih djevojaka priznalo je da su depresivne stalno ili većinu vremena, dok se isto osjeća 8 % seksualno neaktivnih djevojaka.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>32</STARTINDEX>
+    <ENDINDEX>40</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5231</ID>
+    <SENTENCE>O kojoj je govorio Nikola Buković, jedan od autora koji je istaknuo kako je smisao politike za mlade društvena integracija mladih u preuzimanju društvenih uloga, uz stvaranje slobode preferencija, izbora kreativnih pristupa i osnaživanja aktivne uloge mladih što je važno u podizanju kvalitete života mladih u zemlji.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>238</STARTINDEX>
+    <ENDINDEX>245</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5216</ID>
+    <SENTENCE>Stvarnost je takva, i od nje ne možemo pobjeći, već je potrebno ukazati na probleme udaljenijih i nešto teže pristupačnijih naselja kako bi se i ona uključila u planove prostornog planiranja te postala područja aktivnih društvenih događanja koja bi na neki način privlačila i zadržavala stanovništvo, pogotovo mlađe generacije.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>211</STARTINDEX>
+    <ENDINDEX>219</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5358</ID>
+    <SENTENCE>Nadalje, vitamin C pomaže apsorpciju željeza, a samim time i formiranje crvenih krvnih stanica, pretvara folnu kiselinu u njen aktivni oblik, djeluje kao antihistaminik te na taj način može pomoći u olakšavanju simptoma alergija.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5239</ID>
+    <SENTENCE>Korištenje API je jednostavno – developer ne treba nikakvu dozvolu od Etargeta ili registraciju, dovoljno je da ima aktivan korisnički račun u Etargetu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>123</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5283</ID>
+    <SENTENCE>Potrebno je povećati količinu aktivnog klora u vodi kako bi se zaustavio razvoj organizama u vodi.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>30</STARTINDEX>
+    <ENDINDEX>38</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5374</ID>
+    <SENTENCE>Aktivnim radom sa tim energijama mijenjamo način našeg razmišljanja o svijetu Božanskog.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>Aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>8</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9878</ID>
+    <SENTENCE>UNATOČ najavi koju je po povratku iz Dallasa iznio nekolicini novinara da mu je borba protiv Dos Santosa bila posljednja u karijeri, Mirko Filipović za sada ostaje aktivni borac.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>164</STARTINDEX>
+    <ENDINDEX>171</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9840</ID>
+    <SENTENCE>Registirirajte se, molim Vas, i budite aktivni u početcima foruma, i postoji jako velika šansa da postanete administrator !</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9816</ID>
+    <SENTENCE>Dodao je kako je činjenica da je Hrvatska jedna od nekoliko europskih zemalja u ovom trenutku koja ima gospodarski pad, te da su svi drugi već krenuli, zaključivši da to ne može biti slučajnost i da iza toga u pravilu stoji nekakva politika, nekakve aktivne mjere.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>250</STARTINDEX>
+    <ENDINDEX>257</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5234</ID>
+    <SENTENCE>- Ona je naša članica već dvije i pol godine i bila je aktivna sudionica Domovinskog rata.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9897</ID>
+    <SENTENCE>Upravo taj, srednji prst, još od drevnog Rima simbolizira aktivni falus, sa dva savijena prsta sa strane koji označavaju testise.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>58</STARTINDEX>
+    <ENDINDEX>65</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5228</ID>
+    <SENTENCE>Koliko će uspješnom poslovnom čovjeku, koji se nakon napornog dana vraća kasno uvečer doma, vrijediti mogućnost aktivnog odmora s obitelji ?</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>112</STARTINDEX>
+    <ENDINDEX>120</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5354</ID>
+    <SENTENCE>Kombinacija aktivnih sastojaka biljaka i ulja od andirobe pružaju odličan izgled.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>12</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5301</ID>
+    <SENTENCE>No, kako se približava početak turneje, i njihov nastup 21. svibnja na Tuborg Green Festu 09 u zagrebačkoj Areni, Depeche Mode sve su aktivniji, te nas u nedjelju, 08. ožujka, u 17,40 na RTL televiziji očekuje i hrvatska premijera videa za Wrong.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivniji</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>143</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9829</ID>
+    <SENTENCE>Aktivni pušači imaju smanjenu sposobnost regeneracije koštanog tkiva, što u kasnijoj dobi može uzrokovati osteoporozu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>Aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5298</ID>
+    <SENTENCE>Dječje kreme za lice su samo za dječju kožu i služe isključivo zaštiti od vanjskih utjecaja. Takve kreme nemaju u sebi nikakve aktivne komponente, pa zbog toga nisu primjerene njezi kože odrasle osobe.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>127</STARTINDEX>
+    <ENDINDEX>134</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9885</ID>
+    <SENTENCE>Analitički postupci i određivanja sila aktivnog tlaka, pasivnog otpora i tlaka mirovanja.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5211</ID>
+    <SENTENCE>Naše nam iskustvo pokazuje da bi, kako bismo postigli taj cilj, tehnološka obuka trebala biti usmjerena primarno na buduće i aktivne nastavnike, a tek onda na učenike osnovnih i srednjih škola.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>125</STARTINDEX>
+    <ENDINDEX>132</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5238</ID>
+    <SENTENCE>Glavna je aktivna tvar, koja lijeku daje željeno svojstvo i djelovanje.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5338</ID>
+    <SENTENCE>Još su stari Grci i Rimljani poznavali institucije civilnog društva, a tada je civilno društvo predstavljalo društvo u kojem su aktivni građani sudjelovali u oblikovanju politike.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>128</STARTINDEX>
+    <ENDINDEX>135</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5242</ID>
+    <SENTENCE>Gradonačelnica Vilmica Kapac zahvalila je svim sudionicima programa na velikom angažmanu, ali i posjetiteljima na odazivu, te ih pozvala da se i dogodine još aktivnije uključe u kreiranje manifestacije koja je ušla u svoje peto desetljeće.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>158</STARTINDEX>
+    <ENDINDEX>167</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9803</ID>
+    <SENTENCE>Prije nego što je otišao u Sjevernu Koreju Gomes je dvije godine podučavao engleski u glavnom gradu Južne Koreje Seulu, a aktivan je bio i u protestantskoj crkvi.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>129</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5203</ID>
+    <SENTENCE>U posljednje vrijeme nogometno je bio aktivan kao komentator utakmica i nogometnih događanja u okviru sportskog programa Hrvatske televizije.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5207</ID>
+    <SENTENCE>Tamara Visković, nova gradska poglavarka za kulturu, smatra da bi se Služba za povijesnu jezgru trebala aktivnije odnositi prema saniranju dotrajale infrastrukture.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5226</ID>
+    <SENTENCE>Ovih dana u časopisu Plant Foods for Human Nutrition, koji uglavnom objavljuje radove o vrijednosti pojedinih spojeva u hrani, objavljen je članak skupine meksičkih znanstvenika koji zaključuju da su neophodna istraživanja na poboljšanju biološke raspoloživosti pojedinih farmakološki aktivnih tvari iz bobičastog voća.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>285</STARTINDEX>
+    <ENDINDEX>293</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5213</ID>
+    <SENTENCE>No, tijekom 2006. godine je trend nakladničkog preuzimanja knjižarske mreže doveo do gotovo potpunog izumiranja neovisnog knjižarstva, danas svedenog na svega par aktivnih snažnijih neovisnih knjižara.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>163</STARTINDEX>
+    <ENDINDEX>171</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5396</ID>
+    <SENTENCE>Već osam godina aktivan je na njemačkoj (Bonn, Duesseldorf, Bielfeld), europskoj (Nizozemska, Švicarska, Francuska) i možemo reći svjetskoj (Namibija, južna Afrika) glumačkoj sceni.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5383</ID>
+    <SENTENCE>Pravobraniteljica za djecu Mila Jelavić tom je prilikom istaknula važnost dječjeg izravnog sudjelovanja u kreiranju i širenju informacija važnih djeci, a osobito informacija koje se tiču njihovih prava i aktivnog sudjelovanja u društvu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>204</STARTINDEX>
+    <ENDINDEX>212</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5274</ID>
+    <SENTENCE>Klub, otkako se 2000. godine otvorio, strane i domaće goste privlači svojim originalnim konceptom - u sklopu kluba nalazi se komunikativna, otvorena i aktivna umjetnička galerija, koja posjetiteljima nudi pomno osmišljene, autentične sadržaje, seperai su razmješteni na preko više od devet tisuća kvadratnih metara mediteranskog parka i prima oko dvije tisuće gostiju, iako klub tijekom sezone posjeti impresivna brojka od više od pedeset tisuća stranih i domaćih gostiju željnih dobrog provoda koji je u ovom klubu zagarantiran.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>151</STARTINDEX>
+    <ENDINDEX>158</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5222</ID>
+    <SENTENCE>DRAŽEN BUDIŠA se vratio u aktivnu politiku !</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>26</STARTINDEX>
+    <ENDINDEX>33</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5217</ID>
+    <SENTENCE>Naravno, za kraj nikako ne smijem zaboraviti spomenuti i kolege iz blogosfere i šire koji su u ovo ljetno vrijeme bili vrlo aktivni, pa se pojavio fini broj zanimljivih projekata, od kojih su me neki stvarno vrlo ugodno iznenadili.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>124</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9899</ID>
+    <SENTENCE>U svrhu ostvarivanja svojih ciljeva Udruga potiče istraživačke djelatnosti u biologiji i ribarstvu, organiziranje stručnih izleta za svoje članove, organiziranje tribina, skupova, seminara i sl., pokretanje projekata koji imaju za cilj unapređenje biologije, ekologije, ribarstva i studentskog života, aktivnu suradnju i sudjelovanje u akcijama i programima sa studentskim i drugim organizacijama u Republici Hrvatskoj i svijetu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>302</STARTINDEX>
+    <ENDINDEX>309</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5209</ID>
+    <SENTENCE>Osim popratnih medijskih prisjećanja na Vilima Svećnjaka, inicijatora osnivanja Galerije likovnih umjetnosti 1948., prethodnih ravnatelja / ica Borisa Vižintina, Daine Glavočić, Berislava Valušeka, Ljubice Dujmović Kosovac, svih nedaća, od političkih utjacaja do neadekvatnog prostora i strukovnih trzavica, naglasak je na početku te aktivne izložbe bio na svim pozitivnim iskoracima koji su Muzej moderne i suvremene umjetnosti u Rijeci upisali na kulturnu mapu Hrvatske.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>334</STARTINDEX>
+    <ENDINDEX>341</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9890</ID>
+    <SENTENCE>Da li se virus može prenijeti i kad nije aktivan i kada se koriste prezervativi ?</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9804</ID>
+    <SENTENCE>Utvrđeno je da se sedra može taložiti u vodama temperature 2-22 ° C. Istraživanje starosti sedre Plitvičkih jezera pokazalo je da je tzv. recentna (sadašnja aktivna) sedra počela nastajati prije oko 6.000-7.000 godina.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>157</STARTINDEX>
+    <ENDINDEX>164</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5335</ID>
+    <SENTENCE>Istraživanje među tisuću ispitanika pokazalo je, štoviše, da aktivan život gotovo prepolovljuje izglede da se "zakači" virus prehlade, a moguću infekciju čini manje ozbiljnom, donosi BBC online.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>61</STARTINDEX>
+    <ENDINDEX>68</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5233</ID>
+    <SENTENCE>Produžilo se ljeto, a time su dulji i aktivni poskoci i crne udovice - rekao je za Vecernji.hr dr. sc. med.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>38</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5351</ID>
+    <SENTENCE>Jedan od načina povratka alkoholičara u normalan život je rehabilitacija koja se stječe aktivnim radom u klubu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>88</STARTINDEX>
+    <ENDINDEX>96</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5276</ID>
+    <SENTENCE>Obilježje aktivne šarenice automatski osigurava podešavanje kako bi omogućilo najbolji kontrast slike i dubinu u svijetlim ili tamnim scenama.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>10</STARTINDEX>
+    <ENDINDEX>17</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9876</ID>
+    <SENTENCE>Vrlo tajnovita zmija koja je aktivna danju.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>29</STARTINDEX>
+    <ENDINDEX>36</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9827</ID>
+    <SENTENCE>Nizozemski stoper Jaap Stam oprostio se od aktivnog igranja nogometa.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5223</ID>
+    <SENTENCE>O aktivnijem povratku u politiku trenutačno ne razmišljam, ali isto tako, ne želim ni decidirano reći kako to nikada više neću poželjeti.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnijem</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>2</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9843</ID>
+    <SENTENCE>U dosadašnjojliteraturi tvrdilo se da je to vrsta aktivne konstrukcije jerpacijens nije subjektiviziran.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>50</STARTINDEX>
+    <ENDINDEX>57</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9811</ID>
+    <SENTENCE>Osim na S.O.S. telefonu – poziv u pomoć, aktivna je i u Udruzi za borbu protiv ambrozije, koja je izdavač slikovnice "Zelenkapica", čiji je tekst također napisala.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>48</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9856</ID>
+    <SENTENCE>Oni koji vole aktivni odmor mogu plivati, baviti se surfingom, skijati se na vodi ili igrati nogomet i odbojku na plaži.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>21</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9822</ID>
+    <SENTENCE>Provjera znanja će se provoditi tijekom školske godine putem testova, ocjenjivanja aktivnog učešća studenata na seminarima i vježbama, te ocjenjenih eseja.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>83</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5292</ID>
+    <SENTENCE>"Tvrtke iz sektora naših ciljanih industrija postaju sve više međunarodne i aktivne u istočnoj Europi.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>76</STARTINDEX>
+    <ENDINDEX>83</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9817</ID>
+    <SENTENCE>U mirovinu je otišao kao pomoćnik glavnog ravnatelja za TV i posebne projekte, ali ni u to vrijeme nije se želio odreći aktivnog novinarstva.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>120</STARTINDEX>
+    <ENDINDEX>128</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5345</ID>
+    <SENTENCE>Trenutni trend u ponudi obiteljskih aktivnih odmora je i obiteljski program jedrenja.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>44</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9896</ID>
+    <SENTENCE>Među inim bio je aktivan i u više zadarskih društava posebice u Planinarskom drušrvu Liburnija.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9892</ID>
+    <SENTENCE>Iz Ureda glasnogovornika dobili smo sljedeće priopćenje: "U sklopu jačanja procesa stabilizacije i demokratizacije u regiji, Republika Hrvatska želi igrati aktivnu ulogu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>156</STARTINDEX>
+    <ENDINDEX>163</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5285</ID>
+    <SENTENCE>Speleološki odsjek bio je tijekom 2004. godine iznimno aktivan i to na raznim poljima: istraživanjima, biospeleologiji, posjetima, planinarskim izletima, uređenju prostorija Odsjeka i ostalima.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>55</STARTINDEX>
+    <ENDINDEX>62</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5269</ID>
+    <SENTENCE>Ali po mom mišljenju najbolji je Franck Ribery - rekao je Zidane, koji se povratkom Florentina Pereza na čelo Reala nešto aktivnije uključio u klub.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>122</STARTINDEX>
+    <ENDINDEX>131</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5370</ID>
+    <SENTENCE>Stranica je postala vrlo aktivna u vrijeme "Barufa" tako da su se tisuće posjetitelja u kratko vrijeme zavrtile na op-barufe.com.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5244</ID>
+    <SENTENCE>Minigo, kolega koji je i aktivni član HLZ-a i da će sada biti drugačija, profesionalna suradnja.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5380</ID>
+    <SENTENCE>UKŠ se najčešće javlja kod mlađih spolno aktivnih žena i kod žena koje koriste intrauterini uložak.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>41</STARTINDEX>
+    <ENDINDEX>49</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9865</ID>
+    <SENTENCE>Bavljenje mentalnim vježbama poput rješavanja križaljki, čitanja, pisanja, kartanja i slaganja puzzli održava mozak aktivnim te se na taj način odgađaju simptomi bolesti.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>116</STARTINDEX>
+    <ENDINDEX>124</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5293</ID>
+    <SENTENCE>Aktivni sastojak biljke partenolid sprječava izlučivanje serotonina i histamina koji, ako se ne kontroliraju, mogu uzrokovati glavobolju.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>Aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5206</ID>
+    <SENTENCE>Aktivni pristup učenju je temelj blokovske turnusne nastave i to treba što prije inkorporirati u naš curriculum.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>Aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>0</STARTINDEX>
+    <ENDINDEX>7</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5378</ID>
+    <SENTENCE>PORUKA DANA: Da biste se što bolje osjećali u svojoj koži, budite tjelesno aktivni - osobito ako vam je posao statičan.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5205</ID>
+    <SENTENCE>MSM (metilsulfonilmetan) je izvor biološki aktivnog sumpora.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5348</ID>
+    <SENTENCE>No, ti procesi razaraju sve ključne aktivne sastojke poput vitamina E, F i esencijalnih masnih kiselina koje se tako zovu jer se bez njih naše tijelo ne bi moglo braniti od upalnih i alergijskih procesa.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5251</ID>
+    <SENTENCE>3. mali kvadrat unutar velikog kvadrata sa zrakama znači da je GPRS trenutno aktivan.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9877</ID>
+    <SENTENCE>Mariela Castro Espín svjetski je poznata i vrlo aktivna seksologinja, voditeljica kubanskog Nacionalnog centra za seksualni odgoj (CENESEX), predsjednica Kubanskog društva za interdisciplinarne studije o seksologiji, izvršna članica Svjetske udruge za seksualno zdravlje i urednica časopisa Sexologia y Sociedad.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>48</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5379</ID>
+    <SENTENCE>Pružio je važnu organizacijsku potporu (prikupljanje sredstava i koordinaciju) za Ljetnu školu znanosti od njenog početka, 2001. Korado je još uvijek je aktivan kao mentor na Višnjanskoj školi astronomije.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>153</STARTINDEX>
+    <ENDINDEX>160</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5262</ID>
+    <SENTENCE>Bila je to Thuramova 15 utakmica čime je prestigao sunarodnjaka Zinedine Zidanea, Portugalca Luisa Figa i Čeha Karela Poborskog koji su dosad imali 14 nastupa, a s obzirom da nitko od njih nije više aktivan u svojim reprezentacijama znači kako će Thuram još povećati prednost u broju utakmica.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>199</STARTINDEX>
+    <ENDINDEX>206</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5229</ID>
+    <SENTENCE>COMPACT-HEMI aktivna su invalidska kolica konstruirana za potrebe hemiplegičara.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS />
+    <ISNOTA>true</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>13</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9846</ID>
+    <SENTENCE>Sastoje se od 21 aktivne tablete i 7 neaktivnih koje ne sadrže hormone.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5317</ID>
+    <SENTENCE>Jeste li još politički aktivni ?</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>23</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5342</ID>
+    <SENTENCE>Ion cinka, otkriven u aktivnom mjestu ezima, direktno je uključen u mehanizam selekcije pripadne aminokiseline.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>22</STARTINDEX>
+    <ENDINDEX>30</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5299</ID>
+    <SENTENCE>Ona je bila isto aktivna i 1972 godine je sa nebodera u Zgrebu bacila letke u kojima je pozivala hrvatski narod da su digne za slobodu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5373</ID>
+    <SENTENCE>Ne prepoznamo li se u Čičkovoj kvalifikaciji "skupina ljudi koja mrzi rod hrvatski", a zauzmemo li pozu analognu drugim akterima civilne scene, koji odreda hvale događaje u kojima su sami sudjelovali (a kude organe državne represije koji su se na njih, nakon što su bili aktivni, obrušili), možemo se upitati: nije li "afera naslovnica" bio najpozitivniji događaj za Srbe na civilnoj sceni Hrvatske prošle godine ?</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>271</STARTINDEX>
+    <ENDINDEX>278</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5355</ID>
+    <SENTENCE>Naime, nije sa sigurnošću potvrđeno jesu li antifosfolipidna protutijela tek biljeg protrombotskog stanja ili pak aktivni sudionik u procesu trom ¬ bogeneze.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>114</STARTINDEX>
+    <ENDINDEX>121</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5204</ID>
+    <SENTENCE>Sukladno tome Phenomi II iz donjeg tržišnog segmenta imaju dvije aktivne jezgre i označeni su s X2, oni iz srednjeg segmenta imaju tri aktivne jezgre i označeni su s X3, dočim najskuplji koriste sve četiri jezgre, pa su označeni s X4.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>142</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9826</ID>
+    <SENTENCE>Da li je to dnevni boravak (gdje čovjek pretežno sjedi ili leži) ili je to radni prostor (čovjek je aktivan).</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>100</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5291</ID>
+    <SENTENCE>Škegro je imao aktivnu ulogu u tajkunizaciji - što bi on sad poštenog mogao napraviti. On vjerojatno nije dobar izbor.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>15</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5252</ID>
+    <SENTENCE>On dozvoljava da se više PIM-SM domena spoje zajedno, gdje RP na kojem je aktivan MSDP razmjenjuje informacije na lokalno aktivnim izvorima slanjem MSDP Source-Active (SA) poruke drugim RP-evima kojima je aktivan MSDP u drugim domenama preko TCP konekcije.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>74</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9891</ID>
+    <SENTENCE>Tricky D - amBASSador i jedan od prvih aktivnih underground jungle DJa u Berlinu početkom 90ih. U isto vrijeme svirao u prvom njemačkom live jungle bendu Elektronauten.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>47</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9845</ID>
+    <SENTENCE>"Budući da raste broj umirovljenika u Europi a pada relativan broj radno aktivnih građana, potrebne su dodatne reforme kako bi primjerene mirovine i dalje bile održive", konstatira EK u Zelenoj knjizi koja će biti objavljena 7. srpnja.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>73</STARTINDEX>
+    <ENDINDEX>81</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5221</ID>
+    <SENTENCE>Rumsfeld je naveo kako SAD ima više od 1,4 milijuna aktivnih vojnika i oko 2 milijuna u Nacionalnoj gardi i pričuvi od kojih je samo 138.000 u Iraku.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>52</STARTINDEX>
+    <ENDINDEX>60</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5248</ID>
+    <SENTENCE>Pokusi su pokazali da se ovisno o veličini aktivne površine, relativnoj vlažnosti i duljini kontakta može adsorbirati od 2.3 do 65.4 % formaldehida iz struje zraka, što potvrđuje pretpostavku da izloženost formaldehidu nije ograničena samo na prisutnost plinovitog formaldehida u udahnutom zraku.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9864</ID>
+    <SENTENCE>Cilj Info dana bio je predstaviti mogućnosti koje stoje na raspolaganju mladima i organizacijama aktivnim u radu s mladima u svjetlu punopravnog sudjelovanja Republike Hrvatske u programu Mladi na djelu od 2011. godine, kao i predstaviti iskustva dosadašnjih korisnika programa.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>105</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5362</ID>
+    <SENTENCE>Dolaskom turista iz bogatijih europskih zemalja povećala se i potrošnja izvan unaprijed uplaćenog pansiona pa je ona lani bila čak 42 posto veća od one ostvarene u 2001. Najveći porast zabilježen je u potrošnji za zabavne sadržaje, a kod turista što dolaze iz Europe na sve je većoj cijeni i aktivan odmor koji podrazumijeva kombinaciju odmora s posebnim aktivnostima i hobijima kao što su tenis, jedrenje na dasci ili obilaženje vinskih podruma na kakvoj vinskoj cesti.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>292</STARTINDEX>
+    <ENDINDEX>299</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5232</ID>
+    <SENTENCE>Placebo je inaktivna tvar koja se koristi u kontroliranim istraživanjima za usporedbu s predvidivo aktivnim lijekovima ili se propisuje za ublažavanje simptoma, odnosno zadovoljenje bolesnikove želje da se liječi. isto tako bilo koji terapijski postupak može biti placebo, uključujući kirurške i psihološke metode.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>107</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9835</ID>
+    <SENTENCE>Zbog toga se istraživanje stalno ili povremeno aktivnih objekata treba provoditi oprezno, poznavajući lokalne hidrogeološke i hidrološke uvjete.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>47</STARTINDEX>
+    <ENDINDEX>55</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9867</ID>
+    <SENTENCE>Osobito osjetljivi za malignu transformaciju su proliferativno aktivni terminalni mliječni kanalići.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>63</STARTINDEX>
+    <ENDINDEX>70</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9893</ID>
+    <SENTENCE>Sažimanjem, zapravo resetiranjem zbiljskog na ishodišno bitno  na egzistencijale dihotomijski iskazane / sučeljene kao odnos materijalnog (strukturalna gustoća podloge i materičnost nanosa boje) i duhovnog koji materijalno dopunjuje i čini smislenim (svjetlo, iluminozni stilizirani likovi ljudskih prispodoba) Mijić se opredijelio za interpretativnu soluciju koja nimalo ne dvoji u mogućnost govora znakovlja: reduciranim znakovima (simbolima) može se približiti istini i kreativnoj, radnoj, aktivnoj zbilji bliže nego bilo kojom realističko - mimetičkom interpretacijom temeljenom na narativnom iluzionizmu u smislu prispodobljenja predmetnosti ili likova pod vidom nečega ili nekoga.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>494</STARTINDEX>
+    <ENDINDEX>502</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5368</ID>
+    <SENTENCE>Zagovara aktivni način odmora kroz hodanje, plivanje i vježbanje joge u prirodi te zdravu prehranu, domaće sezonsko voće i povrće.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>9</STARTINDEX>
+    <ENDINDEX>16</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9884</ID>
+    <SENTENCE>Ove godine bili su posebno aktivni u prezentaciji Liginih aktivnosti u uličnim akcijama prikupljanja knjiga, igračaka i odjeće.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>27</STARTINDEX>
+    <ENDINDEX>34</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5331</ID>
+    <SENTENCE>Kad su u pitanju naša tzv. ratna pisma, i hrvatska i bosanska, ona bi redovito najprije bila legitimirana izvanliterarno (sjećanjima, aktivnim sudjelovanjem samog autora, svjedočenjem i sl.), i na taj bi način prolazile ovdašnje verzije političke korektnosti (znate ono, utvrditi najprije tko je agresor, a tko žrtva i tome slično), da bi se tek nakon sve te složene procedure možda i napisala priča, naravno, ako je išta od nje ostalo nakon takva patriotskoga glajhšaltovanja.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>134</STARTINDEX>
+    <ENDINDEX>142</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5389</ID>
+    <SENTENCE>Stevia je prirodni zaslađivač koji ne sadrži kalorije, ne izaziva karijes, a aktivni sastojci podnose i visoke temperature što ju čini pogodnom za kuhanje (osobito za pripremu kolača).</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>77</STARTINDEX>
+    <ENDINDEX>84</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9821</ID>
+    <SENTENCE>Ciljevi akcija mogu se objediniti sloganom: "Upoznaj CARNet, koristi Internet", a bili su ovi: upoznati studente i profesore s CARNetom, informirati ih djelatnostima i uslugama koje nudi članovima akademske zajednice te ih potaknuti na aktivnije korištenje Interneta.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>236</STARTINDEX>
+    <ENDINDEX>245</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5278</ID>
+    <SENTENCE>Budite što aktivniji, riješite što je više moguće problema, poduzmite sve što ste planirali u vezi s poslom.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivniji</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>11</STARTINDEX>
+    <ENDINDEX>20</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5241</ID>
+    <SENTENCE>Svetac je bio maksimalno aktivan na zemlji, a sad na nebu nije prestao biti pomoćnik ljudi.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>25</STARTINDEX>
+    <ENDINDEX>32</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9833</ID>
+    <SENTENCE>Prvi, još uvijek aktivni političar austrijske ekstremne desnice kojeg se povezuje s ovim 'bankovnim krimićem' jest Josef Bucher, predsjednik Saveza za budućnost Austrije, stranke koju je Haider osnovao nakon raskola u Slobodarskoj stranci (FPÖ).</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>24</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5309</ID>
+    <SENTENCE>Istraživanje je pokazalo i da su dosad krizom najviše pogođene obitelji s dvoje djece i radno aktivnim roditeljima u kojima je zabilježeno najveće povećanje stope siromaštva, ali da to ne znači da kriza nije dotakla i "stare nezaposlene".</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>94</STARTINDEX>
+    <ENDINDEX>102</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9857</ID>
+    <SENTENCE>No Microsoft nije nikako povezan s faksevima da bi imao uvid tko je od MSDNAA korisnika još uvijek aktivni student a tko ne.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>99</STARTINDEX>
+    <ENDINDEX>106</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5394</ID>
+    <SENTENCE>Posebno je istaknuo da je Makedonija dobrodošla u članstvo čim riješi spor oko imena s Grčkom, te najavio aktivnu suradnju SAD s BiH i Crnom Gorom u njihovom približavanju članstvu u Savezu, posebno kroz Jadransku povelju.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>106</STARTINDEX>
+    <ENDINDEX>113</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5294</ID>
+    <SENTENCE>Za uzvrat ne tražimo puno, samo da se bude aktivan na forumu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9818</ID>
+    <SENTENCE>Predstava društva studenata kroatologije Cassius: Studenti Hrvatskih studija kao aktivni članovi udruge Cassius izvode predstavu "John Smith, princeza od Walesa" autora Tomislava Zajeca u trajanju od 45 minuta.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5215</ID>
+    <SENTENCE>Tako danas zaista mnogo znamo o HPV infekciji koja je vrlo učestala, gotovo normalna infekcija spolno aktivnih ljudi.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>102</STARTINDEX>
+    <ENDINDEX>110</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5281</ID>
+    <SENTENCE>Nvidia je službeno izdala svoju prvu grafičku karticu s Fermi arhitekturom za srednji tržišni segment, GeForce GTX 465. Za razliku od snažnijih modela, ova kartica ima aktivna samo tri Graphics Processing Clustera i ukupno 352 CUDA jezgre te gigabajt GDDR5 memorije putem uže 256-bitne sabirnice.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>168</STARTINDEX>
+    <ENDINDEX>175</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9824</ID>
+    <SENTENCE>Ako želite iskusiti aktivni odmor, Hotel Meteor stavlja Vam na raspolaganje zatvoreni ili otvoreni bazen, saune i wellness centar.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>20</STARTINDEX>
+    <ENDINDEX>27</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9854</ID>
+    <SENTENCE>Djevojke su uz snimanje albuma i koncertno aktivne !</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>43</STARTINDEX>
+    <ENDINDEX>50</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9851</ID>
+    <SENTENCE>Postat će pasionizirani promatrač rukometnih zbivanja, a ne više aktivni, kao što je bio u posljednjih tridesetak godina.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>65</STARTINDEX>
+    <ENDINDEX>72</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5296</ID>
+    <SENTENCE>Ovim studijem Fakultet organizacije i informatike želi stvoriti nove kvalitetne istraživače sposobne za aktivan doprinos i unapređenje ovog dinamičnog polja znanosti.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>104</STARTINDEX>
+    <ENDINDEX>111</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9823</ID>
+    <SENTENCE>Osim islamističkih skupina i kurdskih separatista, u Turskoj su aktivne i brojne ljevičarske organizacije.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>64</STARTINDEX>
+    <ENDINDEX>71</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9879</ID>
+    <SENTENCE>Kao takav, on je ovdje u svijetu borac za pravdu i oslobođenje potlačenih, borac za ljubav koja pomaže potrebnima, a nadasve on je aktivan svjedok ljubavi po kojoj u srcima ljudi raste Krist "(Apostolsko pismo o štovanju Marije, br. 37).</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>131</STARTINDEX>
+    <ENDINDEX>138</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9831</ID>
+    <SENTENCE>Po kvaliteti je kardinalan, što znači da je aktivan i jak.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>44</STARTINDEX>
+    <ENDINDEX>51</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9875</ID>
+    <SENTENCE>Koliko traje taj bon od 50 kn, tj koji su najdulji iintervali ukojima to mozes uplacivati, a da ti je internet aktivan ?</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5220</ID>
+    <SENTENCE>"Mi nećemo ostati samo na komentaru i osudi već ćemo i konkretnim aktivnostima, čije rezultate možemo očekivati u idućih desetak dana, aktivnije pokušati sudjelovati u rješavanju problema u susjednoj državi", istaknuo je premijer.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnije</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>135</STARTINDEX>
+    <ENDINDEX>144</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9819</ID>
+    <SENTENCE>Sada, 1999. godine, kao "svježi" umirovljenik i dalje obavlja liječnički poziv, aktivan je u Slatini u lovačkoj organizaciji i budno prati zbivanja u i oko PDSV, pa nam je ukazao i na aktualna događanja oko Crvenog Jezera kod Imotskog.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>80</STARTINDEX>
+    <ENDINDEX>87</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5332</ID>
+    <SENTENCE>Njegovi aktivni spojevi izazivaju neurološka oštećenja, hormonalne poremećaje, oštećenja imunološkog sustava i rak, a mogu uzrokovati i otpornost prema drugim antibioticima.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>8</STARTINDEX>
+    <ENDINDEX>15</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5287</ID>
+    <SENTENCE>Materijalno tijelo sve manje postaje aktivnim činiteljem, a sve više posljedica zbivanja na jednoj mnogo dubljoj razini stvarnosti.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnim</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5288</ID>
+    <SENTENCE>Osim spomenutog Servisnog centra koji se nalazi u Sesvetama aktivan je i Servisni centar u Solinu koji omogućuje dostupnost naših usluga i na području Dalmacije, a u njemu možete obaviti i kompletan brzi servis motornih vozila.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5350</ID>
+    <SENTENCE>Smanjena sinteza aktivnog vitamina D3 (kalcitriol) rezultira smanjenjem koncentracije kalcija u serumu zbog smanjene apsorpcije kalcija u crijevu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>17</STARTINDEX>
+    <ENDINDEX>25</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5264</ID>
+    <SENTENCE>Primjeren je za vlasnike brodova i sportaše odnosno goste koji si žele priuštiti aktivan odmor u kombinaciji s različitim Health &amp; Wellness programima.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>81</STARTINDEX>
+    <ENDINDEX>88</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5277</ID>
+    <SENTENCE>Jednako tome, novim zakonskim rješenjima o obveznim osiguranjima država će u sustav oporezivanja uvesti 360.000 zaposlenih po ugovoru o djelu ili ugovoru o radu, što čini 20 posto radno aktivnog stanovništva.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>186</STARTINDEX>
+    <ENDINDEX>194</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9839</ID>
+    <SENTENCE>Zanimljivo je da je među depresivnima najviše građana u aktivnoj životnoj dobi od 35 do 55 godina.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnoj</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>56</STARTINDEX>
+    <ENDINDEX>64</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5310</ID>
+    <SENTENCE>Poručujem svim našim prijateljima i onima koji nas podržavaju da će Republika Hrvatska biti aktivna u izgradnji europske obitelji naroda.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5349</ID>
+    <SENTENCE>Jedini aktivni su prinove (Brazilci Paraiba i Thiaguinho, Nigerijac Eliakwu te Mario Sačer, Krešimir Ljubičić i Ivan Rodić) koje su u pratnji Hajdukova liječnika, dr.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>7</STARTINDEX>
+    <ENDINDEX>14</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5376</ID>
+    <SENTENCE>Dakle, kad se otvorila ova tema, TS Alibi je bio nešto u mijenjanju imena, pa sam htio pričekati dok se to riješi pa da nas uvrste na listu, ali sam jednostavno zaboravio.: down: Nego, da ne duljim, TS Alibi djeluje od 2004. godine, svi članovi su iz Mraclina (to je blizu Velike Gorice), a od aktivnih članova ovog foruma u bendu svira i jkos (basist).</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>294</STARTINDEX>
+    <ENDINDEX>302</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5375</ID>
+    <SENTENCE>Povodom 20 godina Konvencije UN-a o pravima djeteta i 10 godina akcija "GRADOVI I OPĆINE - PRIJATELJI DJECE", Središnji koordinacijski odbor akcije u suradnji s UNICEF-om - Ured za RH, organizirao je konferenciju "Pravo djeteta na zdravlje i razvoj" u sklopu koje se održao i "XXI Simpozij socijalne pedijatrije" gdje je i Udruga "Zajedno do zdravlja" bila aktivni sudionik.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>357</STARTINDEX>
+    <ENDINDEX>364</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9801</ID>
+    <SENTENCE>- Za aktivnu politiku zapošljavanja za 2010. predviđeno je 117 milijuna kuna.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>5</STARTINDEX>
+    <ENDINDEX>12</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5366</ID>
+    <SENTENCE>Osim u Sloveniji i Srbiji, gdje Resimića mediji povezuju s tzv. zemunskim klanom, on je bio aktivan i u Hrvatskoj.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>92</STARTINDEX>
+    <ENDINDEX>99</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5270</ID>
+    <SENTENCE>Inače 22 su mi godine, imam stalnog partnera, već dugo i u fazama kad sam dobila gljivice nismo bili seksualno aktivni !!!</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>111</STARTINDEX>
+    <ENDINDEX>118</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9883</ID>
+    <SENTENCE>"Zemlje u razvoju gledaju u vas, čelnike najnaprednijih i najmoćnijih zemalja svijeta, očekujući aktivnu potporu", rekao je Annan u pismu šefovima država ili vlada zemalja skupine G8 koji se sastaju 1-3 lipnja u francuskom Evianu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>97</STARTINDEX>
+    <ENDINDEX>104</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5360</ID>
+    <SENTENCE>WHO ima podatke o aktivnom prijenosu virusa H1N1 u mediteranskim zemljama na Sjeveru Afrike (Alžir, Tunis i Egipat).</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnom</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>18</STARTINDEX>
+    <ENDINDEX>26</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5384</ID>
+    <SENTENCE>Kada unesete sve podatke naš administrator vrši autorizaciju oglasa i oglas postaje aktivan.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>84</STARTINDEX>
+    <ENDINDEX>91</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9844</ID>
+    <SENTENCE>Kako doznajemo od njenog odvjetnika Krešimira Vilajtovića, Nevenka Jurak također će uskoro dati aktivnu obranu u tom predmetu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnu</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>96</STARTINDEX>
+    <ENDINDEX>103</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9881</ID>
+    <SENTENCE>Posebno u slučaju kada je ugrađen aktivan ovjes s liste doplata, koji smo mogli upoznati na Passatu CC i Sciroccu.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>34</STARTINDEX>
+    <ENDINDEX>41</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5377</ID>
+    <SENTENCE>Ali bilo je to i zagovaranje općeg i aktivnog bojkota izbora, neke vrste građanskog štrajka protiv sistema, što bi možda pomaknulo neke stvari.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnog</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>37</STARTINDEX>
+    <ENDINDEX>45</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9830</ID>
+    <SENTENCE>Meni je prednost što ne moram imati aktivna dva, ili čak četiri u kućanstvu, računa kod mobilnog operatera.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivna</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.05</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>36</STARTINDEX>
+    <ENDINDEX>43</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5225</ID>
+    <SENTENCE>Naime, kandidirati za članstvo u Savjetu mogu se samo mladi aktivni u nekom obliku organiziranja mladih.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>60</STARTINDEX>
+    <ENDINDEX>67</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5256</ID>
+    <SENTENCE>Mesić odlazi iz aktivne politike (nadam se), na isti naćin na koji je i došao na poziciju predsjednika.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5247</ID>
+    <SENTENCE>Bivši politički aktivan i nakon što je 1981. otišao iz Bijele kuće, bio je već u mnogim diplomatskim misijama u inozemstvu, ali nijedna nije bila važnija od ove.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>16</STARTINDEX>
+    <ENDINDEX>23</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9825</ID>
+    <SENTENCE>Za Stipu, vitalnog sedamdesetogodišnjaka koji je još uvijek vodio aktivan život, taj dan je protekao kao i obično.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivan</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>66</STARTINDEX>
+    <ENDINDEX>73</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9836</ID>
+    <SENTENCE>Ja sam ih dobro poznavao, i prije no što ste Vi postali službeno politički aktivni.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivni</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.01</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>75</STARTINDEX>
+    <ENDINDEX>82</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>9802</ID>
+    <SENTENCE>Kemijski piing proizvodi obično sadrže aktivne tvari, kao što su retinol, retinoidi, AHA (alfa - hidroksi kiseline) i glukozamin.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivne</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.03</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>39</STARTINDEX>
+    <ENDINDEX>46</ENDINDEX>
+  </INSTANCE>
+  <INSTANCE>
+    <ID>5243</ID>
+    <SENTENCE>Za provođenja aktivnih mjera zapošljavanja u ovoj će se godini iz proračuna izdvojiti 523,99 milijuna kuna, odlučila je na sjednici u petak Vlada.</SENTENCE>
+    <TARGETLEMMA>aktivan</TARGETLEMMA>
+    <TARGETWORD>aktivnih</TARGETWORD>
+    <TARGETPOS>a</TARGETPOS>
+    <SENSEIDS>
+      <SENSEID>A.001.02</SENSEID>
+    </SENSEIDS>
+    <ISNOTA>false</ISNOTA>
+    <COMMENT />
+    <TIMESSPENT />
+    <STARTINDEX>14</STARTINDEX>
+    <ENDINDEX>22</ENDINDEX>
+  </INSTANCE>
+</SET>
